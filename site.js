@@ -133,16 +133,17 @@
 
   function reportHref(nicheSlug, locale, options) {
     options = options || {};
-    let path = nicheSlug + "/" + locale;
+    const base = "/report/" + nicheSlug + "/" + locale;
 
     if (options.appId) {
-      path += "/app/" + options.appId;
-    } else if (options.period === "week") {
-      path += "/week";
+      return base + "/app/" + encodeURIComponent(options.appId) + "/";
     }
 
-    const base = document.body.classList.contains("report-page") ? "?" : "report/?";
-    return base + "q=" + encodeURIComponent(path);
+    if (options.period === "week") {
+      return base + "/week/";
+    }
+
+    return base + "/";
   }
 
   function dataRoot() {

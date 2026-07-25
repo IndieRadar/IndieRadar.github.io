@@ -1,8 +1,8 @@
 {
   "apps": [
     {
-      "id": "f848c3aa-7ac4-4fd5-95f3-4d80f9782235",
-      "name": "Forest: Focus for Productivity",
+      "id": "9057fbf2-bd9d-47b0-8248-24123e49f911",
+      "name": "Forest - eBike Sharing",
       "number": 1
     },
     {
@@ -11,97 +11,72 @@
       "number": 2
     },
     {
-      "id": "047af16f-3dc9-4984-a35f-d15f01312b95",
-      "name": "Google Keep - Notes and lists",
-      "number": 3
-    },
-    {
-      "id": "43edeeaf-3ccb-44c7-a8e6-3007168c0fc5",
-      "name": "Goodnotes: AI Notes, Docs, PDF",
-      "number": 4
-    },
-    {
       "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
       "name": "Notion: notes, tasks, AI",
-      "number": 5
+      "number": 3
     },
     {
       "id": "81bae47e-3f2e-40c8-b2ba-de0af605196e",
       "name": "Notebook - Notas, Listas, IA",
-      "number": 6
+      "number": 4
+    },
+    {
+      "id": "f848c3aa-7ac4-4fd5-95f3-4d80f9782235",
+      "name": "Forest: Focus for Productivity",
+      "number": 5
     },
     {
       "id": "65d1c29c-1b0d-43b4-bd20-79a8a951596f",
       "name": "Microsoft To Do",
-      "number": 7
+      "number": 6
     },
     {
-      "id": "5f1dacc6-4fa5-4a65-9f4e-378864a43721",
-      "name": "Tiimo: Planejador Diário",
-      "number": 8
+      "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
+      "name": "Tiimo - Daily to-do list",
+      "number": 7
     },
     {
       "id": "5df2eb8c-a19c-428a-a12d-432daaf1e232",
       "name": "Toggl Track - Time Tracking",
-      "number": 9
-    },
-    {
-      "id": "1dc95c27-6b97-4df6-b8c4-1501bd9139bf",
-      "name": "Google Calendar: Get Organised",
-      "number": 10
+      "number": 8
     },
     {
       "id": "24d01c9a-2660-410f-9219-7cc462e83735",
       "name": "Microsoft OneNote: Save Notes",
-      "number": 11
+      "number": 9
     },
     {
-      "id": "acbb1b7c-21e8-4e02-ab8f-48ad1a2af580",
-      "name": "Rotina + Habitos Rastreador",
-      "number": 12
+      "id": "1645377b-6e7b-4982-8a8b-06658488e96c",
+      "name": "Routine Planner, Habit Tracker",
+      "number": 10
     },
     {
       "id": "51caf11b-7967-4d30-8aac-1bc1eb27b40a",
       "name": "TickTick:To-do list,calendário",
-      "number": 13
+      "number": 11
     },
     {
       "id": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
       "name": "Microsoft To Do: Lists & Tasks",
-      "number": 14
+      "number": 12
     },
     {
-      "id": "57a5b05a-3517-4ca6-b72d-c019eca4d741",
-      "name": "Focus To-Do: Focus Timer&Tasks",
-      "number": 15
-    },
-    {
-      "id": "9ca5ba26-5c81-4952-b106-bd24e649cb1e",
-      "name": "Motivation - Daily quotes",
-      "number": 16
+      "id": "1a4d7531-c642-41c1-8d80-dd1c0527d512",
+      "name": "Focus To-Do: Pomodoro & Tâches",
+      "number": 13
     },
     {
       "id": "07682690-aeb7-417d-bf47-cf4f66d31037",
       "name": "Flora - Green Focus",
-      "number": 17
+      "number": 14
     },
     {
       "id": "acbadf71-7202-43c7-ae03-bf0659c35090",
       "name": "Noji – Simple study flashcards",
-      "number": 18
-    },
-    {
-      "id": "d672f975-4af5-4b27-a814-6388b48a60d4",
-      "name": "Terminkalender und Planer",
-      "number": 19
-    },
-    {
-      "id": "b73ccd09-ee48-4764-ac77-4f09d0e7fa84",
-      "name": "Habit Tracker - Hábitos",
-      "number": 20
+      "number": 15
     }
   ],
-  "generatedAt": "2026-07-21T14:06:01.489Z",
+  "generatedAt": "2026-07-25T21:38:15.925Z",
   "locale": "ru",
   "nicheSlug": "productivity"
 }

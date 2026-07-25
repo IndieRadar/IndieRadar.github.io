@@ -4,247 +4,25 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>IndieRadar Report</title>
-  <link rel="stylesheet" href="../site.css">
-  <link rel="stylesheet" href="report.css">
-</head>
-<body class="report-page">
-  <header id="site-header" class="site-header"></header>
-  <div id="niche-tabs" class="site-nav-wrap"></div>
-  <div id="period-nav" class="site-nav-wrap site-nav-wrap-secondary"></div>
-
-  <div class="report-layout">
-    <main class="report-main">
-      <article class="report-card">
-        <div id="status" class="loading">Загрузка…</div>
-        <div id="content" hidden></div>
-      </article>
-    </main>
-  </div>
-
-  <footer class="site-footer">
-    <p>
-      <span data-i18n="footer">Public store data · no sign-up</span>
-      · <a href="https://t.me/IndieRadarBot" data-i18n="telegram">Telegram bot</a>
-    </p>
-  </footer>
-
-  <script src="../site.js"></script>
-  <script src="report-render.js?v=8"></script>
   <script>
     (function () {
-      const site = window.IndieRadarSite;
+      var params = new URLSearchParams(window.location.search);
+      var q = params.get("q");
 
-      function applyCopy(lang) {
-        document.documentElement.lang = lang;
-        document.querySelectorAll("[data-i18n]").forEach(function (node) {
-          const key = node.getAttribute("data-i18n");
-          node.textContent = site.t(lang, key);
-        });
+      if (!q) {
+        window.location.replace("/");
+        return;
       }
 
-      function scrollToHashFragment(behavior) {
-        site.scrollToAnchor(window.location.hash.slice(1), behavior || "smooth");
+      var target = "/report/" + q.replace(/^\/+|\/+$/g, "");
+
+      if (!target.endsWith("/")) {
+        target += "/";
       }
 
-      function bindInPageNavigation(container) {
-        site.bindInPageAnchors(container);
-      }
-
-      function buildDataUrl(params) {
-        const repoRoot = new URL("../data/reports/", window.location.href);
-        let file;
-
-        if (params.app) {
-          file = params.niche + "/" + params.locale + "/app-" + params.app + ".json";
-        } else if (params.period === "week") {
-          file = params.niche + "/" + params.locale + "/weekly.json";
-        } else {
-          file = params.niche + "/" + params.locale + "/daily.json";
-        }
-
-        return new URL(file, repoRoot);
-      }
-
-      async function fetchManifest(niche, locale) {
-        const manifestUrl = buildDataUrl({ niche: niche, locale: locale, app: null, period: null });
-        manifestUrl.pathname = manifestUrl.pathname.replace(/daily\.json$/, "manifest.json");
-
-        const response = await fetch(manifestUrl.toString(), { cache: "no-store" });
-
-        if (!response.ok) {
-          return null;
-        }
-
-        return response.json();
-      }
-
-      async function fetchReportPayload(params) {
-        const primaryUrl = buildDataUrl(params);
-        let response = await fetch(primaryUrl.toString(), { cache: "no-store" });
-
-        if (response.ok) {
-          return response.json();
-        }
-
-        if (params.app && response.status === 404) {
-          const manifest = await fetchManifest(params.niche, params.locale);
-          const entry = manifest && manifest.apps && manifest.apps.find(function (item) {
-            return item.id === params.app;
-          });
-
-          if (entry && entry.number) {
-            const legacyUrl = buildDataUrl(Object.assign({}, params, { app: String(entry.number) }));
-            response = await fetch(legacyUrl.toString(), { cache: "no-store" });
-
-            if (response.ok) {
-              return response.json();
-            }
-          }
-        }
-
-        throw new Error(site.t(params.locale, "reportNotFound"));
-      }
-
-      function rewriteReportLinks(markdown, params) {
-        return markdown.replace(/\[([^\]]+)\]\(([^)]+)\)/g, function (match, label, href) {
-          if (href.startsWith("#")) {
-            return match;
-          }
-
-          try {
-            const url = new URL(href, window.location.href);
-
-            if (url.pathname.endsWith("/report/") || url.pathname.endsWith("/report/index.html")) {
-              const next = new URL(window.location.href);
-              next.search = "";
-
-              const q = url.searchParams.get("q");
-              if (q) {
-                next.searchParams.set("q", q);
-              } else {
-                const app = url.searchParams.get("app");
-                const period = url.searchParams.get("period");
-                const linkNiche = url.searchParams.get("niche") || params.niche;
-                const linkLocale = url.searchParams.get("locale") || params.locale;
-
-                if (app) {
-                  next.searchParams.set("q", linkNiche + "/" + linkLocale + "/app/" + app);
-                } else if (period === "week") {
-                  next.searchParams.set("q", linkNiche + "/" + linkLocale + "/week");
-                } else {
-                  next.searchParams.set("q", linkNiche + "/" + linkLocale);
-                }
-              }
-
-              if (url.hash) {
-                next.hash = url.hash;
-              }
-
-              return "[" + label + "](" + next.toString() + ")";
-            }
-          } catch {
-            return match;
-          }
-
-          return match;
-        });
-      }
-
-      const backToTop = site.mountBackToTop({ lang: site.parseReportQuery().locale });
-
-      function renderChrome(params, lang) {
-        applyCopy(lang);
-        backToTop.setLang(lang);
-
-        site.renderSiteHeader(document.getElementById("site-header"), {
-          homeHref: "../",
-          lang: lang,
-          onLangChange: function (nextLang) {
-            const next = site.parseReportQuery();
-            next.locale = nextLang;
-            const href = site.reportHref(next.niche, nextLang, {
-              appId: next.appId,
-              period: next.period
-            });
-            window.location.href = href + window.location.hash;
-          }
-        });
-
-        site.renderNicheTabs(document.getElementById("niche-tabs"), {
-          activeNiche: params.niche,
-          homeHref: "../",
-          locale: params.locale,
-          period: params.period
-        });
-
-        site.renderPeriodNav(document.getElementById("period-nav"), {
-          appId: params.app,
-          locale: params.locale,
-          niche: params.niche,
-          period: params.period
-        });
-      }
-
-      async function loadReport() {
-        const status = document.getElementById("status");
-        const content = document.getElementById("content");
-        const parsed = site.parseReportQuery();
-        const params = {
-          app: parsed.appId,
-          locale: parsed.locale,
-          niche: parsed.niche,
-          period: parsed.period
-        };
-        const lang = params.locale;
-
-        renderChrome(params, lang);
-
-        status.textContent = site.t(lang, "loading");
-        status.hidden = false;
-        content.hidden = true;
-
-        try {
-          const payload = await fetchReportPayload(params);
-          const markdown = rewriteReportLinks(payload.markdown || "", params);
-          const generatedAt = payload.generatedAt
-            ? site.formatGeneratedAt(payload.generatedAt, params.locale)
-            : "";
-
-          document.title = payload.type === "app"
-            ? (payload.appName || site.t(lang, "appFallback")) + " · IndieRadar"
-            : payload.type === "weekly"
-              ? "IndieRadar · " + params.niche + site.t(lang, "periodWeek")
-              : "IndieRadar · " + params.niche;
-
-          const periodLabel = payload.type === "weekly" ? site.t(lang, "periodWeek") : "";
-
-          status.hidden = true;
-          content.hidden = false;
-          content.innerHTML = [
-            '<div class="meta">' + site.escapeHtml(params.niche) + " · " + site.escapeHtml(params.locale) + periodLabel + (generatedAt ? " · " + site.escapeHtml(generatedAt) : "") + "</div>",
-            markdownToHtml(markdown)
-          ].join("\n");
-          bindInPageNavigation(content);
-          requestAnimationFrame(function () {
-            scrollToHashFragment("instant");
-          });
-        } catch (error) {
-          status.hidden = false;
-          content.hidden = true;
-          const exampleLocale = params.locale === "en" ? "en" : "ru";
-          status.innerHTML =
-            '<div class="error">' + site.escapeHtml(error instanceof Error ? error.message : site.t(lang, "reportLoadError")) +
-            "<br><br>" + site.escapeHtml(site.t(lang, "exampleLabel")) + " <code>?q=" + site.escapeHtml(params.niche) + "/" + site.escapeHtml(exampleLocale) +
-            "</code> " + site.escapeHtml(site.t(lang, "exampleOr")) + " <code>?q=" + site.escapeHtml(params.niche) + "/" + site.escapeHtml(exampleLocale) + "/week</code></div>";
-        }
-      }
-
-      window.addEventListener("hashchange", function () {
-        scrollToHashFragment("smooth");
-      });
-
-      loadReport();
+      window.location.replace(target + window.location.hash);
     })();
   </script>
-</body>
+</head>
+<body></body>
 </html>
