@@ -42,6 +42,7 @@ npm run ops:uninstall-schedule
 ## Notes
 
 - Credentials come from repo `.env` (same as local `npm run dev:crawler`).
-- Pages deploy runs only if `PAGES_DEPLOY_TOKEN` and `PAGES_REPOSITORY` are set; IndieRadar git auto-commit is skipped locally.
+- Pages deploy runs via `gh` (or `PAGES_DEPLOY_TOKEN`) after export; Telegram pulse runs **only after** live Pages verification (`npm run verify:pages`).
+- IndieRadar git auto-commit is skipped locally.
 - Trend backfill stays **manual** (GHA workflow_dispatch or local `npm run crawl:trends-backfill`) — not on the daily schedule.
 - Keep the Mac powered / wake-capable for 03:00; lid-closed is fine if the machine does not deep-sleep (Energy Saver).

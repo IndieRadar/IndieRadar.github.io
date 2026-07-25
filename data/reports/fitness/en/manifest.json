@@ -86,22 +86,22 @@
       "number": 17
     },
     {
+      "id": "5392f3a2-c69f-4e1f-8bfc-b0cab7b9bc8b",
+      "name": "Asana Rebel: Yoga e Fitness",
+      "number": 18
+    },
+    {
       "id": "7f449718-77c9-45d6-a1b2-77a9272bcfd5",
       "name": "FitOn Workouts & Fitness Plans",
-      "number": 18
+      "number": 19
     },
     {
       "id": "45d6985e-059a-48f1-84e0-56b0c12ec01c",
       "name": "Hevy - Treino de Academia Gym",
-      "number": 19
-    },
-    {
-      "id": "6b3e9bc4-0e80-43ea-9c60-9b597fe735ad",
-      "name": "Treino em Casa: Mulher Workout",
       "number": 20
     }
   ],
-  "generatedAt": "2026-07-22T06:11:18.754Z",
+  "generatedAt": "2026-07-25T11:43:31.090Z",
   "locale": "en",
   "nicheSlug": "fitness"
 }

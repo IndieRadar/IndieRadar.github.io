@@ -1,107 +1,107 @@
 {
   "apps": [
     {
-      "id": "6ce74bc8-3316-4693-ac8c-c82d3b0853d8",
-      "name": "Spendee: Orçamento e Gastos",
+      "id": "3584e712-1cf9-4898-878e-d8f54102209e",
+      "name": "slice: UPI credit card & bank",
       "number": 1
     },
     {
-      "id": "43dca600-e3e6-43cc-898d-d71f458145ce",
-      "name": "Money Manager",
+      "id": "6ce74bc8-3316-4693-ac8c-c82d3b0853d8",
+      "name": "Spendee: Orçamento e Gastos",
       "number": 2
+    },
+    {
+      "id": "72c81fb1-8f79-4e25-8064-075c7bf4ef5e",
+      "name": "Bluecoins Finance & Budget",
+      "number": 3
+    },
+    {
+      "id": "3e2248d1-8d1f-48a0-bc99-f248f6810e4c",
+      "name": "Money Manager Expense & Budget",
+      "number": 4
+    },
+    {
+      "id": "58673aab-3ef4-49fd-a7d1-2b08275a4bed",
+      "name": "XTB Online Investing",
+      "number": 5
+    },
+    {
+      "id": "fe79ab33-bea1-4d22-8ee8-0ad384d5f845",
+      "name": "MiniPay: Global Money App",
+      "number": 6
     },
     {
       "id": "f76e2b72-ce8e-40ae-940e-51ebed136aef",
       "name": "Rocket Money - Bills & Budgets",
-      "number": 3
+      "number": 7
+    },
+    {
+      "id": "279b5984-f2a8-487d-b5d5-7005f76a672e",
+      "name": "Yahoo Finance: Stocks & News",
+      "number": 8
     },
     {
       "id": "7818828a-9eaf-4109-9ef5-d8dcc748ee1d",
       "name": "Fidelity Investments",
-      "number": 4
-    },
-    {
-      "id": "3584e712-1cf9-4898-878e-d8f54102209e",
-      "name": "slice: UPI credit card & bank",
-      "number": 5
+      "number": 9
     },
     {
       "id": "1f91fdb4-f7f6-4457-a630-80c0dbb972cf",
       "name": "eToro: obchodujte a investujte",
-      "number": 6
+      "number": 10
     },
     {
       "id": "d05185eb-387d-417a-ba20-d2aef0ff171c",
       "name": "Bloomberg: Finance Market News",
-      "number": 7
+      "number": 11
     },
     {
-      "id": "b3fd8a50-86d3-4765-bd8a-d8f0f1253fa7",
-      "name": "TradingView - Aktier og Krypto",
-      "number": 8
+      "id": "bfcd2111-7b16-4603-9607-188cd84ea663",
+      "name": "TradingView: Aktier och Krypto",
+      "number": 12
     },
     {
-      "id": "790c3a20-674b-41ea-bb92-e4f6e5848a05",
-      "name": "Carteira do Google",
-      "number": 9
+      "id": "d391f361-eed6-433c-95aa-337b0def3884",
+      "name": "Google Wallet",
+      "number": 13
     },
     {
       "id": "410585a9-1914-4b1b-a60f-2b6830a4a486",
       "name": "Klarna: Pagamento inteligente",
-      "number": 10
+      "number": 14
     },
     {
       "id": "c1e28435-4ab1-4517-a348-dec4fea08719",
       "name": "Acorns: Save & Invest Money",
-      "number": 11
+      "number": 15
     },
     {
       "id": "e44c5323-5d6e-4ffc-b443-1d6b3e31202c",
       "name": "Wallet- rozpočty, správa peněz",
-      "number": 12
+      "number": 16
     },
     {
       "id": "f48f5b83-cebd-4240-a8ec-95e35fd699d3",
       "name": "Privat24 – mobile bank",
-      "number": 13
+      "number": 17
     },
     {
       "id": "14c367ef-b832-4926-ae46-55a3e6bf21cf",
       "name": "Investing.com: Bourse & Actus",
-      "number": 14
+      "number": 18
     },
     {
       "id": "c59009c8-5b26-475a-99e1-8151c3342634",
       "name": "Coinbase: Bitcoin & Ether",
-      "number": 15
+      "number": 19
     },
     {
       "id": "c930ebd6-8835-4cfd-91f6-14024ceffba1",
       "name": "SoFi: Bank, Investing & Crypto",
-      "number": 16
-    },
-    {
-      "id": "a3215d9a-27ba-4931-901b-4ffcb4fb778a",
-      "name": "Money Lover Controle de gastos",
-      "number": 17
-    },
-    {
-      "id": "064d4b2e-1f53-40c5-b9d6-c2523c5ce995",
-      "name": "Revolut — Bank i Inwestowanie",
-      "number": 18
-    },
-    {
-      "id": "b4fa159d-c87f-41e5-8169-fef84aa535a0",
-      "name": "Trust: Crypto & Bitcoin Wallet",
-      "number": 19
-    },
-    {
-      "id": "64d6226b-b3f7-48eb-8f6a-50047eb2daec",
-      "name": "Moneybox - Save and Invest",
       "number": 20
     }
   ],
-  "generatedAt": "2026-07-22T06:09:06.996Z",
+  "generatedAt": "2026-07-25T11:40:50.569Z",
   "locale": "ru",
   "nicheSlug": "finance"
 }

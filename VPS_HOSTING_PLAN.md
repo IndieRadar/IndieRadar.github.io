@@ -1,8 +1,8 @@
-# VPS hosting plan (post-beta)
+# VPS hosting plan
 
-**Status (beta):** stay on **GitHub Actions** for nightly crawl, export, Pages deploy, and Telegram push. Interactive bot runs **locally** (`npm run dev:telegram`) or on a developer machine during closed beta.
+**Status (beta):** migrate to a **Linux VPS** for 24/7 bot + reliable nightly pipeline. Mac `launchd` was a cost-saving bridge; see **`docs/VPS_SETUP.md`** for step-by-step migration.
 
-**Trigger to migrate:** more niches, always-on multi-user bot, or GHA minutes consistently over the free 2000/min/month (~$6 per extra 1000 min).
+**Previous (Mac):** `scripts/local-ops/` + launchd at 03:00 Almaty — sensitive to sleep, Supabase timeouts, and duplicate bot processes.
 
 ---
 
