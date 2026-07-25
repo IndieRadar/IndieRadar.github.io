@@ -13,8 +13,6 @@
   <div id="period-nav" class="site-nav-wrap site-nav-wrap-secondary"></div>
 
   <div class="report-layout">
-    <aside id="app-sidebar" class="report-sidebar" aria-label="Apps"></aside>
-
     <main class="report-main">
       <article class="report-card">
         <div id="status" class="loading">Загрузка…</div>
@@ -185,12 +183,6 @@
           niche: params.niche,
           period: params.period
         });
-
-        site.renderAppSidebar(document.getElementById("app-sidebar"), {
-          activeAppId: params.app,
-          locale: params.locale,
-          niche: params.niche
-        });
       }
 
       async function loadReport() {
@@ -213,11 +205,7 @@
 
         try {
           const payload = await fetchReportPayload(params);
-          const markdown = await site.enrichReportMarkdown(
-            rewriteReportLinks(payload.markdown || "", params),
-            params.niche,
-            params.locale
-          );
+          const markdown = rewriteReportLinks(payload.markdown || "", params);
           const generatedAt = payload.generatedAt
             ? site.formatGeneratedAt(payload.generatedAt, params.locale)
             : "";

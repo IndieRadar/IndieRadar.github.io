@@ -242,13 +242,9 @@ a:hover {
 }
 
 .report-layout {
-  max-width: 1180px;
+  max-width: 860px;
   margin: 0 auto;
   padding: 20px 16px 48px;
-  display: grid;
-  grid-template-columns: minmax(220px, 260px) minmax(0, 1fr);
-  gap: 20px;
-  align-items: start;
 }
 
 .report-sidebar {
@@ -321,12 +317,7 @@ a:hover {
 
 @media (max-width: 900px) {
   .report-layout {
-    grid-template-columns: 1fr;
-  }
-
-  .report-sidebar {
-    position: static;
-    max-height: none;
+    padding: 16px 12px 40px;
   }
 }
 

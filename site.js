@@ -339,88 +339,6 @@
     document.addEventListener("click", document._documentAnchorHandler);
   }
 
-  async function enrichReportMarkdown(markdown, niche, locale) {
-    const apps = [];
-    const namesInReport = new Set();
-    const validAnchors = new Set();
-
-    for (const match of markdown.matchAll(/^### (.+?) \{#(review-app-\d+)\}/gm)) {
-      const name = match[1].replace(/\*\*/g, "").trim();
-
-      if (name) {
-        validAnchors.add(match[2]);
-        apps.push({ href: "#" + match[2], name: name });
-        namesInReport.add(name);
-      }
-    }
-
-    const manifestAppsByName = new Map();
-
-    if (niche && locale) {
-      const manifest = await fetchJson(niche + "/" + locale + "/manifest.json");
-
-      if (manifest && manifest.apps) {
-        for (const app of manifest.apps) {
-          manifestAppsByName.set(app.name, app);
-
-          if (!namesInReport.has(app.name)) {
-            apps.push({
-              href: reportHref(niche, locale, { appId: app.id }),
-              name: app.name
-            });
-          }
-        }
-      }
-    }
-
-    if (apps.length === 0 && manifestAppsByName.size === 0) {
-      return markdown;
-    }
-
-    apps.sort(function (a, b) {
-      return b.name.length - a.name.length;
-    });
-
-    function linkifyLine(line) {
-      if (/^#{1,3}\s/.test(line)) {
-        return line;
-      }
-
-      let result = line;
-
-      for (const app of apps) {
-        if (result.includes("[" + app.name + "](")) {
-          continue;
-        }
-
-        const escaped = app.name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-        result = result.replace(new RegExp(escaped, "g"), "[" + app.name + "](" + app.href + ")");
-      }
-
-      return result;
-    }
-
-    let enriched = markdown.split("\n").map(linkifyLine).join("\n");
-
-    if (manifestAppsByName.size > 0) {
-      enriched = enriched.replace(/\[([^\]]+)\]\(#(review-app-\d+)\)/g, function (match, name, anchor) {
-        if (validAnchors.has(anchor)) {
-          return match;
-        }
-
-        const app = manifestAppsByName.get(name.replace(/\*\*/g, "").trim());
-
-        if (!app || !niche || !locale) {
-          return match;
-        }
-
-        return "[" + name + "](" + reportHref(niche, locale, { appId: app.id }) + ")";
-      });
-    }
-
-    return enriched;
-  }
-
   function renderSiteHeader(target, options) {
     options = options || {};
     const lang = options.lang || getLang();
@@ -553,7 +471,6 @@
     renderAppSidebar: renderAppSidebar,
     renderNicheTabs: renderNicheTabs,
     renderPeriodNav: renderPeriodNav,
-    enrichReportMarkdown: enrichReportMarkdown,
     renderSiteHeader: renderSiteHeader,
     reportHref: reportHref,
     scrollToAnchor: scrollToAnchor,
