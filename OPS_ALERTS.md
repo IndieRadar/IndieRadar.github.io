@@ -60,7 +60,7 @@ Rendered as Telegram HTML. **Failed job** / **Failed step** come from the Action
 | `TELEGRAM_OPS_BOT_TOKEN` | GitHub Actions secret + local `.env` | Ops bot token (not product bot) |
 | `TELEGRAM_OPS_ADMIN_CHAT_ID` | GitHub Actions secret + local `.env` | Ops alert recipient |
 | `PAGES_DEPLOY_TOKEN` | GitHub Actions secret | Required for nightly Pages deploy |
-| `PAGES_REPOSITORY` | GitHub Actions secret | Public Pages repo (`owner/IndieRadar-pages`) |
+| `PAGES_REPOSITORY` | GitHub Actions secret | Public Pages repo (`IndieRadar/IndieRadar.github.io`) |
 | `REPORT_PAGES_BASE_URL` | GitHub Actions secret (optional) | Live Pages check URL base |
 | `GITHUB_TOKEN` | Actions default (optional locally) | Fetch failed job names |
 | `GITHUB_WORKFLOW` | Actions / manual | Workflow display name |

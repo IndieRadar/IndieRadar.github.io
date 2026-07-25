@@ -2,10 +2,168 @@
 <html lang="ru">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="refresh" content="0; url=report/?niche=productivity&locale=ru">
-  <title>IndieRadar</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IndieRadar — daily signals from your app market</title>
+  <meta name="description" content="Daily briefs for indie mobile developers: review themes, competitor signals, and full reports for productivity, habits, finance, AI chat, and fitness niches.">
+  <link rel="stylesheet" href="site.css">
 </head>
 <body>
-  <p><a href="report/?niche=productivity&locale=ru">IndieRadar report</a></p>
+  <header id="site-header" class="site-header"></header>
+
+  <main class="hub-main">
+    <section class="hero">
+      <div class="badge" data-i18n="badge">Closed beta</div>
+      <h1 data-i18n="heroTitle">Daily signals from your app market</h1>
+      <p class="lead" data-i18n="heroLead">
+        IndieRadar monitors public App Store and Google Play data in your niche and sends a compact daily brief in Telegram — plus a full report on the web.
+      </p>
+      <div class="cta-row">
+        <a class="button button-primary" href="https://t.me/IndieRadarBot" data-i18n="ctaTelegram">Open Telegram bot</a>
+        <a class="button button-secondary" href="#niches" data-i18n="ctaBrowse">Browse all niches</a>
+      </div>
+      <p class="hero-note" data-i18n="heroNote">Built for solo indie mobile devs. All reports are open on the web — no sign-up.</p>
+    </section>
+
+    <section class="section">
+      <h2 data-i18n="featuresTitle">What you get every day</h2>
+      <p class="section-intro" data-i18n="featuresIntro">Less manual store scrolling. More structured signals you can act on.</p>
+      <div class="feature-grid">
+        <article class="feature-card">
+          <h3 data-i18n="feature1Title">Review themes</h3>
+          <p data-i18n="feature1Body">Clustered pain points and praise from competitor reviews — bugs, pricing, missing features.</p>
+        </article>
+        <article class="feature-card">
+          <h3 data-i18n="feature2Title">Priority signals</h3>
+          <p data-i18n="feature2Body">What changed in the last 24 hours: new apps, updates, and shifts worth noticing.</p>
+        </article>
+        <article class="feature-card">
+          <h3 data-i18n="feature3Title">Full brief on the web</h3>
+          <p data-i18n="feature3Body">Telegram pulse links to a readable report with TOC, weekly view, and per-app drill-down.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" id="niches">
+      <h2 data-i18n="allNiches">All niches</h2>
+      <p class="section-intro" data-i18n="browseIntro">Open daily, weekly, and per-app reports — no subscription or login.</p>
+      <nav id="niche-anchors" class="niche-anchor-nav" hidden></nav>
+      <div id="hub-grid" class="hub-grid">
+        <p class="hub-loading" data-i18n="loading">Loading…</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2 data-i18n="howTitle">How it works</h2>
+      <ol class="steps">
+        <li data-i18n="step1">Open @IndieRadarBot and choose language + niche.</li>
+        <li data-i18n="step2">Get a daily compact brief in Telegram when something meaningful changed.</li>
+        <li data-i18n="step3">Follow links to the full report — daily, weekly, or per-app themes.</li>
+      </ol>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      <span data-i18n="footer">Public store data · no sign-up</span>
+      · <a href="https://t.me/IndieRadarBot" data-i18n="telegram">Telegram bot</a>
+    </p>
+  </footer>
+
+  <script src="site.js"></script>
+  <script>
+    (function () {
+      const site = window.IndieRadarSite;
+
+      function applyCopy(lang) {
+        document.documentElement.lang = lang;
+        document.querySelectorAll("[data-i18n]").forEach(function (node) {
+          const key = node.getAttribute("data-i18n");
+          node.textContent = site.t(lang, key);
+        });
+      }
+
+      function renderHub(lang) {
+        applyCopy(lang);
+        const grid = document.getElementById("hub-grid");
+        grid.innerHTML = '<p class="hub-loading">' + site.escapeHtml(site.t(lang, "loading")) + "</p>";
+
+        Promise.all(site.NICHES.map(function (niche) {
+          return site.fetchNicheBundle(niche.slug, lang).then(function (bundle) {
+            return { niche, bundle };
+          });
+        })).then(function (rows) {
+          const anchors = document.getElementById("niche-anchors");
+
+          if (anchors) {
+            anchors.hidden = false;
+            anchors.innerHTML =
+              '<div class="niche-anchor-links" role="navigation" aria-label="' + site.escapeHtml(site.t(lang, "nicheAnchorsAria")) + '">' +
+              rows.map(function (row) {
+                return '<a href="#' + site.nicheAnchorId(row.niche.slug) + '">' + site.escapeHtml(site.nicheLabel(row.niche, lang)) + "</a>";
+              }).join("") +
+              "</div>";
+          }
+
+          grid.innerHTML = rows.map(function (row) {
+            const apps = (row.bundle.manifest && row.bundle.manifest.apps) || [];
+            const updated = site.formatGeneratedAt(row.bundle.daily && row.bundle.daily.generatedAt, lang);
+            const appLinks = apps.slice(0, 12).map(function (app) {
+              const href = site.reportHref(row.niche.slug, lang, { appId: app.id });
+              return '<li><a href="' + href + '">' + site.escapeHtml(app.name) + "</a></li>";
+            }).join("");
+
+            const moreCount = Math.max(0, apps.length - 12);
+
+            return (
+              '<article class="hub-card" id="' + site.escapeHtml(site.nicheAnchorId(row.niche.slug)) + '">' +
+              '<div class="hub-card-head">' +
+              "<h2>" + site.escapeHtml(site.nicheLabel(row.niche, lang)) + "</h2>" +
+              '<p class="hub-updated">' + site.escapeHtml(site.t(lang, "updated")) + ": " + site.escapeHtml(updated) + "</p>" +
+              "</div>" +
+              '<div class="hub-card-actions">' +
+              '<a class="button button-primary" href="' + site.reportHref(row.niche.slug, lang) + '">' + site.escapeHtml(site.t(lang, "openDaily")) + "</a>" +
+              '<a class="button button-secondary" href="' + site.reportHref(row.niche.slug, lang, { period: "week" }) + '">' + site.escapeHtml(site.t(lang, "openWeekly")) + "</a>" +
+              "</div>" +
+              (apps.length
+                ? '<div class="hub-apps"><div class="hub-apps-title">' + site.escapeHtml(site.t(lang, "apps")) + "</div><ul>" + appLinks +
+                  (moreCount ? '<li class="hub-more"><a href="' + site.reportHref(row.niche.slug, lang) + '">+' + moreCount + "</a></li>" : "") +
+                  "</ul></div>"
+                : "") +
+              "</article>"
+            );
+          }).join("");
+
+          if (window.location.hash) {
+            requestAnimationFrame(function () {
+              site.scrollToAnchor(window.location.hash.slice(1), "instant");
+            });
+          }
+        }).catch(function () {
+          grid.innerHTML = '<p class="hub-error">' + site.escapeHtml(site.t(lang, "loadError")) + "</p>";
+        });
+      }
+
+      function mountHeader(lang) {
+        site.renderSiteHeader(document.getElementById("site-header"), {
+          homeHref: "./",
+          lang: lang,
+          onLangChange: function (nextLang) {
+            mountHeader(nextLang);
+            renderHub(nextLang);
+            backToTop.setLang(nextLang);
+          }
+        });
+      }
+
+      const backToTop = site.mountBackToTop({ lang: site.getLang() });
+      mountHeader(site.getLang());
+      renderHub(site.getLang());
+      site.bindDocumentAnchors();
+
+      window.addEventListener("hashchange", function () {
+        site.scrollToAnchor(window.location.hash.slice(1), "smooth");
+      });
+    })();
+  </script>
 </body>
 </html>

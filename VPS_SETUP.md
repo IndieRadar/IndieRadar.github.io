@@ -55,7 +55,7 @@ VPS
 └── indieradar-weekly-rollup.timer    ← Sun 09:30
 ```
 
-GitHub Pages **stay public** — VPS rsyncs `docs/` → `IndieRadar-pages` repo.
+GitHub Pages **stay public** — VPS rsyncs `docs/` → `IndieRadar/IndieRadar.github.io` org repo.
 
 GitHub Actions **keep:** typecheck CI, ops alerts on workflow failures, manual `workflow_dispatch` only. Daily crawl schedule **disabled** (already).
 
@@ -109,7 +109,7 @@ Copy secrets from your Mac `.env` / GitHub Actions:
 | `TELEGRAM_OPS_BOT_TOKEN`, `TELEGRAM_OPS_ADMIN_CHAT_ID` | Failure alerts |
 | `TELEGRAM_BETA_*` | Beta gate |
 | `GITHUB_PAGES_BASE_URL` | Report links |
-| `PAGES_REPOSITORY` | e.g. `ivanplat1/IndieRadar-pages` |
+| `PAGES_REPOSITORY` | e.g. `IndieRadar/IndieRadar.github.io` |
 
 **Pages deploy** (pick one):
 
@@ -131,7 +131,7 @@ npm run verify:pipeline
 
 Check:
 
-- [IndieRadar Pages](https://ivanplat1.github.io/IndieRadar-pages/report/?q=productivity/ru) — fresh `generatedAt`
+- [IndieRadar Pages](https://indieradar.github.io/report/?q=productivity/ru) — fresh `generatedAt`
 - @IndieRadarBot — `/report` works
 - @indieRadarAlertBot — no alert on success
 

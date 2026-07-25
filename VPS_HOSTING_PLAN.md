@@ -26,7 +26,7 @@ Static GitHub Pages **stay** after migration — only the **build/deploy pipelin
 | Telegram bot | `systemd`, 24/7 | Long polling (`npm run dev:telegram`) |
 | Store crawl | cron | Same schedule: 03:00 Asia/Almaty = `0 22 * * *` UTC |
 | Export Pages JSON | after crawl | `npm run export:pages -- <niche> <locale>` for each niche/locale |
-| Deploy `IndieRadar-pages` | after export | `rsync` + git push with `PAGES_DEPLOY_TOKEN` |
+| Deploy `IndieRadar.github.io` | after export | `rsync` + git push with `PAGES_DEPLOY_TOKEN` |
 | Nightly Telegram push | after deploy | `npm run push:telegram` |
 | Weekly rollup + push | Sunday cron | `trend-weekly-rollup` + `npm run push:telegram:weekly` |
 
@@ -39,7 +39,7 @@ Static GitHub Pages **stay** after migration — only the **build/deploy pipelin
 - **2 vCPU / 2 GB RAM** (Hetzner CX22, DO Basic ~$6/mo, etc.)
 - Ubuntu 22/04 or 24/04, Node 22, git, rsync
 - Secrets in `/opt/indieradar/.env` (never commit)
-- PAT with write access to public `IndieRadar-pages` repo only
+- PAT with write access to public `IndieRadar/IndieRadar.github.io` repo only
 
 Bot idle RAM ~50–100 MB; crawl uses CPU/RAM for ~1 hour/night.
 
@@ -62,7 +62,7 @@ for niche in "${NICHES[@]}"; do
     npm run export:pages -- "$niche" "$locale"
   done
 done
-# Deploy to IndieRadar-pages (clone + rsync + commit + push)
+# Deploy to IndieRadar.github.io (clone + rsync + commit + push)
 npm run push:telegram
 ```
 

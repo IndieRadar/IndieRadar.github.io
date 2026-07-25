@@ -2,38 +2,76 @@
 
 The main repository is **private**, so GitHub Pages cannot be enabled on it with a free plan.
 
-Use a separate **public** repository for static report pages only (no secrets in that repo).
+Use a separate **public** repository under the **IndieRadar** GitHub organization for static report pages only (no secrets in that repo).
 
 ## One-time setup
 
-1. Create a public repo, e.g. `IndieRadar-pages` (empty, no README required).
+### 1. Create the GitHub organization
 
-2. Enable Pages on that repo:
-   - **Settings → Pages → Build and deployment → Deploy from branch**
-   - Branch: `main`, folder: `/ (root)`
+1. Open [Create a new organization](https://github.com/account/organizations/new) (Free plan).
+2. Organization account name: **`IndieRadar`** (URL becomes `https://indieradar.github.io/…`).
+3. You stay logged in as your personal account; the org is a container for public Pages only.
 
-3. Create a fine-grained PAT (or classic token) with **Contents: Read and write** on `IndieRadar-pages` only.
+Or run the migration helper (creates the Pages repo after the org exists):
 
-4. Add secrets to **IndieRadar** (private repo):
-   - `PAGES_REPOSITORY` = `ivanplat1/IndieRadar-pages`
-   - `PAGES_DEPLOY_TOKEN` = fine-grained PAT with **Contents: Read and write** on `IndieRadar-pages`
-   - Optional `REPORT_PAGES_BASE_URL` = `https://ivanplat1.github.io/IndieRadar-pages/report` (override; GitHub **rejects** secret names starting with `GITHUB_`)
+```bash
+npm run migrate:pages-org
+```
 
-   Nightly crawl workflows already default `GITHUB_PAGES_BASE_URL` to the URL above. Set it in local `.env` for the Telegram bot.
+### 2. Create the Pages repository
 
-5. Run workflow **Deploy Report Pages** (Actions tab) or push changes under `docs/`.
+Special org repo name (served at the org root domain):
 
-The deploy job uses `git rsync` (not JamesIves action) and skips gracefully if secrets are missing.
+- **`IndieRadar/IndieRadar.github.io`** — public, empty, branch `main`
+
+Enable Pages:
+
+- **Settings → Pages → Build and deployment → Deploy from branch**
+- Branch: `main`, folder: `/ (root)`
+
+### 3. Deploy token
+
+Create a fine-grained PAT (or classic token) with **Contents: Read and write** on `IndieRadar/IndieRadar.github.io` only.
+
+### 4. Secrets on **ivanplat1/IndieRadar** (private repo)
+
+| Secret | Value |
+|---|---|
+| `PAGES_REPOSITORY` | `IndieRadar/IndieRadar.github.io` |
+| `PAGES_DEPLOY_TOKEN` | PAT with write access to the org Pages repo |
+| `REPORT_PAGES_BASE_URL` (optional) | `https://indieradar.github.io/report` |
+
+GitHub **rejects** secret names starting with `GITHUB_`; workflows map `REPORT_PAGES_BASE_URL` → `GITHUB_PAGES_BASE_URL`.
+
+Set in local `.env` / VPS for the Telegram bot and nightly ops:
+
+```bash
+GITHUB_PAGES_BASE_URL=https://indieradar.github.io/report
+PAGES_REPOSITORY=IndieRadar/IndieRadar.github.io
+```
+
+### 5. Deploy
+
+Run workflow **Deploy Report Pages** (Actions tab), local nightly, or VPS `ops:nightly`.
+
+The deploy job rsyncs `docs/` into the public Pages repo and pushes `main`.
 
 ## URLs
 
-- Daily brief: `https://ivanplat1.github.io/IndieRadar-pages/report/?q=productivity/ru`
-- Weekly brief: `https://ivanplat1.github.io/IndieRadar-pages/report/?q=productivity/ru/week`
-- App themes: `https://ivanplat1.github.io/IndieRadar-pages/report/?q=productivity/ru/app/<canonical_app_id>`
+- Daily brief: `https://indieradar.github.io/report/?q=productivity/ru`
+- Weekly brief: `https://indieradar.github.io/report/?q=productivity/ru/week`
+- App themes: `https://indieradar.github.io/report/?q=productivity/ru/app/<canonical_app_id>`
 
 Legacy `?niche=&locale=&app=&period=` links still work in the viewer.
 
 App links use a stable `canonical_app_id` (not rank position), so Telegram links stay correct when the priority order changes.
+
+## Migrating from personal Pages (`ivanplat1/IndieRadar-pages`)
+
+1. Create org + repo as above.
+2. Run `npm run migrate:pages-org` — copies existing Pages content and updates GitHub secrets.
+3. Update `.env` on Mac/VPS with the new `GITHUB_PAGES_BASE_URL`.
+4. Optional: archive `ivanplat1/IndieRadar-pages` after the new URL is live.
 
 ## Local export
 

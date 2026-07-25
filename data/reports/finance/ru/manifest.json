@@ -74,34 +74,9 @@
       "id": "c1e28435-4ab1-4517-a348-dec4fea08719",
       "name": "Acorns: Save & Invest Money",
       "number": 15
-    },
-    {
-      "id": "e44c5323-5d6e-4ffc-b443-1d6b3e31202c",
-      "name": "Wallet- rozpočty, správa peněz",
-      "number": 16
-    },
-    {
-      "id": "f48f5b83-cebd-4240-a8ec-95e35fd699d3",
-      "name": "Privat24 – mobile bank",
-      "number": 17
-    },
-    {
-      "id": "14c367ef-b832-4926-ae46-55a3e6bf21cf",
-      "name": "Investing.com: Bourse & Actus",
-      "number": 18
-    },
-    {
-      "id": "c59009c8-5b26-475a-99e1-8151c3342634",
-      "name": "Coinbase: Bitcoin & Ether",
-      "number": 19
-    },
-    {
-      "id": "c930ebd6-8835-4cfd-91f6-14024ceffba1",
-      "name": "SoFi: Bank, Investing & Crypto",
-      "number": 20
     }
   ],
-  "generatedAt": "2026-07-25T11:40:50.569Z",
+  "generatedAt": "2026-07-25T21:29:06.977Z",
   "locale": "ru",
   "nicheSlug": "finance"
 }

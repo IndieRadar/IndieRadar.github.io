@@ -1,0 +1,151 @@
+.report-card h1 {
+  margin: 0 0 14px;
+  font-size: 1.55rem;
+  line-height: 1.25;
+  font-weight: 700;
+}
+
+.report-card h2 {
+  margin: 32px 0 14px;
+  padding-bottom: 8px;
+  font-size: 1.08rem;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  border-bottom: 1px solid var(--border);
+  scroll-margin-top: 120px;
+}
+
+.report-card h3 {
+  margin: 24px 0 10px;
+  font-size: 1rem;
+  font-weight: 700;
+  scroll-margin-top: 120px;
+}
+
+.report-card h3.app-review-heading {
+  margin: 20px 0 12px;
+  font-size: 1.06rem;
+  color: var(--text);
+}
+
+.report-card hr.app-divider {
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: 32px 0 4px;
+}
+
+.report-card hr.app-divider + h3.app-review-heading {
+  margin-top: 0;
+}
+
+.report-card h2#toc + ul,
+.report-card h2#toc + p + ul,
+.report-card h2#toc ~ ul:first-of-type {
+  margin-top: 0;
+}
+
+.report-card ul:first-of-type a {
+  font-weight: 500;
+}
+
+.report-card p {
+  margin: 0 0 10px;
+  white-space: pre-wrap;
+}
+
+.report-card em {
+  font-style: italic;
+}
+
+.report-card strong {
+  font-weight: 700;
+}
+
+.report-card code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.92em;
+  background: rgba(127, 127, 127, 0.12);
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+}
+
+.report-card ul,
+.report-card ol {
+  margin: 0 0 14px;
+  padding-left: 1.35rem;
+}
+
+.report-card li {
+  margin-bottom: 10px;
+}
+
+.report-card li.indent-1,
+.report-card p.indent-1 {
+  margin-left: 0.75rem;
+}
+
+.report-card li.indent-2,
+.report-card p.indent-2 {
+  margin-left: 1.5rem;
+  color: var(--muted);
+}
+
+.report-card p.indent-3,
+.report-card li.indent-3 {
+  margin-left: 2.25rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.report-card p.indent-4,
+.report-card li.indent-4 {
+  margin-left: 3rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.report-card p.note-label {
+  margin-top: 12px;
+  margin-bottom: 6px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.report-card p.note-label.indent-3 {
+  margin-left: 2.25rem;
+  font-size: 0.92rem;
+  color: var(--muted);
+}
+
+.report-card p.review-quote {
+  margin: 8px 0 8px 3rem;
+  padding: 10px 12px;
+  border-left: 3px solid var(--link);
+  background: color-mix(in srgb, var(--accent) 70%, var(--card));
+  border-radius: 0 10px 10px 0;
+  font-size: 0.95rem;
+}
+
+.report-card .meta {
+  color: var(--muted);
+  font-size: 0.875rem;
+  margin-bottom: 18px;
+}
+
+.report-card .error {
+  color: #b91c1c;
+  padding: 12px 14px;
+  border: 1px solid color-mix(in srgb, #b91c1c 35%, var(--border));
+  border-radius: 12px;
+  background: color-mix(in srgb, #b91c1c 8%, var(--card));
+}
+
+@media (prefers-color-scheme: dark) {
+  .report-card .error {
+    color: #f87171;
+  }
+}
+
+.report-card .loading {
+  color: var(--muted);
+}
