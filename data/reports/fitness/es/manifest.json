@@ -56,27 +56,27 @@
       "number": 11
     },
     {
+      "id": "8c96733f-429a-4412-8617-dfce9931e307",
+      "name": "MyFitnessPal: Calorie Counter",
+      "number": 12
+    },
+    {
+      "id": "42324b34-d2f1-458a-b3b4-21ae8a0f43a1",
+      "name": "Lasta: Twój coach wellness",
+      "number": 13
+    },
+    {
       "id": "a582ff11-b311-438b-95cc-22bf9b122351",
       "name": "Muscle Booster - Trainingsplan",
-      "number": 12
+      "number": 14
     },
     {
       "id": "3f6410d0-f9be-4fcf-838f-60e88b003201",
       "name": "Gymverse: Gym Workout Planner",
-      "number": 13
-    },
-    {
-      "id": "d2981e85-bf81-4f07-a8de-1bf0993dd233",
-      "name": "Basic-Fit",
-      "number": 14
-    },
-    {
-      "id": "2a35db8f-6036-45f1-acd3-448892b8a965",
-      "name": "LADDER Strength Training Plans",
       "number": 15
     }
   ],
-  "generatedAt": "2026-07-26T16:49:05.768Z",
+  "generatedAt": "2026-07-26T17:14:05.830Z",
   "locale": "es",
   "nicheSlug": "fitness"
 }
