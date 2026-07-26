@@ -1,10 +1,10 @@
 (function () {
   const NICHES = [
-    { slug: "productivity", label: { ru: "Productivity", en: "Productivity" } },
-    { slug: "habit-tracker", label: { ru: "Habit trackers", en: "Habit trackers" } },
-    { slug: "finance", label: { ru: "Finance", en: "Finance" } },
-    { slug: "ai-chat", label: { ru: "AI chat", en: "AI chat" } },
-    { slug: "fitness", label: { ru: "Fitness", en: "Fitness" } }
+    { slug: "productivity", label: { ru: "Продуктивность", en: "Productivity" } },
+    { slug: "habit-tracker", label: { ru: "Трекер привычек", en: "Habit Tracker" } },
+    { slug: "finance", label: { ru: "Финансы", en: "Finance" } },
+    { slug: "ai-chat", label: { ru: "AI-чат", en: "AI Chat" } },
+    { slug: "fitness", label: { ru: "Фитнес", en: "Fitness" } }
   ];
 
   const COPY = {
