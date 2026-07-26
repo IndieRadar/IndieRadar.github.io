@@ -4,11 +4,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Atoms - from Atomic Habits · IndieRadar</title>
-  <link rel="stylesheet" href="../../../../../site.css?v=2">
+  <link rel="stylesheet" href="../../../../../site.css?v=3">
   <link rel="stylesheet" href="../../../../../report/report.css">
   <script>
     (function () {
-      var match = location.pathname.match(/^\/report\/[^/]+\/(ru|en)(?:\/|$)/);
+      var match = location.pathname.match(/\/(ru|en)(?:\/(?:week|app(?:\/[^/]+)?)?)?\/?$/);
       if (!match) return;
       try { localStorage.setItem("indieradar.lang", match[1]); } catch (e) {}
       document.documentElement.lang = match[1];
@@ -21,6 +21,7 @@
       <a class="logo" href="/">Indie<span>Radar</span></a>
       <div class="site-header-actions">
         <span class="site-tagline">Public daily briefs for App Store and Google Play niches</span>
+        <div class="lang-switch" role="group" aria-label="Language"><a class="lang-switch-link" href="/report/habit-tracker/ru/" hreflang="ru">RU</a><a class="lang-switch-link" href="/report/habit-tracker/en/" hreflang="en" aria-current="page">EN</a></div>
       </div>
     </div>
   </header>
@@ -54,7 +55,7 @@
   <footer class="site-footer">
     <p>Public store data · no sign-up · <a href="https://t.me/IndieRadarBot">Telegram bot</a></p>
   </footer>
-  <script src="../../../../../site.js?v=4"></script>
+  <script src="../../../../../site.js?v=5"></script>
   <script>
     (function () {
       var site = window.IndieRadarSite;

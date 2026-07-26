@@ -495,7 +495,7 @@
 
     const header = document.querySelector(".site-header");
 
-    if (header) {
+    if (header && !header.querySelector(".lang-switch")) {
       renderSiteHeader(header, {
         homeHref: "/?lang=" + route.locale,
         lang: route.locale,
