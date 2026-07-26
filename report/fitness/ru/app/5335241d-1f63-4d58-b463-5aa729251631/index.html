@@ -6,6 +6,14 @@
   <title>Fitbod: Rutinas Personalizadas · IndieRadar</title>
   <link rel="stylesheet" href="../../../../../site.css?v=2">
   <link rel="stylesheet" href="../../../../../report/report.css">
+  <script>
+    (function () {
+      var match = location.pathname.match(/^\/report\/[^/]+\/(ru|en)(?:\/|$)/);
+      if (!match) return;
+      try { localStorage.setItem("indieradar.lang", match[1]); } catch (e) {}
+      document.documentElement.lang = match[1];
+    })();
+  </script>
 </head>
 <body class="report-page">
   <header class="site-header">
@@ -16,7 +24,7 @@
       </div>
     </div>
   </header>
-  <div class="site-nav-wrap"><nav class="niche-tabs" aria-label="Все ниши"><a class="niche-tab niche-tab-home" href="/">Все ниши</a><a class="niche-tab" href="/report/productivity/ru/">Продуктивность</a><a class="niche-tab" href="/report/habit-tracker/ru/">Трекер привычек</a><a class="niche-tab" href="/report/finance/ru/">Финансы</a><a class="niche-tab" href="/report/ai-chat/ru/">AI-чат</a><a class="niche-tab is-active" href="/report/fitness/ru/">Фитнес</a></nav></div>
+  <div class="site-nav-wrap"><nav class="niche-tabs" aria-label="Все ниши"><a class="niche-tab niche-tab-home" href="/?lang=ru">Все ниши</a><a class="niche-tab" href="/report/productivity/ru/">Продуктивность</a><a class="niche-tab" href="/report/habit-tracker/ru/">Трекер привычек</a><a class="niche-tab" href="/report/finance/ru/">Финансы</a><a class="niche-tab" href="/report/ai-chat/ru/">AI-чат</a><a class="niche-tab is-active" href="/report/fitness/ru/">Фитнес</a></nav></div>
   <div class="site-nav-wrap site-nav-wrap-secondary"><nav class="period-nav" aria-label="Ежедневная"><a class="period-link is-active" href="/report/fitness/ru/">Ежедневная</a><a class="period-link" href="/report/fitness/ru/week/">Еженедельная</a></nav></div>
   <div class="report-layout">
     <main class="report-main">
@@ -46,12 +54,15 @@
   <footer class="site-footer">
     <p>Публичные данные из стора · без регистрации · <a href="https://t.me/IndieRadarBot">Telegram-бот</a></p>
   </footer>
-  <script src="../../../../../site.js"></script>
+  <script src="../../../../../site.js?v=4"></script>
   <script>
     (function () {
       var site = window.IndieRadarSite;
+      if (!site) return;
+      if (site.bindReportNavLocaleGuard) site.bindReportNavLocaleGuard();
+      if (site.syncLangFromReportPath) site.syncLangFromReportPath();
       var content = document.getElementById("content");
-      var route = site.mountReportChrome();
+      var route = site.mountReportChrome ? site.mountReportChrome() : null;
       site.mountBackToTop({ lang: route ? route.locale : "ru" });
       site.bindInPageAnchors(content);
       if (location.hash) {

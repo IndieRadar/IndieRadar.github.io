@@ -178,6 +178,61 @@
     });
   }
 
+  function getReportLocale() {
+    const route = parseReportPath();
+
+    if (route) {
+      return route.locale;
+    }
+
+    return getLang();
+  }
+
+  function fixReportNavHref(href, locale) {
+    if (!href || href.charAt(0) !== "/" || href.indexOf("/report/") !== 0) {
+      return href;
+    }
+
+    return href.replace(/^(\/report\/[^/]+\/)(ru|en)(?=\/|$)/, "$1" + locale);
+  }
+
+  function syncLangFromReportPath() {
+    const route = parseReportPath();
+
+    if (!route) {
+      return null;
+    }
+
+    setLang(route.locale);
+    document.documentElement.lang = route.locale;
+    return route;
+  }
+
+  function bindReportNavLocaleGuard() {
+    if (document._reportNavLocaleGuard) {
+      return;
+    }
+
+    document._reportNavLocaleGuard = true;
+
+    document.addEventListener("click", function (event) {
+      const link = event.target.closest("a.niche-tab, a.period-link");
+
+      if (!link) {
+        return;
+      }
+
+      const href = link.getAttribute("href");
+      const locale = getReportLocale();
+      const fixed = fixReportNavHref(href, locale);
+
+      if (fixed && fixed !== href) {
+        event.preventDefault();
+        window.location.href = fixed;
+      }
+    });
+  }
+
   function parseReportPath(pathname) {
     pathname = pathname || window.location.pathname;
     const match = pathname.match(/^\/report\/([^/]+)\/(ru|en)(?:\/(week|app\/([^/]+)))?\/?$/);
@@ -376,10 +431,10 @@
   }
 
   function renderNicheTabs(target, options) {
-    const lang = options.locale || getLang();
+    const locale = options.locale || getReportLocale();
+    const lang = locale;
     const activeNiche = options.activeNiche;
-    const locale = options.locale;
-    const homeHref = options.homeHref || "./";
+    const homeHref = options.homeHref || ("/?lang=" + locale);
 
     const tabs = NICHES.map(function (niche) {
       const active = niche.slug === activeNiche ? " is-active" : "";
@@ -395,7 +450,8 @@
   }
 
   function renderPeriodNav(target, options) {
-    const lang = options.locale || getLang();
+    const locale = options.locale || getReportLocale();
+    const lang = locale;
     const dailyActive = !options.appId && options.period !== "week" ? " is-active" : "";
     const weeklyActive = !options.appId && options.period === "week" ? " is-active" : "";
 
@@ -430,20 +486,18 @@
   }
 
   function mountReportChrome() {
-    const route = parseReportPath();
+    bindReportNavLocaleGuard();
+    const route = syncLangFromReportPath();
 
     if (!route) {
       return null;
     }
 
-    setLang(route.locale);
-    document.documentElement.lang = route.locale;
-
     const header = document.querySelector(".site-header");
 
     if (header) {
       renderSiteHeader(header, {
-        homeHref: "/",
+        homeHref: "/?lang=" + route.locale,
         lang: route.locale,
         onLangChange: function (nextLang) {
           if (nextLang !== "ru" && nextLang !== "en") {
@@ -467,7 +521,7 @@
     if (navWraps[0]) {
       renderNicheTabs(navWraps[0], {
         activeNiche: route.niche,
-        homeHref: "/",
+        homeHref: "/?lang=" + route.locale,
         locale: route.locale,
         period: route.period
       });
@@ -530,11 +584,13 @@
     NICHES: NICHES,
     bindDocumentAnchors: bindDocumentAnchors,
     bindInPageAnchors: bindInPageAnchors,
+    bindReportNavLocaleGuard: bindReportNavLocaleGuard,
     escapeHtml: escapeHtml,
     fetchJson: fetchJson,
     fetchNicheBundle: fetchNicheBundle,
     formatGeneratedAt: formatGeneratedAt,
     getLang: getLang,
+    getReportLocale: getReportLocale,
     mountReportChrome: mountReportChrome,
     mountBackToTop: mountBackToTop,
     mountLangSwitch: mountLangSwitch,
@@ -549,6 +605,7 @@
     reportHref: reportHref,
     scrollToAnchor: scrollToAnchor,
     setLang: setLang,
+    syncLangFromReportPath: syncLangFromReportPath,
     t: t
   };
 })();
