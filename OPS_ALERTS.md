@@ -23,7 +23,7 @@ Previously some pipeline steps could succeed while delivery was broken (Pages sk
 | Check | When | Fails if |
 |---|---|---|
 | Pages deploy required | after export | `PAGES_DEPLOY_TOKEN` / `PAGES_REPOSITORY` missing, or no git diff to push |
-| Local exports fresh | after deploy + push | any `docs/data/reports/{niche}/{locale}/daily.json` missing or `generatedAt` older than 6h |
+| Local exports fresh | after deploy + push | any `docs/data/reports/{niche}/{locale}/daily.json` missing or `generatedAt` older than 6h (locales from `REPORT_LOCALES`, default `ru,en,es,de,fr`) |
 | Live Pages fresh | after deploy + push | public `daily.json` missing, stale, or unreachable (retries up to ~3 min) |
 | Signal health | after deploy + push | any beta niche has &lt; 1 signal in 48h, or latest crawl created 0 review signals |
 | Telegram push | push step | any recipient send failed |

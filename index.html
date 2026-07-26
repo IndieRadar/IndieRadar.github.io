@@ -77,8 +77,9 @@
       function initialLang() {
         const params = new URLSearchParams(window.location.search);
         const fromQuery = params.get("lang");
+        const supported = ["ru", "en", "es", "de", "fr"];
 
-        if (fromQuery === "ru" || fromQuery === "en") {
+        if (supported.indexOf(fromQuery) !== -1) {
           site.setLang(fromQuery);
           return fromQuery;
         }

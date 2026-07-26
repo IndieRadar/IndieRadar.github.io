@@ -120,7 +120,7 @@ type DeliveryMessageType = "daily_pulse" | "weekly_summary" | "full_brief";
 type DeliveryPayload = {
   type: DeliveryMessageType;
   nicheSlug: string;
-  locale: "ru" | "en";
+  locale: "ru" | "en" | "es" | "de" | "fr";
   subject: string;
   shortText: string;
   fullText?: string;

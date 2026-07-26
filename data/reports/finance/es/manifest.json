@@ -1,0 +1,82 @@
+{
+  "apps": [
+    {
+      "id": "3584e712-1cf9-4898-878e-d8f54102209e",
+      "name": "slice: UPI credit card & bank",
+      "number": 1
+    },
+    {
+      "id": "6ce74bc8-3316-4693-ac8c-c82d3b0853d8",
+      "name": "Spendee: Orçamento e Gastos",
+      "number": 2
+    },
+    {
+      "id": "1a0f3927-478c-4901-80c7-b545aa14c190",
+      "name": "Bluecoins - finance, rozpočet",
+      "number": 3
+    },
+    {
+      "id": "3e2248d1-8d1f-48a0-bc99-f248f6810e4c",
+      "name": "Money Manager Expense & Budget",
+      "number": 4
+    },
+    {
+      "id": "58673aab-3ef4-49fd-a7d1-2b08275a4bed",
+      "name": "XTB Online Investing",
+      "number": 5
+    },
+    {
+      "id": "fe79ab33-bea1-4d22-8ee8-0ad384d5f845",
+      "name": "MiniPay: Global Money App",
+      "number": 6
+    },
+    {
+      "id": "f76e2b72-ce8e-40ae-940e-51ebed136aef",
+      "name": "Rocket Money - Bills & Budgets",
+      "number": 7
+    },
+    {
+      "id": "279b5984-f2a8-487d-b5d5-7005f76a672e",
+      "name": "Yahoo Finance: Stocks & News",
+      "number": 8
+    },
+    {
+      "id": "7818828a-9eaf-4109-9ef5-d8dcc748ee1d",
+      "name": "Fidelity Investments",
+      "number": 9
+    },
+    {
+      "id": "1f91fdb4-f7f6-4457-a630-80c0dbb972cf",
+      "name": "eToro: obchodujte a investujte",
+      "number": 10
+    },
+    {
+      "id": "d05185eb-387d-417a-ba20-d2aef0ff171c",
+      "name": "Bloomberg: Finance Market News",
+      "number": 11
+    },
+    {
+      "id": "bfcd2111-7b16-4603-9607-188cd84ea663",
+      "name": "TradingView: Aktier och Krypto",
+      "number": 12
+    },
+    {
+      "id": "68e9aa0b-13e7-4779-abb0-bd6646f1702d",
+      "name": "Peněženka Google",
+      "number": 13
+    },
+    {
+      "id": "410585a9-1914-4b1b-a60f-2b6830a4a486",
+      "name": "Klarna: Pagamento inteligente",
+      "number": 14
+    },
+    {
+      "id": "c1e28435-4ab1-4517-a348-dec4fea08719",
+      "name": "Acorns: Save & Invest Money",
+      "number": 15
+    }
+  ],
+  "generatedAt": "2026-07-26T16:44:56.979Z",
+  "locale": "es",
+  "nicheSlug": "finance"
+}

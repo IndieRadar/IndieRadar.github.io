@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Google Gemini · IndieRadar</title>
+  <link rel="stylesheet" href="../../../../../site.css?v=3">
+  <link rel="stylesheet" href="../../../../../report/report.css">
+  <script>
+    (function () {
+      var match = location.pathname.match(/\/(ru|en|es|de|fr)(?:\/(?:week|app(?:\/[^/]+)?)?)?\/?$/);
+      if (!match) return;
+      try { localStorage.setItem("indieradar.lang", match[1]); } catch (e) {}
+      document.documentElement.lang = match[1];
+    })();
+  </script>
+</head>
+<body class="report-page">
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="logo" href="/">Indie<span>Radar</span></a>
+      <div class="site-header-actions">
+        <span class="site-tagline">Öffentliche Tagesbriefs zu App-Store- und Google-Play-Nischen</span>
+        <div class="lang-switch" role="group" aria-label="Sprache"><a class="lang-switch-link" href="/report/ai-chat/ru/app/38892494-507e-4f20-9cc4-cf995d9d673a/" hreflang="ru">RU</a><a class="lang-switch-link" href="/report/ai-chat/en/app/38892494-507e-4f20-9cc4-cf995d9d673a/" hreflang="en">EN</a><a class="lang-switch-link" href="/report/ai-chat/es/app/38892494-507e-4f20-9cc4-cf995d9d673a/" hreflang="es">ES</a><a class="lang-switch-link" href="/report/ai-chat/de/app/38892494-507e-4f20-9cc4-cf995d9d673a/" hreflang="de" aria-current="page">DE</a><a class="lang-switch-link" href="/report/ai-chat/fr/app/38892494-507e-4f20-9cc4-cf995d9d673a/" hreflang="fr">FR</a></div>
+      </div>
+    </div>
+  </header>
+  <div class="site-nav-wrap"><nav class="niche-tabs" aria-label="Alle Nischen"><a class="niche-tab niche-tab-home" href="/?lang=de">Alle Nischen</a><a class="niche-tab" href="/report/productivity/de/">Produktivität</a><a class="niche-tab" href="/report/habit-tracker/de/">Gewohnheiten</a><a class="niche-tab" href="/report/finance/de/">Finanzen</a><a class="niche-tab is-active" href="/report/ai-chat/de/">KI-Chat</a><a class="niche-tab" href="/report/fitness/de/">Fitness</a></nav></div>
+  <div class="site-nav-wrap site-nav-wrap-secondary"><nav class="period-nav" aria-label="Täglich"><a class="period-link is-active" href="/report/ai-chat/de/">Täglich</a><a class="period-link" href="/report/ai-chat/de/week/">Wöchentlich</a></nav></div>
+  <div class="report-layout">
+    <main class="report-main">
+      <article class="report-card">
+        <div class="meta">ai-chat · de · 26.07.2026, 21:47</div>
+        <div id="content"><h1 id="google-gemini-ai-chat">Google Gemini · AI Chat</h1>
+<p>Erstellt: 26.07.2026, 21:47</p>
+<h2 id="toc"><strong>Inhalt</strong></h2>
+<ul><li class="indent-0"><a href="#theme-bugs_stability">Bugs and stability</a></li></ul>
+<h2 id="theme-bugs_stability"><strong>Bugs and stability</strong></h2>
+<p class="indent-1"><strong>Bugs and stability.</strong></p>
+<p class="indent-2">3 aktuelle Review(s) erwähnen bugs and stability.</p>
+<p class="indent-2">Review-Fenster: 25.05.2026 - 18.07.2026</p>
+<p class="indent-2"><strong>Warum das zählt:</strong> Nutzer melden Zuverlässigkeitsprobleme. Das zeigt Qualitätslücken, die Wettbewerber nutzen können.</p>
+<p class="note-label indent-3"><strong>Review-Beispiele:</strong></p>
+<ol><li class="indent-4"><em>sopnel</em>, 18.07.2026, 1/5: &quot;Manchmal funktioniert diese Anwendung nicht, wenn ich sie öffne, aber keine Reaktion erfolgt, als wäre sie völlig eingefroren&quot;</li><li class="indent-4"><em>Ati7889</em>, 05.06.2026, 1/5: &quot;Das neue Update enthält viele Fehler. Ich kann nichts eingeben und die Anwendung funktioniert überhaupt nicht.&quot;</li><li class="indent-4"><em>nicolasmartbg</em>, 25.05.2026, 1/5: &quot;Die Neugestaltung von Liquid Glass sieht zwar schöner aus, ist jedoch funktionell mangelhaft. Die Seitenleiste wird STÄNDIG aus Versehen geöffnet, das hatte ich noch nie zuvor. Das Schlimmste von allem ist, dass Sie versehentlich auf einen anderen Chat geklickt haben und WAS SIE IN DAS TEXTFELD EINGEGEBEN HABEN, VERSCHWINGT!! Es ist so unglaublich frustrierend, das kaputte Gestensystem hat mich dazu gebracht, Absätze neu zu schreiben, ich hasse dieses Update&quot;</li></ol></div>
+      </article>
+    </main>
+  </div>
+  <footer class="site-footer">
+    <p>Öffentliche Store-Daten · ohne Registrierung · <a href="https://t.me/IndieRadarBot">Telegram-Bot</a></p>
+  </footer>
+  <script src="../../../../../site.js?v=5"></script>
+  <script>
+    (function () {
+      var site = window.IndieRadarSite;
+      if (!site) return;
+      if (site.bindReportNavLocaleGuard) site.bindReportNavLocaleGuard();
+      if (site.syncLangFromReportPath) site.syncLangFromReportPath();
+      var content = document.getElementById("content");
+      var route = site.mountReportChrome ? site.mountReportChrome() : null;
+      site.mountBackToTop({ lang: route ? route.locale : "de" });
+      site.bindInPageAnchors(content);
+      if (location.hash) {
+        requestAnimationFrame(function () {
+          site.scrollToAnchor(location.hash.slice(1), "instant");
+        });
+      }
+      window.addEventListener("hashchange", function () {
+        site.scrollToAnchor(location.hash.slice(1), "smooth");
+      });
+    })();
+  </script>
+</body>
+</html>

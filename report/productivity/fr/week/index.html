@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IndieRadar · productivity · semaine</title>
+  <link rel="stylesheet" href="../../../../site.css?v=3">
+  <link rel="stylesheet" href="../../../../report/report.css">
+  <script>
+    (function () {
+      var match = location.pathname.match(/\/(ru|en|es|de|fr)(?:\/(?:week|app(?:\/[^/]+)?)?)?\/?$/);
+      if (!match) return;
+      try { localStorage.setItem("indieradar.lang", match[1]); } catch (e) {}
+      document.documentElement.lang = match[1];
+    })();
+  </script>
+</head>
+<body class="report-page">
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="logo" href="/">Indie<span>Radar</span></a>
+      <div class="site-header-actions">
+        <span class="site-tagline">Briefings quotidiens publics pour les niches App Store et Google Play</span>
+        <div class="lang-switch" role="group" aria-label="Langue"><a class="lang-switch-link" href="/report/productivity/ru/week/" hreflang="ru">RU</a><a class="lang-switch-link" href="/report/productivity/en/week/" hreflang="en">EN</a><a class="lang-switch-link" href="/report/productivity/es/week/" hreflang="es">ES</a><a class="lang-switch-link" href="/report/productivity/de/week/" hreflang="de">DE</a><a class="lang-switch-link" href="/report/productivity/fr/week/" hreflang="fr" aria-current="page">FR</a></div>
+      </div>
+    </div>
+  </header>
+  <div class="site-nav-wrap"><nav class="niche-tabs" aria-label="Toutes les niches"><a class="niche-tab niche-tab-home" href="/?lang=fr">Toutes les niches</a><a class="niche-tab is-active" href="/report/productivity/fr/week/">Productivité</a><a class="niche-tab" href="/report/habit-tracker/fr/week/">Habitudes</a><a class="niche-tab" href="/report/finance/fr/week/">Finance</a><a class="niche-tab" href="/report/ai-chat/fr/week/">Chat IA</a><a class="niche-tab" href="/report/fitness/fr/week/">Fitness</a></nav></div>
+  <div class="site-nav-wrap site-nav-wrap-secondary"><nav class="period-nav" aria-label="Quotidien"><a class="period-link" href="/report/productivity/fr/">Quotidien</a><a class="period-link is-active" href="/report/productivity/fr/week/">Hebdomadaire</a></nav></div>
+  <div class="report-layout">
+    <main class="report-main">
+      <article class="report-card">
+        <div class="meta">productivity · fr · semaine · 26 juil. 2026, 21:10</div>
+        <div id="content"><h1 id="weekly-productivity-20-26-jul-2026">📅 Weekly · Productivity · 20–26 Jul 2026</h1>
+<p>Généré : 26 juil. 2026, 21:10</p>
+<h2 id="bilan-de-la-semaine"><strong>Bilan de la semaine</strong></h2>
+<ul><li class="indent-0">Thèmes d'avis : 15 thèmes, 71 avis</li><li class="indent-0">Mises à jour : 0</li><li class="indent-0">Nouvelles apps dans le scan : 0</li></ul>
+<h2 id="tendances-de-la-semaine"><strong>Tendances de la semaine</strong></h2>
+<ol><li class="indent-0">Forest - eBike Sharing — bugs and stability (14 avis)</li><li class="indent-0">Notebook - Notas, Listas, IA — bugs and stability (6 avis)</li><li class="indent-0">Microsoft To Do — bugs and stability (5 avis)</li><li class="indent-0">Opal: Screen Time Control — bugs and stability (11 avis)</li><li class="indent-0">Toggl Track - Time Tracking — bugs and stability (4 avis)</li><li class="indent-0">Microsoft OneNote: Save Notes — bugs and stability (3 avis)</li><li class="indent-0">Routine Planner, Habit Tracker — bugs and stability (3 avis)</li></ol>
+<h2 id="nouveau-cette-semaine"><strong>Nouveau cette semaine</strong></h2>
+<ul><li class="indent-0">Forest - eBike Sharing — bugs and stability, nouveau signal : 14 avis</li><li class="indent-0">Notebook - Notas, Listas, IA — bugs and stability, nouveau signal : 6 avis</li><li class="indent-0">Microsoft To Do — bugs and stability, nouveau signal : 5 avis</li><li class="indent-0">Toggl Track - Time Tracking — bugs and stability, nouveau signal : 4 avis</li><li class="indent-0">Microsoft OneNote: Save Notes — bugs and stability, nouveau signal : 3 avis</li><li class="indent-0">Routine Planner, Habit Tracker — bugs and stability, nouveau signal : 3 avis</li><li class="indent-0">TickTick:To-do list,calendário — bugs and stability, nouveau signal : 3 avis</li><li class="indent-0">Microsoft To Do: Lists &amp; Tasks — bugs and stability, nouveau signal : 3 avis</li></ul>
+<h2 id="renforce"><strong>Renforcé</strong></h2>
+<p>Aucun thème renforcé par reviewCountDelta cette semaine.</p>
+<h2 id="mises-a-jour"><strong>Mises à jour</strong></h2>
+<p>Aucune mise à jour d'app enregistrée cette semaine.</p>
+<h2 id="actions-pour-la-semaine-prochaine"><strong>Actions pour la semaine prochaine</strong></h2>
+<ol><li class="indent-0">Valider fiabilité comme différenciation : examiner Forest - eBike Sharing, Notebook - Notas, Listas, IA, Microsoft To Do et écrire 3 hypothèses produit concrètes.</li></ol></div>
+      </article>
+    </main>
+  </div>
+  <footer class="site-footer">
+    <p>Données publiques des stores · sans inscription · <a href="https://t.me/IndieRadarBot">Bot Telegram</a></p>
+  </footer>
+  <script src="../../../../site.js?v=5"></script>
+  <script>
+    (function () {
+      var site = window.IndieRadarSite;
+      if (!site) return;
+      if (site.bindReportNavLocaleGuard) site.bindReportNavLocaleGuard();
+      if (site.syncLangFromReportPath) site.syncLangFromReportPath();
+      var content = document.getElementById("content");
+      var route = site.mountReportChrome ? site.mountReportChrome() : null;
+      site.mountBackToTop({ lang: route ? route.locale : "fr" });
+      site.bindInPageAnchors(content);
+      if (location.hash) {
+        requestAnimationFrame(function () {
+          site.scrollToAnchor(location.hash.slice(1), "instant");
+        });
+      }
+      window.addEventListener("hashchange", function () {
+        site.scrollToAnchor(location.hash.slice(1), "smooth");
+      });
+    })();
+  </script>
+</body>
+</html>

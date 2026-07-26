@@ -36,52 +36,47 @@
       "number": 7
     },
     {
-      "id": "e6ca2685-eccb-4af9-8d34-838c2a9df0ba",
-      "name": "PolyBuzz: Chat with AI Friends",
+      "id": "941d561a-92e1-49fa-b163-475e811235ad",
+      "name": "PolyBuzz: Fale com Amigos IA",
       "number": 8
-    },
-    {
-      "id": "44db455f-eed1-43e9-a333-1b0ef7b7e78b",
-      "name": "Dola: Smart AI Assistant",
-      "number": 9
     },
     {
       "id": "38892494-507e-4f20-9cc4-cf995d9d673a",
       "name": "Google Gemini",
-      "number": 10
+      "number": 9
     },
     {
       "id": "b769559f-c6f8-4c73-a196-e754eef626db",
       "name": "PolyBuzz: Chat with Characters",
-      "number": 11
+      "number": 10
     },
     {
       "id": "e7d1fa91-f8d9-4c4b-bc5a-5acbdbc0673a",
       "name": "Character AI: Chat, Talk, Text",
-      "number": 12
+      "number": 11
     },
     {
       "id": "1c366a3e-1f1a-4843-a233-ff2be07c39b0",
       "name": "Emochi: Chat With Character",
-      "number": 13
+      "number": 12
     },
     {
       "id": "3543de91-2f39-49ae-9ca9-577fe6d23e2b",
       "name": "Replika: My AI Friend",
-      "number": 14
+      "number": 13
     },
     {
       "id": "6542adaf-1e9f-424e-9f0e-a951fe8b52c9",
       "name": "Janitor AI - Official App",
-      "number": 15
+      "number": 14
     },
     {
-      "id": "59c1f768-6a4e-418e-bcf7-763d3621f440",
-      "name": "AI Chatbot in het Nederlands",
-      "number": 16
+      "id": "cab6efe0-36e1-4d29-9179-eaeeaafc5e42",
+      "name": "Microsoft 365 Copilot",
+      "number": 15
     }
   ],
-  "generatedAt": "2026-07-25T21:42:26.711Z",
+  "generatedAt": "2026-07-26T16:46:26.383Z",
   "locale": "en",
   "nicheSlug": "ai-chat"
 }

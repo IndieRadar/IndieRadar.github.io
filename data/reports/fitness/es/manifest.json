@@ -1,0 +1,82 @@
+{
+  "apps": [
+    {
+      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
+      "name": "MyFitnessPal: Diário alimentar",
+      "number": 1
+    },
+    {
+      "id": "b4e34cde-bb68-4683-84b9-7f91d1a965a5",
+      "name": "Strava: corrida, pedal, trilha",
+      "number": 2
+    },
+    {
+      "id": "2167752e-b197-4dfd-94cd-6ee73317cf56",
+      "name": "BetterMe: Health Coaching",
+      "number": 3
+    },
+    {
+      "id": "3782fa66-473d-4f67-8dae-95b256541645",
+      "name": "Strava: corre, camina, pedalea",
+      "number": 4
+    },
+    {
+      "id": "f51fc2b2-71ef-4b1b-9297-ebe3f5b17705",
+      "name": "Lose It! – Calorie Counter",
+      "number": 5
+    },
+    {
+      "id": "5335241d-1f63-4d58-b463-5aa729251631",
+      "name": "Fitbod: Rutinas Personalizadas",
+      "number": 6
+    },
+    {
+      "id": "1d82d8b4-820a-4932-82a9-8f2c89cac564",
+      "name": "Runna: Allenamento Corsa",
+      "number": 7
+    },
+    {
+      "id": "7ea5e767-595b-4e20-8544-40dcd5a8dada",
+      "name": "Yazio: Contador de calorias",
+      "number": 8
+    },
+    {
+      "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
+      "name": "Fitness App (ABC Trainerize)",
+      "number": 9
+    },
+    {
+      "id": "8acfa937-07d3-455d-9429-e93cc6d70462",
+      "name": "Jillian Michaels | Fitness App",
+      "number": 10
+    },
+    {
+      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
+      "name": "Fitbod Workout & Gym Planner",
+      "number": 11
+    },
+    {
+      "id": "a582ff11-b311-438b-95cc-22bf9b122351",
+      "name": "Muscle Booster - Trainingsplan",
+      "number": 12
+    },
+    {
+      "id": "3f6410d0-f9be-4fcf-838f-60e88b003201",
+      "name": "Gymverse: Gym Workout Planner",
+      "number": 13
+    },
+    {
+      "id": "d2981e85-bf81-4f07-a8de-1bf0993dd233",
+      "name": "Basic-Fit",
+      "number": 14
+    },
+    {
+      "id": "2a35db8f-6036-45f1-acd3-448892b8a965",
+      "name": "LADDER Strength Training Plans",
+      "number": 15
+    }
+  ],
+  "generatedAt": "2026-07-26T16:49:05.768Z",
+  "locale": "es",
+  "nicheSlug": "fitness"
+}

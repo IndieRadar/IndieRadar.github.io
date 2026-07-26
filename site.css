@@ -411,11 +411,20 @@ a:hover {
 
 .lang-switch {
   display: flex;
-  gap: 4px;
-  padding: 4px;
+  flex-wrap: nowrap;
+  gap: 2px;
+  padding: 3px;
   background: var(--bg-soft);
   border: 1px solid var(--border);
   border-radius: 999px;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+.lang-switch::-webkit-scrollbar {
+  display: none;
 }
 
 .lang-switch button,
@@ -423,16 +432,18 @@ a:hover {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  flex: 0 0 auto;
   border: 0;
   background: transparent;
   color: var(--muted);
   font: inherit;
-  font-size: 0.85rem;
+  font-size: 0.78rem;
   font-weight: 600;
-  padding: 6px 12px;
+  padding: 5px 8px;
   border-radius: 999px;
   cursor: pointer;
   text-decoration: none;
+  min-width: 2.1rem;
 }
 
 .lang-switch button[aria-pressed="true"],

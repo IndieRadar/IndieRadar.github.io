@@ -1,11 +1,13 @@
 (function () {
   const NICHES = [
-    { slug: "productivity", label: { ru: "Продуктивность", en: "Productivity" } },
-    { slug: "habit-tracker", label: { ru: "Трекер привычек", en: "Habit Tracker" } },
-    { slug: "finance", label: { ru: "Финансы", en: "Finance" } },
-    { slug: "ai-chat", label: { ru: "AI-чат", en: "AI Chat" } },
-    { slug: "fitness", label: { ru: "Фитнес", en: "Fitness" } }
+    { slug: "productivity", label: { ru: "Продуктивность", en: "Productivity", es: "Productividad", de: "Produktivität", fr: "Productivité" } },
+    { slug: "habit-tracker", label: { ru: "Трекер привычек", en: "Habit Tracker", es: "Hábitos", de: "Gewohnheiten", fr: "Habitudes" } },
+    { slug: "finance", label: { ru: "Финансы", en: "Finance", es: "Finanzas", de: "Finanzen", fr: "Finance" } },
+    { slug: "ai-chat", label: { ru: "AI-чат", en: "AI Chat", es: "Chat IA", de: "KI-Chat", fr: "Chat IA" } },
+    { slug: "fitness", label: { ru: "Фитнес", en: "Fitness", es: "Fitness", de: "Fitness", fr: "Fitness" } }
   ];
+  const SUPPORTED_LANGS = ["ru", "en", "es", "de", "fr"];
+  const DATE_TAGS = { ru: "ru-RU", en: "en-US", es: "es-ES", de: "de-DE", fr: "fr-FR" };
 
   const COPY = {
     ru: {
@@ -97,22 +99,168 @@
       periodNavAria: "Report period",
       nicheAnchorsAria: "Jump to niche",
       backToTop: "Back to top"
+    },
+    es: {
+      badge: "Beta cerrada",
+      heroTitle: "Señales diarias del mercado de apps",
+      heroLead: "IndieRadar sigue datos públicos de App Store y Google Play en tu nicho y envía un briefing diario compacto en Telegram — más el informe completo en la web.",
+      ctaTelegram: "Abrir bot de Telegram",
+      ctaBrowse: "Ver todos los nichos",
+      heroNote: "Para indie developers de apps móviles. Todos los informes están abiertos en la web sin registro — y un briefing diario en Telegram.",
+      featuresTitle: "Qué llega cada día",
+      featuresIntro: "Menos monitoreo manual de stores. Más señales estructuradas en las que apoyarte.",
+      feature1Title: "Temas de reseñas",
+      feature1Body: "Quejas y elogios en reseñas de competidores: bugs, precio, funciones que faltan.",
+      feature2Title: "Señales prioritarias",
+      feature2Body: "Qué cambió en 24 horas: apps nuevas, actualizaciones y cambios notables.",
+      feature3Title: "Informe completo en la web",
+      feature3Body: "El pulso de Telegram lleva a un informe legible con índice, vista semanal y detalle por app.",
+      browseIntro: "Abre briefings diarios, semanales y fichas de apps — sin suscripción ni login.",
+      howTitle: "Cómo funciona",
+      step1: "Abre @IndieRadarBot y elige idioma y nicho — o mira los informes en la web ahora mismo.",
+      step2: "Recibe un briefing diario compacto en Telegram cuando haya cambios relevantes.",
+      step3: "Sigue los enlaces al informe completo — diario, semanal o por app.",
+      tagline: "Briefings diarios públicos de nichos en App Store y Google Play",
+      allNiches: "Todos los nichos",
+      openDaily: "Briefing diario",
+      openWeekly: "Briefing semanal",
+      apps: "Apps",
+      updated: "Actualizado",
+      loading: "Cargando…",
+      home: "Todos los nichos",
+      daily: "Diaria",
+      weekly: "Semanal",
+      noApps: "Lista de apps vacía",
+      footer: "Datos públicos de las stores · sin registro",
+      telegram: "Bot de Telegram",
+      loadError: "No se pudieron cargar los nichos.",
+      reportLoadError: "No se pudo cargar el informe.",
+      reportNotFound: "No se encontraron datos del informe.",
+      exampleLabel: "Ejemplo:",
+      exampleOr: "o",
+      periodWeek: " · semana",
+      appFallback: "App",
+      languageAria: "Idioma",
+      periodNavAria: "Periodo del informe",
+      nicheAnchorsAria: "Ir al nicho",
+      backToTop: "Arriba"
+    },
+    de: {
+      badge: "Geschlossene Beta",
+      heroTitle: "Tägliche Signale aus dem App-Markt",
+      heroLead: "IndieRadar beobachtet öffentliche App-Store- und Google-Play-Daten in deiner Nische und sendet einen kompakten Tagesbrief in Telegram — plus den vollständigen Report im Web.",
+      ctaTelegram: "Telegram-Bot öffnen",
+      ctaBrowse: "Alle Nischen ansehen",
+      heroNote: "Für Solo-Indie-Mobile-Devs. Alle Reports sind ohne Registrierung offen im Web — plus täglicher Brief in Telegram.",
+      featuresTitle: "Was du jeden Tag bekommst",
+      featuresIntro: "Weniger manuelles Store-Scrolling. Mehr strukturierte Signale, auf die du reagieren kannst.",
+      feature1Title: "Review-Themen",
+      feature1Body: "Gebündelte Pain Points und Lob aus Konkurrenz-Reviews — Bugs, Pricing, fehlende Features.",
+      feature2Title: "Prioritätssignale",
+      feature2Body: "Was sich in 24 Stunden geändert hat: neue Apps, Updates und spürbare Verschiebungen.",
+      feature3Title: "Vollständiger Brief im Web",
+      feature3Body: "Der Telegram-Pulse führt zu einem lesbaren Report mit Inhaltsverzeichnis, Wochenblick und App-Drill-down.",
+      browseIntro: "Öffne tägliche, wöchentliche und App-Reports — ohne Abo oder Login.",
+      howTitle: "So funktioniert's",
+      step1: "Öffne @IndieRadarBot und wähle Sprache + Nische — oder sieh dir Reports sofort im Web an.",
+      step2: "Erhalte einen kompakten Tagesbrief in Telegram, wenn sich etwas Relevantes ändert.",
+      step3: "Folge Links zum vollständigen Report — täglich, wöchentlich oder pro App.",
+      tagline: "Öffentliche Tagesbriefs zu App-Store- und Google-Play-Nischen",
+      allNiches: "Alle Nischen",
+      openDaily: "Tagesbrief",
+      openWeekly: "Wochenbrief",
+      apps: "Apps",
+      updated: "Aktualisiert",
+      loading: "Laden…",
+      home: "Alle Nischen",
+      daily: "Täglich",
+      weekly: "Wöchentlich",
+      noApps: "Keine exportierten Apps",
+      footer: "Öffentliche Store-Daten · ohne Registrierung",
+      telegram: "Telegram-Bot",
+      loadError: "Nischen konnten nicht geladen werden.",
+      reportLoadError: "Report konnte nicht geladen werden.",
+      reportNotFound: "Reportdaten nicht gefunden.",
+      exampleLabel: "Beispiel:",
+      exampleOr: "oder",
+      periodWeek: " · Woche",
+      appFallback: "App",
+      languageAria: "Sprache",
+      periodNavAria: "Report-Zeitraum",
+      nicheAnchorsAria: "Zur Nische springen",
+      backToTop: "Nach oben"
+    },
+    fr: {
+      badge: "Beta fermée",
+      heroTitle: "Signaux quotidiens du marché des apps",
+      heroLead: "IndieRadar surveille les données publiques App Store et Google Play dans votre niche et envoie un briefing quotidien compact dans Telegram — plus le rapport complet sur le web.",
+      ctaTelegram: "Ouvrir le bot Telegram",
+      ctaBrowse: "Voir toutes les niches",
+      heroNote: "Pour les indie developers mobiles. Tous les rapports sont ouverts sur le web sans inscription — plus un briefing quotidien dans Telegram.",
+      featuresTitle: "Ce que vous recevez chaque jour",
+      featuresIntro: "Moins de monitoring manuel des stores. Plus de signaux structurés pour agir.",
+      feature1Title: "Thèmes des avis",
+      feature1Body: "Points de douleur et éloges regroupés dans les avis concurrents — bugs, prix, fonctions manquantes.",
+      feature2Title: "Signaux prioritaires",
+      feature2Body: "Ce qui a changé en 24 heures : nouvelles apps, mises à jour et mouvements notables.",
+      feature3Title: "Briefing complet sur le web",
+      feature3Body: "Le pulse Telegram mène à un rapport lisible avec sommaire, vue hebdo et détail par app.",
+      browseIntro: "Ouvrez les briefings quotidiens, hebdomadaires et les fiches apps — sans abonnement ni login.",
+      howTitle: "Comment ça marche",
+      step1: "Ouvrez @IndieRadarBot et choisissez langue + niche — ou parcourez les rapports sur le web tout de suite.",
+      step2: "Recevez un briefing quotidien compact dans Telegram quand quelque chose d'important change.",
+      step3: "Suivez les liens vers le rapport complet — quotidien, hebdomadaire ou par app.",
+      tagline: "Briefings quotidiens publics pour les niches App Store et Google Play",
+      allNiches: "Toutes les niches",
+      openDaily: "Briefing quotidien",
+      openWeekly: "Briefing hebdomadaire",
+      apps: "Apps",
+      updated: "Mis à jour",
+      loading: "Chargement…",
+      home: "Toutes les niches",
+      daily: "Quotidien",
+      weekly: "Hebdomadaire",
+      noApps: "Aucune app exportée",
+      footer: "Données publiques des stores · sans inscription",
+      telegram: "Bot Telegram",
+      loadError: "Impossible de charger les niches.",
+      reportLoadError: "Impossible de charger le rapport.",
+      reportNotFound: "Données du rapport introuvables.",
+      exampleLabel: "Exemple :",
+      exampleOr: "ou",
+      periodWeek: " · semaine",
+      appFallback: "App",
+      languageAria: "Langue",
+      periodNavAria: "Période du rapport",
+      nicheAnchorsAria: "Aller à la niche",
+      backToTop: "Haut de page"
     }
   };
 
   const LANG_KEY = "indieradar.lang";
 
+  function isSupportedLang(lang) {
+    return SUPPORTED_LANGS.indexOf(lang) !== -1;
+  }
+
+  function detectBrowserLang() {
+    const code = (navigator.language || "").toLowerCase().split("-")[0];
+    if (code === "ru" || code === "be" || code === "kk" || code === "ky" || code === "uz") return "ru";
+    if (code === "de" || code === "fr" || code === "es") return code;
+    return "en";
+  }
+
   function getLang() {
     try {
       const saved = localStorage.getItem(LANG_KEY);
-      if (saved === "ru" || saved === "en") {
+      if (isSupportedLang(saved)) {
         return saved;
       }
     } catch {
       // ignore
     }
 
-    return (navigator.language || "").toLowerCase().startsWith("ru") ? "ru" : "en";
+    return detectBrowserLang();
   }
 
   function setLang(lang) {
@@ -172,7 +320,7 @@
       return "—";
     }
 
-    return new Date(value).toLocaleString(locale === "ru" ? "ru-RU" : "en-US", {
+    return new Date(value).toLocaleString(DATE_TAGS[locale] || DATE_TAGS.en, {
       dateStyle: "medium",
       timeStyle: "short"
     });
@@ -193,7 +341,7 @@
       return href;
     }
 
-    return href.replace(/^(\/report\/[^/]+\/)(ru|en)(?=\/|$)/, "$1" + locale);
+    return href.replace(/^(\/report\/[^/]+\/)(ru|en|es|de|fr)(?=\/|$)/, "$1" + locale);
   }
 
   function syncLangFromReportPath() {
@@ -235,7 +383,7 @@
 
   function parseReportPath(pathname) {
     pathname = pathname || window.location.pathname;
-    const match = pathname.match(/^\/report\/([^/]+)\/(ru|en)(?:\/(week|app\/([^/]+)))?\/?$/);
+    const match = pathname.match(/^\/report\/([^/]+)\/(ru|en|es|de|fr)(?:\/(week|app\/([^/]+)))?\/?$/);
 
     if (!match) {
       return null;
@@ -257,7 +405,7 @@
     if (q) {
       const parts = q.split("/").filter(Boolean);
       const niche = parts[0] || "productivity";
-      const locale = parts[1] === "ru" || parts[1] === "en" ? parts[1] : "ru";
+      const locale = isSupportedLang(parts[1]) ? parts[1] : "ru";
 
       if (parts[2] === "week") {
         return { appId: null, locale, niche, period: "week" };
@@ -272,7 +420,7 @@
 
     return {
       appId: params.get("app"),
-      locale: params.get("locale") === "en" ? "en" : "ru",
+      locale: isSupportedLang(params.get("locale")) ? params.get("locale") : "ru",
       niche: params.get("niche") || "productivity",
       period: params.get("period") === "week" ? "week" : null
     };
@@ -280,16 +428,19 @@
 
   function mountLangSwitch(container, onChange, lang) {
     lang = lang || getLang();
+    const buttons = SUPPORTED_LANGS.map(function (code) {
+      return '<button type="button" data-lang="' + code + '" aria-pressed="' + (lang === code) + '">' + code.toUpperCase() + "</button>";
+    }).join("");
+
     container.innerHTML =
       '<div class="lang-switch" role="group" aria-label="' + escapeHtml(t(lang, "languageAria")) + '">' +
-      '<button type="button" data-lang="ru" aria-pressed="' + (lang === "ru") + '">RU</button>' +
-      '<button type="button" data-lang="en" aria-pressed="' + (lang === "en") + '">EN</button>' +
+      buttons +
       "</div>";
 
     container.querySelectorAll("[data-lang]").forEach(function (button) {
       button.addEventListener("click", function () {
         const next = button.getAttribute("data-lang");
-        if (next === "ru" || next === "en") {
+        if (isSupportedLang(next)) {
           setLang(next);
           onChange(next);
         }
@@ -500,7 +651,7 @@
         homeHref: "/?lang=" + route.locale,
         lang: route.locale,
         onLangChange: function (nextLang) {
-          if (nextLang !== "ru" && nextLang !== "en") {
+          if (!isSupportedLang(nextLang)) {
             return;
           }
 

@@ -11,8 +11,8 @@
       "number": 2
     },
     {
-      "id": "72c81fb1-8f79-4e25-8064-075c7bf4ef5e",
-      "name": "Bluecoins Finance & Budget",
+      "id": "1a0f3927-478c-4901-80c7-b545aa14c190",
+      "name": "Bluecoins - finance, rozpočet",
       "number": 3
     },
     {
@@ -61,8 +61,8 @@
       "number": 12
     },
     {
-      "id": "d391f361-eed6-433c-95aa-337b0def3884",
-      "name": "Google Wallet",
+      "id": "68e9aa0b-13e7-4779-abb0-bd6646f1702d",
+      "name": "Peněženka Google",
       "number": 13
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-07-25T21:41:20.473Z",
+  "generatedAt": "2026-07-26T16:44:41.526Z",
   "locale": "en",
   "nicheSlug": "finance"
 }

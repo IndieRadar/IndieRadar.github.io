@@ -21,7 +21,7 @@ No webhook, VPS, or Cloudflare required for evaluation.
 
 - Single admin user: `TELEGRAM_BOT_TOKEN` + `TELEGRAM_ADMIN_CHAT_ID`
 - Ignore messages from other `chat_id`
-- Commands: `/start`, `/niches`, `/report <niche> [ru|en]`
+- Commands: `/start`, `/niches`, `/report <niche> [ru|en|es|de|fr]`
 - Report generation via existing `buildDailyReport()`
 - Split long reports for Telegram 4096 char limit
 - Shared `sendReportToTelegram()` for bot and GitHub Actions
@@ -160,7 +160,7 @@ When evaluation is positive, extend using `docs/REPORT_DELIVERY_MODEL.md`:
 
 Scope v0.5:
 - TELEGRAM_BOT_TOKEN + TELEGRAM_ADMIN_CHAT_ID, только admin
-- /start, /niches, /report <niche> [ru|en]
+- /start, /niches, /report <niche> [ru|en|es|de|fr]
 - buildDailyReport() + split для лимита 4096
 - services/telegram: bot.ts, send.ts, index.ts
 - shared sendReportToTelegram() для bot и GHA
