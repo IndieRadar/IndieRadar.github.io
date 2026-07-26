@@ -178,6 +178,22 @@
     });
   }
 
+  function parseReportPath(pathname) {
+    pathname = pathname || window.location.pathname;
+    const match = pathname.match(/^\/report\/([^/]+)\/(ru|en)(?:\/(week|app\/([^/]+)))?\/?$/);
+
+    if (!match) {
+      return null;
+    }
+
+    return {
+      appId: match[3] === "app" && match[4] ? decodeURIComponent(match[4]) : null,
+      locale: match[2],
+      niche: match[1],
+      period: match[3] === "week" ? "week" : null
+    };
+  }
+
   function parseReportQuery(search) {
     search = search || window.location.search;
     const params = new URLSearchParams(search);
@@ -413,6 +429,61 @@
       '<div class="app-list">' + items + "</div>";
   }
 
+  function mountReportChrome() {
+    const route = parseReportPath();
+
+    if (!route) {
+      return null;
+    }
+
+    setLang(route.locale);
+    document.documentElement.lang = route.locale;
+
+    const header = document.querySelector(".site-header");
+
+    if (header) {
+      renderSiteHeader(header, {
+        homeHref: "/",
+        lang: route.locale,
+        onLangChange: function (nextLang) {
+          if (nextLang !== "ru" && nextLang !== "en") {
+            return;
+          }
+
+          if (nextLang === route.locale) {
+            return;
+          }
+
+          window.location.href = reportHref(route.niche, nextLang, {
+            appId: route.appId,
+            period: route.period
+          });
+        }
+      });
+    }
+
+    const navWraps = document.querySelectorAll(".site-nav-wrap");
+
+    if (navWraps[0]) {
+      renderNicheTabs(navWraps[0], {
+        activeNiche: route.niche,
+        homeHref: "/",
+        locale: route.locale,
+        period: route.period
+      });
+    }
+
+    if (navWraps[1] && !route.appId) {
+      renderPeriodNav(navWraps[1], {
+        locale: route.locale,
+        niche: route.niche,
+        period: route.period
+      });
+    }
+
+    return route;
+  }
+
   function mountBackToTop(options) {
     options = options || {};
     let lang = options.lang || getLang();
@@ -464,10 +535,12 @@
     fetchNicheBundle: fetchNicheBundle,
     formatGeneratedAt: formatGeneratedAt,
     getLang: getLang,
+    mountReportChrome: mountReportChrome,
     mountBackToTop: mountBackToTop,
     mountLangSwitch: mountLangSwitch,
     nicheAnchorId: nicheAnchorId,
     nicheLabel: nicheLabel,
+    parseReportPath: parseReportPath,
     parseReportQuery: parseReportQuery,
     renderAppSidebar: renderAppSidebar,
     renderNicheTabs: renderNicheTabs,

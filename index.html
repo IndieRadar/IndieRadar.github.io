@@ -69,10 +69,22 @@
     </p>
   </footer>
 
-  <script src="site.js?v=2"></script>
+  <script src="site.js?v=3"></script>
   <script>
     (function () {
       const site = window.IndieRadarSite;
+
+      function initialLang() {
+        const params = new URLSearchParams(window.location.search);
+        const fromQuery = params.get("lang");
+
+        if (fromQuery === "ru" || fromQuery === "en") {
+          site.setLang(fromQuery);
+          return fromQuery;
+        }
+
+        return site.getLang();
+      }
 
       function applyCopy(lang) {
         document.documentElement.lang = lang;
@@ -155,9 +167,9 @@
         });
       }
 
-      const backToTop = site.mountBackToTop({ lang: site.getLang() });
-      mountHeader(site.getLang());
-      renderHub(site.getLang());
+      const backToTop = site.mountBackToTop({ lang: initialLang() });
+      mountHeader(initialLang());
+      renderHub(initialLang());
       site.bindDocumentAnchors();
 
       window.addEventListener("hashchange", function () {

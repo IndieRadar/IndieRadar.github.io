@@ -288,7 +288,8 @@
     (function () {
       var site = window.IndieRadarSite;
       var content = document.getElementById("content");
-      site.mountBackToTop({ lang: "en" });
+      var route = site.mountReportChrome();
+      site.mountBackToTop({ lang: route ? route.locale : "en" });
       site.bindInPageAnchors(content);
       if (location.hash) {
         requestAnimationFrame(function () {
