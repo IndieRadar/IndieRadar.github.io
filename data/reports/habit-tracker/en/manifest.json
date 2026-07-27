@@ -21,8 +21,8 @@
       "number": 4
     },
     {
-      "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
-      "name": "Tiimo: Daily To Do List",
+      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
+      "name": "Habit Tracker",
       "number": 5
     },
     {
@@ -46,57 +46,37 @@
       "number": 9
     },
     {
-      "id": "aa7680a1-b563-4bc6-b174-e189a7eb830c",
-      "name": "Habit Tracker - Habit Diary",
-      "number": 10
-    },
-    {
       "id": "8abfc268-acfd-41b8-a937-0c315f34a8db",
       "name": "(Not Boring) Habits",
-      "number": 11
+      "number": 10
     },
     {
       "id": "451af485-4e57-456a-b0bc-61d948f71749",
       "name": "Habit Tracker - HabitKit",
-      "number": 12
-    },
-    {
-      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
-      "name": "Habit Tracker",
-      "number": 13
+      "number": 11
     },
     {
       "id": "cc6fa4f2-a362-4000-8f21-715ee6fa0d61",
       "name": "Grit: Habitudes Routines TDAH",
-      "number": 14
+      "number": 12
     },
     {
       "id": "82feb9b3-fe0f-412a-af1c-2600f74f1081",
       "name": "ShineDay - Habit Tracker",
+      "number": 13
+    },
+    {
+      "id": "6372db7a-3afb-4a70-a1eb-d33f8df63f82",
+      "name": "I Am Sober",
+      "number": 14
+    },
+    {
+      "id": "93ab32c5-d7fe-456f-8ce1-b08253e2e817",
+      "name": "Rise Habit Tracker",
       "number": 15
-    },
-    {
-      "id": "3deeeec0-5ff2-4cb7-ac56-db7302d1d230",
-      "name": "I Am Sober - Eu estou sóbrio/a",
-      "number": 16
-    },
-    {
-      "id": "feb6c379-d6fa-449c-a6c6-b9aa9a863e9f",
-      "name": "Habit Tracker: Abletobe",
-      "number": 17
-    },
-    {
-      "id": "5fb154b0-245e-4791-9c3e-3dc54c46cdc1",
-      "name": "Habit Me: Hábitos Diários",
-      "number": 18
-    },
-    {
-      "id": "78f1a1a5-598d-45ac-ae17-76eb63103b71",
-      "name": "Loop - Habit Tracker",
-      "number": 19
     }
   ],
-  "generatedAt": "2026-07-27T15:36:07.730Z",
+  "generatedAt": "2026-07-26T17:09:30.126Z",
   "locale": "en",
   "nicheSlug": "habit-tracker"
 }

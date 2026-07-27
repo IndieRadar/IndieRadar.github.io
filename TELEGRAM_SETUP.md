@@ -9,6 +9,22 @@ Delivery modes, no always-on server in production yet (see `docs/VPS_HOSTING_PLA
 | On-demand | `npm run dev:telegram` | Local long polling; onboarding + `/report` + `/week` |
 | Daily push | `npm run push:telegram` | GitHub Actions after nightly crawl → active subscribers (delta-only) |
 | Weekly push | `npm run push:telegram:weekly` | Sunday GHA + manual dispatch → active subscribers (**always** send) |
+| Email daily | `npm run push:email` | Same nightly pipeline → `email_subscribers` (full brief HTML, delta-only) |
+| Email weekly | `npm run push:email:weekly` | Same weekly job → full weekly HTML |
+
+Subscribe via bot: `/email you@example.com` (requires onboarded niche/locale). Disable: `/email off`.
+
+**Email env:** `RESEND_API_KEY`, `EMAIL_FROM` (e.g. `IndieRadar <briefs@yourdomain.com>`), optional `EMAIL_REPLY_TO`. Apply migrations `0007_email_subscribers.sql` + `0008_subscribe_email_rpc.sql` on Supabase.
+
+### Who sends email? (no separate mailer service)
+
+| Piece | Role |
+|---|---|
+| `npm run push:email` / `push:email:weekly` | Same nightly/weekly jobs as Telegram — builds full HTML brief and calls **Resend** |
+| Code location | `@indieradar/telegram` (`push-email.ts`) — not a second always-on process |
+| Web form | Hub `#email` → Supabase RPC `subscribe_email_report` (anon). Set URL + anon key in `docs/email-config.js`, redeploy Pages |
+
+No dedicated email microservice. Bot `/email` and the web form both write `email_subscribers`; cron delivers.
 
 **Beta:** crawl + push run on **GitHub Actions**; interactive bot is **local** for testers. Multi-user prod → VPS plan above.
 

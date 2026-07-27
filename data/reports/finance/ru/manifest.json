@@ -1,107 +1,82 @@
 {
   "apps": [
     {
-      "id": "09b8dc4a-759e-4dfa-91f2-aea2c0a600db",
-      "name": "Yahoo Finanzas",
+      "id": "3584e712-1cf9-4898-878e-d8f54102209e",
+      "name": "slice: UPI credit card & bank",
       "number": 1
     },
     {
-      "id": "f76e2b72-ce8e-40ae-940e-51ebed136aef",
-      "name": "Rocket Money - Bills & Budgets",
+      "id": "6ce74bc8-3316-4693-ac8c-c82d3b0853d8",
+      "name": "Spendee: Orçamento e Gastos",
       "number": 2
     },
     {
-      "id": "90e3483f-ff64-4f88-a4bd-94d8ea047c0e",
-      "name": "Monese - A banking alternative",
+      "id": "43dca600-e3e6-43cc-898d-d71f458145ce",
+      "name": "Money Manager",
       "number": 3
-    },
-    {
-      "id": "9ac3bb92-ddc4-49ba-95f8-7bca241d1769",
-      "name": "Robinhood: Trading & Investing",
-      "number": 4
-    },
-    {
-      "id": "3584e712-1cf9-4898-878e-d8f54102209e",
-      "name": "slice: UPI credit card & bank",
-      "number": 5
-    },
-    {
-      "id": "d391f361-eed6-433c-95aa-337b0def3884",
-      "name": "Google Wallet",
-      "number": 6
-    },
-    {
-      "id": "4975163e-f591-4371-a8ba-bf5a2b46b73c",
-      "name": "TradingView: Aandelen & Crypto",
-      "number": 7
-    },
-    {
-      "id": "410585a9-1914-4b1b-a60f-2b6830a4a486",
-      "name": "Klarna: Pagamento inteligente",
-      "number": 8
-    },
-    {
-      "id": "c1e28435-4ab1-4517-a348-dec4fea08719",
-      "name": "Acorns: Save & Invest Money",
-      "number": 9
-    },
-    {
-      "id": "b1c80ce3-92da-4d8b-b6ed-93c5f9e3925c",
-      "name": "Google Finance",
-      "number": 10
-    },
-    {
-      "id": "b4ff19ca-91fe-424b-8c54-d98f0ebb7df9",
-      "name": "IBKR Mobile - Invest Worldwide",
-      "number": 11
-    },
-    {
-      "id": "150ac319-f7e5-429d-aabf-d5cc5db1fda8",
-      "name": "Zindigi - All in One Finance",
-      "number": 12
-    },
-    {
-      "id": "a3215d9a-27ba-4931-901b-4ffcb4fb778a",
-      "name": "Money Lover Controle de gastos",
-      "number": 13
-    },
-    {
-      "id": "d646ef55-f000-4857-9d90-552e0ae9b8eb",
-      "name": "Revolut — Mais do que um banco",
-      "number": 14
-    },
-    {
-      "id": "7818828a-9eaf-4109-9ef5-d8dcc748ee1d",
-      "name": "Fidelity Investments",
-      "number": 15
-    },
-    {
-      "id": "834d3030-1ba7-4739-ac33-e1f5d7817be0",
-      "name": "Trading 212 - Ações & ETFs",
-      "number": 16
-    },
-    {
-      "id": "40d28b66-782b-4944-8828-a47664b266a9",
-      "name": "Kraken: Cripto e Bitcoin BTC",
-      "number": 17
-    },
-    {
-      "id": "2e59806e-c934-437b-9a8d-af862bf8e1cd",
-      "name": "GoMining – BTC Miner & Card",
-      "number": 18
     },
     {
       "id": "58673aab-3ef4-49fd-a7d1-2b08275a4bed",
       "name": "XTB Online Investing",
-      "number": 19
+      "number": 4
     },
     {
-      "id": "e6b2ee06-965a-4be0-b1a7-917257506e1d",
-      "name": "Trade Republic: Broker & Bank",
-      "number": 20
+      "id": "f76e2b72-ce8e-40ae-940e-51ebed136aef",
+      "name": "Rocket Money - Bills & Budgets",
+      "number": 5
+    },
+    {
+      "id": "279b5984-f2a8-487d-b5d5-7005f76a672e",
+      "name": "Yahoo Finance: Stocks & News",
+      "number": 6
+    },
+    {
+      "id": "7818828a-9eaf-4109-9ef5-d8dcc748ee1d",
+      "name": "Fidelity Investments",
+      "number": 7
+    },
+    {
+      "id": "1f91fdb4-f7f6-4457-a630-80c0dbb972cf",
+      "name": "eToro: obchodujte a investujte",
+      "number": 8
+    },
+    {
+      "id": "d05185eb-387d-417a-ba20-d2aef0ff171c",
+      "name": "Bloomberg: Finance Market News",
+      "number": 9
+    },
+    {
+      "id": "bfcd2111-7b16-4603-9607-188cd84ea663",
+      "name": "TradingView: Aktier och Krypto",
+      "number": 10
+    },
+    {
+      "id": "790c3a20-674b-41ea-bb92-e4f6e5848a05",
+      "name": "Carteira do Google",
+      "number": 11
+    },
+    {
+      "id": "410585a9-1914-4b1b-a60f-2b6830a4a486",
+      "name": "Klarna: Pagamento inteligente",
+      "number": 12
+    },
+    {
+      "id": "c1e28435-4ab1-4517-a348-dec4fea08719",
+      "name": "Acorns: Save & Invest Money",
+      "number": 13
+    },
+    {
+      "id": "e44c5323-5d6e-4ffc-b443-1d6b3e31202c",
+      "name": "Wallet- rozpočty, správa peněz",
+      "number": 14
+    },
+    {
+      "id": "f48f5b83-cebd-4240-a8ec-95e35fd699d3",
+      "name": "Privat24 – mobile bank",
+      "number": 15
     }
   ],
-  "generatedAt": "2026-07-27T15:36:41.524Z",
+  "generatedAt": "2026-07-26T17:10:42.664Z",
   "locale": "ru",
   "nicheSlug": "finance"
 }

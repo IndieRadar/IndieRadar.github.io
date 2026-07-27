@@ -54,7 +54,17 @@
       languageAria: "Язык",
       periodNavAria: "Период отчёта",
       nicheAnchorsAria: "Переход к нише",
-      backToTop: "Наверх"
+      backToTop: "Наверх",
+      emailTitle: "Email-рассылка",
+      emailIntro: "Полный ежедневный brief и weekly на почту — без Telegram.",
+      emailAddress: "Email",
+      emailNiche: "Ниша",
+      emailLocale: "Язык",
+      emailSubmit: "Подписаться",
+      emailSuccess: "Готово. Письма начнут приходить после ближайшего daily/weekly.",
+      emailError: "Не удалось подписаться. Проверьте email и попробуйте ещё раз.",
+      emailUnavailable: "Подписка по email скоро будет доступна.",
+      emailNote: "Отписаться: /email off в @IndieRadarBot или напишите нам."
     },
     en: {
       badge: "Closed beta",
@@ -99,7 +109,17 @@
       languageAria: "Language",
       periodNavAria: "Report period",
       nicheAnchorsAria: "Jump to niche",
-      backToTop: "Back to top"
+      backToTop: "Back to top",
+      emailTitle: "Email briefs",
+      emailIntro: "Full daily brief and weekly in your inbox — no Telegram required.",
+      emailAddress: "Email",
+      emailNiche: "Niche",
+      emailLocale: "Language",
+      emailSubmit: "Subscribe",
+      emailSuccess: "You're in. Emails start after the next daily/weekly run.",
+      emailError: "Could not subscribe. Check your email and try again.",
+      emailUnavailable: "Email subscribe is not configured yet.",
+      emailNote: "Unsubscribe: /email off in @IndieRadarBot or contact us."
     },
     es: {
       badge: "Beta cerrada",
@@ -144,7 +164,17 @@
       languageAria: "Idioma",
       periodNavAria: "Periodo del informe",
       nicheAnchorsAria: "Ir al nicho",
-      backToTop: "Arriba"
+      backToTop: "Arriba",
+      emailTitle: "Briefings por email",
+      emailIntro: "Brief diario completo y weekly en tu bandeja — sin Telegram.",
+      emailAddress: "Email",
+      emailNiche: "Nicho",
+      emailLocale: "Idioma",
+      emailSubmit: "Suscribirse",
+      emailSuccess: "Listo. Los emails empiezan tras el próximo daily/weekly.",
+      emailError: "No se pudo suscribir. Revisa el email e inténtalo de nuevo.",
+      emailUnavailable: "La suscripción por email aún no está configurada.",
+      emailNote: "Cancelar: /email off en @IndieRadarBot o escríbenos."
     },
     de: {
       badge: "Geschlossene Beta",
@@ -189,7 +219,17 @@
       languageAria: "Sprache",
       periodNavAria: "Report-Zeitraum",
       nicheAnchorsAria: "Zur Nische springen",
-      backToTop: "Nach oben"
+      backToTop: "Nach oben",
+      emailTitle: "E-Mail-Briefs",
+      emailIntro: "Voller Daily-Brief und Weekly per Mail — ohne Telegram.",
+      emailAddress: "E-Mail",
+      emailNiche: "Nische",
+      emailLocale: "Sprache",
+      emailSubmit: "Abonnieren",
+      emailSuccess: "Fertig. Mails kommen nach dem nächsten Daily/Weekly.",
+      emailError: "Abo fehlgeschlagen. E-Mail prüfen und erneut versuchen.",
+      emailUnavailable: "E-Mail-Abo ist noch nicht konfiguriert.",
+      emailNote: "Abmelden: /email off in @IndieRadarBot oder schreib uns."
     },
     fr: {
       badge: "Beta fermée",
@@ -234,7 +274,17 @@
       languageAria: "Langue",
       periodNavAria: "Période du rapport",
       nicheAnchorsAria: "Aller à la niche",
-      backToTop: "Haut de page"
+      backToTop: "Haut de page",
+      emailTitle: "Briefings par email",
+      emailIntro: "Brief daily complet et weekly dans la boîte mail — sans Telegram.",
+      emailAddress: "Email",
+      emailNiche: "Niche",
+      emailLocale: "Langue",
+      emailSubmit: "S'abonner",
+      emailSuccess: "C'est bon. Les emails commencent après le prochain daily/weekly.",
+      emailError: "Inscription impossible. Vérifiez l'email et réessayez.",
+      emailUnavailable: "L'abonnement email n'est pas encore configuré.",
+      emailNote: "Se désabonner : /email off dans @IndieRadarBot ou écrivez-nous."
     }
   };
 
@@ -731,6 +781,172 @@
     };
   }
 
+  function getEmailConfig() {
+    const cfg = window.IndieRadarEmailConfig;
+    if (!cfg || !cfg.supabaseUrl || !cfg.supabaseAnonKey) {
+      return null;
+    }
+    if (String(cfg.supabaseUrl).indexOf("YOUR_PROJECT") !== -1) {
+      return null;
+    }
+    if (String(cfg.supabaseAnonKey).indexOf("YOUR_SUPABASE") !== -1) {
+      return null;
+    }
+    return cfg;
+  }
+
+  function mountEmailSubscribeForm(root, options) {
+    if (!root) {
+      return { setLang: function () {} };
+    }
+
+    let lang = options && options.lang ? options.lang : getLang();
+    const config = getEmailConfig();
+
+    function fillNicheOptions(select, currentLang) {
+      select.innerHTML = NICHES.map(function (niche) {
+        return (
+          '<option value="' + escapeHtml(niche.slug) + '">' +
+          escapeHtml(nicheLabel(niche, currentLang)) +
+          "</option>"
+        );
+      }).join("");
+    }
+
+    function fillLocaleOptions(select, currentLang) {
+      select.innerHTML = SUPPORTED_LANGS.map(function (code) {
+        const selected = code === currentLang ? " selected" : "";
+        return '<option value="' + code + '"' + selected + ">" + code.toUpperCase() + "</option>";
+      }).join("");
+    }
+
+    function applyCopy(currentLang) {
+      root.querySelectorAll("[data-i18n]").forEach(function (node) {
+        const key = node.getAttribute("data-i18n");
+        node.textContent = t(currentLang, key);
+      });
+      const nicheSelect = root.querySelector("[name=niche]");
+      const localeSelect = root.querySelector("[name=locale]");
+      const prevNiche = nicheSelect ? nicheSelect.value : "";
+      if (nicheSelect) {
+        fillNicheOptions(nicheSelect, currentLang);
+        if (prevNiche) {
+          nicheSelect.value = prevNiche;
+        }
+      }
+      if (localeSelect) {
+        fillLocaleOptions(localeSelect, currentLang);
+      }
+    }
+
+    root.innerHTML =
+      '<h2 data-i18n="emailTitle"></h2>' +
+      '<p class="section-intro" data-i18n="emailIntro"></p>' +
+      (config
+        ? '<form class="email-subscribe-form" novalidate>' +
+          '<label class="email-field"><span data-i18n="emailAddress"></span>' +
+          '<input type="email" name="email" required autocomplete="email" inputmode="email"></label>' +
+          '<label class="email-field"><span data-i18n="emailNiche"></span>' +
+          '<select name="niche" required></select></label>' +
+          '<label class="email-field"><span data-i18n="emailLocale"></span>' +
+          '<select name="locale" required></select></label>' +
+          '<input type="text" name="company" class="email-honeypot" tabindex="-1" autocomplete="off" aria-hidden="true">' +
+          '<button type="submit" class="button button-primary" data-i18n="emailSubmit"></button>' +
+          '<p class="email-status" role="status" aria-live="polite"></p>' +
+          '<p class="email-note" data-i18n="emailNote"></p>' +
+          "</form>"
+        : '<p class="email-unavailable" data-i18n="emailUnavailable"></p>');
+
+    applyCopy(lang);
+
+    const form = root.querySelector("form");
+    if (!form || !config) {
+      return {
+        setLang: function (nextLang) {
+          lang = nextLang || lang;
+          applyCopy(lang);
+        }
+      };
+    }
+
+    form.addEventListener("submit", function (event) {
+      event.preventDefault();
+      const status = form.querySelector(".email-status");
+      const honeypot = form.querySelector("[name=company]");
+      const emailInput = form.querySelector("[name=email]");
+      const nicheSelect = form.querySelector("[name=niche]");
+      const localeSelect = form.querySelector("[name=locale]");
+      const submit = form.querySelector('button[type="submit"]');
+
+      if (honeypot && honeypot.value) {
+        return;
+      }
+
+      const email = (emailInput && emailInput.value || "").trim();
+      const niche = nicheSelect && nicheSelect.value;
+      const locale = localeSelect && localeSelect.value;
+
+      if (!email || !niche || !isSupportedLang(locale)) {
+        if (status) {
+          status.textContent = t(lang, "emailError");
+          status.className = "email-status is-error";
+        }
+        return;
+      }
+
+      if (submit) {
+        submit.disabled = true;
+      }
+      if (status) {
+        status.textContent = t(lang, "loading");
+        status.className = "email-status";
+      }
+
+      const endpoint = String(config.supabaseUrl).replace(/\/$/, "") + "/rest/v1/rpc/subscribe_email_report";
+
+      fetch(endpoint, {
+        method: "POST",
+        headers: {
+          apikey: config.supabaseAnonKey,
+          Authorization: "Bearer " + config.supabaseAnonKey,
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          p_email: email,
+          p_niche_slug: niche,
+          p_locale: locale
+        })
+      }).then(function (response) {
+        if (!response.ok) {
+          throw new Error("subscribe_failed");
+        }
+        if (status) {
+          status.textContent = t(lang, "emailSuccess");
+          status.className = "email-status is-success";
+        }
+        form.reset();
+        fillLocaleOptions(localeSelect, lang);
+        fillNicheOptions(nicheSelect, lang);
+      }).catch(function () {
+        if (status) {
+          status.textContent = t(lang, "emailError");
+          status.className = "email-status is-error";
+        }
+      }).finally(function () {
+        if (submit) {
+          submit.disabled = false;
+        }
+      });
+    });
+
+    return {
+      setLang: function (nextLang) {
+        lang = nextLang || lang;
+        applyCopy(lang);
+      }
+    };
+  }
+
   window.IndieRadarSite = {
     COPY: COPY,
     NICHES: NICHES,
@@ -743,6 +959,7 @@
     formatGeneratedAt: formatGeneratedAt,
     getLang: getLang,
     getReportLocale: getReportLocale,
+    mountEmailSubscribeForm: mountEmailSubscribeForm,
     mountReportChrome: mountReportChrome,
     mountBackToTop: mountBackToTop,
     mountLangSwitch: mountLangSwitch,

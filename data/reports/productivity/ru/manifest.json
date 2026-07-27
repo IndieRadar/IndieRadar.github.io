@@ -11,8 +11,8 @@
       "number": 2
     },
     {
-      "id": "81bae47e-3f2e-40c8-b2ba-de0af605196e",
-      "name": "Notebook - Notas, Listas, IA",
+      "id": "b5c0bcf9-500d-45e7-90bd-c96acfb3e921",
+      "name": "Notebook - Noter, synkroniser",
       "number": 3
     },
     {
@@ -21,87 +21,87 @@
       "number": 4
     },
     {
+      "id": "f4c16efc-1a24-434d-b037-ead88198e069",
+      "name": "WPS Office-PDF,Word,Sheet,PPT",
+      "number": 5
+    },
+    {
       "id": "f848c3aa-7ac4-4fd5-95f3-4d80f9782235",
       "name": "Forest: Focus for Productivity",
-      "number": 5
+      "number": 6
     },
     {
       "id": "65d1c29c-1b0d-43b4-bd20-79a8a951596f",
       "name": "Microsoft To Do",
-      "number": 6
+      "number": 7
     },
     {
       "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
       "name": "Tiimo: Daily To Do List",
-      "number": 7
+      "number": 8
     },
     {
       "id": "5df2eb8c-a19c-428a-a12d-432daaf1e232",
       "name": "Toggl Track - Time Tracking",
-      "number": 8
+      "number": 9
     },
     {
       "id": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
       "name": "Microsoft To Do: Lists & Tasks",
-      "number": 9
+      "number": 10
     },
     {
       "id": "24d01c9a-2660-410f-9219-7cc462e83735",
       "name": "Microsoft OneNote: Save Notes",
-      "number": 10
+      "number": 11
     },
     {
       "id": "51caf11b-7967-4d30-8aac-1bc1eb27b40a",
       "name": "TickTick:To-do list,calendário",
-      "number": 11
+      "number": 12
     },
     {
       "id": "7383426f-eaca-48ba-8518-f2c2eb7b08e9",
       "name": "Endel: Sono, Relaxar e Foco",
-      "number": 12
+      "number": 13
     },
     {
       "id": "1a4d7531-c642-41c1-8d80-dd1c0527d512",
       "name": "Focus To-Do: Pomodoro & Tâches",
-      "number": 13
+      "number": 14
     },
     {
       "id": "9ca5ba26-5c81-4952-b106-bd24e649cb1e",
       "name": "Motivation - Daily quotes",
-      "number": 14
-    },
-    {
-      "id": "07682690-aeb7-417d-bf47-cf4f66d31037",
-      "name": "Flora - Green Focus",
       "number": 15
     },
     {
-      "id": "94743654-9313-4e78-8832-7be8c1395617",
-      "name": "TickTick:To do list e tarefas",
+      "id": "6dae206a-89bf-41b9-b9b1-2b985ddaff5c",
+      "name": "Todoist: Todo ja kalenteri",
       "number": 16
-    },
-    {
-      "id": "666aee72-0c4d-4339-af46-d72777727639",
-      "name": "Todoist: To do list–Calendário",
-      "number": 17
     },
     {
       "id": "4174d5bd-1eb1-493f-b97b-d7ac604fce4c",
       "name": "one sec | limita o screen time",
-      "number": 18
+      "number": 17
     },
     {
       "id": "4041e92f-ed86-4192-8c52-4a96863bda6e",
       "name": "Wisey: Your Productive Self",
-      "number": 19
+      "number": 18
     },
     {
       "id": "860d47e3-91fb-41a2-a762-b6785b207899",
       "name": "Finch: Self-Care Pet",
+      "number": 19
+    },
+    {
+      "id": "379c2edb-740e-4143-be81-9abd5e64cbcb",
+      "name": "Google Kalenteri",
       "number": 20
     }
   ],
-  "generatedAt": "2026-07-27T15:35:29.655Z",
+  "generatedAt": "2026-07-27T15:07:55.235Z",
   "locale": "ru",
   "nicheSlug": "productivity"
 }

@@ -11,8 +11,8 @@
       "number": 2
     },
     {
-      "id": "81bae47e-3f2e-40c8-b2ba-de0af605196e",
-      "name": "Notebook - Notas, Listas, IA",
+      "id": "b526e484-3dd1-4403-9afd-376c22595028",
+      "name": "Notebook – Notes, Tasks, AI",
       "number": 3
     },
     {
@@ -76,13 +76,13 @@
       "number": 15
     },
     {
-      "id": "94743654-9313-4e78-8832-7be8c1395617",
-      "name": "TickTick:To do list e tarefas",
+      "id": "a1d554f7-9176-4f8a-b258-e6b7b46c9538",
+      "name": "TickTick:To Do List & Calendar",
       "number": 16
     },
     {
-      "id": "666aee72-0c4d-4339-af46-d72777727639",
-      "name": "Todoist: To do list–Calendário",
+      "id": "aa7542cb-244d-4961-8def-325808534067",
+      "name": "Todoist: Opgaveliste, kalender",
       "number": 17
     },
     {
@@ -101,7 +101,7 @@
       "number": 20
     }
   ],
-  "generatedAt": "2026-07-27T15:36:05.057Z",
+  "generatedAt": "2026-07-27T15:07:12.812Z",
   "locale": "fr",
   "nicheSlug": "productivity"
 }

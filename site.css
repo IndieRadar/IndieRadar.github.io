@@ -496,6 +496,63 @@ main {
   font-size: 1.08rem;
 }
 
+.email-subscribe {
+  max-width: 28rem;
+}
+
+.email-subscribe-form {
+  display: grid;
+  gap: 14px;
+}
+
+.email-field {
+  display: grid;
+  gap: 6px;
+  font-size: 0.92rem;
+  color: var(--muted);
+}
+
+.email-field input,
+.email-field select {
+  min-height: 44px;
+  padding: 0 12px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--card);
+  color: var(--text);
+  font: inherit;
+}
+
+.email-honeypot {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+
+.email-status {
+  margin: 0;
+  min-height: 1.4em;
+  font-size: 0.92rem;
+  color: var(--muted);
+}
+
+.email-status.is-success {
+  color: #15803d;
+}
+
+.email-status.is-error {
+  color: #b91c1c;
+}
+
+.email-note,
+.email-unavailable {
+  margin: 8px 0 0;
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
 .cta-row {
   display: flex;
   flex-wrap: wrap;
