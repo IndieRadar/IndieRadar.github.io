@@ -1,4 +1,5 @@
 (function () {
+  // Keep labels in sync with services/analyzer/src/nicheLabels.ts
   const NICHES = [
     { slug: "productivity", label: { ru: "Продуктивность", en: "Productivity", es: "Productividad", de: "Produktivität", fr: "Productivité" } },
     { slug: "habit-tracker", label: { ru: "Трекер привычек", en: "Habit Tracker", es: "Hábitos", de: "Gewohnheiten", fr: "Habitudes" } },

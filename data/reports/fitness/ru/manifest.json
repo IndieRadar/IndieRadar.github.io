@@ -1,38 +1,38 @@
 {
   "apps": [
     {
-      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
-      "name": "MyFitnessPal: Diário alimentar",
+      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+      "name": "MyFitnessPal: Calorieënteller",
       "number": 1
+    },
+    {
+      "id": "8c96733f-429a-4412-8617-dfce9931e307",
+      "name": "MyFitnessPal: Calorie Counter",
+      "number": 2
     },
     {
       "id": "b4e34cde-bb68-4683-84b9-7f91d1a965a5",
       "name": "Strava: corrida, pedal, trilha",
-      "number": 2
+      "number": 3
     },
     {
       "id": "2167752e-b197-4dfd-94cd-6ee73317cf56",
       "name": "BetterMe: Health Coaching",
-      "number": 3
+      "number": 4
     },
     {
-      "id": "3782fa66-473d-4f67-8dae-95b256541645",
-      "name": "Strava: corre, camina, pedalea",
-      "number": 4
+      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
+      "name": "Planet Fitness",
+      "number": 5
     },
     {
       "id": "f51fc2b2-71ef-4b1b-9297-ebe3f5b17705",
       "name": "Lose It! – Calorie Counter",
-      "number": 5
-    },
-    {
-      "id": "5335241d-1f63-4d58-b463-5aa729251631",
-      "name": "Fitbod: Rutinas Personalizadas",
       "number": 6
     },
     {
-      "id": "1d82d8b4-820a-4932-82a9-8f2c89cac564",
-      "name": "Runna: Allenamento Corsa",
+      "id": "66fd3630-81a1-45cd-bd85-9e4a60a1240d",
+      "name": "Liftoff: Weightlifting Tracker",
       "number": 7
     },
     {
@@ -41,42 +41,67 @@
       "number": 8
     },
     {
-      "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
-      "name": "Fitness App (ABC Trainerize)",
+      "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
+      "name": "ClassPass: Fitness, Spa, Salon",
       "number": 9
+    },
+    {
+      "id": "1be8af53-53c7-4065-96f6-7c71ad9ce67f",
+      "name": "Sweat: Fitness para mulheres",
+      "number": 10
+    },
+    {
+      "id": "5392f3a2-c69f-4e1f-8bfc-b0cab7b9bc8b",
+      "name": "Asana Rebel: Yoga e Fitness",
+      "number": 11
+    },
+    {
+      "id": "91421b78-cc0d-4fe9-bbf6-98135cb02b89",
+      "name": "Treino de Academia: Musculação",
+      "number": 12
+    },
+    {
+      "id": "45d6985e-059a-48f1-84e0-56b0c12ec01c",
+      "name": "Hevy - Treino de Academia Gym",
+      "number": 13
+    },
+    {
+      "id": "4f1dabc5-33df-4817-bf86-4058354f815c",
+      "name": "Strong Workout Tracker Gym Log",
+      "number": 14
+    },
+    {
+      "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
+      "name": "Google Health (Fitbit)",
+      "number": 15
+    },
+    {
+      "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
+      "name": "Mi Fitness (Xiaomi Wear Lite)",
+      "number": 16
+    },
+    {
+      "id": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
+      "name": "Apple Fitness",
+      "number": 17
+    },
+    {
+      "id": "74a0a93b-b0b6-4176-83ea-d986aa377594",
+      "name": "ASICS Runkeeper correr melhor",
+      "number": 18
+    },
+    {
+      "id": "e548b62f-7c7c-48b9-842c-070fdcc2ac62",
+      "name": "Google Fit: Reg. de actividad",
+      "number": 19
     },
     {
       "id": "8acfa937-07d3-455d-9429-e93cc6d70462",
       "name": "Jillian Michaels | Fitness App",
-      "number": 10
-    },
-    {
-      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
-      "name": "Fitbod Workout & Gym Planner",
-      "number": 11
-    },
-    {
-      "id": "8c96733f-429a-4412-8617-dfce9931e307",
-      "name": "MyFitnessPal: Calorie Counter",
-      "number": 12
-    },
-    {
-      "id": "42324b34-d2f1-458a-b3b4-21ae8a0f43a1",
-      "name": "Lasta: Twój coach wellness",
-      "number": 13
-    },
-    {
-      "id": "a582ff11-b311-438b-95cc-22bf9b122351",
-      "name": "Muscle Booster - Trainingsplan",
-      "number": 14
-    },
-    {
-      "id": "3f6410d0-f9be-4fcf-838f-60e88b003201",
-      "name": "Gymverse: Gym Workout Planner",
-      "number": 15
+      "number": 20
     }
   ],
-  "generatedAt": "2026-07-26T17:13:26.904Z",
+  "generatedAt": "2026-07-27T15:38:13.643Z",
   "locale": "ru",
   "nicheSlug": "fitness"
 }

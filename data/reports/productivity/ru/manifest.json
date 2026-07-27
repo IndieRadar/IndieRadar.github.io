@@ -1,23 +1,23 @@
 {
   "apps": [
     {
-      "id": "9057fbf2-bd9d-47b0-8248-24123e49f911",
-      "name": "Forest - eBike Sharing",
+      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
+      "name": "Opal: Screen Time Control",
       "number": 1
     },
     {
-      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
-      "name": "Opal: Screen Time Control",
+      "id": "9057fbf2-bd9d-47b0-8248-24123e49f911",
+      "name": "Forest - eBike Sharing",
       "number": 2
-    },
-    {
-      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
-      "name": "Notion: notes, tasks, AI",
-      "number": 3
     },
     {
       "id": "81bae47e-3f2e-40c8-b2ba-de0af605196e",
       "name": "Notebook - Notas, Listas, IA",
+      "number": 3
+    },
+    {
+      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
+      "name": "Notion: notes, tasks, AI",
       "number": 4
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
-      "name": "Tiimo - Daily to-do list",
+      "name": "Tiimo: Daily To Do List",
       "number": 7
     },
     {
@@ -41,13 +41,13 @@
       "number": 8
     },
     {
-      "id": "24d01c9a-2660-410f-9219-7cc462e83735",
-      "name": "Microsoft OneNote: Save Notes",
+      "id": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
+      "name": "Microsoft To Do: Lists & Tasks",
       "number": 9
     },
     {
-      "id": "1645377b-6e7b-4982-8a8b-06658488e96c",
-      "name": "Routine Planner, Habit Tracker",
+      "id": "24d01c9a-2660-410f-9219-7cc462e83735",
+      "name": "Microsoft OneNote: Save Notes",
       "number": 10
     },
     {
@@ -56,8 +56,8 @@
       "number": 11
     },
     {
-      "id": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
-      "name": "Microsoft To Do: Lists & Tasks",
+      "id": "7383426f-eaca-48ba-8518-f2c2eb7b08e9",
+      "name": "Endel: Sono, Relaxar e Foco",
       "number": 12
     },
     {
@@ -66,17 +66,42 @@
       "number": 13
     },
     {
-      "id": "07682690-aeb7-417d-bf47-cf4f66d31037",
-      "name": "Flora - Green Focus",
+      "id": "9ca5ba26-5c81-4952-b106-bd24e649cb1e",
+      "name": "Motivation - Daily quotes",
       "number": 14
     },
     {
-      "id": "acbadf71-7202-43c7-ae03-bf0659c35090",
-      "name": "Noji – Simple study flashcards",
+      "id": "07682690-aeb7-417d-bf47-cf4f66d31037",
+      "name": "Flora - Green Focus",
       "number": 15
+    },
+    {
+      "id": "94743654-9313-4e78-8832-7be8c1395617",
+      "name": "TickTick:To do list e tarefas",
+      "number": 16
+    },
+    {
+      "id": "666aee72-0c4d-4339-af46-d72777727639",
+      "name": "Todoist: To do list–Calendário",
+      "number": 17
+    },
+    {
+      "id": "4174d5bd-1eb1-493f-b97b-d7ac604fce4c",
+      "name": "one sec | limita o screen time",
+      "number": 18
+    },
+    {
+      "id": "4041e92f-ed86-4192-8c52-4a96863bda6e",
+      "name": "Wisey: Your Productive Self",
+      "number": 19
+    },
+    {
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch: Self-Care Pet",
+      "number": 20
     }
   ],
-  "generatedAt": "2026-07-26T17:07:07.095Z",
+  "generatedAt": "2026-07-27T15:35:29.655Z",
   "locale": "ru",
   "nicheSlug": "productivity"
 }

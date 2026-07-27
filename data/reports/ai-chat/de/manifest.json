@@ -1,82 +1,107 @@
 {
   "apps": [
     {
-      "id": "e78dad0d-2d7b-482e-b487-ceb3d1c71a9a",
-      "name": "Dokichat - Romantic AI Chats",
-      "number": 1
-    },
-    {
-      "id": "5af6f8d1-a675-4f48-978b-033cb7b47278",
-      "name": "BALA AI: Create, Chat, Talk",
-      "number": 2
-    },
-    {
-      "id": "0f547132-b921-43a0-867a-343156138686",
-      "name": "Sea Soul: AI Chat",
-      "number": 3
-    },
-    {
       "id": "cc206e51-50ba-45e6-90be-977a4b0eb1ef",
       "name": "Swerve - AI Chat",
-      "number": 4
-    },
-    {
-      "id": "09af4b20-a3b8-4a84-82da-547211c04bd0",
-      "name": "Grok: AI chat på svenska",
-      "number": 5
-    },
-    {
-      "id": "e97f87d9-f5af-472b-bf5c-142df5def828",
-      "name": "Chai: Chat AI Platform",
-      "number": 6
-    },
-    {
-      "id": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
-      "name": "Claude by Anthropic",
-      "number": 7
-    },
-    {
-      "id": "941d561a-92e1-49fa-b163-475e811235ad",
-      "name": "PolyBuzz: Fale com Amigos IA",
-      "number": 8
-    },
-    {
-      "id": "38892494-507e-4f20-9cc4-cf995d9d673a",
-      "name": "Google Gemini",
-      "number": 9
-    },
-    {
-      "id": "b769559f-c6f8-4c73-a196-e754eef626db",
-      "name": "PolyBuzz: Chat with Characters",
-      "number": 10
-    },
-    {
-      "id": "e7d1fa91-f8d9-4c4b-bc5a-5acbdbc0673a",
-      "name": "Character AI: Chat, Talk, Text",
-      "number": 11
-    },
-    {
-      "id": "1c366a3e-1f1a-4843-a233-ff2be07c39b0",
-      "name": "Emochi: Chat With Character",
-      "number": 12
-    },
-    {
-      "id": "3543de91-2f39-49ae-9ca9-577fe6d23e2b",
-      "name": "Replika: My AI Friend",
-      "number": 13
+      "number": 1
     },
     {
       "id": "6542adaf-1e9f-424e-9f0e-a951fe8b52c9",
       "name": "Janitor AI - Official App",
+      "number": 2
+    },
+    {
+      "id": "5af6f8d1-a675-4f48-978b-033cb7b47278",
+      "name": "BALA AI: Create, Chat, Talk",
+      "number": 3
+    },
+    {
+      "id": "0f547132-b921-43a0-867a-343156138686",
+      "name": "Sea Soul: AI Chat",
+      "number": 4
+    },
+    {
+      "id": "b3c23331-b0d4-41b5-92a0-744a67e11a56",
+      "name": "Dootchi: Chat with AI Chars",
+      "number": 5
+    },
+    {
+      "id": "38892494-507e-4f20-9cc4-cf995d9d673a",
+      "name": "Google Gemini",
+      "number": 6
+    },
+    {
+      "id": "e97f87d9-f5af-472b-bf5c-142df5def828",
+      "name": "Chai: Chat AI Platform",
+      "number": 7
+    },
+    {
+      "id": "97c428e9-f618-4ca2-91cf-f6b3724230c3",
+      "name": "Vibe by Mistral (ex-Le Chat)",
+      "number": 8
+    },
+    {
+      "id": "09af4b20-a3b8-4a84-82da-547211c04bd0",
+      "name": "Grok: AI chat på svenska",
+      "number": 9
+    },
+    {
+      "id": "b15f960e-a5c6-43f6-9f5b-ef5ac3626693",
+      "name": "zeta: AI Chat, Story, Play",
+      "number": 10
+    },
+    {
+      "id": "e78dad0d-2d7b-482e-b487-ceb3d1c71a9a",
+      "name": "Dokichat - Romantic AI Chats",
+      "number": 11
+    },
+    {
+      "id": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
+      "name": "Claude by Anthropic",
+      "number": 12
+    },
+    {
+      "id": "e7d1fa91-f8d9-4c4b-bc5a-5acbdbc0673a",
+      "name": "Character AI: Chat, Talk, Text",
+      "number": 13
+    },
+    {
+      "id": "edf546df-efbe-4608-bae1-fe67ba98ae06",
+      "name": "Microsoft Copilot",
       "number": 14
     },
     {
-      "id": "cab6efe0-36e1-4d29-9179-eaeeaafc5e42",
-      "name": "Microsoft 365 Copilot",
+      "id": "1c366a3e-1f1a-4843-a233-ff2be07c39b0",
+      "name": "Emochi: Chat With Character",
       "number": 15
+    },
+    {
+      "id": "d21dc3f7-11d2-4e78-acc2-5f2d97b4fa8a",
+      "name": "Hangjam: AI Stories",
+      "number": 16
+    },
+    {
+      "id": "dec80270-8ba6-49d1-b429-e4f2176bd741",
+      "name": "Chat e assistente de IA Jimmy",
+      "number": 17
+    },
+    {
+      "id": "7b40c9b3-39e5-44c9-b336-a10d8d55584c",
+      "name": "Blush: AI Dating Simulator",
+      "number": 18
+    },
+    {
+      "id": "c5cc4b41-0a81-45c0-b409-4ba6633c3bf5",
+      "name": "MingloTalk: AI Character Chat",
+      "number": 19
+    },
+    {
+      "id": "899922a9-6bce-48b6-b90a-bd7a0bdccf6e",
+      "name": "WaifuChat: AI Anime Fantasy",
+      "number": 20
     }
   ],
-  "generatedAt": "2026-07-26T17:12:53.539Z",
+  "generatedAt": "2026-07-27T15:37:46.190Z",
   "locale": "de",
   "nicheSlug": "ai-chat"
 }
