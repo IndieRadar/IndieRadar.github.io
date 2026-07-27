@@ -61,7 +61,7 @@
             (result.body.niche || "your niche") + " (" + (result.body.locale || "") + ").";
           return;
         }
-        fail("This link is invalid or already used.");
+        fail("This link is no longer valid. If you already confirmed, you are subscribed. Otherwise submit the form again to get a new email.");
       }).catch(function () {
         fail("Network error. Try again later.");
       });
