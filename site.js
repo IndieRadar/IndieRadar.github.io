@@ -866,7 +866,7 @@
     form.addEventListener("submit", function (event) {
       event.preventDefault();
       const status = form.querySelector(".email-status");
-      const honeypot = form.querySelector("[name=ir_hp]");
+      const honeypot = root.querySelector("[name=ir_hp]");
       const emailInput = form.querySelector("[name=email]");
       const nicheSelect = form.querySelector("[name=niche]");
       const localeSelect = form.querySelector("[name=locale]");

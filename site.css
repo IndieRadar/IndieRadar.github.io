@@ -497,6 +497,7 @@ main {
 }
 
 .email-subscribe {
+  position: relative;
   max-width: 28rem;
 }
 

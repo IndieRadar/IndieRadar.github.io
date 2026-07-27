@@ -56,34 +56,35 @@
       <div id="email-subscribe" class="email-subscribe">
         <h2 data-i18n="emailTitle">Email briefs</h2>
         <p class="section-intro" data-i18n="emailIntro">Full daily brief and weekly in your inbox — no Telegram required.</p>
-        <form class="email-subscribe-form" method="post" action="/email" autocomplete="on" novalidate>
-          <label class="email-field" for="email-subscribe-address">
+        <form id="email-subscribe-form" class="email-subscribe-form" method="post" action="https://indieradar.github.io/#email" autocomplete="on">
+          <label class="email-field" for="email">
             <span data-i18n="emailAddress">Email</span>
             <input
-              id="email-subscribe-address"
+              id="email"
               type="email"
               name="email"
               required
               autocomplete="email"
               inputmode="email"
               autocapitalize="off"
-              autocorrect="off"
               spellcheck="false"
+              placeholder="name@example.com"
             >
           </label>
-          <label class="email-field" for="email-subscribe-niche">
+          <label class="email-field" for="email-niche">
             <span data-i18n="emailNiche">Niche</span>
-            <select id="email-subscribe-niche" name="niche" required autocomplete="off"></select>
+            <select id="email-niche" name="niche" required></select>
           </label>
-          <label class="email-field" for="email-subscribe-locale">
+          <label class="email-field" for="email-locale">
             <span data-i18n="emailLocale">Language</span>
-            <select id="email-subscribe-locale" name="locale" required autocomplete="off"></select>
+            <select id="email-locale" name="locale" required></select>
           </label>
-          <input type="text" name="ir_hp" class="email-honeypot" tabindex="-1" autocomplete="off" aria-hidden="true">
           <button type="submit" class="button button-primary" data-i18n="emailSubmit">Subscribe</button>
           <p class="email-status" role="status" aria-live="polite"></p>
           <p class="email-note" data-i18n="emailNote">Unsubscribe via the link in briefs or /email off in the bot.</p>
         </form>
+        <!-- Outside the form so Chrome does not treat the subscribe form as a bot trap / address form. -->
+        <input type="text" name="ir_hp" class="email-honeypot" tabindex="-1" autocomplete="new-password" aria-hidden="true">
         <p class="email-unavailable" hidden data-i18n="emailUnavailable">Email subscribe is not configured yet.</p>
       </div>
     </section>
@@ -107,7 +108,7 @@
   </footer>
 
   <script src="email-config.js"></script>
-  <script src="site.js?v=10"></script>
+  <script src="site.js?v=11"></script>
   <script>
     (function () {
       const site = window.IndieRadarSite;
