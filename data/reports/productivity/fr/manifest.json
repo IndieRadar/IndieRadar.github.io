@@ -11,8 +11,8 @@
       "number": 2
     },
     {
-      "id": "b526e484-3dd1-4403-9afd-376c22595028",
-      "name": "Notebook – Notes, Tasks, AI",
+      "id": "81bae47e-3f2e-40c8-b2ba-de0af605196e",
+      "name": "Notebook",
       "number": 3
     },
     {
@@ -51,57 +51,57 @@
       "number": 10
     },
     {
-      "id": "51caf11b-7967-4d30-8aac-1bc1eb27b40a",
-      "name": "TickTick:To-do list,calendário",
+      "id": "7383426f-eaca-48ba-8518-f2c2eb7b08e9",
+      "name": "Endel: Sono, Relaxar e Foco",
       "number": 11
     },
     {
-      "id": "7383426f-eaca-48ba-8518-f2c2eb7b08e9",
-      "name": "Endel: Sono, Relaxar e Foco",
-      "number": 12
-    },
-    {
       "id": "1a4d7531-c642-41c1-8d80-dd1c0527d512",
-      "name": "Focus To-Do: Pomodoro & Tâches",
-      "number": 13
+      "name": "Focus To-Do",
+      "number": 12
     },
     {
       "id": "9ca5ba26-5c81-4952-b106-bd24e649cb1e",
       "name": "Motivation - Daily quotes",
-      "number": 14
+      "number": 13
     },
     {
       "id": "07682690-aeb7-417d-bf47-cf4f66d31037",
       "name": "Flora - Green Focus",
+      "number": 14
+    },
+    {
+      "id": "acbadf71-7202-43c7-ae03-bf0659c35090",
+      "name": "Noji – Simple study flashcards",
       "number": 15
     },
     {
-      "id": "a1d554f7-9176-4f8a-b258-e6b7b46c9538",
-      "name": "TickTick:To Do List & Calendar",
+      "id": "666aee72-0c4d-4339-af46-d72777727639",
+      "name": "Todoist",
       "number": 16
-    },
-    {
-      "id": "aa7542cb-244d-4961-8def-325808534067",
-      "name": "Todoist: Opgaveliste, kalender",
-      "number": 17
     },
     {
       "id": "4174d5bd-1eb1-493f-b97b-d7ac604fce4c",
       "name": "one sec | limita o screen time",
-      "number": 18
+      "number": 17
     },
     {
       "id": "4041e92f-ed86-4192-8c52-4a96863bda6e",
       "name": "Wisey: Your Productive Self",
-      "number": 19
+      "number": 18
     },
     {
       "id": "860d47e3-91fb-41a2-a762-b6785b207899",
       "name": "Finch: Self-Care Pet",
+      "number": 19
+    },
+    {
+      "id": "ff003297-11c8-40ec-8012-62e90969df01",
+      "name": "Google Agenda",
       "number": 20
     }
   ],
-  "generatedAt": "2026-07-27T15:07:12.812Z",
+  "generatedAt": "2026-07-27T15:59:34.224Z",
   "locale": "fr",
   "nicheSlug": "productivity"
 }
