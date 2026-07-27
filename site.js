@@ -61,10 +61,10 @@
       emailNiche: "Ниша",
       emailLocale: "Язык",
       emailSubmit: "Подписаться",
-      emailSuccess: "Проверьте почту: нужна ссылка подтверждения. Без неё рассылка не начнётся.",
+      emailSuccess: "Письмо отправлено — откройте его и подтвердите подписку.",
       emailError: "Не удалось подписаться. Проверьте email и попробуйте ещё раз.",
       emailUnavailable: "Подписка по email скоро будет доступна.",
-      emailNote: "Отписаться: /email off в @IndieRadarBot или напишите нам."
+      emailNote: "Повторная отправка с тем же email обновляет нишу/язык и снова просит подтверждение. Отписка — ссылка в письме или /email off в боте.",
     },
     en: {
       badge: "Closed beta",
@@ -116,10 +116,10 @@
       emailNiche: "Niche",
       emailLocale: "Language",
       emailSubmit: "Subscribe",
-      emailSuccess: "Check your inbox for a confirmation link. Emails start only after you confirm.",
+      emailSuccess: "We sent you an email — open it and confirm your subscription.",
       emailError: "Could not subscribe. Check your email and try again.",
       emailUnavailable: "Email subscribe is not configured yet.",
-      emailNote: "Unsubscribe: /email off in @IndieRadarBot or contact us."
+      emailNote: "Submitting again with the same email updates niche/language and asks for a new confirmation. Unsubscribe via the link in briefs or /email off in the bot.",
     },
     es: {
       badge: "Beta cerrada",
@@ -171,10 +171,10 @@
       emailNiche: "Nicho",
       emailLocale: "Idioma",
       emailSubmit: "Suscribirse",
-      emailSuccess: "Revisa el email: hay que confirmar el enlace. Sin eso no hay envíos.",
+      emailSuccess: "Te enviamos un email — ábrelo y confirma la suscripción.",
       emailError: "No se pudo suscribir. Revisa el email e inténtalo de nuevo.",
       emailUnavailable: "La suscripción por email aún no está configurada.",
-      emailNote: "Cancelar: /email off en @IndieRadarBot o escríbenos."
+      emailNote: "Enviar de nuevo con el mismo email actualiza nicho/idioma y pide nueva confirmación. Cancelar: enlace en el brief o /email off en el bot.",
     },
     de: {
       badge: "Geschlossene Beta",
@@ -226,10 +226,10 @@
       emailNiche: "Nische",
       emailLocale: "Sprache",
       emailSubmit: "Abonnieren",
-      emailSuccess: "Bitte Inbox prüfen: Bestätigungslink nötig. Ohne Bestätigung keine Mails.",
+      emailSuccess: "Wir haben dir eine Mail geschickt — öffne sie und bestätige das Abo.",
       emailError: "Abo fehlgeschlagen. E-Mail prüfen und erneut versuchen.",
       emailUnavailable: "E-Mail-Abo ist noch nicht konfiguriert.",
-      emailNote: "Abmelden: /email off in @IndieRadarBot oder schreib uns."
+      emailNote: "Erneutes Absenden mit derselben E-Mail aktualisiert Nische/Sprache und verlangt eine neue Bestätigung. Abmelden: Link im Brief oder /email off im Bot.",
     },
     fr: {
       badge: "Beta fermée",
@@ -281,10 +281,10 @@
       emailNiche: "Niche",
       emailLocale: "Langue",
       emailSubmit: "S'abonner",
-      emailSuccess: "Vérifiez votre boîte mail : lien de confirmation requis. Sans confirmation, pas d'envoi.",
+      emailSuccess: "Nous vous avons envoyé un email — ouvrez-le et confirmez l'abonnement.",
       emailError: "Inscription impossible. Vérifiez l'email et réessayez.",
       emailUnavailable: "L'abonnement email n'est pas encore configuré.",
-      emailNote: "Se désabonner : /email off dans @IndieRadarBot ou écrivez-nous."
+      emailNote: "Renvoyer avec le même email met à jour niche/langue et redemande une confirmation. Désabonnement : lien dans le brief ou /email off dans le bot.",
     }
   };
 
