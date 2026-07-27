@@ -795,6 +795,45 @@
     return cfg;
   }
 
+  const EMAIL_HISTORY_KEY = "indieradar.emailHistory";
+
+  function readEmailHistory() {
+    try {
+      const raw = window.localStorage.getItem(EMAIL_HISTORY_KEY);
+      const parsed = raw ? JSON.parse(raw) : [];
+      if (!Array.isArray(parsed)) {
+        return [];
+      }
+      return parsed
+        .map(function (value) {
+          return String(value || "").trim().toLowerCase();
+        })
+        .filter(function (value) {
+          return value.indexOf("@") !== -1;
+        })
+        .slice(0, 5);
+    } catch (error) {
+      return [];
+    }
+  }
+
+  function rememberEmail(email) {
+    const normalized = String(email || "").trim().toLowerCase();
+    if (!normalized || normalized.indexOf("@") === -1) {
+      return;
+    }
+    const next = [normalized].concat(
+      readEmailHistory().filter(function (value) {
+        return value !== normalized;
+      })
+    ).slice(0, 5);
+    try {
+      window.localStorage.setItem(EMAIL_HISTORY_KEY, JSON.stringify(next));
+    } catch (error) {
+      // Ignore quota / private mode.
+    }
+  }
+
   function mountEmailSubscribeForm(root, options) {
     if (!root) {
       return { setLang: function () {} };
@@ -841,6 +880,28 @@
       }
     }
 
+    function hydrateEmailField(emailInput) {
+      if (!emailInput) {
+        return;
+      }
+      const history = readEmailHistory();
+      let list = root.querySelector("#subscribe-email-history");
+      if (!list) {
+        list = document.createElement("datalist");
+        list.id = "subscribe-email-history";
+        root.appendChild(list);
+      }
+      list.innerHTML = history
+        .map(function (value) {
+          return '<option value="' + escapeHtml(value) + '"></option>';
+        })
+        .join("");
+      emailInput.setAttribute("list", "subscribe-email-history");
+      if (!emailInput.value && history[0]) {
+        emailInput.value = history[0];
+      }
+    }
+
     if (!config || !form) {
       if (form) {
         form.hidden = true;
@@ -862,6 +923,7 @@
       unavailable.hidden = true;
     }
     applyCopy(lang);
+    hydrateEmailField(form.querySelector("[name=email]"));
 
     form.addEventListener("submit", function (event) {
       event.preventDefault();
@@ -914,6 +976,8 @@
         if (!response.ok) {
           throw new Error("subscribe_failed");
         }
+        rememberEmail(email);
+        hydrateEmailField(emailInput);
         if (status) {
           status.textContent = t(lang, "emailSuccess");
           status.className = "email-status is-success";
