@@ -802,6 +802,8 @@
 
     let lang = options && options.lang ? options.lang : getLang();
     const config = getEmailConfig();
+    const form = root.querySelector("form.email-subscribe-form");
+    const unavailable = root.querySelector(".email-unavailable");
 
     function fillNicheOptions(select, currentLang) {
       select.innerHTML = NICHES.map(function (niche) {
@@ -839,28 +841,14 @@
       }
     }
 
-    root.innerHTML =
-      '<h2 data-i18n="emailTitle"></h2>' +
-      '<p class="section-intro" data-i18n="emailIntro"></p>' +
-      (config
-        ? '<form class="email-subscribe-form" novalidate>' +
-          '<label class="email-field"><span data-i18n="emailAddress"></span>' +
-          '<input type="email" name="email" required autocomplete="email" inputmode="email"></label>' +
-          '<label class="email-field"><span data-i18n="emailNiche"></span>' +
-          '<select name="niche" required></select></label>' +
-          '<label class="email-field"><span data-i18n="emailLocale"></span>' +
-          '<select name="locale" required></select></label>' +
-          '<input type="text" name="company" class="email-honeypot" tabindex="-1" autocomplete="off" aria-hidden="true">' +
-          '<button type="submit" class="button button-primary" data-i18n="emailSubmit"></button>' +
-          '<p class="email-status" role="status" aria-live="polite"></p>' +
-          '<p class="email-note" data-i18n="emailNote"></p>' +
-          "</form>"
-        : '<p class="email-unavailable" data-i18n="emailUnavailable"></p>');
-
-    applyCopy(lang);
-
-    const form = root.querySelector("form");
-    if (!form || !config) {
+    if (!config || !form) {
+      if (form) {
+        form.hidden = true;
+      }
+      if (unavailable) {
+        unavailable.hidden = false;
+      }
+      applyCopy(lang);
       return {
         setLang: function (nextLang) {
           lang = nextLang || lang;
@@ -869,10 +857,16 @@
       };
     }
 
+    form.hidden = false;
+    if (unavailable) {
+      unavailable.hidden = true;
+    }
+    applyCopy(lang);
+
     form.addEventListener("submit", function (event) {
       event.preventDefault();
       const status = form.querySelector(".email-status");
-      const honeypot = form.querySelector("[name=company]");
+      const honeypot = form.querySelector("[name=ir_hp]");
       const emailInput = form.querySelector("[name=email]");
       const nicheSelect = form.querySelector("[name=niche]");
       const localeSelect = form.querySelector("[name=locale]");

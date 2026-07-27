@@ -53,7 +53,39 @@
     </section>
 
     <section class="section" id="email">
-      <div id="email-subscribe" class="email-subscribe"></div>
+      <div id="email-subscribe" class="email-subscribe">
+        <h2 data-i18n="emailTitle">Email briefs</h2>
+        <p class="section-intro" data-i18n="emailIntro">Full daily brief and weekly in your inbox — no Telegram required.</p>
+        <form class="email-subscribe-form" method="post" action="/email" autocomplete="on" novalidate>
+          <label class="email-field" for="email-subscribe-address">
+            <span data-i18n="emailAddress">Email</span>
+            <input
+              id="email-subscribe-address"
+              type="email"
+              name="email"
+              required
+              autocomplete="email"
+              inputmode="email"
+              autocapitalize="off"
+              autocorrect="off"
+              spellcheck="false"
+            >
+          </label>
+          <label class="email-field" for="email-subscribe-niche">
+            <span data-i18n="emailNiche">Niche</span>
+            <select id="email-subscribe-niche" name="niche" required autocomplete="off"></select>
+          </label>
+          <label class="email-field" for="email-subscribe-locale">
+            <span data-i18n="emailLocale">Language</span>
+            <select id="email-subscribe-locale" name="locale" required autocomplete="off"></select>
+          </label>
+          <input type="text" name="ir_hp" class="email-honeypot" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <button type="submit" class="button button-primary" data-i18n="emailSubmit">Subscribe</button>
+          <p class="email-status" role="status" aria-live="polite"></p>
+          <p class="email-note" data-i18n="emailNote">Unsubscribe via the link in briefs or /email off in the bot.</p>
+        </form>
+        <p class="email-unavailable" hidden data-i18n="emailUnavailable">Email subscribe is not configured yet.</p>
+      </div>
     </section>
 
     <section class="section">
@@ -75,7 +107,7 @@
   </footer>
 
   <script src="email-config.js"></script>
-  <script src="site.js?v=9"></script>
+  <script src="site.js?v=10"></script>
   <script>
     (function () {
       const site = window.IndieRadarSite;
