@@ -924,9 +924,6 @@
           status.textContent = t(lang, "emailSuccess");
           status.className = "email-status is-success";
         }
-        form.reset();
-        fillLocaleOptions(localeSelect, lang);
-        fillNicheOptions(nicheSelect, lang);
       }).catch(function () {
         if (status) {
           status.textContent = t(lang, "emailError");
