@@ -61,7 +61,7 @@
       emailNiche: "Ниша",
       emailLocale: "Язык",
       emailSubmit: "Подписаться",
-      emailSuccess: "Готово. Письма начнут приходить после ближайшего daily/weekly.",
+      emailSuccess: "Проверьте почту: нужна ссылка подтверждения. Без неё рассылка не начнётся.",
       emailError: "Не удалось подписаться. Проверьте email и попробуйте ещё раз.",
       emailUnavailable: "Подписка по email скоро будет доступна.",
       emailNote: "Отписаться: /email off в @IndieRadarBot или напишите нам."
@@ -116,7 +116,7 @@
       emailNiche: "Niche",
       emailLocale: "Language",
       emailSubmit: "Subscribe",
-      emailSuccess: "You're in. Emails start after the next daily/weekly run.",
+      emailSuccess: "Check your inbox for a confirmation link. Emails start only after you confirm.",
       emailError: "Could not subscribe. Check your email and try again.",
       emailUnavailable: "Email subscribe is not configured yet.",
       emailNote: "Unsubscribe: /email off in @IndieRadarBot or contact us."
@@ -171,7 +171,7 @@
       emailNiche: "Nicho",
       emailLocale: "Idioma",
       emailSubmit: "Suscribirse",
-      emailSuccess: "Listo. Los emails empiezan tras el próximo daily/weekly.",
+      emailSuccess: "Revisa el email: hay que confirmar el enlace. Sin eso no hay envíos.",
       emailError: "No se pudo suscribir. Revisa el email e inténtalo de nuevo.",
       emailUnavailable: "La suscripción por email aún no está configurada.",
       emailNote: "Cancelar: /email off en @IndieRadarBot o escríbenos."
@@ -226,7 +226,7 @@
       emailNiche: "Nische",
       emailLocale: "Sprache",
       emailSubmit: "Abonnieren",
-      emailSuccess: "Fertig. Mails kommen nach dem nächsten Daily/Weekly.",
+      emailSuccess: "Bitte Inbox prüfen: Bestätigungslink nötig. Ohne Bestätigung keine Mails.",
       emailError: "Abo fehlgeschlagen. E-Mail prüfen und erneut versuchen.",
       emailUnavailable: "E-Mail-Abo ist noch nicht konfiguriert.",
       emailNote: "Abmelden: /email off in @IndieRadarBot oder schreib uns."
@@ -281,7 +281,7 @@
       emailNiche: "Niche",
       emailLocale: "Langue",
       emailSubmit: "S'abonner",
-      emailSuccess: "C'est bon. Les emails commencent après le prochain daily/weekly.",
+      emailSuccess: "Vérifiez votre boîte mail : lien de confirmation requis. Sans confirmation, pas d'envoi.",
       emailError: "Inscription impossible. Vérifiez l'email et réessayez.",
       emailUnavailable: "L'abonnement email n'est pas encore configuré.",
       emailNote: "Se désabonner : /email off dans @IndieRadarBot ou écrivez-nous."

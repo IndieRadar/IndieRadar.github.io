@@ -67,7 +67,7 @@
     },
     {
       "id": "d646ef55-f000-4857-9d90-552e0ae9b8eb",
-      "name": "Revolut — Mais do que um banco",
+      "name": "Revolut",
       "number": 14
     },
     {
@@ -87,7 +87,7 @@
     },
     {
       "id": "2e59806e-c934-437b-9a8d-af862bf8e1cd",
-      "name": "GoMining – BTC Miner & Card",
+      "name": "GoMining",
       "number": 18
     },
     {
@@ -101,7 +101,7 @@
       "number": 20
     }
   ],
-  "generatedAt": "2026-07-27T16:03:08.459Z",
+  "generatedAt": "2026-07-27T16:40:16.671Z",
   "locale": "es",
   "nicheSlug": "finance"
 }

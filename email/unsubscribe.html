@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IndieRadar · Unsubscribe</title>
+  <link rel="stylesheet" href="../site.css?v=4">
+  <style>
+    .email-action { max-width: 32rem; margin: 48px auto; padding: 0 16px; }
+    .email-action h1 { font-size: 1.4rem; margin: 0 0 12px; }
+    .email-action p { color: var(--muted); }
+  </style>
+</head>
+<body>
+  <main class="email-action">
+    <h1 id="title">Unsubscribing…</h1>
+    <p id="status">Please wait.</p>
+  </main>
+  <script src="../email-config.js"></script>
+  <script>
+    (function () {
+      var title = document.getElementById("title");
+      var status = document.getElementById("status");
+      var params = new URLSearchParams(window.location.search);
+      var token = params.get("token") || "";
+      var cfg = window.IndieRadarEmailConfig;
+
+      function fail(message) {
+        title.textContent = "Could not unsubscribe";
+        status.textContent = message;
+      }
+
+      if (!token) {
+        fail("Missing unsubscribe token.");
+        return;
+      }
+
+      if (!cfg || !cfg.supabaseUrl || !cfg.supabaseAnonKey) {
+        fail("Email config is missing on this site.");
+        return;
+      }
+
+      var endpoint = String(cfg.supabaseUrl).replace(/\/$/, "") + "/rest/v1/rpc/unsubscribe_email_report";
+
+      fetch(endpoint, {
+        method: "POST",
+        headers: {
+          apikey: cfg.supabaseAnonKey,
+          Authorization: "Bearer " + cfg.supabaseAnonKey,
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ p_token: token })
+      }).then(function (response) {
+        return response.json().then(function (body) {
+          return { ok: response.ok, body: body };
+        });
+      }).then(function (result) {
+        if (result.ok && result.body && result.body.ok) {
+          title.textContent = "Unsubscribed";
+          status.textContent = "You will no longer receive IndieRadar email briefs.";
+          return;
+        }
+        fail("This link is invalid or already used.");
+      }).catch(function () {
+        fail("Network error. Try again later.");
+      });
+    })();
+  </script>
+</body>
+</html>

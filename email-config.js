@@ -1,5 +1,5 @@
-// Replace with your project values, then redeploy Pages.
-// Anon key is public; table access is locked by RLS — only subscribe_email_report RPC.
+// Public anon key is OK here (RLS + email RPCs only).
+// Copy values from Supabase → Settings → API, then redeploy Pages.
 window.IndieRadarEmailConfig = {
   supabaseUrl: "https://iwlhszxnsyxkcntqnvwg.supabase.co",
   supabaseAnonKey: "sb_publishable_jKNCBBfKvVHKieVc26PGjw_QwTz-Sd8"

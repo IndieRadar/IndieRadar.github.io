@@ -52,7 +52,7 @@
     },
     {
       "id": "7383426f-eaca-48ba-8518-f2c2eb7b08e9",
-      "name": "Endel: Sono, Relaxar e Foco",
+      "name": "Endel",
       "number": 11
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "id": "acbadf71-7202-43c7-ae03-bf0659c35090",
-      "name": "Noji – Simple study flashcards",
+      "name": "Noji",
       "number": 15
     },
     {
@@ -81,27 +81,27 @@
       "number": 16
     },
     {
-      "id": "4174d5bd-1eb1-493f-b97b-d7ac604fce4c",
-      "name": "one sec | limita o screen time",
-      "number": 17
-    },
-    {
       "id": "4041e92f-ed86-4192-8c52-4a96863bda6e",
       "name": "Wisey: Your Productive Self",
-      "number": 18
+      "number": 17
     },
     {
       "id": "860d47e3-91fb-41a2-a762-b6785b207899",
       "name": "Finch: Self-Care Pet",
-      "number": 19
+      "number": 18
     },
     {
       "id": "ff003297-11c8-40ec-8012-62e90969df01",
-      "name": "Google Agenda",
+      "name": "Google",
+      "number": 19
+    },
+    {
+      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
+      "name": "Habit Tracker",
       "number": 20
     }
   ],
-  "generatedAt": "2026-07-27T15:59:07.115Z",
+  "generatedAt": "2026-07-27T16:36:52.694Z",
   "locale": "de",
   "nicheSlug": "productivity"
 }
