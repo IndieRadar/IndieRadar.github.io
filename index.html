@@ -57,29 +57,19 @@
         <h2 data-i18n="emailTitle">Email briefs</h2>
         <p class="section-intro" data-i18n="emailIntro">Full daily brief and weekly in your inbox — no Telegram required.</p>
         <form id="email-subscribe-form" class="email-subscribe-form" method="post" action="https://indieradar.github.io/#email" autocomplete="on">
-          <label class="email-field" for="email">
+          <label class="email-field" for="subscribe-email">
             <span data-i18n="emailAddress">Email</span>
             <input
-              id="email"
+              id="subscribe-email"
               type="email"
               name="email"
               required
-              autocomplete="username"
+              autocomplete="email"
               inputmode="email"
               autocapitalize="off"
               spellcheck="false"
-              aria-label="Email"
             >
           </label>
-          <!-- Chrome shows saved login emails for username fields in a credential form. -->
-          <input
-            type="password"
-            name="password"
-            class="email-honeypot"
-            tabindex="-1"
-            autocomplete="current-password"
-            aria-hidden="true"
-          >
           <label class="email-field" for="email-niche">
             <span data-i18n="emailNiche">Niche</span>
             <select id="email-niche" name="niche" required></select>
@@ -116,7 +106,7 @@
   </footer>
 
   <script src="email-config.js"></script>
-  <script src="site.js?v=12"></script>
+  <script src="site.js?v=13"></script>
   <script>
     (function () {
       const site = window.IndieRadarSite;
