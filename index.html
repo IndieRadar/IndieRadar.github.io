@@ -64,13 +64,22 @@
               type="email"
               name="email"
               required
-              autocomplete="email"
+              autocomplete="username"
               inputmode="email"
               autocapitalize="off"
               spellcheck="false"
-              placeholder="name@example.com"
+              aria-label="Email"
             >
           </label>
+          <!-- Chrome shows saved login emails for username fields in a credential form. -->
+          <input
+            type="password"
+            name="password"
+            class="email-honeypot"
+            tabindex="-1"
+            autocomplete="current-password"
+            aria-hidden="true"
+          >
           <label class="email-field" for="email-niche">
             <span data-i18n="emailNiche">Niche</span>
             <select id="email-niche" name="niche" required></select>
@@ -83,7 +92,6 @@
           <p class="email-status" role="status" aria-live="polite"></p>
           <p class="email-note" data-i18n="emailNote">Unsubscribe via the link in briefs or /email off in the bot.</p>
         </form>
-        <!-- Outside the form so Chrome does not treat the subscribe form as a bot trap / address form. -->
         <input type="text" name="ir_hp" class="email-honeypot" tabindex="-1" autocomplete="new-password" aria-hidden="true">
         <p class="email-unavailable" hidden data-i18n="emailUnavailable">Email subscribe is not configured yet.</p>
       </div>
@@ -108,7 +116,7 @@
   </footer>
 
   <script src="email-config.js"></script>
-  <script src="site.js?v=11"></script>
+  <script src="site.js?v=12"></script>
   <script>
     (function () {
       const site = window.IndieRadarSite;
