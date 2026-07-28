@@ -1,10 +1,10 @@
 {
   "appId": "1a4d7531-c642-41c1-8d80-dd1c0527d512",
-  "appIndex": 12,
+  "appIndex": 14,
   "appName": "Focus To-Do",
-  "generatedAt": "2026-07-27T16:37:16.385Z",
+  "generatedAt": "2026-07-28T16:32:35.852Z",
   "locale": "fr",
-  "markdown": "# Focus To-Do · Productivité\n\nGénéré : 27 juil. 2026, 21:37\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n   **Bugs et stabilité.**\n      3 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 28 févr. 2026 - 28 juin 2026\n      **Pourquoi c'est important:** Les utilisateurs signalent des problèmes de fiabilité. Cela pointe des gaps de qualité qu'un concurrent peut exploiter.\n\n         **Exemples d'avis:**\n            1. _weston wilson_, 28 juin 2026, 2/5: \"Beaucoup de bugs sur l'application Windows. Le téléphone est meilleur.\"\n            2. _saints sin_, 28 févr. 2026, 2/5: \"Avant d'acheter l'abonnement à vie, il fonctionnait bien, puis il s'est arrêté, alors je l'ai acheté en pensant que c'était le problème de ne pas avoir l'abonnement et qu'il ne fonctionnait TOUJOURS pas. J'aimerais que ce problème soit résolu ou que mon argent soit remboursé s'il vous plaît.\"",
+  "markdown": "# Focus To-Do · Productivité\n\nGénéré : 28 juil. 2026, 16:32\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n   **Bugs et stabilité.**\n      3 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 27 févr. 2026 - 27 juin 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _weston wilson_, 27 juin 2026, 2/5: \"Beaucoup de bugs sur l'application Windows. Le téléphone est meilleur.\"\n            2. _saints sin_, 27 févr. 2026, 2/5: \"Avant d'acheter l'abonnement à vie, il fonctionnait bien, puis il s'est arrêté, alors je l'ai acheté en pensant que c'était le problème de ne pas avoir l'abonnement et qu'il ne fonctionnait TOUJOURS pas. J'aimerais que ce problème soit résolu ou que mon argent soit remboursé s'il vous plaît.\"",
   "nicheSlug": "productivity",
   "type": "app"
 }

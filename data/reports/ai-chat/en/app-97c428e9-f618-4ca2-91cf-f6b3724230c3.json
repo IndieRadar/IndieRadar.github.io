@@ -1,10 +1,10 @@
 {
   "appId": "97c428e9-f618-4ca2-91cf-f6b3724230c3",
   "appIndex": 8,
-  "appName": "Vibe by Mistral (ex-Le Chat)",
-  "generatedAt": "2026-07-27T16:41:41.301Z",
+  "appName": "Vibe",
+  "generatedAt": "2026-07-28T16:38:10.693Z",
   "locale": "en",
-  "markdown": "# Vibe by Mistral (ex-Le Chat) · AI Chat\n\nGenerated: Jul 27, 2026, 9:41 PM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n   **Bugs and stability.**\n      4 recent review(s) mention bugs and stability.\n      Review window: Jul 8, 2026 - Jul 23, 2026\n      **Why it matters:** Users report reliability problems. This points to quality gaps competitors can exploit.\n\n         **Review examples:**\n            1. _Nolan Johnson_, Jul 9, 2026, 3/5: \"The current version of the app feels slow compared to other providers. The first word of a response loads then the rest is blasted onto the screen all at once.\"\n            2. _Temitope Deborah_, Jul 23, 2026, 5/5: \"lovely buh slow response\"\n            3. _Rasyaghsn_, Jul 9, 2026, 5/5: \"I really love this AI—it's one of the best I've used. However, I have two issues. First, responses are often slow, even for simple questions while using Fast mode. Second, I frequently get this error: \"Error code: 6100 – Something went wrong.\" Please fix these issues to make the experience smoother and more reliable. Thank you!\"",
+  "markdown": "# Vibe · AI Chat\n\nGenerated: Jul 28, 2026, 4:38 PM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n   **Bugs and stability.**\n      4 recent review(s) mention bugs and stability.\n      Review window: Jul 8, 2026 - Jul 22, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Nolan Johnson_, Jul 9, 2026, 3/5: \"The current version of the app feels slow compared to other providers. The first word of a response loads then the rest is blasted onto the screen all at once.\"\n            2. _Temitope Deborah_, Jul 22, 2026, 5/5: \"lovely buh slow response\"\n            3. _Rasyaghsn_, Jul 9, 2026, 5/5: \"I really love this AI—it's one of the best I've used. However, I have two issues. First, responses are often slow, even for simple questions while using Fast mode. Second, I frequently get this error: \"Error code: 6100 – Something went wrong.\" Please fix these issues to make the experience smoother and more reliable. Thank you!\"",
   "nicheSlug": "ai-chat",
   "type": "app"
 }
