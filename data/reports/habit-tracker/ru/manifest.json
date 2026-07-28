@@ -12,12 +12,12 @@
     },
     {
       "id": "9d802231-58eb-4a45-aa89-3ced7bb76b9e",
-      "name": "Habit Rabbit: Habit Tracker",
+      "name": "Habit Rabbit",
       "number": 3
     },
     {
       "id": "6d4793b8-769a-4a38-9e61-ccda1c906f2f",
-      "name": "Way of Life: habit tracker",
+      "name": "Way of Life",
       "number": 4
     },
     {
@@ -42,61 +42,41 @@
     },
     {
       "id": "860d47e3-91fb-41a2-a762-b6785b207899",
-      "name": "Finch: Self-Care Pet",
+      "name": "Finch",
       "number": 9
+    },
+    {
+      "id": "9fcea1af-cf45-460a-9e8d-c622bdec965f",
+      "name": "TickTick:To-Do List & Calendar",
+      "number": 10
     },
     {
       "id": "aa7680a1-b563-4bc6-b174-e189a7eb830c",
       "name": "Habit Tracker - Habit Diary",
-      "number": 10
+      "number": 11
     },
     {
       "id": "8abfc268-acfd-41b8-a937-0c315f34a8db",
       "name": "(Not Boring) Habits",
-      "number": 11
-    },
-    {
-      "id": "451af485-4e57-456a-b0bc-61d948f71749",
-      "name": "Habit Tracker - HabitKit",
       "number": 12
     },
     {
-      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
+      "id": "451af485-4e57-456a-b0bc-61d948f71749",
       "name": "Habit Tracker",
       "number": 13
     },
     {
-      "id": "cc6fa4f2-a362-4000-8f21-715ee6fa0d61",
-      "name": "Grit: Habitudes Routines TDAH",
+      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
+      "name": "Habit Tracker",
       "number": 14
     },
     {
       "id": "82feb9b3-fe0f-412a-af1c-2600f74f1081",
       "name": "ShineDay - Habit Tracker",
       "number": 15
-    },
-    {
-      "id": "6372db7a-3afb-4a70-a1eb-d33f8df63f82",
-      "name": "I Am Sober",
-      "number": 16
-    },
-    {
-      "id": "feb6c379-d6fa-449c-a6c6-b9aa9a863e9f",
-      "name": "Habit Tracker: Abletobe",
-      "number": 17
-    },
-    {
-      "id": "5fb154b0-245e-4791-9c3e-3dc54c46cdc1",
-      "name": "Habit Me",
-      "number": 18
-    },
-    {
-      "id": "78f1a1a5-598d-45ac-ae17-76eb63103b71",
-      "name": "Loop - Habit Tracker",
-      "number": 19
     }
   ],
-  "generatedAt": "2026-07-27T16:37:39.130Z",
+  "generatedAt": "2026-07-28T07:12:36.311Z",
   "locale": "ru",
   "nicheSlug": "habit-tracker"
 }
