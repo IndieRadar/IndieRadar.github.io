@@ -2,12 +2,12 @@
   "apps": [
     {
       "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
-      "name": "Opal",
+      "name": "Opal: Screen Time Control",
       "number": 1
     },
     {
       "id": "9057fbf2-bd9d-47b0-8248-24123e49f911",
-      "name": "Forest",
+      "name": "Forest - eBike Sharing",
       "number": 2
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "id": "65d1c29c-1b0d-43b4-bd20-79a8a951596f",
-      "name": "Microsoft",
+      "name": "Microsoft To Do",
       "number": 6
     },
     {
@@ -36,47 +36,72 @@
       "number": 7
     },
     {
-      "id": "4b47b008-184d-4804-a2df-cead67696c61",
-      "name": "Calendário Google",
+      "id": "5df2eb8c-a19c-428a-a12d-432daaf1e232",
+      "name": "Toggl Track - Time Tracking",
       "number": 8
     },
     {
-      "id": "5df2eb8c-a19c-428a-a12d-432daaf1e232",
-      "name": "Toggl Track - Time Tracking",
+      "id": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
+      "name": "Microsoft To Do: Lists & Tasks",
       "number": 9
     },
     {
-      "id": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
-      "name": "Microsoft To Do",
-      "number": 10
-    },
-    {
       "id": "24d01c9a-2660-410f-9219-7cc462e83735",
-      "name": "Save Notes",
-      "number": 11
-    },
-    {
-      "id": "9fcea1af-cf45-460a-9e8d-c622bdec965f",
-      "name": "TickTick:To-Do List & Calendar",
-      "number": 12
+      "name": "Microsoft OneNote: Save Notes",
+      "number": 10
     },
     {
       "id": "7383426f-eaca-48ba-8518-f2c2eb7b08e9",
       "name": "Endel",
-      "number": 13
+      "number": 11
     },
     {
       "id": "1a4d7531-c642-41c1-8d80-dd1c0527d512",
       "name": "Focus To-Do",
-      "number": 14
+      "number": 12
     },
     {
       "id": "9ca5ba26-5c81-4952-b106-bd24e649cb1e",
       "name": "Motivation - Daily quotes",
+      "number": 13
+    },
+    {
+      "id": "07682690-aeb7-417d-bf47-cf4f66d31037",
+      "name": "Flora - Green Focus",
+      "number": 14
+    },
+    {
+      "id": "acbadf71-7202-43c7-ae03-bf0659c35090",
+      "name": "Noji",
       "number": 15
+    },
+    {
+      "id": "666aee72-0c4d-4339-af46-d72777727639",
+      "name": "Todoist",
+      "number": 16
+    },
+    {
+      "id": "4041e92f-ed86-4192-8c52-4a96863bda6e",
+      "name": "Wisey: Your Productive Self",
+      "number": 17
+    },
+    {
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch: Self-Care Pet",
+      "number": 18
+    },
+    {
+      "id": "ff003297-11c8-40ec-8012-62e90969df01",
+      "name": "Google",
+      "number": 19
+    },
+    {
+      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
+      "name": "Habit Tracker",
+      "number": 20
     }
   ],
-  "generatedAt": "2026-07-28T07:12:35.392Z",
+  "generatedAt": "2026-07-27T16:37:16.385Z",
   "locale": "fr",
   "nicheSlug": "productivity"
 }
