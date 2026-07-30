@@ -74,19 +74,9 @@
       "id": "40d28b66-782b-4944-8828-a47664b266a9",
       "name": "Kraken",
       "number": 15
-    },
-    {
-      "id": "064d4b2e-1f53-40c5-b9d6-c2523c5ce995",
-      "name": "Revolut — Bank i Inwestowanie",
-      "number": 16
-    },
-    {
-      "id": "2d0c331f-9127-4c14-963f-b52cd07d9d35",
-      "name": "Nickel",
-      "number": 17
     }
   ],
-  "generatedAt": "2026-07-28T16:36:17.652Z",
+  "generatedAt": "2026-07-30T14:28:55.830Z",
   "locale": "es",
   "nicheSlug": "finance"
 }

@@ -74,19 +74,9 @@
       "id": "3782fa66-473d-4f67-8dae-95b256541645",
       "name": "Strava",
       "number": 15
-    },
-    {
-      "id": "6c66f83d-4592-47aa-9d16-1acc80567f0b",
-      "name": "Fitness",
-      "number": 16
-    },
-    {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
-      "number": 17
     }
   ],
-  "generatedAt": "2026-07-28T16:41:10.482Z",
+  "generatedAt": "2026-07-30T14:29:46.620Z",
   "locale": "es",
   "nicheSlug": "fitness"
 }

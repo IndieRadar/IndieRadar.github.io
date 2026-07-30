@@ -74,19 +74,9 @@
       "id": "edf546df-efbe-4608-bae1-fe67ba98ae06",
       "name": "Microsoft",
       "number": 15
-    },
-    {
-      "id": "7a09d15c-3d3a-44b3-950b-9f136b6714c0",
-      "name": "ChatGO",
-      "number": 16
-    },
-    {
-      "id": "c5cc4b41-0a81-45c0-b409-4ba6633c3bf5",
-      "name": "MingloTalk: AI Character Chat",
-      "number": 17
     }
   ],
-  "generatedAt": "2026-07-28T16:39:06.624Z",
+  "generatedAt": "2026-07-30T14:29:22.081Z",
   "locale": "de",
   "nicheSlug": "ai-chat"
 }
