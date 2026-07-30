@@ -1,0 +1,10 @@
+{
+  "appId": "701b7fc2-a1e5-41f5-a841-0beb8b47b30c",
+  "appIndex": 6,
+  "appName": "HMRC",
+  "generatedAt": "2026-07-30T16:39:13.681Z",
+  "locale": "en",
+  "markdown": "# HMRC · Finance\n\nGenerated: Jul 30, 2026, 9:39 PM\n\n## **Contents** {#toc}\n\n- [Pricing and paywall](#theme-pricing_paywall)\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Pricing and paywall** {#theme-pricing_paywall}\n\n   **Pricing and paywall.**\n      1 recent review(s) mention pricing and paywall.\n      Review window: Jul 27, 2026 - Jul 27, 2026\n      **Why it matters:** Users mention price, subscriptions, or paywalls. This can signal pricing sensitivity in the niche.\n\n         **Review examples:**\n            1. _Furious vet_, Jul 27, 2026, 1/5: \"Absolutely appalled by this app and the website. I regularly keep an eye on my account and the first I knew of an adjustment payment for FY24/25 was when I received a letter stating the charge was overview. Up until that point when I logged in it told me I paid the right amount of tax. Not only did I have to pay the adjustment I also had to pay interest on a debt I did not know I had. Words do not sufficiently describe how angry I am with this and with HMRC. Disgusting.\"\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n   **Bugs and stability.**\n      2 recent review(s) mention bugs and stability.\n      Review window: Jul 13, 2026 - Jul 27, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _DCPavlov_, Jul 13, 2026, 1/5: \"I have to enter the pin every single time I open the app despite FaceID being enabled. Has been broken for years.\"\n            2. _Team Bucky_, Jul 27, 2026, 4/5: \"For some reason, my HMRC app hasn’t shown me my most recent taxable income for this month and it normally shows me a few days before my payday. I don’t know if there is a bug within the app or not.\"",
+  "nicheSlug": "finance",
+  "type": "app"
+}

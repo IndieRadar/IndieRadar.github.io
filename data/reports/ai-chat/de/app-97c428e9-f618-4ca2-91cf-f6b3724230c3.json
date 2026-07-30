@@ -1,10 +1,10 @@
 {
   "appId": "97c428e9-f618-4ca2-91cf-f6b3724230c3",
-  "appIndex": 8,
+  "appIndex": 14,
   "appName": "Vibe",
-  "generatedAt": "2026-07-30T14:29:22.081Z",
+  "generatedAt": "2026-07-30T16:40:11.298Z",
   "locale": "de",
-  "markdown": "# Vibe · KI-Chat\n\nErstellt: 30.07.2026, 19:29\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n   **Bugs und Stabilität.**\n      4 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 08.07.2026 - 23.07.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Nolan Johnson_, 09.07.2026, 3/5: \"Die aktuelle Version der App fühlt sich im Vergleich zu anderen Anbietern langsam an. Das erste Wort einer Antwort wird geladen, dann wird der Rest auf einmal auf den Bildschirm gesprengt.\"\n            2. _Temitope Deborah_, 23.07.2026, 5/5: \"Schön, aber langsame Antwort\"\n            3. _Rasyaghsn_, 09.07.2026, 5/5: \"Ich liebe diese KI wirklich – sie ist eine der besten, die ich je verwendet habe. Allerdings habe ich zwei Probleme. Erstens sind die Antworten selbst bei einfachen Fragen im Schnellmodus oft langsam. Zweitens erhalte ich häufig die Fehlermeldung: „Fehlercode: 6100 – Etwas ist schiefgelaufen.“ Bitte beheben Sie diese Probleme, um das Erlebnis reibungsloser und zuverlässiger zu gestalten. Danke schön!\"",
+  "markdown": "# Vibe · KI-Chat\n\nErstellt: 30.07.2026, 21:40\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n   **Bugs und Stabilität.**\n      3 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 08.07.2026 - 27.07.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Engr. Riad Hasan_, 27.07.2026, 1/5: \"Nach einer Aufforderung ist eine meiner Wiederholungen nicht geöffnet, stürzen Sie einfach die App ab. Andere Wiederholungen stürzen nie ab.\"\n            2. _Nolan Johnson_, 09.07.2026, 3/5: \"Die aktuelle Version der App fühlt sich im Vergleich zu anderen Anbietern langsam an. Das erste Wort einer Antwort wird geladen, dann wird der Rest auf einmal auf den Bildschirm gesprengt.\"\n            3. _Temitope Deborah_, 23.07.2026, 5/5: \"Schön, aber langsame Antwort\"",
   "nicheSlug": "ai-chat",
   "type": "app"
 }

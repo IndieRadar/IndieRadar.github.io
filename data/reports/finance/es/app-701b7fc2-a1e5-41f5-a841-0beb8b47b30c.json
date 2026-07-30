@@ -1,0 +1,10 @@
+{
+  "appId": "701b7fc2-a1e5-41f5-a841-0beb8b47b30c",
+  "appIndex": 6,
+  "appName": "HMRC",
+  "generatedAt": "2026-07-30T16:39:37.761Z",
+  "locale": "es",
+  "markdown": "# HMRC · Finanzas\n\nGenerado: 30 jul 2026, 21:39\n\n## **Contenido** {#toc}\n\n- [Precio y paywall](#theme-pricing_paywall)\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Precio y paywall** {#theme-pricing_paywall}\n\n   **Precio y paywall.**\n      1 reseña reciente menciona precio y paywall.\n      Ventana de reseñas: 27 jul 2026 - 27 jul 2026\n      **Por qué importa:** Mencionan precio, suscripciones o paywalls. Puede señalar sensibilidad al pricing en el nicho.\n\n         **Ejemplos de reseñas:**\n            1. _Furious vet_, 27 jul 2026, 1/5: \"Absolutamente consternado por esta aplicación y el sitio web. Regularmente vigilo mi cuenta y lo primero que supe de un pago de ajuste para el año fiscal 24/25 fue cuando recibí una carta indicando que el cargo era general. Hasta ese momento, cuando inicié sesión, me dijo que había pagado la cantidad correcta de impuestos. No sólo tuve que pagar el ajuste sino que también tuve que pagar intereses por una deuda que no sabía que tenía. Las palabras no describen lo suficiente lo enojado que estoy con esto y con HMRC. Desagradable.\"\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n   **Errores y estabilidad.**\n      2 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 13 jul 2026 - 27 jul 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _DCPavlov_, 13 jul 2026, 1/5: \"Tengo que ingresar el PIN cada vez que abro la aplicación a pesar de que FaceID esté habilitado. Lleva años roto.\"\n            2. _Team Bucky_, 27 jul 2026, 4/5: \"Por alguna razón, mi aplicación HMRC no me ha mostrado mi ingreso imponible más reciente para este mes y normalmente me muestra unos días antes de mi día de pago. No sé si hay algún error en la aplicación o no.\"",
+  "nicheSlug": "finance",
+  "type": "app"
+}

@@ -6,33 +6,33 @@
       "number": 1
     },
     {
+      "id": "5ee51211-f93a-432b-b2c2-2e050746c7d7",
+      "name": "Habitica",
+      "number": 2
+    },
+    {
       "id": "ed7b90ce-7a42-48d6-b7d5-b8d6b5ae83b5",
       "name": "Habit Tracker, Routine Planner",
-      "number": 2
+      "number": 3
     },
     {
       "id": "9d802231-58eb-4a45-aa89-3ced7bb76b9e",
       "name": "Habit Rabbit",
-      "number": 3
+      "number": 4
     },
     {
       "id": "6d4793b8-769a-4a38-9e61-ccda1c906f2f",
       "name": "Way of Life",
-      "number": 4
+      "number": 5
     },
     {
       "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
       "name": "Tiimo: Daily To Do List",
-      "number": 5
+      "number": 6
     },
     {
       "id": "661356d0-48a9-4d04-a931-ac2e9e6d3cb0",
       "name": "Habitify: Habit Tracker",
-      "number": 6
-    },
-    {
-      "id": "5ee51211-f93a-432b-b2c2-2e050746c7d7",
-      "name": "Habitica",
       "number": 7
     },
     {
@@ -46,8 +46,8 @@
       "number": 9
     },
     {
-      "id": "9fcea1af-cf45-460a-9e8d-c622bdec965f",
-      "name": "TickTick:To-Do List & Calendar",
+      "id": "451af485-4e57-456a-b0bc-61d948f71749",
+      "name": "Habit Tracker",
       "number": 10
     },
     {
@@ -61,22 +61,27 @@
       "number": 12
     },
     {
-      "id": "451af485-4e57-456a-b0bc-61d948f71749",
+      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
       "name": "Habit Tracker",
       "number": 13
     },
     {
-      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
-      "name": "Habit Tracker",
+      "id": "82b7ccb7-78b8-4d19-bbb0-0e3531f76240",
+      "name": "Grit: Habits, Routines, Goals",
       "number": 14
     },
     {
       "id": "82feb9b3-fe0f-412a-af1c-2600f74f1081",
       "name": "ShineDay - Habit Tracker",
       "number": 15
+    },
+    {
+      "id": "160bf2cd-6ea1-4986-94f2-c42873ba35ae",
+      "name": "HabitNow Daily Routine Planner",
+      "number": 16
     }
   ],
-  "generatedAt": "2026-07-30T14:28:27.352Z",
+  "generatedAt": "2026-07-30T16:39:10.453Z",
   "locale": "fr",
   "nicheSlug": "habit-tracker"
 }

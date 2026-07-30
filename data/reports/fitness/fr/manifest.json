@@ -6,53 +6,53 @@
       "number": 1
     },
     {
-      "id": "b4e34cde-bb68-4683-84b9-7f91d1a965a5",
-      "name": "Strava",
-      "number": 2
-    },
-    {
       "id": "2167752e-b197-4dfd-94cd-6ee73317cf56",
       "name": "BetterMe: Health Coaching",
-      "number": 3
+      "number": 2
     },
     {
       "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
       "name": "Planet Fitness",
-      "number": 4
+      "number": 3
     },
     {
       "id": "f51fc2b2-71ef-4b1b-9297-ebe3f5b17705",
       "name": "Calorie Counter",
-      "number": 5
-    },
-    {
-      "id": "66fd3630-81a1-45cd-bd85-9e4a60a1240d",
-      "name": "Liftoff: Weightlifting Tracker",
-      "number": 6
-    },
-    {
-      "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
-      "name": "ClassPass: Fitness, Spa, Salon",
-      "number": 7
+      "number": 4
     },
     {
       "id": "7ea5e767-595b-4e20-8544-40dcd5a8dada",
       "name": "Yazio",
-      "number": 8
+      "number": 5
     },
     {
-      "id": "1be8af53-53c7-4065-96f6-7c71ad9ce67f",
-      "name": "Sweat",
-      "number": 9
+      "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
+      "name": "ClassPass: Fitness, Spa, Salon",
+      "number": 6
     },
     {
       "id": "5392f3a2-c69f-4e1f-8bfc-b0cab7b9bc8b",
       "name": "Asana Rebel",
-      "number": 10
+      "number": 7
     },
     {
       "id": "91421b78-cc0d-4fe9-bbf6-98135cb02b89",
       "name": "Treino de Academia",
+      "number": 8
+    },
+    {
+      "id": "66fd3630-81a1-45cd-bd85-9e4a60a1240d",
+      "name": "Liftoff: Weightlifting Tracker",
+      "number": 9
+    },
+    {
+      "id": "1be8af53-53c7-4065-96f6-7c71ad9ce67f",
+      "name": "Sweat",
+      "number": 10
+    },
+    {
+      "id": "68f7fc64-ad54-45cc-ba7f-1eb157258622",
+      "name": "Fitness",
       "number": 11
     },
     {
@@ -74,9 +74,34 @@
       "id": "3782fa66-473d-4f67-8dae-95b256541645",
       "name": "Strava",
       "number": 15
+    },
+    {
+      "id": "1a7f9a3a-1579-46ec-a929-6c9f944c50d9",
+      "name": "Fit",
+      "number": 16
+    },
+    {
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
+      "number": 17
+    },
+    {
+      "id": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
+      "name": "Apple Fitness",
+      "number": 18
+    },
+    {
+      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
+      "name": "Fitbod Workout & Gym Planner",
+      "number": 19
+    },
+    {
+      "id": "393cb2ca-2e4a-4137-961f-f13bdd6d463f",
+      "name": "MyFitCoach",
+      "number": 20
     }
   ],
-  "generatedAt": "2026-07-30T14:30:09.617Z",
+  "generatedAt": "2026-07-30T16:41:05.832Z",
   "locale": "fr",
   "nicheSlug": "fitness"
 }

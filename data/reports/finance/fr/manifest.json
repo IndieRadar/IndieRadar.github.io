@@ -6,77 +6,97 @@
       "number": 1
     },
     {
-      "id": "f76e2b72-ce8e-40ae-940e-51ebed136aef",
-      "name": "Rocket Money - Bills & Budgets",
+      "id": "a3215d9a-27ba-4931-901b-4ffcb4fb778a",
+      "name": "Money Lover",
       "number": 2
     },
     {
-      "id": "279b5984-f2a8-487d-b5d5-7005f76a672e",
-      "name": "Yahoo Finance",
+      "id": "d646ef55-f000-4857-9d90-552e0ae9b8eb",
+      "name": "Revolut",
       "number": 3
-    },
-    {
-      "id": "90e3483f-ff64-4f88-a4bd-94d8ea047c0e",
-      "name": "Monese - A banking alternative",
-      "number": 4
     },
     {
       "id": "9ac3bb92-ddc4-49ba-95f8-7bca241d1769",
       "name": "Robinhood: Trading & Investing",
+      "number": 4
+    },
+    {
+      "id": "90e3483f-ff64-4f88-a4bd-94d8ea047c0e",
+      "name": "Monese - A banking alternative",
       "number": 5
+    },
+    {
+      "id": "701b7fc2-a1e5-41f5-a841-0beb8b47b30c",
+      "name": "HMRC",
+      "number": 6
+    },
+    {
+      "id": "2e59806e-c934-437b-9a8d-af862bf8e1cd",
+      "name": "GoMining",
+      "number": 7
     },
     {
       "id": "3584e712-1cf9-4898-878e-d8f54102209e",
       "name": "slice: UPI credit card & bank",
-      "number": 6
+      "number": 8
     },
     {
       "id": "790c3a20-674b-41ea-bb92-e4f6e5848a05",
       "name": "Carteira",
-      "number": 7
+      "number": 9
     },
     {
-      "id": "4975163e-f591-4371-a8ba-bf5a2b46b73c",
+      "id": "712ca771-bac2-49b3-a3cd-589d9ac43a86",
       "name": "TradingView",
-      "number": 8
+      "number": 10
     },
     {
       "id": "410585a9-1914-4b1b-a60f-2b6830a4a486",
       "name": "Klarna",
-      "number": 9
+      "number": 11
+    },
+    {
+      "id": "a366a050-3120-4657-beb4-b4db898daeaa",
+      "name": "Binance: Buy Bitcoin & Crypto",
+      "number": 12
     },
     {
       "id": "f06ca6d2-ce14-444e-8000-e02861a155da",
       "name": "Yahoo Finance - Stock Market",
-      "number": 10
+      "number": 13
     },
     {
-      "id": "b1c80ce3-92da-4d8b-b6ed-93c5f9e3925c",
-      "name": "Google Finance",
-      "number": 11
+      "id": "7818828a-9eaf-4109-9ef5-d8dcc748ee1d",
+      "name": "Fidelity Investments",
+      "number": 14
     },
     {
       "id": "b4ff19ca-91fe-424b-8c54-d98f0ebb7df9",
       "name": "IBKR Mobile - Invest Worldwide",
-      "number": 12
-    },
-    {
-      "id": "150ac319-f7e5-429d-aabf-d5cc5db1fda8",
-      "name": "Zindigi - All in One Finance",
-      "number": 13
-    },
-    {
-      "id": "a3215d9a-27ba-4931-901b-4ffcb4fb778a",
-      "name": "Money Lover",
-      "number": 14
+      "number": 15
     },
     {
       "id": "40d28b66-782b-4944-8828-a47664b266a9",
       "name": "Kraken",
-      "number": 15
+      "number": 16
+    },
+    {
+      "id": "10dd0819-20e7-48ed-bafb-fd49f40b24f0",
+      "name": "Snoop Finance l Budget Planner",
+      "number": 17
+    },
+    {
+      "id": "867a810d-d213-4730-8429-c6522778367c",
+      "name": "Copilot: Track & Budget Money",
+      "number": 18
+    },
+    {
+      "id": "8d9898ac-9634-46b8-aaa4-8ae5c31cf35e",
+      "name": "Blockchain.com Comprar Bitcoin",
+      "number": 19
     }
   ],
-  "generatedAt": "2026-07-30T14:28:55.172Z",
+  "generatedAt": "2026-07-30T16:39:41.383Z",
   "locale": "fr",
   "nicheSlug": "finance"
 }
