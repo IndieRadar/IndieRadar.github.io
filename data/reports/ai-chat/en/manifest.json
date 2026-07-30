@@ -46,42 +46,37 @@
       "number": 9
     },
     {
-      "id": "7e627737-df61-4caa-b62e-dc7d56c3c075",
-      "name": "Cycle AI: Chat & AI Friends",
+      "id": "ee3af5cf-2c7f-4aa1-8a44-8c4007829ba8",
+      "name": "PolyBuzz",
       "number": 10
-    },
-    {
-      "id": "e78dad0d-2d7b-482e-b487-ceb3d1c71a9a",
-      "name": "Dokichat",
-      "number": 11
-    },
-    {
-      "id": "e7d1fa91-f8d9-4c4b-bc5a-5acbdbc0673a",
-      "name": "Character AI",
-      "number": 12
     },
     {
       "id": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
       "name": "Claude",
+      "number": 11
+    },
+    {
+      "id": "7e627737-df61-4caa-b62e-dc7d56c3c075",
+      "name": "Cycle AI: Chat & AI Friends",
+      "number": 12
+    },
+    {
+      "id": "e78dad0d-2d7b-482e-b487-ceb3d1c71a9a",
+      "name": "Dokichat",
       "number": 13
+    },
+    {
+      "id": "e7d1fa91-f8d9-4c4b-bc5a-5acbdbc0673a",
+      "name": "Character AI",
+      "number": 14
     },
     {
       "id": "97c428e9-f618-4ca2-91cf-f6b3724230c3",
       "name": "Vibe",
-      "number": 14
-    },
-    {
-      "id": "e97f87d9-f5af-472b-bf5c-142df5def828",
-      "name": "Chai: Chat AI Platform",
       "number": 15
-    },
-    {
-      "id": "dd20960e-b771-4502-b995-2c22296caaa6",
-      "name": "Umělá",
-      "number": 16
     }
   ],
-  "generatedAt": "2026-07-30T16:40:07.814Z",
+  "generatedAt": "2026-07-30T23:06:23.995Z",
   "locale": "en",
   "nicheSlug": "ai-chat"
 }

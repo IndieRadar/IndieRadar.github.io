@@ -1,10 +1,10 @@
 {
   "appId": "97c428e9-f618-4ca2-91cf-f6b3724230c3",
-  "appIndex": 14,
+  "appIndex": 15,
   "appName": "Vibe",
-  "generatedAt": "2026-07-30T16:40:07.814Z",
+  "generatedAt": "2026-07-30T23:06:23.995Z",
   "locale": "en",
-  "markdown": "# Vibe · AI Chat\n\nGenerated: Jul 30, 2026, 9:40 PM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n   **Bugs and stability.**\n      3 recent review(s) mention bugs and stability.\n      Review window: Jul 8, 2026 - Jul 27, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Engr. Riad Hasan_, Jul 27, 2026, 1/5: \"After a prompt one of my replays isn't open, just crash the app. Other replays never crash.\"\n            2. _Nolan Johnson_, Jul 9, 2026, 3/5: \"The current version of the app feels slow compared to other providers. The first word of a response loads then the rest is blasted onto the screen all at once.\"\n            3. _Temitope Deborah_, Jul 23, 2026, 5/5: \"lovely buh slow response\"",
+  "markdown": "# Vibe · AI Chat\n\nGenerated: Jul 31, 2026, 4:06 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n   **Bugs and stability.**\n      3 recent review(s) mention bugs and stability.\n      Review window: Jul 8, 2026 - Jul 27, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Engr. Riad Hasan_, Jul 27, 2026, 1/5: \"After a prompt one of my replays isn't open, just crash the app. Other replays never crash.\"\n            2. _Nolan Johnson_, Jul 9, 2026, 3/5: \"The current version of the app feels slow compared to other providers. The first word of a response loads then the rest is blasted onto the screen all at once.\"\n            3. _Temitope Deborah_, Jul 23, 2026, 5/5: \"lovely buh slow response\"",
   "nicheSlug": "ai-chat",
   "type": "app"
 }

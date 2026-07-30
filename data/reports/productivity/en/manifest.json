@@ -16,8 +16,8 @@
       "number": 3
     },
     {
-      "id": "24d01c9a-2660-410f-9219-7cc462e83735",
-      "name": "Save Notes",
+      "id": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
+      "name": "Microsoft To Do",
       "number": 4
     },
     {
@@ -26,28 +26,28 @@
       "number": 5
     },
     {
+      "id": "24d01c9a-2660-410f-9219-7cc462e83735",
+      "name": "Save Notes",
+      "number": 6
+    },
+    {
       "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
       "name": "Notion: notes, tasks, AI",
-      "number": 6
+      "number": 7
     },
     {
       "id": "65d1c29c-1b0d-43b4-bd20-79a8a951596f",
       "name": "Microsoft",
-      "number": 7
-    },
-    {
-      "id": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
-      "name": "Microsoft To Do",
       "number": 8
-    },
-    {
-      "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
-      "name": "Tiimo: Daily To Do List",
-      "number": 9
     },
     {
       "id": "4b47b008-184d-4804-a2df-cead67696c61",
       "name": "Calendário Google",
+      "number": 9
+    },
+    {
+      "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
+      "name": "Tiimo: Daily To Do List",
       "number": 10
     },
     {
@@ -79,24 +79,9 @@
       "id": "5d01d46f-1645-42d4-9c21-4f7e747a663b",
       "name": "Structured - Daily Planner",
       "number": 16
-    },
-    {
-      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
-      "name": "Finch",
-      "number": 17
-    },
-    {
-      "id": "6f5237c9-71d4-437d-82e1-131305659ae3",
-      "name": "Google Keep",
-      "number": 18
-    },
-    {
-      "id": "666aee72-0c4d-4339-af46-d72777727639",
-      "name": "Todoist",
-      "number": 19
     }
   ],
-  "generatedAt": "2026-07-30T16:38:10.562Z",
+  "generatedAt": "2026-07-30T23:04:37.906Z",
   "locale": "en",
   "nicheSlug": "productivity"
 }

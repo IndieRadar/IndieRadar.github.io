@@ -74,14 +74,9 @@
       "id": "82feb9b3-fe0f-412a-af1c-2600f74f1081",
       "name": "ShineDay - Habit Tracker",
       "number": 15
-    },
-    {
-      "id": "160bf2cd-6ea1-4986-94f2-c42873ba35ae",
-      "name": "HabitNow Daily Routine Planner",
-      "number": 16
     }
   ],
-  "generatedAt": "2026-07-30T16:39:10.453Z",
+  "generatedAt": "2026-07-30T23:05:31.200Z",
   "locale": "fr",
   "nicheSlug": "habit-tracker"
 }

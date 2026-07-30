@@ -76,32 +76,12 @@
       "number": 15
     },
     {
-      "id": "1a7f9a3a-1579-46ec-a929-6c9f944c50d9",
-      "name": "Fit",
-      "number": 16
-    },
-    {
       "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
       "name": "Samsung Health",
-      "number": 17
-    },
-    {
-      "id": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
-      "name": "Apple Fitness",
-      "number": 18
-    },
-    {
-      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
-      "name": "Fitbod Workout & Gym Planner",
-      "number": 19
-    },
-    {
-      "id": "393cb2ca-2e4a-4137-961f-f13bdd6d463f",
-      "name": "MyFitCoach",
-      "number": 20
+      "number": 16
     }
   ],
-  "generatedAt": "2026-07-30T16:40:34.580Z",
+  "generatedAt": "2026-07-30T23:06:47.682Z",
   "locale": "ru",
   "nicheSlug": "fitness"
 }

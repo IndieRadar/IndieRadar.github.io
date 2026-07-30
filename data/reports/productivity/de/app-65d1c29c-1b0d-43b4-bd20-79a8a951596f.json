@@ -1,10 +1,10 @@
 {
   "appId": "65d1c29c-1b0d-43b4-bd20-79a8a951596f",
-  "appIndex": 7,
+  "appIndex": 8,
   "appName": "Microsoft",
-  "generatedAt": "2026-07-30T16:38:10.566Z",
+  "generatedAt": "2026-07-30T23:04:37.780Z",
   "locale": "de",
-  "markdown": "# Microsoft · Produktivität\n\nErstellt: 30.07.2026, 21:38\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n   **Bugs und Stabilität.**\n      5 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 29.05.2026 - 12.07.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Isemran_, 09.07.2026, 1/5: \"Stürzt ständig auf meinem iPhone und iPad ab. Ich habe mehrmals versucht, Microsoft zu kontaktieren, aber es gab keine Antwort. Schade\"\n            2. _JLSW623_, 10.06.2026, 3/5: \"Es stürzt bei mir ab, wenn ich versuche, eine neue Liste zu erstellen. Und ich habe Aufgaben verloren, wenn ich zu einer neuen Liste wechselte. Puh. Einfach weg. Jetzt muss ich für alle Fälle einen Screenshot machen, bevor ich umziehe. Ansonsten ist es großartig!\"",
+  "markdown": "# Microsoft · Produktivität\n\nErstellt: 31.07.2026, 04:04\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n   **Bugs und Stabilität.**\n      5 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 29.05.2026 - 12.07.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Isemran_, 09.07.2026, 1/5: \"Stürzt ständig auf meinem iPhone und iPad ab. Ich habe mehrmals versucht, Microsoft zu kontaktieren, aber es gab keine Antwort. Schade\"\n            2. _JLSW623_, 10.06.2026, 3/5: \"Es stürzt bei mir ab, wenn ich versuche, eine neue Liste zu erstellen. Und ich habe Aufgaben verloren, wenn ich zu einer neuen Liste wechselte. Puh. Einfach weg. Jetzt muss ich für alle Fälle einen Screenshot machen, bevor ich umziehe. Ansonsten ist es großartig!\"",
   "nicheSlug": "productivity",
   "type": "app"
 }

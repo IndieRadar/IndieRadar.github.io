@@ -11,8 +11,8 @@
       "number": 2
     },
     {
-      "id": "d646ef55-f000-4857-9d90-552e0ae9b8eb",
-      "name": "Revolut",
+      "id": "064d4b2e-1f53-40c5-b9d6-c2523c5ce995",
+      "name": "Revolut — Bank i Inwestowanie",
       "number": 3
     },
     {
@@ -21,38 +21,38 @@
       "number": 4
     },
     {
-      "id": "90e3483f-ff64-4f88-a4bd-94d8ea047c0e",
-      "name": "Monese - A banking alternative",
+      "id": "279b5984-f2a8-487d-b5d5-7005f76a672e",
+      "name": "Yahoo Finance",
       "number": 5
     },
     {
-      "id": "701b7fc2-a1e5-41f5-a841-0beb8b47b30c",
-      "name": "HMRC",
+      "id": "90e3483f-ff64-4f88-a4bd-94d8ea047c0e",
+      "name": "Monese - A banking alternative",
       "number": 6
-    },
-    {
-      "id": "2e59806e-c934-437b-9a8d-af862bf8e1cd",
-      "name": "GoMining",
-      "number": 7
-    },
-    {
-      "id": "3584e712-1cf9-4898-878e-d8f54102209e",
-      "name": "slice: UPI credit card & bank",
-      "number": 8
     },
     {
       "id": "790c3a20-674b-41ea-bb92-e4f6e5848a05",
       "name": "Carteira",
+      "number": 7
+    },
+    {
+      "id": "701b7fc2-a1e5-41f5-a841-0beb8b47b30c",
+      "name": "HMRC",
+      "number": 8
+    },
+    {
+      "id": "2e59806e-c934-437b-9a8d-af862bf8e1cd",
+      "name": "GoMining",
       "number": 9
     },
     {
-      "id": "712ca771-bac2-49b3-a3cd-589d9ac43a86",
-      "name": "TradingView",
+      "id": "3584e712-1cf9-4898-878e-d8f54102209e",
+      "name": "slice: UPI credit card & bank",
       "number": 10
     },
     {
-      "id": "410585a9-1914-4b1b-a60f-2b6830a4a486",
-      "name": "Klarna",
+      "id": "2d0c331f-9127-4c14-963f-b52cd07d9d35",
+      "name": "Nickel",
       "number": 11
     },
     {
@@ -76,27 +76,12 @@
       "number": 15
     },
     {
-      "id": "40d28b66-782b-4944-8828-a47664b266a9",
-      "name": "Kraken",
+      "id": "c8fd3b40-05d2-4aa4-a824-641d44d68440",
+      "name": "Monzo Bank - Mobile Banking",
       "number": 16
-    },
-    {
-      "id": "10dd0819-20e7-48ed-bafb-fd49f40b24f0",
-      "name": "Snoop Finance l Budget Planner",
-      "number": 17
-    },
-    {
-      "id": "867a810d-d213-4730-8429-c6522778367c",
-      "name": "Copilot: Track & Budget Money",
-      "number": 18
-    },
-    {
-      "id": "8d9898ac-9634-46b8-aaa4-8ae5c31cf35e",
-      "name": "Blockchain.com Comprar Bitcoin",
-      "number": 19
     }
   ],
-  "generatedAt": "2026-07-30T16:39:38.433Z",
+  "generatedAt": "2026-07-30T23:05:58.268Z",
   "locale": "de",
   "nicheSlug": "finance"
 }
