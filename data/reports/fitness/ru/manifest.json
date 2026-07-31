@@ -6,23 +6,23 @@
       "number": 1
     },
     {
+      "id": "7ea5e767-595b-4e20-8544-40dcd5a8dada",
+      "name": "Yazio",
+      "number": 2
+    },
+    {
       "id": "2167752e-b197-4dfd-94cd-6ee73317cf56",
       "name": "BetterMe: Health Coaching",
-      "number": 2
+      "number": 3
     },
     {
       "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
       "name": "Planet Fitness",
-      "number": 3
-    },
-    {
-      "id": "f51fc2b2-71ef-4b1b-9297-ebe3f5b17705",
-      "name": "Calorie Counter",
       "number": 4
     },
     {
-      "id": "7ea5e767-595b-4e20-8544-40dcd5a8dada",
-      "name": "Yazio",
+      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
+      "name": "Fitbod Workout & Gym Planner",
       "number": 5
     },
     {
@@ -51,37 +51,32 @@
       "number": 10
     },
     {
+      "id": "5a5cb5ab-9d02-402d-9cbf-499a655dad77",
+      "name": "Fitify",
+      "number": 11
+    },
+    {
       "id": "68f7fc64-ad54-45cc-ba7f-1eb157258622",
       "name": "Fitness",
-      "number": 11
+      "number": 12
     },
     {
       "id": "4f1dabc5-33df-4817-bf86-4058354f815c",
       "name": "Strong Workout Tracker",
-      "number": 12
+      "number": 13
     },
     {
       "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
       "name": "Google Health (Fitbit)",
-      "number": 13
+      "number": 14
     },
     {
       "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
       "name": "Mi Fitness (Xiaomi Wear Lite)",
-      "number": 14
-    },
-    {
-      "id": "3782fa66-473d-4f67-8dae-95b256541645",
-      "name": "Strava",
       "number": 15
-    },
-    {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
-      "number": 16
     }
   ],
-  "generatedAt": "2026-07-30T23:06:47.682Z",
+  "generatedAt": "2026-07-31T23:06:39.820Z",
   "locale": "ru",
   "nicheSlug": "fitness"
 }

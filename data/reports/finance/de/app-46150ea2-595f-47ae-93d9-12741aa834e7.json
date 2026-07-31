@@ -1,0 +1,10 @@
+{
+  "appId": "46150ea2-595f-47ae-93d9-12741aa834e7",
+  "appIndex": 16,
+  "appName": "HDFC Bank App",
+  "generatedAt": "2026-07-31T23:05:48.368Z",
+  "locale": "de",
+  "markdown": "# HDFC Bank App · Finanzen\n\nErstellt: 01.08.2026, 04:06\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n   **Bugs und Stabilität.**\n      2 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 30.07.2026 - 30.07.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Riyaz R_, 30.07.2026, 1/5: \"Die App stürzt ab\"\n            2. _Abhishek kumar_, 30.07.2026, 2/5: \"App-Schnittstelle ist zu langsam\"",
+  "nicheSlug": "finance",
+  "type": "app"
+}
