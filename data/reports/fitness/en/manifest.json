@@ -36,8 +36,8 @@
       "number": 7
     },
     {
-      "id": "91421b78-cc0d-4fe9-bbf6-98135cb02b89",
-      "name": "Treino de Academia",
+      "id": "74a0a93b-b0b6-4176-83ea-d986aa377594",
+      "name": "ASICS",
       "number": 8
     },
     {
@@ -46,8 +46,8 @@
       "number": 9
     },
     {
-      "id": "1be8af53-53c7-4065-96f6-7c71ad9ce67f",
-      "name": "Sweat",
+      "id": "91421b78-cc0d-4fe9-bbf6-98135cb02b89",
+      "name": "Treino de Academia",
       "number": 10
     },
     {
@@ -74,9 +74,24 @@
       "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
       "name": "Mi Fitness (Xiaomi Wear Lite)",
       "number": 15
+    },
+    {
+      "id": "e548b62f-7c7c-48b9-842c-070fdcc2ac62",
+      "name": "Google Fit",
+      "number": 16
+    },
+    {
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
+      "number": 17
+    },
+    {
+      "id": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
+      "name": "Apple Fitness",
+      "number": 18
     }
   ],
-  "generatedAt": "2026-07-31T23:06:41.063Z",
+  "generatedAt": "2026-08-01T23:05:43.870Z",
   "locale": "en",
   "nicheSlug": "fitness"
 }

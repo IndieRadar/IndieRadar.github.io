@@ -1,0 +1,10 @@
+{
+  "appId": "e548b62f-7c7c-48b9-842c-070fdcc2ac62",
+  "appIndex": 16,
+  "appName": "Google Fit",
+  "generatedAt": "2026-08-01T23:05:43.870Z",
+  "locale": "en",
+  "markdown": "# Google Fit · Fitness\n\nGenerated: Aug 2, 2026, 4:06 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n   **Bugs and stability.**\n      4 recent review(s) mention bugs and stability.\n      Review window: Jul 27, 2026 - Jul 31, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Amit Godara_, Jul 27, 2026, 1/5: \"Today I have completed 12,000 steps, but even after Google Fit showed all 12,000 steps, it later reset and started showing only 10,000 steps again. This has happened to me twice, and because of this issue I am unable to complete my step goal. Please fix this issue as soon as possible. please fix it. Same issue again and again\"\n            2. _Majestic Lamb_, Jul 31, 2026, 3/5: \"It was very nice to have stats to track your progress and the sync feature is really great. my one hang up is that when you're not synced with any other app, the heart point monitor will bug out and not count, or will do so at random intervals. It is very demoralizing if you were chasing scores to keep yourself going and the heart points don't count or just increase out of nowhere.\"\n            3. _Israel Oyeboade_, Jul 28, 2026, 4/5: \"The last update has added bugs to the app. The heart point addition functionality is broken.\"",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

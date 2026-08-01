@@ -1,0 +1,10 @@
+{
+  "appId": "86475b88-e94f-4cf7-825d-e8ecb9264cd8",
+  "appIndex": 17,
+  "appName": "ChatGPT",
+  "generatedAt": "2026-08-01T23:05:14.682Z",
+  "locale": "en",
+  "markdown": "# ChatGPT · AI Chat\n\nGenerated: Aug 2, 2026, 4:05 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n   **Bugs and stability.**\n      1 recent review(s) mention bugs and stability.\n      Review window: Jul 19, 2026 - Jul 31, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Weather_girl_, Jul 19, 2026, 1/5: \"I can no longer access the app as I’m completely frozen out. I’ve done all the things I was asked, I’ve deleted/ reinstalled and rebooted and still can’t get past the frozen screen. Really disappointed.\"\n            2. _TechTL_, Jul 31, 2026, 2/5: \"I love GPT but the recent updates have caused black screens and won’t render the threads. My SE phone with 4GB of RAM went handle the new heavier WebKit rendering. I’m switching to CoPilot which has a lighter WebKit for the phone. If you are seeing a black screen or getting slow performance, you can switch to CoPilot. This is terrible that ChatGPT did this recently. I’m glad I didn’t upgrade to a paid plan. They are basically making it so 50% of us cannot use the software bc the new updates are too RAM heavy for so many phones.\"\n            3. _Alexandruionut28_, Jul 19, 2026, 3/5: \"The app has lag when generating a response or when I tap on a saved conversation topic.\"",
+  "nicheSlug": "ai-chat",
+  "type": "app"
+}

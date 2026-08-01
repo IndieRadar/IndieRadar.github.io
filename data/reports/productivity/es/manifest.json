@@ -1,13 +1,13 @@
 {
   "apps": [
     {
-      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
-      "name": "Opal",
+      "id": "9057fbf2-bd9d-47b0-8248-24123e49f911",
+      "name": "Forest",
       "number": 1
     },
     {
-      "id": "9057fbf2-bd9d-47b0-8248-24123e49f911",
-      "name": "Forest",
+      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
+      "name": "Opal",
       "number": 2
     },
     {
@@ -26,13 +26,13 @@
       "number": 5
     },
     {
-      "id": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
-      "name": "Microsoft To Do",
+      "id": "f848c3aa-7ac4-4fd5-95f3-4d80f9782235",
+      "name": "Forest: Focus for Productivity",
       "number": 6
     },
     {
-      "id": "f848c3aa-7ac4-4fd5-95f3-4d80f9782235",
-      "name": "Forest: Focus for Productivity",
+      "id": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
+      "name": "Microsoft To Do",
       "number": 7
     },
     {
@@ -66,17 +66,37 @@
       "number": 13
     },
     {
-      "id": "7383426f-eaca-48ba-8518-f2c2eb7b08e9",
-      "name": "Endel",
+      "id": "1a4d7531-c642-41c1-8d80-dd1c0527d512",
+      "name": "Focus To-Do",
       "number": 14
     },
     {
-      "id": "1a4d7531-c642-41c1-8d80-dd1c0527d512",
-      "name": "Focus To-Do",
+      "id": "9ca5ba26-5c81-4952-b106-bd24e649cb1e",
+      "name": "Motivation - Daily quotes",
       "number": 15
+    },
+    {
+      "id": "cda5c30e-8fb4-452e-aa9f-aed89f9190bc",
+      "name": "Ome - Ai Productivity App",
+      "number": 16
+    },
+    {
+      "id": "666aee72-0c4d-4339-af46-d72777727639",
+      "name": "Todoist",
+      "number": 17
+    },
+    {
+      "id": "a871684c-de17-4231-b571-53c71c488fa0",
+      "name": "Atoms - from Atomic Habits",
+      "number": 18
+    },
+    {
+      "id": "21f27a8c-dc70-4494-93d5-39457e0987b6",
+      "name": "Do! - Simple To Do List",
+      "number": 19
     }
   ],
-  "generatedAt": "2026-07-31T23:04:28.718Z",
+  "generatedAt": "2026-08-01T23:03:27.012Z",
   "locale": "es",
   "nicheSlug": "productivity"
 }
