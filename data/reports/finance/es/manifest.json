@@ -11,23 +11,23 @@
       "number": 2
     },
     {
-      "id": "7818828a-9eaf-4109-9ef5-d8dcc748ee1d",
-      "name": "Fidelity Investments",
+      "id": "a3215d9a-27ba-4931-901b-4ffcb4fb778a",
+      "name": "Money Lover",
       "number": 3
     },
     {
-      "id": "a3215d9a-27ba-4931-901b-4ffcb4fb778a",
-      "name": "Money Lover",
+      "id": "f21839d8-3fdd-439a-bee3-4417854eb101",
+      "name": "Gastos",
       "number": 4
     },
     {
-      "id": "d646ef55-f000-4857-9d90-552e0ae9b8eb",
-      "name": "Revolut",
+      "id": "6669339f-5957-4617-a7bd-8ddaaf4081fc",
+      "name": "Revolut — Banking & Beyond",
       "number": 5
     },
     {
-      "id": "d023fe91-909f-495f-bca4-ae838dd9dd01",
-      "name": "Robinhood: Trading & Investing",
+      "id": "7818828a-9eaf-4109-9ef5-d8dcc748ee1d",
+      "name": "Fidelity Investments",
       "number": 6
     },
     {
@@ -36,18 +36,18 @@
       "number": 7
     },
     {
-      "id": "f21839d8-3fdd-439a-bee3-4417854eb101",
-      "name": "Gastos",
+      "id": "790c3a20-674b-41ea-bb92-e4f6e5848a05",
+      "name": "Carteira",
       "number": 8
     },
     {
-      "id": "790c3a20-674b-41ea-bb92-e4f6e5848a05",
-      "name": "Carteira",
+      "id": "d023fe91-909f-495f-bca4-ae838dd9dd01",
+      "name": "Robinhood: Trading & Investing",
       "number": 9
     },
     {
-      "id": "2d0c331f-9127-4c14-963f-b52cd07d9d35",
-      "name": "Nickel",
+      "id": "8d9898ac-9634-46b8-aaa4-8ae5c31cf35e",
+      "name": "Blockchain.com Comprar Bitcoin",
       "number": 10
     },
     {
@@ -66,22 +66,32 @@
       "number": 13
     },
     {
-      "id": "46150ea2-595f-47ae-93d9-12741aa834e7",
-      "name": "HDFC Bank App",
+      "id": "150ac319-f7e5-429d-aabf-d5cc5db1fda8",
+      "name": "Zindigi - All in One Finance",
       "number": 14
     },
     {
-      "id": "9ac3bb92-ddc4-49ba-95f8-7bca241d1769",
-      "name": "Robinhood: Trading & Investing",
+      "id": "46150ea2-595f-47ae-93d9-12741aa834e7",
+      "name": "HDFC Bank App",
       "number": 15
     },
     {
-      "id": "e6b2ee06-965a-4be0-b1a7-917257506e1d",
-      "name": "Trade Republic: Broker & Bank",
+      "id": "f0b62f27-b9af-4c6e-bb21-27149cae09f9",
+      "name": "Cash App",
       "number": 16
+    },
+    {
+      "id": "bfcd2111-7b16-4603-9607-188cd84ea663",
+      "name": "TradingView",
+      "number": 17
+    },
+    {
+      "id": "d646ef55-f000-4857-9d90-552e0ae9b8eb",
+      "name": "Revolut",
+      "number": 18
     }
   ],
-  "generatedAt": "2026-08-01T23:04:48.517Z",
+  "generatedAt": "2026-08-02T23:05:24.722Z",
   "locale": "es",
   "nicheSlug": "finance"
 }

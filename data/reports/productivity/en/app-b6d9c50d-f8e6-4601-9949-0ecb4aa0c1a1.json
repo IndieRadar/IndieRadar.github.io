@@ -1,10 +1,10 @@
 {
   "appId": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
-  "appIndex": 7,
+  "appIndex": 6,
   "appName": "Microsoft To Do",
-  "generatedAt": "2026-08-01T23:03:26.710Z",
+  "generatedAt": "2026-08-02T23:04:07.681Z",
   "locale": "en",
-  "markdown": "# Microsoft To Do · Productivity\n\nGenerated: Aug 2, 2026, 4:03 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n   **Bugs and stability.**\n      5 recent review(s) mention bugs and stability.\n      Review window: May 21, 2026 - Jul 29, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Denis Patrice_, Jul 29, 2026, 1/5: \"The notes section of a task actively refuses to scroll. This makes the tool unusable for... creating notes on small screen. A big name, a poor app. Deinstalled.\"\n            2. _Shreeya Karnik_, Jul 29, 2026, 1/5: \"The widget is extremely buggy. The main reason I got this app is to use the widget, the widget never loads properly or stops working.\"\n            3. _James Anderson_, Jul 15, 2026, 1/5: \"Android device list syncing is so so broken since the last release or two. Such a shame, used to be a decent app.\"",
+  "markdown": "# Microsoft To Do · Productivity\n\nGenerated: Aug 3, 2026, 4:04 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n   **Bugs and stability.**\n      5 recent review(s) mention bugs and stability.\n      Review window: May 21, 2026 - Jul 29, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Denis Patrice_, Jul 29, 2026, 1/5: \"The notes section of a task actively refuses to scroll. This makes the tool unusable for... creating notes on small screen. A big name, a poor app. Deinstalled.\"\n            2. _Shreeya Karnik_, Jul 29, 2026, 1/5: \"The widget is extremely buggy. The main reason I got this app is to use the widget, the widget never loads properly or stops working.\"\n            3. _James Anderson_, Jul 15, 2026, 1/5: \"Android device list syncing is so so broken since the last release or two. Such a shame, used to be a decent app.\"",
   "nicheSlug": "productivity",
   "type": "app"
 }

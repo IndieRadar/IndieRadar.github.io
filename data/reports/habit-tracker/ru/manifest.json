@@ -26,8 +26,8 @@
       "number": 5
     },
     {
-      "id": "830db64a-7f9e-4fc5-b294-c754641ad955",
-      "name": "Fabulous: Daily Habit Tracker",
+      "id": "3d634d39-1d2f-4275-ba58-f4c11d49f64c",
+      "name": "Fabulous",
       "number": 6
     },
     {
@@ -41,13 +41,13 @@
       "number": 8
     },
     {
-      "id": "a871684c-de17-4231-b571-53c71c488fa0",
-      "name": "Atoms - from Atomic Habits",
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch",
       "number": 9
     },
     {
-      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
-      "name": "Finch",
+      "id": "a871684c-de17-4231-b571-53c71c488fa0",
+      "name": "Atoms - from Atomic Habits",
       "number": 10
     },
     {
@@ -66,17 +66,17 @@
       "number": 13
     },
     {
-      "id": "9fcea1af-cf45-460a-9e8d-c622bdec965f",
-      "name": "TickTick:To-Do List & Calendar",
+      "id": "b73ccd09-ee48-4764-ac77-4f09d0e7fa84",
+      "name": "Habit Tracker",
       "number": 14
     },
     {
-      "id": "b73ccd09-ee48-4764-ac77-4f09d0e7fa84",
-      "name": "Habit Tracker",
+      "id": "82feb9b3-fe0f-412a-af1c-2600f74f1081",
+      "name": "ShineDay - Habit Tracker",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-01T23:03:56.689Z",
+  "generatedAt": "2026-08-02T23:04:35.716Z",
   "locale": "ru",
   "nicheSlug": "habit-tracker"
 }

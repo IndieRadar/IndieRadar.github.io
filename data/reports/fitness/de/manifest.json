@@ -1,13 +1,13 @@
 {
   "apps": [
     {
-      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
-      "name": "MyFitnessPal",
+      "id": "7ea5e767-595b-4e20-8544-40dcd5a8dada",
+      "name": "Yazio",
       "number": 1
     },
     {
-      "id": "7ea5e767-595b-4e20-8544-40dcd5a8dada",
-      "name": "Yazio",
+      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
+      "name": "MyFitnessPal",
       "number": 2
     },
     {
@@ -16,13 +16,13 @@
       "number": 3
     },
     {
-      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
-      "name": "Planet Fitness",
+      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
+      "name": "Fitbod Workout & Gym Planner",
       "number": 4
     },
     {
-      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
-      "name": "Fitbod Workout & Gym Planner",
+      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
+      "name": "Planet Fitness",
       "number": 5
     },
     {
@@ -71,27 +71,22 @@
       "number": 14
     },
     {
-      "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
-      "name": "Mi Fitness (Xiaomi Wear Lite)",
+      "id": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
+      "name": "Apple Fitness",
       "number": 15
     },
     {
-      "id": "e548b62f-7c7c-48b9-842c-070fdcc2ac62",
-      "name": "Google Fit",
+      "id": "a888cbe7-05f6-41a0-9386-a3662b485667",
+      "name": "Mi Fitness (Xiaomi Wear)",
       "number": 16
     },
     {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
+      "id": "d2981e85-bf81-4f07-a8de-1bf0993dd233",
+      "name": "Basic-Fit",
       "number": 17
-    },
-    {
-      "id": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
-      "name": "Apple Fitness",
-      "number": 18
     }
   ],
-  "generatedAt": "2026-08-01T23:05:48.655Z",
+  "generatedAt": "2026-08-02T23:06:25.401Z",
   "locale": "de",
   "nicheSlug": "fitness"
 }

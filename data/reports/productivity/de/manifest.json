@@ -11,38 +11,38 @@
       "number": 2
     },
     {
-      "id": "24d01c9a-2660-410f-9219-7cc462e83735",
-      "name": "Save Notes",
-      "number": 3
-    },
-    {
       "id": "81bae47e-3f2e-40c8-b2ba-de0af605196e",
       "name": "Notebook",
-      "number": 4
+      "number": 3
     },
     {
       "id": "2c6aee23-fec2-46ad-a66c-b6a01dd5ce45",
       "name": "Notion: Notes, Tasks, AI",
-      "number": 5
+      "number": 4
     },
     {
       "id": "f848c3aa-7ac4-4fd5-95f3-4d80f9782235",
       "name": "Forest: Focus for Productivity",
-      "number": 6
+      "number": 5
     },
     {
       "id": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
       "name": "Microsoft To Do",
-      "number": 7
+      "number": 6
     },
     {
       "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
       "name": "Notion: notes, tasks, AI",
-      "number": 8
+      "number": 7
     },
     {
       "id": "65d1c29c-1b0d-43b4-bd20-79a8a951596f",
       "name": "Microsoft",
+      "number": 8
+    },
+    {
+      "id": "24d01c9a-2660-410f-9219-7cc462e83735",
+      "name": "Save Notes",
       "number": 9
     },
     {
@@ -61,42 +61,27 @@
       "number": 12
     },
     {
-      "id": "9fcea1af-cf45-460a-9e8d-c622bdec965f",
-      "name": "TickTick:To-Do List & Calendar",
-      "number": 13
-    },
-    {
       "id": "1a4d7531-c642-41c1-8d80-dd1c0527d512",
       "name": "Focus To-Do",
-      "number": 14
+      "number": 13
     },
     {
       "id": "9ca5ba26-5c81-4952-b106-bd24e649cb1e",
       "name": "Motivation - Daily quotes",
+      "number": 14
+    },
+    {
+      "id": "acbadf71-7202-43c7-ae03-bf0659c35090",
+      "name": "Noji",
       "number": 15
     },
     {
-      "id": "cda5c30e-8fb4-452e-aa9f-aed89f9190bc",
-      "name": "Ome - Ai Productivity App",
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch",
       "number": 16
-    },
-    {
-      "id": "666aee72-0c4d-4339-af46-d72777727639",
-      "name": "Todoist",
-      "number": 17
-    },
-    {
-      "id": "a871684c-de17-4231-b571-53c71c488fa0",
-      "name": "Atoms - from Atomic Habits",
-      "number": 18
-    },
-    {
-      "id": "21f27a8c-dc70-4494-93d5-39457e0987b6",
-      "name": "Do! - Simple To Do List",
-      "number": 19
     }
   ],
-  "generatedAt": "2026-08-01T23:03:26.851Z",
+  "generatedAt": "2026-08-02T23:04:07.932Z",
   "locale": "de",
   "nicheSlug": "productivity"
 }
