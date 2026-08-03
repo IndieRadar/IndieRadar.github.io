@@ -8,7 +8,7 @@ Workflows remain available for **manual** `workflow_dispatch` only.
 
 | Job | When | Script |
 |---|---|---|
-| Nightly crawl + verify + export + Telegram pulse | Daily **03:00** | `scripts/local-ops/nightly.sh` |
+| Nightly crawl + verify + cleanup + export + Telegram pulse | Daily **03:00** | `scripts/local-ops/nightly.sh` |
 | Weekly Telegram summary | Sunday **09:00** | `scripts/local-ops/weekly-telegram.sh` |
 | Weekly theme rollups | Sunday **09:30** | `scripts/local-ops/weekly-rollup.sh` |
 
@@ -42,6 +42,7 @@ npm run ops:uninstall-schedule
 ## Notes
 
 - Credentials come from repo `.env` (same as local `npm run dev:crawler`).
+- After crawl verify, nightly runs `npm run cleanup:source-items` (default: delete `source_items` older than **180 days**; keeps `app_market_snapshots` + `niche_theme_weekly_rollups`).
 - Pages deploy runs via `gh` (or `PAGES_DEPLOY_TOKEN`) after export; Telegram pulse runs **only after** live Pages verification (`npm run verify:pages`).
 - IndieRadar git auto-commit is skipped locally.
 - Trend backfill stays **manual** (GHA workflow_dispatch or local `npm run crawl:trends-backfill`) — not on the daily schedule.

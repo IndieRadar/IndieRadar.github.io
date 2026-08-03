@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IndieRadar · Beta feedback</title>
+  <meta name="description" content="Short beta feedback poll for IndieRadar — what works, what does not, and what to build next.">
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="../site.css?v=5">
+</head>
+<body class="feedback-page">
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="logo" href="/">Indie<span>Radar</span></a>
+      <div class="site-header-actions">
+        <span class="site-tagline" data-i18n="tagline">Public daily briefs for App Store and Google Play niches</span>
+        <div id="lang-switch" class="lang-switch" role="group" aria-label="Language"></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="feedback-main">
+    <div class="feedback-intro">
+      <p class="badge" data-i18n="badge">Closed beta</p>
+      <h1 data-i18n="title">Beta feedback</h1>
+      <p class="lead" data-i18n="lead">Five short questions — what works, what does not, and one open note. Optional comments under each.</p>
+    </div>
+
+    <form id="feedback-form" class="feedback-form" novalidate>
+      <fieldset class="feedback-q" data-qid="usefulness">
+        <legend data-i18n="q1">How useful is IndieRadar for you right now?</legend>
+        <div class="feedback-options" role="radiogroup" data-type="single" data-key="usefulness">
+          <label class="feedback-chip"><input type="radio" name="usefulness" value="1"><span>1</span></label>
+          <label class="feedback-chip"><input type="radio" name="usefulness" value="2"><span>2</span></label>
+          <label class="feedback-chip"><input type="radio" name="usefulness" value="3"><span>3</span></label>
+          <label class="feedback-chip"><input type="radio" name="usefulness" value="4"><span>4</span></label>
+          <label class="feedback-chip"><input type="radio" name="usefulness" value="5"><span>5</span></label>
+        </div>
+        <p class="feedback-scale-hint"><span data-i18n="q1Low">Not useful</span><span data-i18n="q1High">Very useful</span></p>
+        <label class="feedback-comment">
+          <span data-i18n="commentLabel">Optional comment</span>
+          <textarea name="usefulness_comment" rows="2" maxlength="800" data-i18n-placeholder="commentPlaceholder" placeholder="Anything to add…"></textarea>
+        </label>
+      </fieldset>
+
+      <fieldset class="feedback-q" data-qid="best">
+        <legend data-i18n="q2">What works best? (pick all that apply)</legend>
+        <div class="feedback-options" data-type="multi" data-key="best">
+          <label class="feedback-chip"><input type="checkbox" name="best" value="review_themes"><span data-i18n="optThemes">Review themes</span></label>
+          <label class="feedback-chip"><input type="checkbox" name="best" value="priority_signals"><span data-i18n="optPriority">Priority signals</span></label>
+          <label class="feedback-chip"><input type="checkbox" name="best" value="focus_view"><span data-i18n="optFocus">Focus view</span></label>
+          <label class="feedback-chip"><input type="checkbox" name="best" value="weekly"><span data-i18n="optWeekly">Weekly brief</span></label>
+          <label class="feedback-chip"><input type="checkbox" name="best" value="telegram"><span data-i18n="optTelegram">Telegram pulse</span></label>
+          <label class="feedback-chip"><input type="checkbox" name="best" value="email"><span data-i18n="optEmail">Email delivery</span></label>
+          <label class="feedback-chip"><input type="checkbox" name="best" value="web_reports"><span data-i18n="optWeb">Web reports</span></label>
+        </div>
+        <label class="feedback-comment">
+          <span data-i18n="commentLabel">Optional comment</span>
+          <textarea name="best_comment" rows="2" maxlength="800" data-i18n-placeholder="commentPlaceholder" placeholder="Anything to add…"></textarea>
+        </label>
+      </fieldset>
+
+      <fieldset class="feedback-q" data-qid="worst">
+        <legend data-i18n="q3">What is weak or noisy? (pick all that apply)</legend>
+        <div class="feedback-options" data-type="multi" data-key="worst">
+          <label class="feedback-chip"><input type="checkbox" name="worst" value="bugs_noise"><span data-i18n="optBugsNoise">Too many bug mentions</span></label>
+          <label class="feedback-chip"><input type="checkbox" name="worst" value="irrelevant"><span data-i18n="optIrrelevant">Irrelevant apps / signals</span></label>
+          <label class="feedback-chip"><input type="checkbox" name="worst" value="too_long"><span data-i18n="optTooLong">Too long / hard to scan</span></label>
+          <label class="feedback-chip"><input type="checkbox" name="worst" value="hard_navigate"><span data-i18n="optHardNav">Hard to navigate</span></label>
+          <label class="feedback-chip"><input type="checkbox" name="worst" value="delivery"><span data-i18n="optDelivery">Delivery timing / channel</span></label>
+          <label class="feedback-chip"><input type="checkbox" name="worst" value="nothing"><span data-i18n="optNothing">Nothing major</span></label>
+        </div>
+        <label class="feedback-comment">
+          <span data-i18n="commentLabel">Optional comment</span>
+          <textarea name="worst_comment" rows="2" maxlength="800" data-i18n-placeholder="commentPlaceholder" placeholder="Anything to add…"></textarea>
+        </label>
+      </fieldset>
+
+      <fieldset class="feedback-q" data-qid="habit">
+        <legend data-i18n="q4">How often do you actually open the brief?</legend>
+        <div class="feedback-options" role="radiogroup" data-type="single" data-key="habit">
+          <label class="feedback-chip"><input type="radio" name="habit" value="daily"><span data-i18n="optDaily">Almost daily</span></label>
+          <label class="feedback-chip"><input type="radio" name="habit" value="few_week"><span data-i18n="optFewWeek">A few times a week</span></label>
+          <label class="feedback-chip"><input type="radio" name="habit" value="rarely"><span data-i18n="optRarely">Rarely</span></label>
+          <label class="feedback-chip"><input type="radio" name="habit" value="never"><span data-i18n="optNever">Not yet / never</span></label>
+        </div>
+        <label class="feedback-comment">
+          <span data-i18n="commentLabel">Optional comment</span>
+          <textarea name="habit_comment" rows="2" maxlength="800" data-i18n-placeholder="commentPlaceholder" placeholder="Anything to add…"></textarea>
+        </label>
+      </fieldset>
+
+      <fieldset class="feedback-q" data-qid="recommend">
+        <legend data-i18n="q5">Would you recommend IndieRadar to another indie?</legend>
+        <div class="feedback-options" role="radiogroup" data-type="single" data-key="recommend">
+          <label class="feedback-chip"><input type="radio" name="recommend" value="yes"><span data-i18n="optYes">Yes</span></label>
+          <label class="feedback-chip"><input type="radio" name="recommend" value="maybe"><span data-i18n="optMaybe">Maybe later</span></label>
+          <label class="feedback-chip"><input type="radio" name="recommend" value="no"><span data-i18n="optNo">No</span></label>
+        </div>
+        <label class="feedback-comment">
+          <span data-i18n="commentLabel">Optional comment</span>
+          <textarea name="recommend_comment" rows="2" maxlength="800" data-i18n-placeholder="commentPlaceholder" placeholder="Anything to add…"></textarea>
+        </label>
+      </fieldset>
+
+      <fieldset class="feedback-q feedback-q-freeform" data-qid="freeform">
+        <legend data-i18n="qFree">What should we fix or build next?</legend>
+        <label class="feedback-comment feedback-comment-primary">
+          <span class="visually-hidden" data-i18n="qFree">What should we fix or build next?</span>
+          <textarea name="freeform" rows="4" maxlength="4000" data-i18n-placeholder="freePlaceholder" placeholder="One concrete wish, complaint, or idea…"></textarea>
+        </label>
+      </fieldset>
+
+      <label class="feedback-comment">
+        <span data-i18n="emailLabel">Email (optional, if we may follow up)</span>
+        <input type="email" name="contact_email" autocomplete="email" maxlength="200" inputmode="email" autocapitalize="off" spellcheck="false">
+      </label>
+
+      <input type="text" name="ir_hp" class="email-honeypot" tabindex="-1" autocomplete="new-password" aria-hidden="true">
+
+      <div class="feedback-actions">
+        <button type="submit" class="button button-primary" data-i18n="submit">Send feedback</button>
+        <p class="feedback-status" role="status" aria-live="polite"></p>
+      </div>
+      <p class="feedback-note" data-i18n="note">Thanks — this goes straight to the IndieRadar inbox for the beta.</p>
+    </form>
+
+    <div id="feedback-done" class="feedback-done" hidden>
+      <h2 data-i18n="thanksTitle">Thank you</h2>
+      <p data-i18n="thanksBody">Got it. Your answers help shape what we ship next.</p>
+      <a class="button button-secondary" href="/" data-i18n="backHome">Back to IndieRadar</a>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      <span data-i18n="footer">Public store data · no sign-up</span>
+      · <a href="https://t.me/IndieRadarBot" data-i18n="telegram">Telegram bot</a>
+      · <a href="/">Home</a>
+    </p>
+  </footer>
+
+  <script src="../email-config.js"></script>
+  <script src="../site.js?v=15"></script>
+  <script src="feedback.js"></script>
+</body>
+</html>

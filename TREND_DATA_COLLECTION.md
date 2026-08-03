@@ -18,6 +18,7 @@ Append-only history so IndieRadar can build a niche trend report in 3–6 months
 | Window | Use |
 |---|---|
 | 90 days | Daily / weekly brief (existing) |
+| **180 days** | Raw `source_items` retention (nightly cleanup deletes older rows) |
 | **6 months** | Target for first trend report |
 | 12 months | Metrics + rollups (not full raw reviews) |
 
