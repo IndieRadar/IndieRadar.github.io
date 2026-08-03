@@ -41,6 +41,7 @@
       home: "Все ниши",
       daily: "Ежедневная",
       weekly: "Еженедельная",
+      focus: "Focus",
       noApps: "Список приложений пуст",
       footer: "Публичные данные из стора · без регистрации",
       telegram: "Telegram-бот",
@@ -50,6 +51,7 @@
       exampleLabel: "Пример:",
       exampleOr: "или",
       periodWeek: " · неделя",
+      periodFocus: " · focus",
       appFallback: "Приложение",
       languageAria: "Язык",
       periodNavAria: "Период отчёта",
@@ -96,6 +98,7 @@
       home: "All niches",
       daily: "Daily",
       weekly: "Weekly",
+      focus: "Focus",
       noApps: "No exported apps",
       footer: "Public store data · no sign-up",
       telegram: "Telegram bot",
@@ -105,6 +108,7 @@
       exampleLabel: "Example:",
       exampleOr: "or",
       periodWeek: " · week",
+      periodFocus: " · focus",
       appFallback: "App",
       languageAria: "Language",
       periodNavAria: "Report period",
@@ -151,6 +155,7 @@
       home: "Todos los nichos",
       daily: "Diaria",
       weekly: "Semanal",
+      focus: "Focus",
       noApps: "Lista de apps vacía",
       footer: "Datos públicos de las stores · sin registro",
       telegram: "Bot de Telegram",
@@ -160,6 +165,7 @@
       exampleLabel: "Ejemplo:",
       exampleOr: "o",
       periodWeek: " · semana",
+      periodFocus: " · focus",
       appFallback: "App",
       languageAria: "Idioma",
       periodNavAria: "Periodo del informe",
@@ -206,6 +212,7 @@
       home: "Alle Nischen",
       daily: "Täglich",
       weekly: "Wöchentlich",
+      focus: "Focus",
       noApps: "Keine exportierten Apps",
       footer: "Öffentliche Store-Daten · ohne Registrierung",
       telegram: "Telegram-Bot",
@@ -215,6 +222,7 @@
       exampleLabel: "Beispiel:",
       exampleOr: "oder",
       periodWeek: " · Woche",
+      periodFocus: " · focus",
       appFallback: "App",
       languageAria: "Sprache",
       periodNavAria: "Report-Zeitraum",
@@ -261,6 +269,7 @@
       home: "Toutes les niches",
       daily: "Quotidien",
       weekly: "Hebdomadaire",
+      focus: "Focus",
       noApps: "Aucune app exportée",
       footer: "Données publiques des stores · sans inscription",
       telegram: "Bot Telegram",
@@ -270,6 +279,7 @@
       exampleLabel: "Exemple :",
       exampleOr: "ou",
       periodWeek: " · semaine",
+      periodFocus: " · focus",
       appFallback: "App",
       languageAria: "Langue",
       periodNavAria: "Période du rapport",
@@ -340,6 +350,10 @@
 
     if (options.period === "week") {
       return base + "/week/";
+    }
+
+    if (options.period === "focus") {
+      return base + "/focus/";
     }
 
     return base + "/";
@@ -434,17 +448,17 @@
 
   function parseReportPath(pathname) {
     pathname = pathname || window.location.pathname;
-    const match = pathname.match(/^\/report\/([^/]+)\/(ru|en|es|de|fr)(?:\/(week|app\/([^/]+)))?\/?$/);
+    const match = pathname.match(/^\/report\/([^/]+)\/(ru|en|es|de|fr)(?:\/(week|focus|app\/([^/]+)))?\/?$/);
 
     if (!match) {
       return null;
     }
 
     return {
-      appId: match[3] === "app" && match[4] ? decodeURIComponent(match[4]) : null,
+      appId: match[3] && match[3].indexOf("app/") === 0 && match[4] ? decodeURIComponent(match[4]) : null,
       locale: match[2],
       niche: match[1],
-      period: match[3] === "week" ? "week" : null
+      period: match[3] === "week" ? "week" : match[3] === "focus" ? "focus" : null
     };
   }
 
@@ -462,6 +476,10 @@
         return { appId: null, locale, niche, period: "week" };
       }
 
+      if (parts[2] === "focus") {
+        return { appId: null, locale, niche, period: "focus" };
+      }
+
       if (parts[2] === "app" && parts[3]) {
         return { appId: parts.slice(3).join("/"), locale, niche, period: null };
       }
@@ -473,7 +491,7 @@
       appId: params.get("app"),
       locale: isSupportedLang(params.get("locale")) ? params.get("locale") : "ru",
       niche: params.get("niche") || "productivity",
-      period: params.get("period") === "week" ? "week" : null
+      period: params.get("period") === "week" ? "week" : params.get("period") === "focus" ? "focus" : null
     };
   }
 
@@ -640,7 +658,9 @@
 
     const tabs = NICHES.map(function (niche) {
       const active = niche.slug === activeNiche ? " is-active" : "";
-      const href = reportHref(niche.slug, locale, { period: options.period === "week" ? "week" : null });
+      const periodOpt =
+        options.period === "week" ? "week" : options.period === "focus" ? "focus" : null;
+      const href = reportHref(niche.slug, locale, { period: periodOpt });
       return '<a class="niche-tab' + active + '" href="' + href + '">' + nicheLabel(niche, lang) + "</a>";
     }).join("");
 
@@ -654,13 +674,15 @@
   function renderPeriodNav(target, options) {
     const locale = options.locale || getReportLocale();
     const lang = locale;
-    const dailyActive = !options.appId && options.period !== "week" ? " is-active" : "";
+    const dailyActive = !options.appId && !options.period ? " is-active" : "";
     const weeklyActive = !options.appId && options.period === "week" ? " is-active" : "";
+    const focusActive = !options.appId && options.period === "focus" ? " is-active" : "";
 
     target.innerHTML =
       '<nav class="period-nav" aria-label="' + escapeHtml(t(lang, "periodNavAria")) + '">' +
       '<a class="period-link' + dailyActive + '" href="' + reportHref(options.niche, options.locale) + '">' + t(lang, "daily") + "</a>" +
       '<a class="period-link' + weeklyActive + '" href="' + reportHref(options.niche, options.locale, { period: "week" }) + '">' + t(lang, "weekly") + "</a>" +
+      '<a class="period-link' + focusActive + '" href="' + reportHref(options.niche, options.locale, { period: "focus" }) + '">' + t(lang, "focus") + "</a>" +
       "</nav>";
   }
 
