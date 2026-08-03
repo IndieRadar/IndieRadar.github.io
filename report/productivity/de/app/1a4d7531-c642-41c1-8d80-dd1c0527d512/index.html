@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Focus To-Do · Produktivität · IndieRadar</title>
-  <link rel="stylesheet" href="../../../../../site.css?v=3">
-  <link rel="stylesheet" href="../../../../../report/report.css">
+  <link rel="stylesheet" href="../../../../../site.css?v=4">
+  <link rel="stylesheet" href="../../../../../report/report.css?v=2">
   <script>
     (function () {
       var match = location.pathname.match(/\/(ru|en|es|de|fr)(?:\/(?:week|focus|app(?:\/[^/]+)?)?)?\/?$/);
@@ -27,28 +27,29 @@
   </header>
   <div class="site-nav-wrap"><nav class="niche-tabs" aria-label="Alle Nischen"><a class="niche-tab niche-tab-home" href="/?lang=de">Alle Nischen</a><a class="niche-tab is-active" href="/report/productivity/de/">Produktivität</a><a class="niche-tab" href="/report/habit-tracker/de/">Gewohnheiten</a><a class="niche-tab" href="/report/finance/de/">Finanzen</a><a class="niche-tab" href="/report/ai-chat/de/">KI-Chat</a><a class="niche-tab" href="/report/fitness/de/">Fitness</a></nav></div>
   <div class="site-nav-wrap site-nav-wrap-secondary"><nav class="period-nav" aria-label="Täglich"><a class="period-link is-active" href="/report/productivity/de/">Täglich</a><a class="period-link" href="/report/productivity/de/week/">Wöchentlich</a><a class="period-link" href="/report/productivity/de/focus/">Focus</a></nav></div>
+  
   <div class="report-layout">
     <main class="report-main">
       <article class="report-card">
-        <div class="meta">Produktivität · de · 03.08.2026, 20:40</div>
+        <div class="meta">Produktivität · de · 03.08.2026, 16:09</div>
         <div id="content"><h1 id="focus-to-do-produktivitat">Focus To-Do · Produktivität</h1>
-<p>Erstellt: 03.08.2026, 20:41</p>
+<p>Erstellt: 03.08.2026, 16:09</p>
 <h2 id="toc"><strong>Inhalt</strong></h2>
 <ul><li class="indent-0"><a href="#theme-bugs_stability">Bugs und Stabilität</a></li></ul>
 <h2 id="theme-bugs_stability"><strong>Bugs und Stabilität</strong></h2>
-<p class="indent-1"><strong>Bugs und Stabilität.</strong></p>
+<div class="theme-block" data-theme-block data-theme-id="bugs_stability"><p class="indent-1"><strong>Bugs und Stabilität.</strong></p>
 <p class="indent-2">3 aktuelle Review(s) erwähnen bugs und stabilität.</p>
-<p class="indent-2">Review-Fenster: 28.02.2026 - 28.06.2026</p>
+<p class="indent-2">Review-Fenster: 27.02.2026 - 27.06.2026</p>
 <p class="indent-2"><strong>Warum das zählt:</strong> Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.</p>
 <p class="note-label indent-3"><strong>Review-Beispiele:</strong></p>
-<ol><li class="indent-4"><em>weston wilson</em>, 28.06.2026, 2/5: &quot;Viele Fehler in der Windows-App. Das Telefon ist besser.&quot;</li><li class="indent-4"><em>saints sin</em>, 28.02.2026, 2/5: &quot;Bevor ich das lebenslange Abonnement gekauft habe, hat es gut funktioniert, dann hat es aufgehört, also habe ich es gekauft, weil ich dachte, dass das Problem daran liegt, dass ich das Abonnement nicht habe und es IMMER NOCH nicht funktioniert. Ich möchte, dass dieses Problem gelöst wird oder ich bitte mein Geld zurückbekomme.&quot;</li></ol></div>
+<ol><li class="indent-4"><em>weston wilson</em>, 27.06.2026, 2/5: &quot;Viele Fehler in der Windows-App. Das Telefon ist besser.&quot;</li><li class="indent-4"><em>saints sin</em>, 27.02.2026, 2/5: &quot;Bevor ich das lebenslange Abonnement gekauft habe, hat es gut funktioniert, dann hat es aufgehört, also habe ich es gekauft, weil ich dachte, dass das Problem daran liegt, dass ich das Abonnement nicht habe und es IMMER NOCH nicht funktioniert. Ich möchte, dass dieses Problem gelöst wird oder ich bitte mein Geld zurückbekomme.&quot;</li></ol></div></div>
       </article>
     </main>
   </div>
   <footer class="site-footer">
     <p>Öffentliche Store-Daten · ohne Registrierung · <a href="https://t.me/IndieRadarBot">Telegram-Bot</a></p>
   </footer>
-  <script src="../../../../../site.js?v=5"></script>
+  <script src="../../../../../site.js?v=6"></script>
   <script>
     (function () {
       var site = window.IndieRadarSite;
@@ -59,6 +60,7 @@
       var route = site.mountReportChrome ? site.mountReportChrome() : null;
       site.mountBackToTop({ lang: route ? route.locale : "de" });
       site.bindInPageAnchors(content);
+      if (site.mountThemeFilter) site.mountThemeFilter();
       if (location.hash) {
         requestAnimationFrame(function () {
           site.scrollToAnchor(location.hash.slice(1), "instant");

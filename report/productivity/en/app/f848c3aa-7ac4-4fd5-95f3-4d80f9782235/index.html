@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Forest: Focus for Productivity · Productivity · IndieRadar</title>
-  <link rel="stylesheet" href="../../../../../site.css?v=3">
-  <link rel="stylesheet" href="../../../../../report/report.css">
+  <link rel="stylesheet" href="../../../../../site.css?v=4">
+  <link rel="stylesheet" href="../../../../../report/report.css?v=2">
   <script>
     (function () {
       var match = location.pathname.match(/\/(ru|en|es|de|fr)(?:\/(?:week|focus|app(?:\/[^/]+)?)?)?\/?$/);
@@ -27,28 +27,29 @@
   </header>
   <div class="site-nav-wrap"><nav class="niche-tabs" aria-label="All niches"><a class="niche-tab niche-tab-home" href="/?lang=en">All niches</a><a class="niche-tab is-active" href="/report/productivity/en/">Productivity</a><a class="niche-tab" href="/report/habit-tracker/en/">Habit Tracker</a><a class="niche-tab" href="/report/finance/en/">Finance</a><a class="niche-tab" href="/report/ai-chat/en/">AI Chat</a><a class="niche-tab" href="/report/fitness/en/">Fitness</a></nav></div>
   <div class="site-nav-wrap site-nav-wrap-secondary"><nav class="period-nav" aria-label="Daily"><a class="period-link is-active" href="/report/productivity/en/">Daily</a><a class="period-link" href="/report/productivity/en/week/">Weekly</a><a class="period-link" href="/report/productivity/en/focus/">Focus</a></nav></div>
+  
   <div class="report-layout">
     <main class="report-main">
       <article class="report-card">
-        <div class="meta">Productivity · en · Aug 3, 2026, 8:40 PM</div>
+        <div class="meta">Productivity · en · Aug 3, 2026, 4:08 PM</div>
         <div id="content"><h1 id="forest-focus-for-productivity-productivity">Forest: Focus for Productivity · Productivity</h1>
-<p>Generated: Aug 3, 2026, 8:41 PM</p>
+<p>Generated: Aug 3, 2026, 4:08 PM</p>
 <h2 id="toc"><strong>Contents</strong></h2>
 <ul><li class="indent-0"><a href="#theme-bugs_stability">Bugs and stability</a></li></ul>
 <h2 id="theme-bugs_stability"><strong>Bugs and stability</strong></h2>
-<p class="indent-1"><strong>Bugs and stability.</strong></p>
+<div class="theme-block" data-theme-block data-theme-id="bugs_stability"><p class="indent-1"><strong>Bugs and stability.</strong></p>
 <p class="indent-2">5 recent review(s) mention bugs and stability.</p>
 <p class="indent-2">Review window: Feb 24, 2026 - Jul 31, 2026</p>
 <p class="indent-2"><strong>Why it matters:</strong> Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.</p>
 <p class="note-label indent-3"><strong>Review examples:</strong></p>
-<ol><li class="indent-4"><em>Keith Gold</em>, Jul 28, 2026, 1/5: &quot;They recently updated the UI, this is how I know they do not use the app themselves, if it’s not broken why change it, please change the app to how it was before this terrible upgrade&quot;</li><li class="indent-4"><em>Mukul Gupta</em>, Jul 17, 2026, 1/5: &quot;Overtime this has only got more buggy and laggy. Not what I expected after buying the premium subscription.&quot;</li><li class="indent-4"><em>eywu</em>, Jul 9, 2026, 1/5: &quot;I updated the app, and completely forgot my old account. It asks me to sign up again. When inputting all my information and verifying my email, I continually get an error message that says “Oops! Something went wrong. Please try again.” All that time and money, lost to a broken app.&quot;</li></ol></div>
+<ol><li class="indent-4"><em>Keith Gold</em>, Jul 28, 2026, 1/5: &quot;They recently updated the UI, this is how I know they do not use the app themselves, if it’s not broken why change it, please change the app to how it was before this terrible upgrade&quot;</li><li class="indent-4"><em>Mukul Gupta</em>, Jul 17, 2026, 1/5: &quot;Overtime this has only got more buggy and laggy. Not what I expected after buying the premium subscription.&quot;</li><li class="indent-4"><em>eywu</em>, Jul 9, 2026, 1/5: &quot;I updated the app, and completely forgot my old account. It asks me to sign up again. When inputting all my information and verifying my email, I continually get an error message that says “Oops! Something went wrong. Please try again.” All that time and money, lost to a broken app.&quot;</li></ol></div></div>
       </article>
     </main>
   </div>
   <footer class="site-footer">
     <p>Public store data · no sign-up · <a href="https://t.me/IndieRadarBot">Telegram bot</a></p>
   </footer>
-  <script src="../../../../../site.js?v=5"></script>
+  <script src="../../../../../site.js?v=6"></script>
   <script>
     (function () {
       var site = window.IndieRadarSite;
@@ -59,6 +60,7 @@
       var route = site.mountReportChrome ? site.mountReportChrome() : null;
       site.mountBackToTop({ lang: route ? route.locale : "en" });
       site.bindInPageAnchors(content);
+      if (site.mountThemeFilter) site.mountThemeFilter();
       if (location.hash) {
         requestAnimationFrame(function () {
           site.scrollToAnchor(location.hash.slice(1), "instant");

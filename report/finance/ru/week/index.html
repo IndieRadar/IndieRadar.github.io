@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>IndieRadar · Финансы · неделя</title>
-  <link rel="stylesheet" href="../../../../site.css?v=3">
-  <link rel="stylesheet" href="../../../../report/report.css">
+  <link rel="stylesheet" href="../../../../site.css?v=4">
+  <link rel="stylesheet" href="../../../../report/report.css?v=2">
   <script>
     (function () {
       var match = location.pathname.match(/\/(ru|en|es|de|fr)(?:\/(?:week|focus|app(?:\/[^/]+)?)?)?\/?$/);
@@ -27,12 +27,13 @@
   </header>
   <div class="site-nav-wrap"><nav class="niche-tabs" aria-label="Все ниши"><a class="niche-tab niche-tab-home" href="/?lang=ru">Все ниши</a><a class="niche-tab" href="/report/productivity/ru/week/">Продуктивность</a><a class="niche-tab" href="/report/habit-tracker/ru/week/">Трекер привычек</a><a class="niche-tab is-active" href="/report/finance/ru/week/">Финансы</a><a class="niche-tab" href="/report/ai-chat/ru/week/">AI-чат</a><a class="niche-tab" href="/report/fitness/ru/week/">Фитнес</a></nav></div>
   <div class="site-nav-wrap site-nav-wrap-secondary"><nav class="period-nav" aria-label="Ежедневная"><a class="period-link" href="/report/finance/ru/">Ежедневная</a><a class="period-link is-active" href="/report/finance/ru/week/">Еженедельная</a><a class="period-link" href="/report/finance/ru/focus/">Focus</a></nav></div>
+  
   <div class="report-layout">
     <main class="report-main">
       <article class="report-card">
-        <div class="meta">Финансы · ru · неделя · 3 авг. 2026 г., 20:41</div>
+        <div class="meta">Финансы · ru · неделя · 3 авг. 2026 г., 16:12</div>
         <div id="content"><h1 id="28-jul-3-aug-2026">📅 Неделя · Финансы · 28 Jul–3 Aug 2026</h1>
-<p>Сформировано: 3 авг. 2026 г., 20:42</p>
+<p>Сформировано: 3 авг. 2026 г., 16:12</p>
 <h2 id="section"><strong>Итог недели</strong></h2>
 <ul><li class="indent-0">Темы отзывов: 15 тем, 55 отзывов</li><li class="indent-0">Темы: баги 85%, цена 15%</li><li class="indent-0">Обновления приложений: 0</li><li class="indent-0">Новые приложения в скане: 0</li></ul>
 <h2 id="section"><strong>Тренды недели</strong></h2>
@@ -51,7 +52,7 @@
   <footer class="site-footer">
     <p>Публичные данные из стора · без регистрации · <a href="https://t.me/IndieRadarBot">Telegram-бот</a></p>
   </footer>
-  <script src="../../../../site.js?v=5"></script>
+  <script src="../../../../site.js?v=6"></script>
   <script>
     (function () {
       var site = window.IndieRadarSite;
@@ -62,6 +63,7 @@
       var route = site.mountReportChrome ? site.mountReportChrome() : null;
       site.mountBackToTop({ lang: route ? route.locale : "ru" });
       site.bindInPageAnchors(content);
+      if (site.mountThemeFilter) site.mountThemeFilter();
       if (location.hash) {
         requestAnimationFrame(function () {
           site.scrollToAnchor(location.hash.slice(1), "instant");

@@ -2,9 +2,9 @@
   "appId": "d646ef55-f000-4857-9d90-552e0ae9b8eb",
   "appIndex": 18,
   "appName": "Revolut",
-  "generatedAt": "2026-08-03T15:42:24.984Z",
+  "generatedAt": "2026-08-03T16:14:15.413Z",
   "locale": "de",
-  "markdown": "# Revolut · Finanzen\n\nErstellt: 03.08.2026, 20:42\n\n## **Inhalt** {#toc}\n\n- [Preis und Paywall](#theme-pricing_paywall)\n\n\n## **Preis und Paywall** {#theme-pricing_paywall}\n\n   **Preis und Paywall.**\n      1 aktuelle Review(s) erwähnen preis und paywall.\n      Review-Fenster: 01.08.2026 - 01.08.2026\n      **Warum das zählt:** Nutzer erwähnen Preis, Abos oder Paywalls. Das kann Preissensibilität in der Nische signalisieren.\n\n         **Review-Beispiele:**\n            1. _5MLG8_, 01.08.2026, 5/5: \"Ich habe gezögert, mich voll und ganz auf eine Online-Bank einzulassen, aber die angebotenen Produkte und Dienstleistungen sind bei weitem besser als bei herkömmlichen Banken. Ich sehe keinen Grund mehr, eine traditionelle, teure und veraltete Bank zu haben. Ich bleibe bei Revolut.\"",
+  "markdown": "# Revolut · Finanzen\n\nErstellt: 03.08.2026, 16:14\n\n## **Inhalt** {#toc}\n\n- [Preis und Paywall](#theme-pricing_paywall)\n\n\n## **Preis und Paywall** {#theme-pricing_paywall}\n\n<!--ir-theme:pricing_paywall-->\n   **Preis und Paywall.**\n      1 aktuelle Review(s) erwähnen preis und paywall.\n      Review-Fenster: 01.08.2026 - 01.08.2026\n      **Warum das zählt:** Nutzer erwähnen Preis, Abos oder Paywalls. Das kann Preissensibilität in der Nische signalisieren.\n\n         **Review-Beispiele:**\n            1. _5MLG8_, 01.08.2026, 5/5: \"Ich habe gezögert, mich voll und ganz auf eine Online-Bank einzulassen, aber die angebotenen Produkte und Dienstleistungen sind bei weitem besser als bei herkömmlichen Banken. Ich sehe keinen Grund mehr, eine traditionelle, teure und veraltete Bank zu haben. Ich bleibe bei Revolut.\"\n<!--/ir-theme-->",
   "nicheSlug": "finance",
   "type": "app"
 }

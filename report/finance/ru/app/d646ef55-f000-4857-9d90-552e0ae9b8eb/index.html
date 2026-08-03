@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Revolut · Финансы · IndieRadar</title>
-  <link rel="stylesheet" href="../../../../../site.css?v=3">
-  <link rel="stylesheet" href="../../../../../report/report.css">
+  <link rel="stylesheet" href="../../../../../site.css?v=4">
+  <link rel="stylesheet" href="../../../../../report/report.css?v=2">
   <script>
     (function () {
       var match = location.pathname.match(/\/(ru|en|es|de|fr)(?:\/(?:week|focus|app(?:\/[^/]+)?)?)?\/?$/);
@@ -27,28 +27,29 @@
   </header>
   <div class="site-nav-wrap"><nav class="niche-tabs" aria-label="Все ниши"><a class="niche-tab niche-tab-home" href="/?lang=ru">Все ниши</a><a class="niche-tab" href="/report/productivity/ru/">Продуктивность</a><a class="niche-tab" href="/report/habit-tracker/ru/">Трекер привычек</a><a class="niche-tab is-active" href="/report/finance/ru/">Финансы</a><a class="niche-tab" href="/report/ai-chat/ru/">AI-чат</a><a class="niche-tab" href="/report/fitness/ru/">Фитнес</a></nav></div>
   <div class="site-nav-wrap site-nav-wrap-secondary"><nav class="period-nav" aria-label="Ежедневная"><a class="period-link is-active" href="/report/finance/ru/">Ежедневная</a><a class="period-link" href="/report/finance/ru/week/">Еженедельная</a><a class="period-link" href="/report/finance/ru/focus/">Focus</a></nav></div>
+  
   <div class="report-layout">
     <main class="report-main">
       <article class="report-card">
-        <div class="meta">Финансы · ru · 3 авг. 2026 г., 20:41</div>
+        <div class="meta">Финансы · ru · 3 авг. 2026 г., 16:12</div>
         <div id="content"><h1 id="revolut">Revolut · Финансы</h1>
-<p>Сформировано: 3 авг. 2026 г., 20:42</p>
+<p>Сформировано: 3 авг. 2026 г., 16:13</p>
 <h2 id="toc"><strong>Содержание</strong></h2>
 <ul><li class="indent-0"><a href="#theme-pricing_paywall">Цена и paywall</a></li></ul>
 <h2 id="theme-pricing_paywall"><strong>Цена и paywall</strong></h2>
-<p class="indent-1"><strong>Цена и paywall.</strong></p>
+<div class="theme-block" data-theme-block data-theme-id="pricing_paywall"><p class="indent-1"><strong>Цена и paywall.</strong></p>
 <p class="indent-2">1 свежих отзыв(ов) упоминают: цена и paywall.</p>
 <p class="indent-2">Период отзывов: 1 авг. 2026 г. - 1 авг. 2026 г.</p>
 <p class="indent-2"><strong>Что это значит:</strong> Пользователи упоминают цену, подписку или paywall. Это сигнал чувствительности к монетизации.</p>
 <p class="note-label indent-3"><strong>Примеры отзывов:</strong></p>
-<ol><li class="indent-4"><em>5MLG8</em>, 1 авг. 2026 г., 5/5: &quot;Я не решался полностью перейти на онлайн-банк, но предлагаемые продукты и услуги намного лучше, чем у традиционных банков. Я больше не вижу смысла иметь традиционный, дорогой и архаичный банк. Я остановлюсь на Revolut.&quot;</li></ol></div>
+<ol><li class="indent-4"><em>5MLG8</em>, 1 авг. 2026 г., 5/5: &quot;Я не решался полностью перейти на онлайн-банк, но предлагаемые продукты и услуги намного лучше, чем у традиционных банков. Я больше не вижу смысла иметь традиционный, дорогой и архаичный банк. Я остановлюсь на Revolut.&quot;</li></ol></div></div>
       </article>
     </main>
   </div>
   <footer class="site-footer">
     <p>Публичные данные из стора · без регистрации · <a href="https://t.me/IndieRadarBot">Telegram-бот</a></p>
   </footer>
-  <script src="../../../../../site.js?v=5"></script>
+  <script src="../../../../../site.js?v=6"></script>
   <script>
     (function () {
       var site = window.IndieRadarSite;
@@ -59,6 +60,7 @@
       var route = site.mountReportChrome ? site.mountReportChrome() : null;
       site.mountBackToTop({ lang: route ? route.locale : "ru" });
       site.bindInPageAnchors(content);
+      if (site.mountThemeFilter) site.mountThemeFilter();
       if (location.hash) {
         requestAnimationFrame(function () {
           site.scrollToAnchor(location.hash.slice(1), "instant");

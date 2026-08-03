@@ -149,3 +149,12 @@
 .report-card .loading {
   color: var(--muted);
 }
+
+.theme-block.is-off,
+.is-app-filtered-out {
+  display: none;
+}
+
+.theme-block {
+  margin: 0 0 8px;
+}

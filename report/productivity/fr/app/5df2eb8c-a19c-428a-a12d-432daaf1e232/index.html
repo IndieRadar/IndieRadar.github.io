@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Toggl Track - Time Tracking · Productivité · IndieRadar</title>
-  <link rel="stylesheet" href="../../../../../site.css?v=3">
-  <link rel="stylesheet" href="../../../../../report/report.css">
+  <link rel="stylesheet" href="../../../../../site.css?v=4">
+  <link rel="stylesheet" href="../../../../../report/report.css?v=2">
   <script>
     (function () {
       var match = location.pathname.match(/\/(ru|en|es|de|fr)(?:\/(?:week|focus|app(?:\/[^/]+)?)?)?\/?$/);
@@ -27,28 +27,29 @@
   </header>
   <div class="site-nav-wrap"><nav class="niche-tabs" aria-label="Toutes les niches"><a class="niche-tab niche-tab-home" href="/?lang=fr">Toutes les niches</a><a class="niche-tab is-active" href="/report/productivity/fr/">Productivité</a><a class="niche-tab" href="/report/habit-tracker/fr/">Habitudes</a><a class="niche-tab" href="/report/finance/fr/">Finance</a><a class="niche-tab" href="/report/ai-chat/fr/">Chat IA</a><a class="niche-tab" href="/report/fitness/fr/">Fitness</a></nav></div>
   <div class="site-nav-wrap site-nav-wrap-secondary"><nav class="period-nav" aria-label="Quotidien"><a class="period-link is-active" href="/report/productivity/fr/">Quotidien</a><a class="period-link" href="/report/productivity/fr/week/">Hebdomadaire</a><a class="period-link" href="/report/productivity/fr/focus/">Focus</a></nav></div>
+  
   <div class="report-layout">
     <main class="report-main">
       <article class="report-card">
-        <div class="meta">Productivité · fr · 3 août 2026, 20:41</div>
+        <div class="meta">Productivité · fr · 3 août 2026, 16:09</div>
         <div id="content"><h1 id="toggl-track-time-tracking-productivite">Toggl Track - Time Tracking · Productivité</h1>
-<p>Généré : 3 août 2026, 20:41</p>
+<p>Généré : 3 août 2026, 16:10</p>
 <h2 id="toc"><strong>Sommaire</strong></h2>
 <ul><li class="indent-0"><a href="#theme-bugs_stability">Bugs et stabilité</a></li></ul>
 <h2 id="theme-bugs_stability"><strong>Bugs et stabilité</strong></h2>
-<p class="indent-1"><strong>Bugs et stabilité.</strong></p>
+<div class="theme-block" data-theme-block data-theme-id="bugs_stability"><p class="indent-1"><strong>Bugs et stabilité.</strong></p>
 <p class="indent-2">4 avis récents mentionnent bugs et stabilité.</p>
 <p class="indent-2">Fenêtre d'avis : 19 mars 2026 - 7 juil. 2026</p>
 <p class="indent-2"><strong>Pourquoi c'est important:</strong> Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.</p>
 <p class="note-label indent-3"><strong>Exemples d'avis:</strong></p>
-<ol><li class="indent-4"><em>Karim</em>, 7 juil. 2026, 1/5: &quot;L'application est en panne sur mon Pixel 9 Pro. Je viens de le télécharger et de le lancer, et rien ne fonctionne sur le premier écran, aucun bouton n'est fonctionnel, donc je ne peux pas m'inscrire ou me connecter, le seul bouton qui fonctionne est de m'inscrire ou de me connecter avec Google, ce que je ne veux pas faire, tout le reste n'est pas fonctionnel. Changera l'avis si le problème est résolu.&quot;</li><li class="indent-4"><em>Joseph Erlewein</em>, 20 avr. 2026, 1/5: &quot;Je n'ai pas pu passer le processus d'inscription. application cassée.&quot;</li><li class="indent-4"><em>Taylor Bland</em>, 5 avr. 2026, 1/5: &quot;Il y a tellement de problèmes avec un compte Google que je n'arrive pas du tout à le faire fonctionner, même avec un dépannage via l'IA. Cela ne vaut pas le mal de tête.&quot;</li></ol></div>
+<ol><li class="indent-4"><em>Karim</em>, 7 juil. 2026, 1/5: &quot;L'application est en panne sur mon Pixel 9 Pro. Je viens de le télécharger et de le lancer, et rien ne fonctionne sur le premier écran, aucun bouton n'est fonctionnel, donc je ne peux pas m'inscrire ou me connecter, le seul bouton qui fonctionne est de m'inscrire ou de me connecter avec Google, ce que je ne veux pas faire, tout le reste n'est pas fonctionnel. Changera l'avis si le problème est résolu.&quot;</li><li class="indent-4"><em>Joseph Erlewein</em>, 20 avr. 2026, 1/5: &quot;Je n'ai pas pu passer le processus d'inscription. application cassée.&quot;</li><li class="indent-4"><em>Taylor Bland</em>, 5 avr. 2026, 1/5: &quot;Il y a tellement de problèmes avec un compte Google que je n'arrive pas du tout à le faire fonctionner, même avec un dépannage via l'IA. Cela ne vaut pas le mal de tête.&quot;</li></ol></div></div>
       </article>
     </main>
   </div>
   <footer class="site-footer">
     <p>Données publiques des stores · sans inscription · <a href="https://t.me/IndieRadarBot">Bot Telegram</a></p>
   </footer>
-  <script src="../../../../../site.js?v=5"></script>
+  <script src="../../../../../site.js?v=6"></script>
   <script>
     (function () {
       var site = window.IndieRadarSite;
@@ -59,6 +60,7 @@
       var route = site.mountReportChrome ? site.mountReportChrome() : null;
       site.mountBackToTop({ lang: route ? route.locale : "fr" });
       site.bindInPageAnchors(content);
+      if (site.mountThemeFilter) site.mountThemeFilter();
       if (location.hash) {
         requestAnimationFrame(function () {
           site.scrollToAnchor(location.hash.slice(1), "instant");

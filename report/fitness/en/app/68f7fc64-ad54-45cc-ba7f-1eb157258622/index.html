@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Fitness · Fitness · IndieRadar</title>
-  <link rel="stylesheet" href="../../../../../site.css?v=3">
-  <link rel="stylesheet" href="../../../../../report/report.css">
+  <link rel="stylesheet" href="../../../../../site.css?v=4">
+  <link rel="stylesheet" href="../../../../../report/report.css?v=2">
   <script>
     (function () {
       var match = location.pathname.match(/\/(ru|en|es|de|fr)(?:\/(?:week|focus|app(?:\/[^/]+)?)?)?\/?$/);
@@ -27,35 +27,36 @@
   </header>
   <div class="site-nav-wrap"><nav class="niche-tabs" aria-label="All niches"><a class="niche-tab niche-tab-home" href="/?lang=en">All niches</a><a class="niche-tab" href="/report/productivity/en/">Productivity</a><a class="niche-tab" href="/report/habit-tracker/en/">Habit Tracker</a><a class="niche-tab" href="/report/finance/en/">Finance</a><a class="niche-tab" href="/report/ai-chat/en/">AI Chat</a><a class="niche-tab is-active" href="/report/fitness/en/">Fitness</a></nav></div>
   <div class="site-nav-wrap site-nav-wrap-secondary"><nav class="period-nav" aria-label="Daily"><a class="period-link is-active" href="/report/fitness/en/">Daily</a><a class="period-link" href="/report/fitness/en/week/">Weekly</a><a class="period-link" href="/report/fitness/en/focus/">Focus</a></nav></div>
+  
   <div class="report-layout">
     <main class="report-main">
       <article class="report-card">
-        <div class="meta">Fitness · en · Aug 3, 2026, 8:43 PM</div>
+        <div class="meta">Fitness · en · Aug 3, 2026, 4:18 PM</div>
         <div id="content"><h1 id="fitness-fitness">Fitness · Fitness</h1>
-<p>Generated: Aug 3, 2026, 8:43 PM</p>
+<p>Generated: Aug 3, 2026, 4:18 PM</p>
 <h2 id="toc"><strong>Contents</strong></h2>
 <ul><li class="indent-0"><a href="#theme-pricing_paywall">Pricing and paywall</a></li><li class="indent-0"><a href="#theme-ads">Ads pressure</a></li></ul>
 <h2 id="theme-pricing_paywall"><strong>Pricing and paywall</strong></h2>
-<p class="indent-1"><strong>Pricing and paywall.</strong></p>
+<div class="theme-block" data-theme-block data-theme-id="pricing_paywall"><p class="indent-1"><strong>Pricing and paywall.</strong></p>
 <p class="indent-2">1 recent review(s) mention pricing and paywall.</p>
 <p class="indent-2">Review window: Jul 31, 2026 - Jul 31, 2026</p>
 <p class="indent-2"><strong>Why it matters:</strong> Users mention price, subscriptions, or paywalls. This can signal pricing sensitivity in the niche.</p>
 <p class="note-label indent-3"><strong>Review examples:</strong></p>
-<ol><li class="indent-4"><em>Assia Za</em>, Jul 31, 2026, 1/5: &quot;a high price subscription with no refund option, did one time exercise but now I can't due to an unexpected injury, I stopped the subscription but couldn't get a refund.&quot;</li></ol>
+<ol><li class="indent-4"><em>Assia Za</em>, Jul 31, 2026, 1/5: &quot;a high price subscription with no refund option, did one time exercise but now I can't due to an unexpected injury, I stopped the subscription but couldn't get a refund.&quot;</li></ol></div>
 <h2 id="theme-ads"><strong>Ads pressure</strong></h2>
-<p class="indent-1"><strong>Ads pressure.</strong></p>
+<div class="theme-block" data-theme-block data-theme-id="ads"><p class="indent-1"><strong>Ads pressure.</strong></p>
 <p class="indent-2">1 recent review(s) mention ads pressure.</p>
 <p class="indent-2">Review window: Jul 28, 2026 - Jul 28, 2026</p>
 <p class="indent-2"><strong>Why it matters:</strong> Users are noticing ad pressure. This can signal monetization friction and an opening for a cleaner competitor.</p>
 <p class="note-label indent-3"><strong>Review examples:</strong></p>
-<ol><li class="indent-4"><em>Shekina Simplice</em>, Jul 28, 2026, 5/5: &quot;I highly recommend this app. In the mornings, it really helps me stretch my body, and it's also a very quiet app with no annoying ads. It really helps.&quot;</li></ol></div>
+<ol><li class="indent-4"><em>Shekina Simplice</em>, Jul 28, 2026, 5/5: &quot;I highly recommend this app. In the mornings, it really helps me stretch my body, and it's also a very quiet app with no annoying ads. It really helps.&quot;</li></ol></div></div>
       </article>
     </main>
   </div>
   <footer class="site-footer">
     <p>Public store data · no sign-up · <a href="https://t.me/IndieRadarBot">Telegram bot</a></p>
   </footer>
-  <script src="../../../../../site.js?v=5"></script>
+  <script src="../../../../../site.js?v=6"></script>
   <script>
     (function () {
       var site = window.IndieRadarSite;
@@ -66,6 +67,7 @@
       var route = site.mountReportChrome ? site.mountReportChrome() : null;
       site.mountBackToTop({ lang: route ? route.locale : "en" });
       site.bindInPageAnchors(content);
+      if (site.mountThemeFilter) site.mountThemeFilter();
       if (location.hash) {
         requestAnimationFrame(function () {
           site.scrollToAnchor(location.hash.slice(1), "instant");

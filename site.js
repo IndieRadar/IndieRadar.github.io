@@ -762,6 +762,88 @@
     return route;
   }
 
+  function applyThemeFilter(root) {
+    const content = root || document.getElementById("content");
+    if (!content) return;
+
+    const filter = document.querySelector("[data-theme-filter]");
+    const enabled = new Set();
+
+    if (filter) {
+      filter.querySelectorAll(".theme-filter-chip[aria-pressed='true']").forEach(function (chip) {
+        const themeId = chip.getAttribute("data-theme-id");
+        if (themeId) enabled.add(themeId);
+      });
+    }
+
+    content.querySelectorAll("[data-theme-block]").forEach(function (block) {
+      const themeId = block.getAttribute("data-theme-id");
+      const on = !themeId || enabled.has(themeId);
+      block.classList.toggle("is-off", !on);
+    });
+
+    const nodes = Array.prototype.slice.call(content.children);
+    let index = 0;
+
+    while (index < nodes.length) {
+      const node = nodes[index];
+
+      if (!(node.classList && node.classList.contains("app-review-heading"))) {
+        index += 1;
+        continue;
+      }
+
+      const sectionNodes = [node];
+      let cursor = index + 1;
+      let visibleThemes = 0;
+
+      while (cursor < nodes.length) {
+        const next = nodes[cursor];
+
+        if (next.classList && next.classList.contains("app-review-heading")) {
+          break;
+        }
+
+        sectionNodes.push(next);
+
+        if (next.hasAttribute && next.hasAttribute("data-theme-block") && !next.classList.contains("is-off")) {
+          visibleThemes += 1;
+        }
+
+        if (next.classList && next.classList.contains("app-divider")) {
+          cursor += 1;
+          break;
+        }
+
+        cursor += 1;
+      }
+
+      const hideSection = visibleThemes === 0;
+      sectionNodes.forEach(function (sectionNode) {
+        sectionNode.classList.toggle("is-app-filtered-out", hideSection);
+      });
+
+      index = cursor;
+    }
+  }
+
+  function mountThemeFilter() {
+    const filter = document.querySelector("[data-theme-filter]");
+    if (!filter) return;
+
+    filter.addEventListener("click", function (event) {
+      const chip = event.target.closest(".theme-filter-chip");
+      if (!chip || !filter.contains(chip)) return;
+
+      const on = chip.getAttribute("aria-pressed") !== "true";
+      chip.setAttribute("aria-pressed", on ? "true" : "false");
+      chip.classList.toggle("is-on", on);
+      applyThemeFilter();
+    });
+
+    applyThemeFilter();
+  }
+
   function mountBackToTop(options) {
     options = options || {};
     let lang = options.lang || getLang();
@@ -1038,6 +1120,7 @@
     getReportLocale: getReportLocale,
     mountEmailSubscribeForm: mountEmailSubscribeForm,
     mountReportChrome: mountReportChrome,
+    mountThemeFilter: mountThemeFilter,
     mountBackToTop: mountBackToTop,
     mountLangSwitch: mountLangSwitch,
     nicheAnchorId: nicheAnchorId,

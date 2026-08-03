@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>IndieRadar · Finanzas · semana</title>
-  <link rel="stylesheet" href="../../../../site.css?v=3">
-  <link rel="stylesheet" href="../../../../report/report.css">
+  <link rel="stylesheet" href="../../../../site.css?v=4">
+  <link rel="stylesheet" href="../../../../report/report.css?v=2">
   <script>
     (function () {
       var match = location.pathname.match(/\/(ru|en|es|de|fr)(?:\/(?:week|focus|app(?:\/[^/]+)?)?)?\/?$/);
@@ -27,12 +27,13 @@
   </header>
   <div class="site-nav-wrap"><nav class="niche-tabs" aria-label="Todos los nichos"><a class="niche-tab niche-tab-home" href="/?lang=es">Todos los nichos</a><a class="niche-tab" href="/report/productivity/es/week/">Productividad</a><a class="niche-tab" href="/report/habit-tracker/es/week/">Hábitos</a><a class="niche-tab is-active" href="/report/finance/es/week/">Finanzas</a><a class="niche-tab" href="/report/ai-chat/es/week/">Chat IA</a><a class="niche-tab" href="/report/fitness/es/week/">Fitness</a></nav></div>
   <div class="site-nav-wrap site-nav-wrap-secondary"><nav class="period-nav" aria-label="Diaria"><a class="period-link" href="/report/finance/es/">Diaria</a><a class="period-link is-active" href="/report/finance/es/week/">Semanal</a><a class="period-link" href="/report/finance/es/focus/">Focus</a></nav></div>
+  
   <div class="report-layout">
     <main class="report-main">
       <article class="report-card">
-        <div class="meta">Finanzas · es · semana · 3 ago 2026, 20:42</div>
+        <div class="meta">Finanzas · es · semana · 3 ago 2026, 16:13</div>
         <div id="content"><h1 id="semanal-finanzas-28-jul-3-aug-2026">📅 Semanal · Finanzas · 28 Jul–3 Aug 2026</h1>
-<p>Generado: 3 ago 2026, 20:42</p>
+<p>Generado: 3 ago 2026, 16:13</p>
 <h2 id="resumen-de-la-semana"><strong>Resumen de la semana</strong></h2>
 <ul><li class="indent-0">Temas de reseñas: 15 temas, 55 reseñas</li><li class="indent-0">Temas: errores 85%, precio 15%</li><li class="indent-0">Actualizaciones de apps: 0</li><li class="indent-0">Apps nuevas en el scan: 0</li></ul>
 <h2 id="tendencias-de-la-semana"><strong>Tendencias de la semana</strong></h2>
@@ -51,7 +52,7 @@
   <footer class="site-footer">
     <p>Datos públicos de las stores · sin registro · <a href="https://t.me/IndieRadarBot">Bot de Telegram</a></p>
   </footer>
-  <script src="../../../../site.js?v=5"></script>
+  <script src="../../../../site.js?v=6"></script>
   <script>
     (function () {
       var site = window.IndieRadarSite;
@@ -62,6 +63,7 @@
       var route = site.mountReportChrome ? site.mountReportChrome() : null;
       site.mountBackToTop({ lang: route ? route.locale : "es" });
       site.bindInPageAnchors(content);
+      if (site.mountThemeFilter) site.mountThemeFilter();
       if (location.hash) {
         requestAnimationFrame(function () {
           site.scrollToAnchor(location.hash.slice(1), "instant");
