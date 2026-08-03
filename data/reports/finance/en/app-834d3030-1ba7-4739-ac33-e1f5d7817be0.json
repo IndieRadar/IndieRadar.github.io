@@ -1,0 +1,10 @@
+{
+  "appId": "834d3030-1ba7-4739-ac33-e1f5d7817be0",
+  "appIndex": 16,
+  "appName": "Trading 212",
+  "generatedAt": "2026-08-03T23:23:57.812Z",
+  "locale": "en",
+  "markdown": "# Trading 212 · Finance\n\nGenerated: Aug 4, 2026, 4:24 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      2 recent review(s) mention bugs and stability.\n      Review window: Jun 25, 2026 - Aug 2, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Sean McGarr_, Jul 30, 2026, 1/5: \"Can't complete the ID verification. Had to repeat the passport bit several times, kept freezing and not working. Restarted my phone repeatedly. Eventually got through to the selfie verification which didn't work at all not matter what different methods I tried. Like pulling out my own teeth. Gave up. Not an initial great impression and after reading some of the reviews I think I'll be better off going elsewhere.\"\n            2. _Daniel Baum_, Jul 21, 2026, 1/5: \"App freezes, impossible to interact. since the last update I have to authenticate my device EVERY TIME I OPEN THE APP! AND then I have to use biometric authentication. WHY BOTH? And I don't want to scan my face ...\"\n            3. _Bob Stork_, Jun 25, 2026, 1/5: \"App is slow,I can't buy most of shares because of restrictions, platform can't trade 80% of popular stocks, it's the worst app for trading, USELESS!\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

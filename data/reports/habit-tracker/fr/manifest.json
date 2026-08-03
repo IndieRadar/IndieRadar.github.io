@@ -26,8 +26,8 @@
       "number": 5
     },
     {
-      "id": "3d634d39-1d2f-4275-ba58-f4c11d49f64c",
-      "name": "Fabulous",
+      "id": "830db64a-7f9e-4fc5-b294-c754641ad955",
+      "name": "Fabulous: Daily Habit Tracker",
       "number": 6
     },
     {
@@ -66,17 +66,17 @@
       "number": 13
     },
     {
-      "id": "b73ccd09-ee48-4764-ac77-4f09d0e7fa84",
-      "name": "Habit Tracker",
+      "id": "80dc7194-e1fb-484e-8e65-c49d40df7be5",
+      "name": "TickTick",
       "number": 14
     },
     {
-      "id": "82feb9b3-fe0f-412a-af1c-2600f74f1081",
-      "name": "ShineDay - Habit Tracker",
+      "id": "947a4611-732f-4f7f-8432-75d496bc65f0",
+      "name": "Structured",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-03T17:21:43.939Z",
+  "generatedAt": "2026-08-03T23:23:56.979Z",
   "locale": "fr",
   "nicheSlug": "habit-tracker"
 }

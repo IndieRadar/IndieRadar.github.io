@@ -1,0 +1,10 @@
+{
+  "appId": "030fd7c6-cc95-44b3-b820-e56ac58d06fc",
+  "appIndex": 12,
+  "appName": "Google Keep - Notes and lists",
+  "generatedAt": "2026-08-03T23:23:26.627Z",
+  "locale": "fr",
+  "markdown": "# Google Keep - Notes and lists · Productivité\n\nGénéré : 4 août 2026, 04:23\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      3 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 27 juin 2026 - 2 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Yuri Groza_, 2 août 2026, 1/5: \"ne le répare pas s'il n'est pas cassé ! la dernière mise à jour a rendu le widget inutilisable avec tout l'espace perdu !\"\n            2. _Yuri Groza_, 2 août 2026, 1/5: \"Je l'ai utilisé pendant plus d'une décennie. La dernière mise à jour a rendu le widget inutilisable sur téléphone et tablette 🤬 quel gaspillage d'espace...\"\n            3. _Amr Random_, 2 août 2026, 1/5: \"L'application fonctionnait parfaitement depuis des mois, mais depuis hier, Google Keep a commencé à se bloquer et à planter lors de la saisie. Le clavier disparaît et l'application se ferme. De plus, la synchronisation s'est complètement arrêtée : mes anciennes notes sont toujours sur mon PC, mais les nouvelles notes et modifications ne sont plus synchronisées entre mon téléphone et mon ordinateur.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

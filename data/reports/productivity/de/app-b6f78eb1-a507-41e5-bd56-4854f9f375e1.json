@@ -1,0 +1,10 @@
+{
+  "appId": "b6f78eb1-a507-41e5-bd56-4854f9f375e1",
+  "appIndex": 16,
+  "appName": "Productivity",
+  "generatedAt": "2026-08-03T23:23:01.469Z",
+  "locale": "de",
+  "markdown": "# Productivity · Produktivität\n\nErstellt: 04.08.2026, 04:23\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      1 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 02.08.2026 - 02.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _jan_, 02.08.2026, 4/5: \"Seit einiger Zeit ertönt der Benachrichtigungsalarm nach abgeschlossener Sitzung nicht mehr. Sobald Sie die App manuell öffnen, geht es los. Das war nicht immer so. Vielleicht ein Bug?\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

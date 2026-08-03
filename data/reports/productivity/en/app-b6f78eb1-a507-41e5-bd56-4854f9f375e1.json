@@ -1,0 +1,10 @@
+{
+  "appId": "b6f78eb1-a507-41e5-bd56-4854f9f375e1",
+  "appIndex": 16,
+  "appName": "Productivity",
+  "generatedAt": "2026-08-03T23:23:01.203Z",
+  "locale": "en",
+  "markdown": "# Productivity · Productivity\n\nGenerated: Aug 4, 2026, 4:23 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      1 recent review(s) mention bugs and stability.\n      Review window: Aug 2, 2026 - Aug 2, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _jan_, Aug 2, 2026, 4/5: \"Since some time the notification alarm after done session doesn't go off. Just when you manually open the app, then it goes of. It wasnt always like this. Maybe a bug of some sorts?\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

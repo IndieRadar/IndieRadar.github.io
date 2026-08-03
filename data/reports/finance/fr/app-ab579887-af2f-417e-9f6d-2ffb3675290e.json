@@ -1,0 +1,10 @@
+{
+  "appId": "ab579887-af2f-417e-9f6d-2ffb3675290e",
+  "appIndex": 17,
+  "appName": "PayPal",
+  "generatedAt": "2026-08-03T23:24:28.199Z",
+  "locale": "fr",
+  "markdown": "# PayPal · Finance\n\nGénéré : 4 août 2026, 04:24\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      2 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 19 juil. 2026 - 2 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Steve Cooke_, 2 août 2026, 1/5: \"La mise à jour buggée rend impossible l'utilisation de l'application.\"\n            2. _Kiran Perveen_, 2 août 2026, 1/5: \"l'application ne fonctionne pas pour moi depuis quelques mois et continue de planter\"\n            3. _Steve Zywica_, 19 juil. 2026, 1/5: \"mise à jour : des semaines plus tard et un nouvel appareil. kyc est toujours cassé et continue de me faire refaire. cette application est une mise à jour pour plaisanterie : je l'ai littéralement fait 10 fois et elle échoue toujours. merde cette application. mise à jour : ce stupide nouveau système kyc est une poubelle. cela continue de me refuser de ne pas avoir une expression faciale neutre malgré mon expression faciale 1000% neutre. c'était autrefois la meilleure rampe pour la cryptographie et maintenant, c'est fou à quel point cette application est devenue une blague.\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

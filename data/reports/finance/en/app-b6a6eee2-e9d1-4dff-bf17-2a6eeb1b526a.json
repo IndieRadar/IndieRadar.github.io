@@ -1,0 +1,10 @@
+{
+  "appId": "b6a6eee2-e9d1-4dff-bf17-2a6eeb1b526a",
+  "appIndex": 9,
+  "appName": "Investing.com: Stock Market",
+  "generatedAt": "2026-08-03T23:23:57.812Z",
+  "locale": "en",
+  "markdown": "# Investing.com: Stock Market · Finance\n\nGenerated: Aug 4, 2026, 4:24 AM\n\n## **Contents** {#toc}\n\n- [Pricing and paywall](#theme-pricing_paywall)\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Pricing and paywall** {#theme-pricing_paywall}\n\n<!--ir-theme:pricing_paywall-->\n   **Pricing and paywall.**\n      1 recent review(s) mention pricing and paywall.\n      Review window: Jul 28, 2026 - Jul 28, 2026\n      **Why it matters:** Users mention price, subscriptions, or paywalls. This can signal pricing sensitivity in the niche.\n\n         **Review examples:**\n            1. _CJ Lai_, Jul 28, 2026, 5/5: \"Premium costs way too much to justify its functions.\"\n<!--/ir-theme-->\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      1 recent review(s) mention bugs and stability.\n      Review window: Jul 31, 2026 - Jul 31, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Satish Kumar_, Jul 31, 2026, 1/5: \"Too slow\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

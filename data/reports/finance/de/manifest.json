@@ -11,18 +11,18 @@
       "number": 2
     },
     {
-      "id": "a3215d9a-27ba-4931-901b-4ffcb4fb778a",
-      "name": "Money Lover",
+      "id": "d646ef55-f000-4857-9d90-552e0ae9b8eb",
+      "name": "Revolut",
       "number": 3
+    },
+    {
+      "id": "d391f361-eed6-433c-95aa-337b0def3884",
+      "name": "Google Wallet",
+      "number": 4
     },
     {
       "id": "f21839d8-3fdd-439a-bee3-4417854eb101",
       "name": "Gastos",
-      "number": 4
-    },
-    {
-      "id": "6669339f-5957-4617-a7bd-8ddaaf4081fc",
-      "name": "Revolut — Banking & Beyond",
       "number": 5
     },
     {
@@ -31,18 +31,18 @@
       "number": 6
     },
     {
-      "id": "279b5984-f2a8-487d-b5d5-7005f76a672e",
-      "name": "Yahoo Finance",
+      "id": "09b8dc4a-759e-4dfa-91f2-aea2c0a600db",
+      "name": "Yahoo",
       "number": 7
-    },
-    {
-      "id": "790c3a20-674b-41ea-bb92-e4f6e5848a05",
-      "name": "Carteira",
-      "number": 8
     },
     {
       "id": "d023fe91-909f-495f-bca4-ae838dd9dd01",
       "name": "Robinhood: Trading & Investing",
+      "number": 8
+    },
+    {
+      "id": "b6a6eee2-e9d1-4dff-bf17-2a6eeb1b526a",
+      "name": "Investing.com: Stock Market",
       "number": 9
     },
     {
@@ -71,27 +71,22 @@
       "number": 14
     },
     {
-      "id": "46150ea2-595f-47ae-93d9-12741aa834e7",
-      "name": "HDFC Bank App",
+      "id": "a118d535-56a6-48c6-bbf4-aea333512b6d",
+      "name": "Money Lover",
       "number": 15
     },
     {
-      "id": "f0b62f27-b9af-4c6e-bb21-27149cae09f9",
-      "name": "Cash App",
+      "id": "834d3030-1ba7-4739-ac33-e1f5d7817be0",
+      "name": "Trading 212",
       "number": 16
     },
     {
-      "id": "bfcd2111-7b16-4603-9607-188cd84ea663",
-      "name": "TradingView",
+      "id": "ab579887-af2f-417e-9f6d-2ffb3675290e",
+      "name": "PayPal",
       "number": 17
-    },
-    {
-      "id": "d646ef55-f000-4857-9d90-552e0ae9b8eb",
-      "name": "Revolut",
-      "number": 18
     }
   ],
-  "generatedAt": "2026-08-03T17:24:10.422Z",
+  "generatedAt": "2026-08-03T23:24:23.421Z",
   "locale": "de",
   "nicheSlug": "finance"
 }
