@@ -1,0 +1,10 @@
+{
+  "appId": "42585fea-6c05-4310-9052-eef2a1e5cfa2",
+  "appIndex": 4,
+  "appName": "Trello",
+  "generatedAt": "2026-08-04T23:07:53.053Z",
+  "locale": "fr",
+  "markdown": "# Trello · Productivité\n\nGénéré : 5 août 2026, 04:08\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      7 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 12 mai 2026 - 23 juil. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _JadedMind_, 23 juil. 2026, 2/5: \"Je ne parviens plus à me connecter à cette application sur mon téléphone, ce qui la rend inutile. Peu importe sur quoi je clique, y compris en contactant l'assistance, je reçois un message indiquant qu'il ne peut pas se connecter au serveur. Je n'ai ce problème avec aucune autre application sur mon téléphone.\"\n            2. _guymanstuff_, 9 juil. 2026, 3/5: \"Pouvez-vous s'il vous plaît énumérer dans les notes de version ce que vous corrigez réellement au lieu de simplement « nous rendons l'application géniale pour vous » ou « au revoir les bugs » ?\"\n            3. _rasnauf_, 15 juin 2026, 4/5: \"Bonne application, mais elle présente quelques problèmes : - Parfois, elle est très lente, avec plus de 5 secondes de latence entre l'interaction et la mise à jour de l'interface utilisateur. La seule solution fiable semble être de supprimer l'application et de la réinstaller : la fermeture et la réouverture ne fonctionnent pas. - Les rappels de date d'échéance sont en retard : ils envoient une notification sur votre téléphone environ 45 secondes après le rappel que vous avez défini. - Lors de la visualisation d'un tableau, chaque liste aura parfois plusieurs copies d'elle-même sous la liste \"originale\".\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

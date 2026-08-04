@@ -51,9 +51,12 @@ VPS
 ├── indieradar-telegram.service   ← always-on bot
 ├── indieradar-nightly.timer      ← 03:00 daily (Asia/Almaty)
 │   └── crawl → export → Pages → verify → Telegram push
+├── indieradar-morning-check.timer ← 07:00 — Pages freshness → ops Telegram if stale
 ├── indieradar-weekly-telegram.timer  ← Sun 09:00
 └── indieradar-weekly-rollup.timer    ← Sun 09:30
 ```
+
+Primary morning watchdog also runs in GitHub Actions (`Morning Delivery Check`, 02:00 UTC) so a dead VPS still alerts. See `docs/OPS_ALERTS.md`.
 
 GitHub Pages **stay public** — VPS rsyncs `docs/` → `IndieRadar/IndieRadar.github.io` org repo.
 
@@ -189,6 +192,8 @@ Or add a weekly `git pull` cron before nightly (optional).
 | `systemctl status indieradar-nightly` | Last nightly run |
 
 On nightly failure → **@indieRadarAlertBot** (if `TELEGRAM_OPS_*` set in `.env`).
+
+If live Pages are still stale at **07:00** → same ops bot (`Morning report missing`). Manual: `npm run ops:morning-check`.
 
 GHA ops alerts still fire for any remaining workflows.
 

@@ -16,6 +16,36 @@ Workflow: `.github/workflows/ops-telegram-alerts.yml`
 
 Successful runs do **not** send a message.
 
+### Morning delivery watchdog
+
+If the nightly report never lands (VPS down, timer missed, Pages stale), send an ops alert even when no GHA workflow failed.
+
+| Path | Schedule | What it checks |
+|---|---|---|
+| **GitHub Actions** `.github/workflows/morning-delivery-check.yml` (primary) | `0 2 * * *` UTC ≈ **07:00 Asia/Almaty** | Live `daily.json` freshness for beta niches × `ru,en` |
+| **VPS systemd** `indieradar-morning-check.timer` (secondary) | **07:00** local (Asia/Almaty) | Same check via `npm run ops:morning-check` |
+
+On failure the check itself posts to the ops chat (`Morning report missing`) — it is **not** listed in `ops-telegram-alerts.yml`, so you do not get a duplicate “workflow failed” ping.
+
+Tune via env:
+
+| Name | Default | Purpose |
+|---|---|---|
+| `OPS_MORNING_MAX_AGE_HOURS` | `8` | Max age of live `daily.json` (nightly ~03:00 → check ~07:00) |
+| `OPS_MORNING_LOCALES` | `ru,en` | Locales to probe (canary) |
+| `REPORT_PAGES_BASE_URL` | `https://indieradar.github.io/report` | Live Pages base |
+
+Manual:
+
+```bash
+# Dry-run (no Telegram) — pass through workspace script:
+npm run verify:morning -w @indieradar/telegram -- --dry-run
+
+# Full check + alert on failure
+npm run ops:morning-check
+# or: npm run verify:morning
+```
+
 ### v2 — silent failures now fail the workflow
 
 Previously some pipeline steps could succeed while delivery was broken (Pages skipped, stale exports, zero signals). **Daily Crawl** now ends with health checks that **fail the job** → same ops alert as any other GHA failure.
@@ -134,6 +164,8 @@ npm run verify:signals
 | `npm run alert:gha` | root → `@indieradar/telegram` |
 | `npm run verify:pipeline` | nightly: signals + exports + live Pages |
 | `npm run verify:pages` | exports + live Pages only |
+| `npm run verify:morning` | morning watchdog: live Pages + ops alert on fail |
+| `npm run ops:morning-check` | bash wrapper for VPS/systemd morning check |
 | `npm run verify:signals` | Supabase signal health only |
 
 ## Out of scope

@@ -1,0 +1,10 @@
+{
+  "appId": "a0bdb11d-be92-44b6-9b85-fadadeb6d970",
+  "appIndex": 2,
+  "appName": "ChatGPT",
+  "generatedAt": "2026-08-04T23:09:26.739Z",
+  "locale": "fr",
+  "markdown": "# ChatGPT · Chat IA\n\nGénéré : 5 août 2026, 04:09\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      9 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 4 août 2026 - 4 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Isabella Alexander_, 4 août 2026, 1/5: \"Je l'ai essayé sur deux téléphones différents, il se bloque après quelques secondes et ne récupère jamais. Je l'ai désinstallé juste après. Changera la note une fois qu'elle sera corrigée.\"\n            2. _Aydin Tan_, 4 août 2026, 1/5: \"Il y a trop de publicités pour le rendre utilisable. Il n'y a aucun moyen de signaler un bug depuis l'application.\"\n            3. _Leroy Naveed_, 4 août 2026, 1/5: \"S'il était installé depuis une semaine, il se fige après quelques secondes et ne récupère jamais. Cela a également vidé mes données en arrière-plan.\"\n<!--/ir-theme-->",
+  "nicheSlug": "ai-chat",
+  "type": "app"
+}

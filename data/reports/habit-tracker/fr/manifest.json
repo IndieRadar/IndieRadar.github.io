@@ -52,7 +52,7 @@
     },
     {
       "id": "451af485-4e57-456a-b0bc-61d948f71749",
-      "name": "Habit Tracker",
+      "name": "Habit Tracker - HabitKit",
       "number": 11
     },
     {
@@ -66,17 +66,17 @@
       "number": 13
     },
     {
-      "id": "80dc7194-e1fb-484e-8e65-c49d40df7be5",
-      "name": "TickTick",
+      "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
+      "name": "HabitTick",
       "number": 14
     },
     {
-      "id": "947a4611-732f-4f7f-8432-75d496bc65f0",
-      "name": "Structured",
+      "id": "ef6da155-414e-4acf-9688-dabb0ae37bc1",
+      "name": "Habitify",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-03T23:23:56.979Z",
+  "generatedAt": "2026-08-04T23:08:24.019Z",
   "locale": "fr",
   "nicheSlug": "habit-tracker"
 }

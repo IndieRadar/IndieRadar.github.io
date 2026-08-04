@@ -1,0 +1,10 @@
+{
+  "appId": "b1c80ce3-92da-4d8b-b6ed-93c5f9e3925c",
+  "appIndex": 14,
+  "appName": "Google Finance",
+  "generatedAt": "2026-08-04T23:08:56.029Z",
+  "locale": "fr",
+  "markdown": "# Google Finance · Finance\n\nGénéré : 5 août 2026, 04:09\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      3 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 30 juil. 2026 - 3 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _David Gregor_, 3 août 2026, 1/5: \"Cette nouvelle version est extrêmement buggée. Ma liste n'a pas pu être chargée même si je suis connecté. De plus, elle plante régulièrement sur mon téléphone.\"\n            2. _Alejandro Garcia C._, 3 août 2026, 1/5: \"Depuis qu'ils ont déployé la version bêta en production, cette application et l'accès au navigateur Web sont inutiles. Pure slop d'IA, inutilisable. L'application était très utile auparavant, veuillez annuler ces modifications. Cela n’a aucun sens que vous deviez utiliser l’IA pour MODIFIER quoi que ce soit, car l’IA se trompe la plupart du temps. Il est temps de passer à d'autres solutions jusqu'à ce qu'ils testent réellement les déchets dans lesquels ils ont roulé.\"\n            3. _Dishant Poojara_, 30 juil. 2026, 1/5: \"Application pathétique. Je m'attendais à ce qu'elle remplace bien toutes les autres applications depuis que Google l'a lancée, mais cette application semble avoir été réalisée par un stagiaire. Les versions Web et mobile sont peu différentes. Il n'y a pas d'option dédiée de suivi de portefeuille sur mobile. Chaque fois que je parle avec l'IA pour m'aider à le visualiser sur mon mobile, le chat se fige et indique un problème de réseau. Absolument nul.\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

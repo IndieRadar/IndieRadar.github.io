@@ -1,63 +1,63 @@
 {
   "apps": [
     {
-      "id": "cc206e51-50ba-45e6-90be-977a4b0eb1ef",
-      "name": "Swerve - AI Chat",
+      "id": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
+      "name": "Claude by Anthropic",
       "number": 1
+    },
+    {
+      "id": "a0bdb11d-be92-44b6-9b85-fadadeb6d970",
+      "name": "ChatGPT",
+      "number": 2
     },
     {
       "id": "6542adaf-1e9f-424e-9f0e-a951fe8b52c9",
       "name": "Janitor AI - Official App",
-      "number": 2
+      "number": 3
+    },
+    {
+      "id": "cc206e51-50ba-45e6-90be-977a4b0eb1ef",
+      "name": "Swerve - AI Chat",
+      "number": 4
     },
     {
       "id": "5af6f8d1-a675-4f48-978b-033cb7b47278",
       "name": "BALA AI",
-      "number": 3
+      "number": 5
     },
     {
       "id": "0f547132-b921-43a0-867a-343156138686",
       "name": "AI Chat",
-      "number": 4
-    },
-    {
-      "id": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
-      "name": "Claude",
-      "number": 5
-    },
-    {
-      "id": "c5cc4b41-0a81-45c0-b409-4ba6633c3bf5",
-      "name": "MingloTalk: AI Character Chat",
       "number": 6
-    },
-    {
-      "id": "edf546df-efbe-4608-bae1-fe67ba98ae06",
-      "name": "Microsoft",
-      "number": 7
-    },
-    {
-      "id": "dba27ea3-e5b2-4af7-836d-846167a15535",
-      "name": "Grok: AI-assistent",
-      "number": 8
     },
     {
       "id": "e7d1fa91-f8d9-4c4b-bc5a-5acbdbc0673a",
       "name": "Character AI",
+      "number": 7
+    },
+    {
+      "id": "01fce28f-f4d2-4422-8ac2-27fbd3c339ca",
+      "name": "CHAI: Social AI Platform- Chat",
+      "number": 8
+    },
+    {
+      "id": "c5cc4b41-0a81-45c0-b409-4ba6633c3bf5",
+      "name": "MingloTalk: AI Character Chat",
       "number": 9
     },
     {
-      "id": "e78dad0d-2d7b-482e-b487-ceb3d1c71a9a",
-      "name": "Dokichat",
+      "id": "edf546df-efbe-4608-bae1-fe67ba98ae06",
+      "name": "Microsoft Copilot",
       "number": 10
+    },
+    {
+      "id": "09af4b20-a3b8-4a84-82da-547211c04bd0",
+      "name": "Grok",
+      "number": 11
     },
     {
       "id": "e97f87d9-f5af-472b-bf5c-142df5def828",
       "name": "Chai: Chat AI Platform",
-      "number": 11
-    },
-    {
-      "id": "b3c23331-b0d4-41b5-92a0-744a67e11a56",
-      "name": "Dootchi: Chat with AI Chars",
       "number": 12
     },
     {
@@ -66,32 +66,22 @@
       "number": 13
     },
     {
-      "id": "1c366a3e-1f1a-4843-a233-ff2be07c39b0",
-      "name": "Emochi: Chat With Character",
+      "id": "e78dad0d-2d7b-482e-b487-ceb3d1c71a9a",
+      "name": "Dokichat",
       "number": 14
     },
     {
-      "id": "3543de91-2f39-49ae-9ca9-577fe6d23e2b",
-      "name": "Replika: My AI Friend",
+      "id": "b3c23331-b0d4-41b5-92a0-744a67e11a56",
+      "name": "Dootchi: Chat with AI Chars",
       "number": 15
     },
     {
-      "id": "b769559f-c6f8-4c73-a196-e754eef626db",
-      "name": "PolyBuzz: Chat with Characters",
+      "id": "ad6a843c-bb24-4e11-b21a-19d09450dd74",
+      "name": "Dialogue: AI Chat & Companion",
       "number": 16
-    },
-    {
-      "id": "7e627737-df61-4caa-b62e-dc7d56c3c075",
-      "name": "Cycle AI: Chat & AI Friends",
-      "number": 17
-    },
-    {
-      "id": "b15f960e-a5c6-43f6-9f5b-ef5ac3626693",
-      "name": "zeta: AI Chat, Story, Play",
-      "number": 18
     }
   ],
-  "generatedAt": "2026-08-03T23:24:57.325Z",
+  "generatedAt": "2026-08-04T23:09:26.739Z",
   "locale": "fr",
   "nicheSlug": "ai-chat"
 }

@@ -1,0 +1,10 @@
+{
+  "appId": "21f27a8c-dc70-4494-93d5-39457e0987b6",
+  "appIndex": 17,
+  "appName": "Do! - Simple To Do List",
+  "generatedAt": "2026-08-04T23:07:53.053Z",
+  "locale": "fr",
+  "markdown": "# Do! - Simple To Do List · Productivité\n\nGénéré : 5 août 2026, 04:08\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      2 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 19 juil. 2026 - 31 juil. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _dbikedoc_, 31 juil. 2026, 2/5: \"L'application se bloque la première fois que je l'ouvre tous les jours. Fonctionne bien après cela, mais je crains qu'il ne se bloque définitivement un jour et n'emporte mes données avec lui.\"\n            2. _chanellets_, 19 juil. 2026, 2/5: \"Vous ne pouvez pas avoir trop de tâches ou chaque fois que vous en modifiez une, l'application se bloque complètement\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

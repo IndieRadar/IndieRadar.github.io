@@ -1,10 +1,10 @@
 {
   "appId": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
-  "appIndex": 5,
-  "appName": "Claude",
-  "generatedAt": "2026-08-03T23:24:49.890Z",
+  "appIndex": 1,
+  "appName": "Claude by Anthropic",
+  "generatedAt": "2026-08-04T23:09:12.010Z",
   "locale": "en",
-  "markdown": "# Claude · AI Chat\n\nGenerated: Aug 4, 2026, 4:25 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      4 recent review(s) mention bugs and stability.\n      Review window: Feb 27, 2026 - Aug 3, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Pete Bruegger_, Aug 3, 2026, 1/5: \"Wanted to like this, it freezes after a few seconds and never recovers. No reply from support.\"\n            2. _Lenard Minott_, Aug 3, 2026, 1/5: \"It crashes every time I open it. Uninstalled.\"\n            3. _Toney Deslauriers_, Aug 2, 2026, 1/5: \"Tried everything, reinstall included, but it freezes after a few seconds and never recovers.\"\n<!--/ir-theme-->",
+  "markdown": "# Claude by Anthropic · AI Chat\n\nGenerated: Aug 5, 2026, 4:09 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      16 recent review(s) mention bugs and stability.\n      Review window: Feb 27, 2026 - Aug 4, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Norbert Bodak_, Aug 4, 2026, 1/5: \"Gave it another chance after the update, it freezes after a few seconds and never recovers. Nothing but frustration.\"\n            2. _Granville Teoh_, Aug 4, 2026, 1/5: \"It freezes after a few seconds and never recovers.\"\n            3. _Terry Audley_, Aug 4, 2026, 1/5: \"Had it installed for a week, it crashes every time I open it. Save yourself the trouble.\"\n<!--/ir-theme-->",
   "nicheSlug": "ai-chat",
   "type": "app"
 }

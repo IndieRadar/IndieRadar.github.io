@@ -1,0 +1,10 @@
+{
+  "appId": "9c21eedd-456a-46d2-8f74-d42888702da4",
+  "appIndex": 3,
+  "appName": "Google Keep",
+  "generatedAt": "2026-08-04T23:07:53.053Z",
+  "locale": "fr",
+  "markdown": "# Google Keep · Productivité\n\nGénéré : 5 août 2026, 04:08\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      12 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 28 mai 2026 - 31 juil. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Wilber2K_, 31 juil. 2026, 1/5: \"Sur un produit Apple mobile, je ne peux même pas formater le texte. L'application est également régulièrement boguée et ne sauvegarde pas le travail.\"\n            2. _Laouch_, 18 juil. 2026, 1/5: \"Nous sommes en 2026, pourquoi cette application est-elle toujours aussi lente et lourde ? Si je voulais avoir 2 Go de notes sur mon téléphone, je n’utiliserais pas de service cloud.\"\n            3. _NuggetofWisdom_, 28 juin 2026, 1/5: \"Le clavier se ferme de manière aléatoire, que je sois en train de taper ou non lors de l'utilisation de cette application. Cette application est tellement buggée. Veuillez corriger. Il est difficile de faire quoi que ce soit avec ce problème.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

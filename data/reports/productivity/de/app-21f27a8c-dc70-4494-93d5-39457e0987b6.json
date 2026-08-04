@@ -1,0 +1,10 @@
+{
+  "appId": "21f27a8c-dc70-4494-93d5-39457e0987b6",
+  "appIndex": 17,
+  "appName": "Do! - Simple To Do List",
+  "generatedAt": "2026-08-04T23:07:23.512Z",
+  "locale": "de",
+  "markdown": "# Do! - Simple To Do List · Produktivität\n\nErstellt: 05.08.2026, 04:07\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      2 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 19.07.2026 - 31.07.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _dbikedoc_, 31.07.2026, 2/5: \"Die App friert jeden Tag zum ersten Mal ein, wenn ich sie öffne. Funktioniert danach einwandfrei, aber ich mache mir Sorgen, dass es eines Tages dauerhaft einfriert und meine Daten mitnimmt.\"\n            2. _chanellets_, 19.07.2026, 2/5: \"Es dürfen nicht zu viele Aufgaben vorhanden sein, sonst friert die App jedes Mal ein, wenn Sie eine bearbeiten\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

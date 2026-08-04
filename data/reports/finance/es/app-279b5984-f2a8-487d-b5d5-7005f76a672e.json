@@ -1,0 +1,10 @@
+{
+  "appId": "279b5984-f2a8-487d-b5d5-7005f76a672e",
+  "appIndex": 15,
+  "appName": "Yahoo Finance",
+  "generatedAt": "2026-08-04T23:08:41.892Z",
+  "locale": "es",
+  "markdown": "# Yahoo Finance · Finanzas\n\nGenerado: 5 ago 2026, 4:09\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      3 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 28 ene 2026 - 3 ago 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _Christoffer Poulsen_, 3 ago 2026, 1/5: \"No sé qué le han hecho a la aplicación, pero es absolutamente inutilizable. La mitad del tiempo la interfaz de usuario simplemente se niega a cargarse. Sigo usando Yahoo Finance en la web, pero el hecho de que los enlaces de YF obliguen a que la aplicación se abra cuando navego en mi teléfono hace que la aplicación sea más un perjuicio que una ayuda, hasta el punto en que simplemente la desinstalé. Además, bríndenos una forma de filtrar las noticias para que no tenga que hojear una docena de artículos de Motley Fool para encontrar algo realmente informativo.\"\n            2. _Every_Day_ Day_, 17 jul 2026, 1/5: \"esta es la peor aplicación que detuve en mi dispositivo, la basura siempre se congela, nunca funciona a las 9 a. m., los gráficos de acciones se cruzan... webull es el mejor, no descargues esa basura.\"\n            3. _Fred K_, 17 jul 2026, 2/5: \"a veces la aplicación tiene errores. No se pueden mostrar detalles de un valor rastreado. A veces basta con forzar el apagado y borrar el caché, a veces hay que desinstalar/reinstalar... es una pena.\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

@@ -1,0 +1,10 @@
+{
+  "appId": "b1c80ce3-92da-4d8b-b6ed-93c5f9e3925c",
+  "appIndex": 14,
+  "appName": "Google Finance",
+  "generatedAt": "2026-08-04T23:08:28.000Z",
+  "locale": "en",
+  "markdown": "# Google Finance · Finance\n\nGenerated: Aug 5, 2026, 4:08 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      3 recent review(s) mention bugs and stability.\n      Review window: Jul 30, 2026 - Aug 3, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _David Gregor_, Aug 3, 2026, 1/5: \"This new version is extremely buggy. My list could not be loaded even if I am logged in. Moreover, it crashes regularly on my phone.\"\n            2. _Alejandro Garcia C._, Aug 3, 2026, 1/5: \"Since they rolled out the beta version to production, this app and the web browser access are useless. Pure AI slop, unusable. The app was very useful before, please roll back these changes. It makes no sense that you need to use AI to EDIT anything, as AI does it wrong most of the time. Time to move to other solutions until they really test the trash they rolled in.\"\n            3. _Dishant Poojara_, Jul 30, 2026, 1/5: \"Pathetic application. I expected it to be a good replacement to all the other applications since Google launched it, but this application seems like it was made by an intern. The web and mobile version are little different. There's no dedicated portfolio tracker option on the mobile. Everytime I speak with AI to help me view it on my mobile the chat freezes and says network issue. Absolutely garbage.\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}
