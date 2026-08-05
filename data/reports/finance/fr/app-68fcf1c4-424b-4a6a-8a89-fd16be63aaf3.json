@@ -1,0 +1,10 @@
+{
+  "appId": "68fcf1c4-424b-4a6a-8a89-fd16be63aaf3",
+  "appIndex": 9,
+  "appName": "Revolut",
+  "generatedAt": "2026-08-05T23:40:05.341Z",
+  "locale": "fr",
+  "markdown": "# Revolut · Finance\n\nGénéré : 6 août 2026, 04:40\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      5 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 2 août 2026 - 4 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Silvia Siefert_, 4 août 2026, 1/5: \"Malgré le fait que j'ai un Samsung A13 et qu'il dit que ma version Android devrait être compatible avec cette application, je continue de me faire expulser et je ne peux rien faire. Le problème réside dans la connexion ; de nombreuses personnes possédant un Samsung Galaxy A13 ressentent cela. Je suggérerais de planifier une nouvelle mise à jour pour corriger ces erreurs, c'est mon problème de RAM et de stockage général, ce n'est pas aussi mon logiciel et sa version. Veuillez vérifier si votre application présente un bug, merci.\"\n            2. _Sarah Arliss_, 4 août 2026, 1/5: \"Depuis la mise à jour du 29/07/2026 je n'arrive plus à me connecter à l'application, elle plante constamment. J'ai vidé le cache et même désinstallé et réinstallé l'application, mais je plante toujours.\"\n            3. _Donal McGuire_, 4 août 2026, 1/5: \"n'arrête pas de planter sur moi, ne me permettant pas de saisir le mot de passe, il se ferme, donc je ne peux pas l'ouvrir, je finirai par ne pas l'utiliser, imo\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

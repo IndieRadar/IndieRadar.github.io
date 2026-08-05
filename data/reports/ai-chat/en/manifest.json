@@ -11,38 +11,38 @@
       "number": 2
     },
     {
-      "id": "6542adaf-1e9f-424e-9f0e-a951fe8b52c9",
-      "name": "Janitor AI - Official App",
+      "id": "cc206e51-50ba-45e6-90be-977a4b0eb1ef",
+      "name": "Swerve - AI Chat",
       "number": 3
     },
     {
-      "id": "cc206e51-50ba-45e6-90be-977a4b0eb1ef",
-      "name": "Swerve - AI Chat",
+      "id": "6542adaf-1e9f-424e-9f0e-a951fe8b52c9",
+      "name": "Janitor AI - Official App",
       "number": 4
-    },
-    {
-      "id": "5af6f8d1-a675-4f48-978b-033cb7b47278",
-      "name": "BALA AI",
-      "number": 5
-    },
-    {
-      "id": "0f547132-b921-43a0-867a-343156138686",
-      "name": "AI Chat",
-      "number": 6
-    },
-    {
-      "id": "e7d1fa91-f8d9-4c4b-bc5a-5acbdbc0673a",
-      "name": "Character AI",
-      "number": 7
-    },
-    {
-      "id": "01fce28f-f4d2-4422-8ac2-27fbd3c339ca",
-      "name": "CHAI: Social AI Platform- Chat",
-      "number": 8
     },
     {
       "id": "c5cc4b41-0a81-45c0-b409-4ba6633c3bf5",
       "name": "MingloTalk: AI Character Chat",
+      "number": 5
+    },
+    {
+      "id": "5af6f8d1-a675-4f48-978b-033cb7b47278",
+      "name": "BALA AI",
+      "number": 6
+    },
+    {
+      "id": "0f547132-b921-43a0-867a-343156138686",
+      "name": "AI Chat",
+      "number": 7
+    },
+    {
+      "id": "ee3af5cf-2c7f-4aa1-8a44-8c4007829ba8",
+      "name": "PolyBuzz",
+      "number": 8
+    },
+    {
+      "id": "e7d1fa91-f8d9-4c4b-bc5a-5acbdbc0673a",
+      "name": "Character AI",
       "number": 9
     },
     {
@@ -51,8 +51,8 @@
       "number": 10
     },
     {
-      "id": "09af4b20-a3b8-4a84-82da-547211c04bd0",
-      "name": "Grok",
+      "id": "dba27ea3-e5b2-4af7-836d-846167a15535",
+      "name": "Grok: AI-assistent",
       "number": 11
     },
     {
@@ -61,27 +61,27 @@
       "number": 12
     },
     {
-      "id": "38892494-507e-4f20-9cc4-cf995d9d673a",
-      "name": "Google Gemini",
+      "id": "01fce28f-f4d2-4422-8ac2-27fbd3c339ca",
+      "name": "CHAI: Social AI Platform- Chat",
       "number": 13
     },
     {
-      "id": "e78dad0d-2d7b-482e-b487-ceb3d1c71a9a",
-      "name": "Dokichat",
+      "id": "b769559f-c6f8-4c73-a196-e754eef626db",
+      "name": "PolyBuzz: Chat with Characters",
       "number": 14
     },
     {
-      "id": "b3c23331-b0d4-41b5-92a0-744a67e11a56",
-      "name": "Dootchi: Chat with AI Chars",
+      "id": "38892494-507e-4f20-9cc4-cf995d9d673a",
+      "name": "Google Gemini",
       "number": 15
     },
     {
-      "id": "ad6a843c-bb24-4e11-b21a-19d09450dd74",
-      "name": "Dialogue: AI Chat & Companion",
+      "id": "02fcfe4b-f71f-4374-ab98-e7e4a8be5c82",
+      "name": "Chativon",
       "number": 16
     }
   ],
-  "generatedAt": "2026-08-04T23:09:12.010Z",
+  "generatedAt": "2026-08-05T23:40:39.923Z",
   "locale": "en",
   "nicheSlug": "ai-chat"
 }

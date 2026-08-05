@@ -1,0 +1,10 @@
+{
+  "appId": "1c2d0b25-6f4f-4507-a01b-846dd8c51eef",
+  "appIndex": 2,
+  "appName": "Google Keep",
+  "generatedAt": "2026-08-05T23:37:52.723Z",
+  "locale": "en",
+  "markdown": "# Google Keep · Productivity\n\nGenerated: Aug 6, 2026, 4:38 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      12 recent review(s) mention bugs and stability.\n      Review window: May 28, 2026 - Jul 31, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Wilber2K_, Jul 31, 2026, 1/5: \"On a mobile Apple product, I can’t even format text. The app is also regularly buggy and does not save work.\"\n            2. _Laouch_, Jul 18, 2026, 1/5: \"We are in 2026 how come this app is still so slow and heavy ? If I wanted to have 2gb of notes in my phone I wouldn’t use a cloud service.\"\n            3. _NuggetofWisdom_, Jun 28, 2026, 1/5: \"Keyboard randomly closes whether I’m mid-typing or not while using this app. This app is so buggy. Please fix. It’s difficult to get anything done with this issue.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

@@ -1,0 +1,10 @@
+{
+  "appId": "60661910-c0a1-44e8-86cf-56ed4e52f6fc",
+  "appIndex": 16,
+  "appName": "Grit - Productivity App",
+  "generatedAt": "2026-08-05T23:38:40.553Z",
+  "locale": "fr",
+  "markdown": "# Grit - Productivity App · Productivité\n\nGénéré : 6 août 2026, 04:39\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      1 avis récent mentionne bugs et stabilité.\n      Fenêtre d'avis : 20 juil. 2026 - 20 juil. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Mohan Talatam_, 20 juil. 2026, 3/5: \"Grit est un excellent outil de suivi des habitudes. J'aime vraiment son design épuré, minimal et sans distraction. L'interface est intuitive, légère et facile à utiliser. Cependant, j'ai remarqué un bug avec les notifications de rappel. Même après avoir activé les rappels et défini une heure de rappel, les notifications n'apparaissent pas toujours. Étant donné que les rappels sont une partie importante du suivi des habitudes, j'espère que ce problème sera bientôt résolu. Ce serait utile s'il dispose d'une fonction de tri ou de modification de l'ordre pour les habitudes affichées.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

@@ -1,0 +1,10 @@
+{
+  "appId": "60661910-c0a1-44e8-86cf-56ed4e52f6fc",
+  "appIndex": 16,
+  "appName": "Grit - Productivity App",
+  "generatedAt": "2026-08-05T23:37:52.128Z",
+  "locale": "es",
+  "markdown": "# Grit - Productivity App · Productividad\n\nGenerado: 6 ago 2026, 4:38\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      1 reseña reciente menciona errores y estabilidad.\n      Ventana de reseñas: 20 jul 2026 - 20 jul 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _Mohan Talatam_, 20 jul 2026, 3/5: \"Grit es un excelente rastreador de hábitos. Realmente me gusta su diseño limpio, minimalista y sin distracciones. La interfaz es intuitiva, ligera y fácil de usar. Sin embargo, noté un error con las notificaciones de recordatorio. Incluso después de habilitar los recordatorios y configurar una hora de recordatorio, las notificaciones no siempre aparecen. Dado que los recordatorios son una parte importante del seguimiento de hábitos, espero que este problema se solucione pronto. Sería útil si tuviera la función de ordenar o cambiar el orden de los hábitos mostrados.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

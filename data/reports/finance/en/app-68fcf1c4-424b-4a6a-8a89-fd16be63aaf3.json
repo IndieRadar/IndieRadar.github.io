@@ -1,0 +1,10 @@
+{
+  "appId": "68fcf1c4-424b-4a6a-8a89-fd16be63aaf3",
+  "appIndex": 9,
+  "appName": "Revolut",
+  "generatedAt": "2026-08-05T23:39:30.322Z",
+  "locale": "en",
+  "markdown": "# Revolut · Finance\n\nGenerated: Aug 6, 2026, 4:39 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      5 recent review(s) mention bugs and stability.\n      Review window: Aug 2, 2026 - Aug 4, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Silvia Siefert_, Aug 4, 2026, 1/5: \"Despite the fact that I have a Samsung A13 and it says that my Android version should be compatible with this app, I keep getting kicked out and can't do anything. The problem lies with logging in; many people with a Samsung galaxy A13 feel this way. I would suggest planning a new update to fix these errors, it's my RAM and general storage issue, it's not also my software and its version. Please check whether your app has a bug, thank you.\"\n            2. _Sarah Arliss_, Aug 4, 2026, 1/5: \"Since the 29/07/2026 update i can no longer log in to the app, it crashes constantly. I've cleared cache and even uninstall and reinstalled the app but still crashing.\"\n            3. _Donal McGuire_, Aug 4, 2026, 1/5: \"keeps crashing on me ,not allowing me to put in passcode ,it just closes, so can't open it ,will end up not using it imo\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

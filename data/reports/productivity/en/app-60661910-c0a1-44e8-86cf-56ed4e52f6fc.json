@@ -1,0 +1,10 @@
+{
+  "appId": "60661910-c0a1-44e8-86cf-56ed4e52f6fc",
+  "appIndex": 16,
+  "appName": "Grit - Productivity App",
+  "generatedAt": "2026-08-05T23:37:52.723Z",
+  "locale": "en",
+  "markdown": "# Grit - Productivity App · Productivity\n\nGenerated: Aug 6, 2026, 4:38 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      1 recent review(s) mention bugs and stability.\n      Review window: Jul 20, 2026 - Jul 20, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Mohan Talatam_, Jul 20, 2026, 3/5: \"Grit is an excellent habit tracker. I really like its clean, minimal, and distraction free design. The interface is intuitive, lightweight, and easy to use. However, I've noticed a bug with reminder notifications. Even after enabling reminders and setting a reminder time, notifications don't always appear. Since reminders are an important part of habit tracking, I hope this issue gets fixed soon. Would be helpful, if it has sort or changing order feature for habits displayed.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

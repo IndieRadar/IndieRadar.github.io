@@ -1,0 +1,10 @@
+{
+  "appId": "46150ea2-595f-47ae-93d9-12741aa834e7",
+  "appIndex": 10,
+  "appName": "HDFC Bank App",
+  "generatedAt": "2026-08-05T23:40:05.341Z",
+  "locale": "fr",
+  "markdown": "# HDFC Bank App · Finance\n\nGénéré : 6 août 2026, 04:40\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      5 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 4 août 2026 - 4 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Saheb hussain_, 4 août 2026, 1/5: \"très déçu seulement cette application ne fonctionne pas correctement fonctionne très lentement je n'aime pas cette application\"\n            2. _Parikshit Singh Rana_, 4 août 2026, 1/5: \"trop d'applications lentes ne fonctionnent pas correctement, apprenez simplement de l'application Kotak 811\"\n            3. _P .HEMANTH KIRAN_, 4 août 2026, 1/5: \"la plupart du temps, le chargement ne fonctionne pas correctement, ce qui gaspille le développement de cette application, ne corrige pas les bogues et ne développe pas l'application correctement.\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

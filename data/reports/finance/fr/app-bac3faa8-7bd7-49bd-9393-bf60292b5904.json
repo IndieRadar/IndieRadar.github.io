@@ -1,0 +1,10 @@
+{
+  "appId": "bac3faa8-7bd7-49bd-9393-bf60292b5904",
+  "appIndex": 18,
+  "appName": "Wallet - Budget Tracker",
+  "generatedAt": "2026-08-05T23:40:05.341Z",
+  "locale": "fr",
+  "markdown": "# Wallet - Budget Tracker · Finance\n\nGénéré : 6 août 2026, 04:40\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      1 avis récent mentionne bugs et stabilité.\n      Fenêtre d'avis : 13 juil. 2026 - 16 juil. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Ebrahim Hammam_, 16 juil. 2026, 1/5: \"l'application fonctionnait bien, jusqu'au 1er juillet, a commencé à disparaître le % des dépenses pour toute l'histoire, mois, semaine, jour. affichant simplement \"---\" ou >+1000 pour l'historique passé, essayez de résoudre ce problème ou préférez passer à une autre application\"\n            2. _Victoria Berninger_, 13 juil. 2026, 3/5: \"J'ai adoré cette application mais la dernière mise à jour l'a rendue inutilisable. Il m'indiquait mon budget total, mon budget dépensé, mon budget restant en €. Les 3 dans un seul graphique, très intuitif et facile à comprendre. maintenant, son argent est utilisé uniquement. Il a également calculé correctement mes coûts fixes et l'argent restant via les paiements planifiés. Pas plus. Je dois mettre moi-même beaucoup de budget et il ne s'ajuste pas automatiquement. Mes budgets sont différents chaque mois en raison d'abonnements bimensuels et je dois corriger manuellement 2 budgets à plusieurs reprises. Veuillez revenir en arrière.\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

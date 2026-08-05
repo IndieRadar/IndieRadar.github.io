@@ -66,17 +66,22 @@
       "number": 13
     },
     {
-      "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
-      "name": "HabitTick",
+      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
+      "name": "Habit Tracker",
       "number": 14
     },
     {
-      "id": "ef6da155-414e-4acf-9688-dabb0ae37bc1",
-      "name": "Habitify",
+      "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
+      "name": "HabitTick",
       "number": 15
+    },
+    {
+      "id": "160bf2cd-6ea1-4986-94f2-c42873ba35ae",
+      "name": "HabitNow Daily Routine Planner",
+      "number": 16
     }
   ],
-  "generatedAt": "2026-08-04T23:08:24.019Z",
+  "generatedAt": "2026-08-05T23:39:27.010Z",
   "locale": "fr",
   "nicheSlug": "habit-tracker"
 }
