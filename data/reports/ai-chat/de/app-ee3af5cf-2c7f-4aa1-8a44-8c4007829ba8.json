@@ -1,10 +1,10 @@
 {
   "appId": "ee3af5cf-2c7f-4aa1-8a44-8c4007829ba8",
-  "appIndex": 8,
+  "appIndex": 13,
   "appName": "PolyBuzz",
-  "generatedAt": "2026-08-05T23:40:40.865Z",
+  "generatedAt": "2026-08-06T13:38:44.778Z",
   "locale": "de",
-  "markdown": "# PolyBuzz · KI-Chat\n\nErstellt: 06.08.2026, 04:41\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      4 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 04.08.2026 - 05.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Aurelie Larocque_, 05.08.2026, 1/5: \"Zu viele Anzeigen ließen mich nicht einmal chatten. Ich hatte ungefähr 75 Anzeigen, ja, ich habe gezählt, aber es ist verrückt, wie viele Anzeigen es gibt, und diese App lässt sich so langsam installieren, selbst wenn ich meinen Speicher gelöscht habe, weigerte sie sich immer noch, sie zu installieren\"\n            2. _Jacob Chan_, 04.08.2026, 1/5: \"Diese App stürzt mein Telefon 10 Mal ab\"\n            3. _Summer Smith_, 05.08.2026, 5/5: \"Es zeigt sich immer wieder, dass es einfriert\"\n<!--/ir-theme-->",
+  "markdown": "# PolyBuzz · KI-Chat\n\nErstellt: 06.08.2026, 18:39\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      3 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 05.08.2026 - 05.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _ST hagudi LITS_, 05.08.2026, 1/5: \"Schön, die App ist jetzt ein fehlerhaftes Durcheinander. Alles lädt so langsam, und ich kann nicht einmal ein Abonnement kaufen, weil es das nicht zulässt.\"\n            2. _Leah_, 05.08.2026, 1/5: \"Gierig nach Geld Ich hatte mehr Werbung als tatsächliche Chatzeit und es friert stark ein. Ich möchte das alte Poly zurück\"\n            3. _Mia Felice Zippy_, 05.08.2026, 3/5: \"Ich kann nicht mehr mit Bots chatten. Da steht „Aktualisieren“ und ich habe darauf geklickt. Es funktioniert nicht. Sagen Sie mir bitte, warum ich nicht mehr chatten kann oder was ich getan habe. Aber ich denke, es war nur ein Fehler oder so etwas.\"\n<!--/ir-theme-->",
   "nicheSlug": "ai-chat",
   "type": "app"
 }

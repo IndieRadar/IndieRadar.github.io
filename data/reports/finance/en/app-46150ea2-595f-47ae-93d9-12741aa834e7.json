@@ -1,10 +1,10 @@
 {
   "appId": "46150ea2-595f-47ae-93d9-12741aa834e7",
-  "appIndex": 10,
+  "appIndex": 13,
   "appName": "HDFC Bank App",
-  "generatedAt": "2026-08-05T23:39:30.322Z",
+  "generatedAt": "2026-08-06T13:37:52.124Z",
   "locale": "en",
-  "markdown": "# HDFC Bank App · Finance\n\nGenerated: Aug 6, 2026, 4:39 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      5 recent review(s) mention bugs and stability.\n      Review window: Aug 4, 2026 - Aug 4, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Saheb hussain_, Aug 4, 2026, 1/5: \"very disappointed only this app not working properly fine very slow working i don't like this app\"\n            2. _Parikshit Singh Rana_, Aug 4, 2026, 1/5: \"too many laggy app not working smoothly just learn from kotak 811 app\"\n            3. _P .HEMANTH KIRAN_, Aug 4, 2026, 1/5: \"most of the time getting loading only not working properly to waste of developing this application not clearing bugs and developing the application properly\"\n<!--/ir-theme-->",
+  "markdown": "# HDFC Bank App · Finance\n\nGenerated: Aug 6, 2026, 6:38 PM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      3 recent review(s) mention bugs and stability.\n      Review window: Aug 5, 2026 - Aug 5, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Mitul Chandaria_, Aug 5, 2026, 1/5: \"very slow and wont open\"\n            2. _Kushagra Gautam_, Aug 5, 2026, 2/5: \"Since I have installed this new HDFC app, it starts crashing after few days. I again uninstall and reinstall then again it starts crashing. When the app is clicked a blue screen pops up and again returns to the app icon. You need to fix it. I use latest 5 phone and I don't face such issues with other banking apps.\"\n            3. _Sunil Kumar Jain_, Aug 5, 2026, 2/5: \"extremely slow. After every two three payments a message comes something went wrong. Then again come out of the app and again open the app to make another payment\"\n<!--/ir-theme-->",
   "nicheSlug": "finance",
   "type": "app"
 }

@@ -1,0 +1,10 @@
+{
+  "appId": "14c367ef-b832-4926-ae46-55a3e6bf21cf",
+  "appIndex": 4,
+  "appName": "Investing.com",
+  "generatedAt": "2026-08-06T13:38:18.352Z",
+  "locale": "fr",
+  "markdown": "# Investing.com · Finance\n\nGénéré : 6 août 2026, 18:38\n\n## **Sommaire** {#toc}\n\n- [Prix et paywall](#theme-pricing_paywall)\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Prix et paywall** {#theme-pricing_paywall}\n\n<!--ir-theme:pricing_paywall-->\n   **Prix et paywall.**\n      1 avis récent mentionne prix et paywall.\n      Fenêtre d'avis : 3 août 2026 - 3 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent prix, abonnements ou paywalls. Cela peut signaler une sensibilité au pricing dans la niche.\n\n         **Exemples d'avis:**\n            1. _Sarita Tamang_, 3 août 2026, 1/5: \"annuler l'abonnement est difficile\"\n<!--/ir-theme-->\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      1 avis récent mentionne bugs et stabilité.\n      Fenêtre d'avis : 31 juil. 2026 - 31 juil. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Satish Kumar_, 31 juil. 2026, 1/5: \"Trop lent\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

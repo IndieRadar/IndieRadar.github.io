@@ -1,8 +1,8 @@
 {
   "apps": [
     {
-      "id": "40d28b66-782b-4944-8828-a47664b266a9",
-      "name": "Kraken",
+      "id": "d391f361-eed6-433c-95aa-337b0def3884",
+      "name": "Google Wallet",
       "number": 1
     },
     {
@@ -11,87 +11,72 @@
       "number": 2
     },
     {
-      "id": "f21839d8-3fdd-439a-bee3-4417854eb101",
-      "name": "Gastos",
+      "id": "3584e712-1cf9-4898-878e-d8f54102209e",
+      "name": "slice: UPI credit card & bank",
       "number": 3
     },
     {
-      "id": "d391f361-eed6-433c-95aa-337b0def3884",
-      "name": "Google Wallet",
+      "id": "14c367ef-b832-4926-ae46-55a3e6bf21cf",
+      "name": "Investing.com",
       "number": 4
     },
     {
-      "id": "b6a6eee2-e9d1-4dff-bf17-2a6eeb1b526a",
-      "name": "Investing.com: Stock Market",
+      "id": "40d28b66-782b-4944-8828-a47664b266a9",
+      "name": "Kraken",
       "number": 5
-    },
-    {
-      "id": "a366a050-3120-4657-beb4-b4db898daeaa",
-      "name": "Binance: Buy Bitcoin & Crypto",
-      "number": 6
     },
     {
       "id": "f06ca6d2-ce14-444e-8000-e02861a155da",
       "name": "Yahoo Finance - Stock Market",
-      "number": 7
+      "number": 6
     },
     {
       "id": "b4ff19ca-91fe-424b-8c54-d98f0ebb7df9",
       "name": "IBKR Mobile - Invest Worldwide",
-      "number": 8
+      "number": 7
     },
     {
       "id": "68fcf1c4-424b-4a6a-8a89-fd16be63aaf3",
       "name": "Revolut",
-      "number": 9
-    },
-    {
-      "id": "46150ea2-595f-47ae-93d9-12741aa834e7",
-      "name": "HDFC Bank App",
-      "number": 10
+      "number": 8
     },
     {
       "id": "867a810d-d213-4730-8429-c6522778367c",
       "name": "Copilot: Track & Budget Money",
-      "number": 11
-    },
-    {
-      "id": "150ac319-f7e5-429d-aabf-d5cc5db1fda8",
-      "name": "Zindigi - All in One Finance",
-      "number": 12
-    },
-    {
-      "id": "a118d535-56a6-48c6-bbf4-aea333512b6d",
-      "name": "Money Lover",
-      "number": 13
-    },
-    {
-      "id": "09b8dc4a-759e-4dfa-91f2-aea2c0a600db",
-      "name": "Yahoo",
-      "number": 14
+      "number": 9
     },
     {
       "id": "7818828a-9eaf-4109-9ef5-d8dcc748ee1d",
       "name": "Fidelity Investments",
+      "number": 10
+    },
+    {
+      "id": "150ac319-f7e5-429d-aabf-d5cc5db1fda8",
+      "name": "Zindigi - All in One Finance",
+      "number": 11
+    },
+    {
+      "id": "a3215d9a-27ba-4931-901b-4ffcb4fb778a",
+      "name": "Money Lover",
+      "number": 12
+    },
+    {
+      "id": "46150ea2-595f-47ae-93d9-12741aa834e7",
+      "name": "HDFC Bank App",
+      "number": 13
+    },
+    {
+      "id": "279b5984-f2a8-487d-b5d5-7005f76a672e",
+      "name": "Yahoo Finance",
+      "number": 14
+    },
+    {
+      "id": "9ac3bb92-ddc4-49ba-95f8-7bca241d1769",
+      "name": "Robinhood: Trading & Investing",
       "number": 15
-    },
-    {
-      "id": "84ea6f2f-e2b1-48dd-b9d0-89e277b5a7be",
-      "name": "Creation Finance",
-      "number": 16
-    },
-    {
-      "id": "e6b2ee06-965a-4be0-b1a7-917257506e1d",
-      "name": "Trade Republic: Broker & Bank",
-      "number": 17
-    },
-    {
-      "id": "bac3faa8-7bd7-49bd-9393-bf60292b5904",
-      "name": "Wallet - Budget Tracker",
-      "number": 18
     }
   ],
-  "generatedAt": "2026-08-05T23:39:59.912Z",
+  "generatedAt": "2026-08-06T13:38:13.182Z",
   "locale": "es",
   "nicheSlug": "finance"
 }

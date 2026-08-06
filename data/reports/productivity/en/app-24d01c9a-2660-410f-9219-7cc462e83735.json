@@ -1,10 +1,10 @@
 {
   "appId": "24d01c9a-2660-410f-9219-7cc462e83735",
-  "appIndex": 6,
+  "appIndex": 5,
   "appName": "Save Notes",
-  "generatedAt": "2026-08-05T23:37:52.723Z",
+  "generatedAt": "2026-08-06T13:36:42.996Z",
   "locale": "en",
-  "markdown": "# Save Notes · Productivity\n\nGenerated: Aug 6, 2026, 4:38 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      5 recent review(s) mention bugs and stability.\n      Review window: May 31, 2026 - Aug 5, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Michael Clayton_, Aug 4, 2026, 1/5: \"keeps crashing\"\n            2. _Kris Bronz_, Jul 15, 2026, 1/5: \"the app encounters a bug and does not stay open\"\n            3. _jos tom_, Aug 5, 2026, 2/5: \"It is the note taking app with the most features I have seen so far. However, there are many issues. Text can sometimes glitch out, duplicating. It is easy to undo but very common and aggravating. Another issue is that crashing is common. It wastes time and makes me lose progress. Finally, I can't even open my notebooks anymore, it is frozen on the entry screen. I had to reinstall to fix it. Please fix this issues, I would rate this higher if these were adressed.\"\n<!--/ir-theme-->",
+  "markdown": "# Save Notes · Productivity\n\nGenerated: Aug 6, 2026, 6:36 PM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      6 recent review(s) mention bugs and stability.\n      Review window: May 31, 2026 - Aug 5, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Isaac Ahn_, Aug 5, 2026, 1/5: \"absolutely trash app, can't stop lagging or pausing for more than 5 minutes\"\n            2. _Michael Clayton_, Aug 4, 2026, 1/5: \"keeps crashing\"\n            3. _Kris Bronz_, Jul 15, 2026, 1/5: \"the app encounters a bug and does not stay open\"\n<!--/ir-theme-->",
   "nicheSlug": "productivity",
   "type": "app"
 }

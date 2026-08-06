@@ -1,0 +1,10 @@
+{
+  "appId": "14c367ef-b832-4926-ae46-55a3e6bf21cf",
+  "appIndex": 4,
+  "appName": "Investing.com",
+  "generatedAt": "2026-08-06T13:38:15.959Z",
+  "locale": "de",
+  "markdown": "# Investing.com · Finanzen\n\nErstellt: 06.08.2026, 18:38\n\n## **Inhalt** {#toc}\n\n- [Preis und Paywall](#theme-pricing_paywall)\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Preis und Paywall** {#theme-pricing_paywall}\n\n<!--ir-theme:pricing_paywall-->\n   **Preis und Paywall.**\n      1 aktuelle Review(s) erwähnen preis und paywall.\n      Review-Fenster: 03.08.2026 - 03.08.2026\n      **Warum das zählt:** Nutzer erwähnen Preis, Abos oder Paywalls. Das kann Preissensibilität in der Nische signalisieren.\n\n         **Review-Beispiele:**\n            1. _Sarita Tamang_, 03.08.2026, 1/5: \"Das Abo kündigen ist schwer\"\n<!--/ir-theme-->\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      1 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 31.07.2026 - 31.07.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Satish Kumar_, 31.07.2026, 1/5: \"Zu langsam\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

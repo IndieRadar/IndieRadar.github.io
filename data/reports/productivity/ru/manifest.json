@@ -6,87 +6,77 @@
       "number": 1
     },
     {
+      "id": "160ae327-eb84-4f38-ad61-2c6f12a9950c",
+      "name": "Goodnotes",
+      "number": 2
+    },
+    {
       "id": "1c2d0b25-6f4f-4507-a01b-846dd8c51eef",
       "name": "Google Keep",
-      "number": 2
+      "number": 3
     },
     {
       "id": "c5764e78-8411-4b2e-b532-c3b145ab5893",
       "name": "Trello",
-      "number": 3
-    },
-    {
-      "id": "2e705fec-25bb-4cdf-82c0-c91e28166e9d",
-      "name": "Notion",
       "number": 4
-    },
-    {
-      "id": "260a6071-6db1-4ef4-8f54-72f70369dbf5",
-      "name": "Notebook",
-      "number": 5
     },
     {
       "id": "24d01c9a-2660-410f-9219-7cc462e83735",
       "name": "Save Notes",
+      "number": 5
+    },
+    {
+      "id": "2e705fec-25bb-4cdf-82c0-c91e28166e9d",
+      "name": "Notion",
       "number": 6
+    },
+    {
+      "id": "260a6071-6db1-4ef4-8f54-72f70369dbf5",
+      "name": "Notebook",
+      "number": 7
     },
     {
       "id": "2c6aee23-fec2-46ad-a66c-b6a01dd5ce45",
       "name": "Notion: Notes, Tasks, AI",
-      "number": 7
+      "number": 8
     },
     {
       "id": "f848c3aa-7ac4-4fd5-95f3-4d80f9782235",
       "name": "Forest: Focus for Productivity",
-      "number": 8
+      "number": 9
     },
     {
       "id": "65d1c29c-1b0d-43b4-bd20-79a8a951596f",
       "name": "Microsoft To Do",
-      "number": 9
+      "number": 10
     },
     {
       "id": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
       "name": "Microsoft To Do",
-      "number": 10
+      "number": 11
     },
     {
       "id": "f40ac530-47f9-480c-bee5-14095f8cffba",
       "name": "Google",
-      "number": 11
+      "number": 12
     },
     {
       "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
       "name": "Tiimo: Daily To Do List",
-      "number": 12
+      "number": 13
     },
     {
       "id": "5df2eb8c-a19c-428a-a12d-432daaf1e232",
       "name": "Toggl Track - Time Tracking",
-      "number": 13
+      "number": 14
     },
     {
       "id": "80dc7194-e1fb-484e-8e65-c49d40df7be5",
       "name": "TickTick",
-      "number": 14
-    },
-    {
-      "id": "1a4d7531-c642-41c1-8d80-dd1c0527d512",
-      "name": "Focus To-Do",
       "number": 15
-    },
-    {
-      "id": "60661910-c0a1-44e8-86cf-56ed4e52f6fc",
-      "name": "Grit - Productivity App",
-      "number": 16
-    },
-    {
-      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
-      "name": "Habit Tracker",
-      "number": 17
     }
   ],
-  "generatedAt": "2026-08-05T23:37:52.848Z",
+  "generatedAt": "2026-08-06T13:36:43.186Z",
   "locale": "ru",
   "nicheSlug": "productivity"
 }

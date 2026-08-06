@@ -1,10 +1,10 @@
 {
   "appId": "65d1c29c-1b0d-43b4-bd20-79a8a951596f",
-  "appIndex": 9,
+  "appIndex": 10,
   "appName": "Microsoft To Do",
-  "generatedAt": "2026-08-05T23:38:40.553Z",
+  "generatedAt": "2026-08-06T13:37:14.949Z",
   "locale": "fr",
-  "markdown": "# Microsoft To Do · Productivité\n\nGénéré : 6 août 2026, 04:39\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      5 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 29 mai 2026 - 12 juil. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Isemran_, 9 juil. 2026, 1/5: \"N'arrête pas de planter sur mon iPhone et mon iPad. J'ai essayé plusieurs fois de contacter Microsoft mais je n'ai eu aucune réponse. Dommage\"\n            2. _JLSW623_, 10 juin 2026, 3/5: \"Cela me bloque lorsque j'essaie de créer une nouvelle liste. Et j'ai perdu des tâches lors du passage à une nouvelle liste. Pouf. Je viens de partir. Alors maintenant, je dois faire une capture d'écran avant de bouger, juste au cas où. Sinon c'est super !\"\n<!--/ir-theme-->",
+  "markdown": "# Microsoft To Do · Productivité\n\nGénéré : 6 août 2026, 18:37\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      5 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 29 mai 2026 - 12 juil. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Isemran_, 9 juil. 2026, 1/5: \"N'arrête pas de planter sur mon iPhone et mon iPad. J'ai essayé plusieurs fois de contacter Microsoft mais je n'ai eu aucune réponse. Dommage\"\n            2. _JLSW623_, 10 juin 2026, 3/5: \"Cela me bloque lorsque j'essaie de créer une nouvelle liste. Et j'ai perdu des tâches lors du passage à une nouvelle liste. Pouf. Je viens de partir. Alors maintenant, je dois faire une capture d'écran avant de bouger, juste au cas où. Sinon c'est super !\"\n<!--/ir-theme-->",
   "nicheSlug": "productivity",
   "type": "app"
 }

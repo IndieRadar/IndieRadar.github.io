@@ -6,13 +6,13 @@
       "number": 1
     },
     {
-      "id": "7ea5e767-595b-4e20-8544-40dcd5a8dada",
-      "name": "Yazio",
+      "id": "8c96733f-429a-4412-8617-dfce9931e307",
+      "name": "MyFitnessPal: Calorie Counter",
       "number": 2
     },
     {
-      "id": "8c96733f-429a-4412-8617-dfce9931e307",
-      "name": "MyFitnessPal: Calorie Counter",
+      "id": "7ea5e767-595b-4e20-8544-40dcd5a8dada",
+      "name": "Yazio",
       "number": 3
     },
     {
@@ -36,13 +36,13 @@
       "number": 7
     },
     {
-      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
-      "name": "Fitbod Workout & Gym Planner",
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
       "number": 8
     },
     {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
+      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
+      "name": "Fitbod Workout & Gym Planner",
       "number": 9
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-05T23:41:42.883Z",
+  "generatedAt": "2026-08-06T13:39:33.047Z",
   "locale": "fr",
   "nicheSlug": "fitness"
 }

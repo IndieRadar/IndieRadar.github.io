@@ -74,14 +74,9 @@
       "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
       "name": "HabitTick",
       "number": 15
-    },
-    {
-      "id": "160bf2cd-6ea1-4986-94f2-c42873ba35ae",
-      "name": "HabitNow Daily Routine Planner",
-      "number": 16
     }
   ],
-  "generatedAt": "2026-08-05T23:39:27.010Z",
+  "generatedAt": "2026-08-06T13:37:49.190Z",
   "locale": "fr",
   "nicheSlug": "habit-tracker"
 }

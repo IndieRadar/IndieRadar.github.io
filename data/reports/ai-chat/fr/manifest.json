@@ -16,13 +16,13 @@
       "number": 3
     },
     {
-      "id": "6542adaf-1e9f-424e-9f0e-a951fe8b52c9",
-      "name": "Janitor AI - Official App",
+      "id": "c5cc4b41-0a81-45c0-b409-4ba6633c3bf5",
+      "name": "MingloTalk: AI Character Chat",
       "number": 4
     },
     {
-      "id": "c5cc4b41-0a81-45c0-b409-4ba6633c3bf5",
-      "name": "MingloTalk: AI Character Chat",
+      "id": "6542adaf-1e9f-424e-9f0e-a951fe8b52c9",
+      "name": "Janitor AI - Official App",
       "number": 5
     },
     {
@@ -36,8 +36,8 @@
       "number": 7
     },
     {
-      "id": "ee3af5cf-2c7f-4aa1-8a44-8c4007829ba8",
-      "name": "PolyBuzz",
+      "id": "01fce28f-f4d2-4422-8ac2-27fbd3c339ca",
+      "name": "CHAI: Social AI Platform- Chat",
       "number": 8
     },
     {
@@ -51,8 +51,8 @@
       "number": 10
     },
     {
-      "id": "dba27ea3-e5b2-4af7-836d-846167a15535",
-      "name": "Grok: AI-assistent",
+      "id": "b2d502a0-7142-49c8-a480-9ac04411e735",
+      "name": "Grok AI",
       "number": 11
     },
     {
@@ -61,27 +61,22 @@
       "number": 12
     },
     {
-      "id": "01fce28f-f4d2-4422-8ac2-27fbd3c339ca",
-      "name": "CHAI: Social AI Platform- Chat",
+      "id": "ee3af5cf-2c7f-4aa1-8a44-8c4007829ba8",
+      "name": "PolyBuzz",
       "number": 13
-    },
-    {
-      "id": "b769559f-c6f8-4c73-a196-e754eef626db",
-      "name": "PolyBuzz: Chat with Characters",
-      "number": 14
     },
     {
       "id": "38892494-507e-4f20-9cc4-cf995d9d673a",
       "name": "Google Gemini",
-      "number": 15
+      "number": 14
     },
     {
-      "id": "02fcfe4b-f71f-4374-ab98-e7e4a8be5c82",
-      "name": "Chativon",
-      "number": 16
+      "id": "e78dad0d-2d7b-482e-b487-ceb3d1c71a9a",
+      "name": "Dokichat",
+      "number": 15
     }
   ],
-  "generatedAt": "2026-08-05T23:40:43.230Z",
+  "generatedAt": "2026-08-06T13:38:46.499Z",
   "locale": "fr",
   "nicheSlug": "ai-chat"
 }
