@@ -6,38 +6,38 @@
       "number": 1
     },
     {
-      "id": "4185adec-7689-44b8-9128-57fc626d8d05",
-      "name": "TradingView",
+      "id": "3584e712-1cf9-4898-878e-d8f54102209e",
+      "name": "slice: UPI credit card & bank",
       "number": 2
     },
     {
-      "id": "3584e712-1cf9-4898-878e-d8f54102209e",
-      "name": "slice: UPI credit card & bank",
+      "id": "91e70d5c-2ced-4282-88bb-841caad81317",
+      "name": "Gestor de",
       "number": 3
-    },
-    {
-      "id": "14c367ef-b832-4926-ae46-55a3e6bf21cf",
-      "name": "Investing.com",
-      "number": 4
     },
     {
       "id": "40d28b66-782b-4944-8828-a47664b266a9",
       "name": "Kraken",
-      "number": 5
+      "number": 4
     },
     {
       "id": "f06ca6d2-ce14-444e-8000-e02861a155da",
       "name": "Yahoo Finance - Stock Market",
-      "number": 6
-    },
-    {
-      "id": "b4ff19ca-91fe-424b-8c54-d98f0ebb7df9",
-      "name": "IBKR Mobile - Invest Worldwide",
-      "number": 7
+      "number": 5
     },
     {
       "id": "68fcf1c4-424b-4a6a-8a89-fd16be63aaf3",
       "name": "Revolut",
+      "number": 6
+    },
+    {
+      "id": "46150ea2-595f-47ae-93d9-12741aa834e7",
+      "name": "HDFC Bank App",
+      "number": 7
+    },
+    {
+      "id": "b4ff19ca-91fe-424b-8c54-d98f0ebb7df9",
+      "name": "IBKR Mobile - Invest Worldwide",
       "number": 8
     },
     {
@@ -61,13 +61,13 @@
       "number": 12
     },
     {
-      "id": "46150ea2-595f-47ae-93d9-12741aa834e7",
-      "name": "HDFC Bank App",
+      "id": "84ea6f2f-e2b1-48dd-b9d0-89e277b5a7be",
+      "name": "Creation Finance",
       "number": 13
     },
     {
-      "id": "279b5984-f2a8-487d-b5d5-7005f76a672e",
-      "name": "Yahoo Finance",
+      "id": "09b8dc4a-759e-4dfa-91f2-aea2c0a600db",
+      "name": "Yahoo",
       "number": 14
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-06T13:37:52.124Z",
+  "generatedAt": "2026-08-06T23:26:05.260Z",
   "locale": "en",
   "nicheSlug": "finance"
 }

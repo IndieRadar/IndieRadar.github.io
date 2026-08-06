@@ -1,0 +1,10 @@
+{
+  "appId": "84ea6f2f-e2b1-48dd-b9d0-89e277b5a7be",
+  "appIndex": 13,
+  "appName": "Creation Finance",
+  "generatedAt": "2026-08-06T23:26:30.465Z",
+  "locale": "de",
+  "markdown": "# Creation Finance · Finanzen\n\nErstellt: 07.08.2026, 04:26\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      3 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 13.07.2026 - 05.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Christopher james bracken_, 13.07.2026, 1/5: \"Es gibt einen Fehler, bei dem ich die Erstellungs-App öffne und jedes Mal, wenn ich sie öffne, mein Passwort zurücksetzen muss, absoluter Quatsch\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

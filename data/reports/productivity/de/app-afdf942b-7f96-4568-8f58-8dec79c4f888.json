@@ -1,0 +1,10 @@
+{
+  "appId": "afdf942b-7f96-4568-8f58-8dec79c4f888",
+  "appIndex": 4,
+  "appName": "Trello",
+  "generatedAt": "2026-08-06T23:24:59.219Z",
+  "locale": "de",
+  "markdown": "# Trello · Produktivität\n\nErstellt: 07.08.2026, 04:25\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      7 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 12.05.2026 - 23.07.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _JadedMind_, 23.07.2026, 2/5: \"Ich kann mich auf meinem Telefon nicht mehr bei dieser App anmelden, was sie nutzlos macht. Ganz gleich, worauf ich klicke, einschließlich der Kontaktaufnahme mit dem Support, ich erhalte die Meldung, dass keine Verbindung zum Server hergestellt werden kann. Ich habe dieses Problem mit keiner anderen App auf meinem Telefon.\"\n            2. _guymanstuff_, 09.07.2026, 3/5: \"Können Sie bitte in den Versionshinweisen auflisten, was Sie tatsächlich beheben, anstatt nur „Wir machen die App für Sie großartig“ oder „Tschüs, Fehler“?\"\n            3. _rasnauf_, 15.06.2026, 4/5: \"Gute App, aber es gibt einige Probleme: - Manchmal ist sie sehr langsam, mit einer Latenz von mehr als 5 Sekunden zwischen Interaktion und UI-Aktualisierung. Die einzig zuverlässige Lösung scheint darin zu bestehen, die App zu löschen und neu zu installieren – das Schließen und erneute Öffnen funktioniert nicht. - Fälligkeitserinnerungen sind verzögert: Sie senden etwa 45 Sekunden nach der von Ihnen festgelegten Erinnerung eine Benachrichtigung an Ihr Telefon. - Beim Anzeigen eines Boards werden manchmal von jeder Liste mehrere Kopien von sich selbst unterhalb der „Originalliste“ angezeigt.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

@@ -1,0 +1,10 @@
+{
+  "appId": "09b8dc4a-759e-4dfa-91f2-aea2c0a600db",
+  "appIndex": 14,
+  "appName": "Yahoo",
+  "generatedAt": "2026-08-06T23:26:32.090Z",
+  "locale": "fr",
+  "markdown": "# Yahoo · Finance\n\nGénéré : 7 août 2026, 04:26\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      3 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 28 janv. 2026 - 4 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Every_Day_ Day_, 17 juil. 2026, 1/5: \"c'est la pire application que j'ai bloquée sur mon appareil, les ordures gèlent toujours, ne fonctionnent jamais à 9 heures du matin, les graphiques boursiers se croisent....webull est le meilleur, ne chargez pas ces ordures\"\n            2. _Fred K_, 17 juil. 2026, 2/5: \"par moment l'application bug. Impossible d'afficher les détails d'une valeur suivi. parfois un simple arrêt forcé et un vidage de cache suffit, parfois il faut désinstaller/réinstaller... c'est dommage\"\n            3. _Road Kitten_, 15 juil. 2026, 2/5: \"Les graphiques et les greffes sont souvent défectueux et ne sont pas en temps réel et le chat de la communauté ainsi que les fils de discussion sur les actions grouillent de robots trolls et de spams qui ne sont jamais modérés. À la place, Yahoo utilise un mod automatique qui supprime les publications boursières viables... les gens doivent utiliser ces fonctionnalités avec prudence et ce n'est pas une plate-forme pour les jeunes investisseurs.\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

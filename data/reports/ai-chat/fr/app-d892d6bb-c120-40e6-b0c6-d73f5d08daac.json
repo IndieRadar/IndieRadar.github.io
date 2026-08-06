@@ -1,10 +1,10 @@
 {
   "appId": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
-  "appIndex": 1,
+  "appIndex": 2,
   "appName": "Claude by Anthropic",
-  "generatedAt": "2026-08-06T13:38:46.499Z",
+  "generatedAt": "2026-08-06T23:26:57.421Z",
   "locale": "fr",
-  "markdown": "# Claude by Anthropic · Chat IA\n\nGénéré : 6 août 2026, 18:38\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      19 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 27 févr. 2026 - 5 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Ollie Dears_, 5 août 2026, 1/5: \"Il plante à chaque fois que je l'ouvre. Il n'y a aucun moyen de signaler un bug depuis l'application.\"\n            2. _Fred Smith_, 5 août 2026, 1/5: \"Je l'ai utilisé pendant une dizaine de minutes, il se bloque simplement sur l'écran de chargement. Il n'y a aucun moyen de signaler un bug depuis l'application. Une étoile.\"\n            3. _Sarita Malloy_, 5 août 2026, 1/5: \"Il plante à chaque fois que je l'ouvre. Les trois dernières mises à jour n'ont rien changé.\"\n<!--/ir-theme-->",
+  "markdown": "# Claude by Anthropic · Chat IA\n\nGénéré : 7 août 2026, 04:27\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      14 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 27 févr. 2026 - 6 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Allen Branum_, 6 août 2026, 1/5: \"J'ai tout essayé, réinstallation incluse, mais il se bloque après quelques secondes et ne récupère jamais. Non recommandé.\"\n            2. _Joel Sidorov_, 6 août 2026, 1/5: \"Il plante à chaque fois que je l'ouvre. Il n'y a aucun moyen de signaler un bug depuis l'application. Non recommandé.\"\n            3. _Barrett Laducer_, 6 août 2026, 1/5: \"Il plante à chaque fois que je l'ouvre. Aucune réponse du support.\"\n<!--/ir-theme-->",
   "nicheSlug": "ai-chat",
   "type": "app"
 }

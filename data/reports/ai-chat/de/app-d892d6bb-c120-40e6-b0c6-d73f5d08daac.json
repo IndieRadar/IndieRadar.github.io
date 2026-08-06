@@ -1,10 +1,10 @@
 {
   "appId": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
-  "appIndex": 1,
+  "appIndex": 2,
   "appName": "Claude by Anthropic",
-  "generatedAt": "2026-08-06T13:38:44.778Z",
+  "generatedAt": "2026-08-06T23:26:57.133Z",
   "locale": "de",
-  "markdown": "# Claude by Anthropic · KI-Chat\n\nErstellt: 06.08.2026, 18:38\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      19 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 27.02.2026 - 05.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Ollie Dears_, 05.08.2026, 1/5: \"Es stürzt jedes Mal ab, wenn ich es öffne. Es gibt keine Möglichkeit, einen Fehler innerhalb der App zu melden.\"\n            2. _Fred Smith_, 05.08.2026, 1/5: \"Ich habe es etwa zehn Minuten lang verwendet, es bleibt einfach auf dem Ladebildschirm hängen. Es gibt keine Möglichkeit, einen Fehler innerhalb der App zu melden. Ein Stern.\"\n            3. _Sarita Malloy_, 05.08.2026, 1/5: \"Es stürzt jedes Mal ab, wenn ich es öffne. Die letzten drei Updates haben nichts geändert.\"\n<!--/ir-theme-->",
+  "markdown": "# Claude by Anthropic · KI-Chat\n\nErstellt: 07.08.2026, 04:27\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      14 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 27.02.2026 - 06.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Allen Branum_, 06.08.2026, 1/5: \"Habe alles versucht, Neuinstallation eingeschlossen, aber es friert nach ein paar Sekunden ein und wird nie wiederhergestellt. Nicht empfohlen.\"\n            2. _Joel Sidorov_, 06.08.2026, 1/5: \"Es stürzt jedes Mal ab, wenn ich es öffne. Es gibt keine Möglichkeit, einen Fehler innerhalb der App zu melden. Nicht empfohlen.\"\n            3. _Barrett Laducer_, 06.08.2026, 1/5: \"Es stürzt jedes Mal ab, wenn ich es öffne. Keine Antwort vom Support.\"\n<!--/ir-theme-->",
   "nicheSlug": "ai-chat",
   "type": "app"
 }

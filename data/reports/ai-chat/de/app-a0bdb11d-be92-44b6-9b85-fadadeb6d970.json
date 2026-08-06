@@ -1,10 +1,10 @@
 {
   "appId": "a0bdb11d-be92-44b6-9b85-fadadeb6d970",
-  "appIndex": 2,
+  "appIndex": 1,
   "appName": "ChatGPT",
-  "generatedAt": "2026-08-06T13:38:44.778Z",
+  "generatedAt": "2026-08-06T23:26:57.133Z",
   "locale": "de",
-  "markdown": "# ChatGPT · KI-Chat\n\nErstellt: 06.08.2026, 18:38\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      9 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 05.08.2026 - 05.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Cabbar Yildiz_, 05.08.2026, 1/5: \"Nachdem ich die guten Rezensionen gelesen hatte, habe ich es heruntergeladen, aber es bleibt einfach auf dem Ladebildschirm hängen. Es gibt keine Möglichkeit, einen Fehler innerhalb der App zu melden. Deinstalliert.\"\n            2. _Calvin Gravelin_, 05.08.2026, 1/5: \"Das wollte mir gefallen, es hält nicht das, was es verspricht. Der gleiche Fehler besteht seit Monaten.\"\n            3. _Anton Gunn_, 05.08.2026, 1/5: \"Es stürzt jedes Mal ab, wenn ich es öffne. Die letzten drei Updates haben nichts geändert. Ein Stern.\"\n<!--/ir-theme-->",
+  "markdown": "# ChatGPT · KI-Chat\n\nErstellt: 07.08.2026, 04:27\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      15 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 06.08.2026 - 06.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Alan Mollins_, 06.08.2026, 1/5: \"Habe alles versucht, Neuinstallation eingeschlossen, aber es friert nach ein paar Sekunden ein und wird nie wiederhergestellt. Keine Antwort vom Support. Nicht empfohlen.\"\n            2. _Travis Lisitano_, 06.08.2026, 1/5: \"Nachdem ich die guten Bewertungen gelesen habe, friert es nach ein paar Sekunden ein und erholt sich nicht mehr. Es gibt keine Möglichkeit, einen Fehler innerhalb der App zu melden.\"\n            3. _Gary Molyneux_, 06.08.2026, 1/5: \"Das wollte mir gefallen, es stürzt jedes Mal ab, wenn ich es öffne. Sparen Sie sich die Mühe.\"\n<!--/ir-theme-->",
   "nicheSlug": "ai-chat",
   "type": "app"
 }

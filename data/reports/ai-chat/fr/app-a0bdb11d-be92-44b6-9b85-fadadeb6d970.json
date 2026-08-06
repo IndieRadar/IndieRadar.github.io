@@ -1,10 +1,10 @@
 {
   "appId": "a0bdb11d-be92-44b6-9b85-fadadeb6d970",
-  "appIndex": 2,
+  "appIndex": 1,
   "appName": "ChatGPT",
-  "generatedAt": "2026-08-06T13:38:46.499Z",
+  "generatedAt": "2026-08-06T23:26:57.421Z",
   "locale": "fr",
-  "markdown": "# ChatGPT · Chat IA\n\nGénéré : 6 août 2026, 18:38\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      9 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 5 août 2026 - 5 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Cabbar Yildiz_, 5 août 2026, 1/5: \"Je l'ai téléchargé après avoir lu les bonnes critiques, il se bloque simplement sur l'écran de chargement. Il n'y a aucun moyen de signaler un bug depuis l'application. Désinstallé.\"\n            2. _Calvin Gravelin_, 5 août 2026, 1/5: \"Je voulais aimer ça, il ne fait pas la seule chose qu'il promet. Le même bug existe depuis des mois.\"\n            3. _Anton Gunn_, 5 août 2026, 1/5: \"Il plante à chaque fois que je l'ouvre. Les trois dernières mises à jour n'ont rien changé. Une étoile.\"\n<!--/ir-theme-->",
+  "markdown": "# ChatGPT · Chat IA\n\nGénéré : 7 août 2026, 04:27\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      15 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 6 août 2026 - 6 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Alan Mollins_, 6 août 2026, 1/5: \"J'ai tout essayé, réinstallation incluse, mais il se bloque après quelques secondes et ne récupère jamais. Aucune réponse du support. Non recommandé.\"\n            2. _Travis Lisitano_, 6 août 2026, 1/5: \"Je l'ai téléchargé après avoir lu les bonnes critiques, il se fige après quelques secondes et ne récupère jamais. Il n'y a aucun moyen de signaler un bug depuis l'application.\"\n            3. _Gary Molyneux_, 6 août 2026, 1/5: \"Je voulais aimer ça, il plante à chaque fois que je l'ouvre. Épargnez-vous les ennuis.\"\n<!--/ir-theme-->",
   "nicheSlug": "ai-chat",
   "type": "app"
 }

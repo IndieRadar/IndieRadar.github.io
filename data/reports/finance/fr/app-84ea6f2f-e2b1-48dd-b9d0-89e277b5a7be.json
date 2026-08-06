@@ -1,0 +1,10 @@
+{
+  "appId": "84ea6f2f-e2b1-48dd-b9d0-89e277b5a7be",
+  "appIndex": 13,
+  "appName": "Creation Finance",
+  "generatedAt": "2026-08-06T23:26:32.090Z",
+  "locale": "fr",
+  "markdown": "# Creation Finance · Finance\n\nGénéré : 7 août 2026, 04:26\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      3 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 13 juil. 2026 - 5 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Christopher james bracken_, 13 juil. 2026, 1/5: \"Il y a un bug où j'ouvre l'application de création et je dois réinitialiser mon mot de passe à chaque fois que je l'ouvre, c'est de la foutaise\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}
