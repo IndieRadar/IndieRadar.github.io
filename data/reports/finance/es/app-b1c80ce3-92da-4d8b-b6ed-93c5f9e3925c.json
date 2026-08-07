@@ -1,0 +1,10 @@
+{
+  "appId": "b1c80ce3-92da-4d8b-b6ed-93c5f9e3925c",
+  "appIndex": 11,
+  "appName": "Google Finance",
+  "generatedAt": "2026-08-07T23:25:36.258Z",
+  "locale": "es",
+  "markdown": "# Google Finance · Finanzas\n\nGenerado: 8 ago 2026, 4:25\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      3 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 30 jul 2026 - 6 ago 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _David Gregor_, 3 ago 2026, 1/5: \"Esta nueva versión tiene muchos errores. Mi lista no se pudo cargar incluso si estoy conectado. Además, mi teléfono falla regularmente.\"\n            2. _Alejandro Garcia C._, 3 ago 2026, 1/5: \"Desde que lanzaron la versión beta a producción, esta aplicación y el acceso al navegador web son inútiles. Pura IA, inutilizable. La aplicación era muy útil antes; revierta estos cambios. No tiene sentido que necesites usar IA para EDITAR algo, ya que la IA lo hace mal la mayor parte del tiempo. Es hora de pasar a otras soluciones hasta que realmente prueben la basura en la que rodaron.\"\n            3. _Dishant Poojara_, 30 jul 2026, 1/5: \"Patética aplicación. Esperaba que fuera un buen reemplazo para todas las demás aplicaciones desde que Google la lanzó, pero esta aplicación parece haber sido creada por un pasante. La versión web y móvil son un poco diferentes. No existe una opción de seguimiento de cartera dedicada en el móvil. Cada vez que hablo con AI para que me ayude a verlo en mi móvil, el chat se congela y dice problema de red. Absolutamente basura.\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

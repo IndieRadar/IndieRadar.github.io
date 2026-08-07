@@ -1,10 +1,10 @@
 {
   "appId": "a0bdb11d-be92-44b6-9b85-fadadeb6d970",
-  "appIndex": 1,
+  "appIndex": 2,
   "appName": "ChatGPT",
-  "generatedAt": "2026-08-06T23:26:53.333Z",
+  "generatedAt": "2026-08-07T23:26:01.322Z",
   "locale": "es",
-  "markdown": "# ChatGPT · Chat IA\n\nGenerado: 7 ago 2026, 4:27\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      15 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 6 ago 2026 - 6 ago 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _Alan Mollins_, 6 ago 2026, 1/5: \"Intenté todo, incluida la reinstalación, pero se congela después de unos segundos y nunca se recupera. No hay respuesta del soporte. No recomendado.\"\n            2. _Travis Lisitano_, 6 ago 2026, 1/5: \"Lo descargué después de leer las buenas críticas, se congela después de unos segundos y nunca se recupera. No hay forma de informar un error desde dentro de la aplicación.\"\n            3. _Gary Molyneux_, 6 ago 2026, 1/5: \"Quería que me gustara, se bloquea cada vez que lo abro. Ahórrese el problema.\"\n<!--/ir-theme-->",
+  "markdown": "# ChatGPT · Chat IA\n\nGenerado: 8 ago 2026, 4:26\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      11 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 7 ago 2026 - 7 ago 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _Taj Orr_, 7 ago 2026, 1/5: \"Lo tuve instalado durante una semana, se congela después de unos segundos y nunca se recupera. No recomendado.\"\n            2. _Quintin Kawa_, 7 ago 2026, 1/5: \"Se congela después de unos segundos y nunca se recupera. Cambiará la calificación una vez que se solucione.\"\n            3. _George Baccarini_, 7 ago 2026, 1/5: \"No estoy seguro de qué se tratan las buenas críticas, simplemente se queda colgado en la pantalla de carga. El mismo error existe desde hace meses.\"\n<!--/ir-theme-->",
   "nicheSlug": "ai-chat",
   "type": "app"
 }

@@ -1,10 +1,10 @@
 {
   "appId": "46150ea2-595f-47ae-93d9-12741aa834e7",
-  "appIndex": 7,
+  "appIndex": 10,
   "appName": "HDFC Bank App",
-  "generatedAt": "2026-08-06T23:26:05.260Z",
+  "generatedAt": "2026-08-07T23:25:12.837Z",
   "locale": "en",
-  "markdown": "# HDFC Bank App · Finance\n\nGenerated: Aug 7, 2026, 4:26 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      6 recent review(s) mention bugs and stability.\n      Review window: Aug 5, 2026 - Aug 5, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Suneel Yadav_, Aug 5, 2026, 1/5: \"Very slow app and too little feature in mobile banking app\"\n            2. _sachin chavan_, Aug 5, 2026, 1/5: \"If there were an option to give no stars, I would. These updates are completely useless. Every update seems to introduce a new problem. The login process constantly fails after the extra verification step because the app crashes. Now, after installing the latest update from the Play Store, the app says I don't have the latest version and cannot login. Seriously?\"\n            3. _Pawan Patil_, Aug 5, 2026, 2/5: \"worst experience, very slow takes too much time to open, check balance etc...\"\n<!--/ir-theme-->",
+  "markdown": "# HDFC Bank App · Finance\n\nGenerated: Aug 8, 2026, 4:25 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      3 recent review(s) mention bugs and stability.\n      Review window: Aug 6, 2026 - Aug 6, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Nikhil Shah_, Aug 6, 2026, 1/5: \"loads very slow. everytime server issue. This is not the HDFC Bank which was previous. Everything has changed.\"\n            2. _ApuPapa Gaming_, Aug 6, 2026, 2/5: \"App is now showing up,\" potential security risk, close app\". Haven't downloaded anything in a year on the phone. This issue started showing up since few days now. Can't transact. Fix it!\"\n            3. _Aiman Mulla_, Aug 6, 2026, 4/5: \"Just make the app lag free rather than everything in good and feels safe.\"\n<!--/ir-theme-->",
   "nicheSlug": "finance",
   "type": "app"
 }

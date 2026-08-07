@@ -1,63 +1,63 @@
 {
   "apps": [
     {
-      "id": "d391f361-eed6-433c-95aa-337b0def3884",
-      "name": "Google Wallet",
+      "id": "3584e712-1cf9-4898-878e-d8f54102209e",
+      "name": "slice: UPI credit card & bank",
       "number": 1
     },
     {
-      "id": "3584e712-1cf9-4898-878e-d8f54102209e",
-      "name": "slice: UPI credit card & bank",
+      "id": "da738621-bc61-420c-9828-6ef218fa03f7",
+      "name": "Správa",
       "number": 2
-    },
-    {
-      "id": "91e70d5c-2ced-4282-88bb-841caad81317",
-      "name": "Gestor de",
-      "number": 3
-    },
-    {
-      "id": "40d28b66-782b-4944-8828-a47664b266a9",
-      "name": "Kraken",
-      "number": 4
     },
     {
       "id": "f06ca6d2-ce14-444e-8000-e02861a155da",
       "name": "Yahoo Finance - Stock Market",
-      "number": 5
+      "number": 3
     },
     {
-      "id": "68fcf1c4-424b-4a6a-8a89-fd16be63aaf3",
-      "name": "Revolut",
-      "number": 6
-    },
-    {
-      "id": "46150ea2-595f-47ae-93d9-12741aa834e7",
-      "name": "HDFC Bank App",
-      "number": 7
+      "id": "d48d8a91-eaea-4187-b39d-b5ea8468edb5",
+      "name": "Kraken: Buy Bitcoin & Crypto",
+      "number": 4
     },
     {
       "id": "b4ff19ca-91fe-424b-8c54-d98f0ebb7df9",
       "name": "IBKR Mobile - Invest Worldwide",
-      "number": 8
+      "number": 5
     },
     {
       "id": "867a810d-d213-4730-8429-c6522778367c",
       "name": "Copilot: Track & Budget Money",
-      "number": 9
-    },
-    {
-      "id": "7818828a-9eaf-4109-9ef5-d8dcc748ee1d",
-      "name": "Fidelity Investments",
-      "number": 10
+      "number": 6
     },
     {
       "id": "150ac319-f7e5-429d-aabf-d5cc5db1fda8",
       "name": "Zindigi - All in One Finance",
+      "number": 7
+    },
+    {
+      "id": "6fc49cbe-d7ea-44a9-aa6e-b53a548a5b12",
+      "name": "Money Lover",
+      "number": 8
+    },
+    {
+      "id": "63dc8392-131f-43e7-ba30-cc1417e65945",
+      "name": "Revolut",
+      "number": 9
+    },
+    {
+      "id": "46150ea2-595f-47ae-93d9-12741aa834e7",
+      "name": "HDFC Bank App",
+      "number": 10
+    },
+    {
+      "id": "b1c80ce3-92da-4d8b-b6ed-93c5f9e3925c",
+      "name": "Google Finance",
       "number": 11
     },
     {
-      "id": "a3215d9a-27ba-4931-901b-4ffcb4fb778a",
-      "name": "Money Lover",
+      "id": "7818828a-9eaf-4109-9ef5-d8dcc748ee1d",
+      "name": "Fidelity Investments",
       "number": 12
     },
     {
@@ -71,12 +71,12 @@
       "number": 14
     },
     {
-      "id": "9ac3bb92-ddc4-49ba-95f8-7bca241d1769",
-      "name": "Robinhood: Trading & Investing",
+      "id": "58673aab-3ef4-49fd-a7d1-2b08275a4bed",
+      "name": "XTB Online Investing",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-06T23:26:05.260Z",
+  "generatedAt": "2026-08-07T23:25:12.837Z",
   "locale": "en",
   "nicheSlug": "finance"
 }

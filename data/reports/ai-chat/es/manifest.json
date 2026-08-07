@@ -1,13 +1,13 @@
 {
   "apps": [
     {
-      "id": "a0bdb11d-be92-44b6-9b85-fadadeb6d970",
-      "name": "ChatGPT",
+      "id": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
+      "name": "Claude by Anthropic",
       "number": 1
     },
     {
-      "id": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
-      "name": "Claude by Anthropic",
+      "id": "a0bdb11d-be92-44b6-9b85-fadadeb6d970",
+      "name": "ChatGPT",
       "number": 2
     },
     {
@@ -36,33 +36,33 @@
       "number": 7
     },
     {
-      "id": "e7d1fa91-f8d9-4c4b-bc5a-5acbdbc0673a",
-      "name": "Character AI",
-      "number": 8
-    },
-    {
       "id": "b15f960e-a5c6-43f6-9f5b-ef5ac3626693",
       "name": "zeta: AI Chat, Story, Play",
-      "number": 9
+      "number": 8
     },
     {
       "id": "edf546df-efbe-4608-bae1-fe67ba98ae06",
       "name": "Microsoft Copilot",
+      "number": 9
+    },
+    {
+      "id": "b2d502a0-7142-49c8-a480-9ac04411e735",
+      "name": "Grok AI",
       "number": 10
-    },
-    {
-      "id": "01fce28f-f4d2-4422-8ac2-27fbd3c339ca",
-      "name": "CHAI: Social AI Platform- Chat",
-      "number": 11
-    },
-    {
-      "id": "dba27ea3-e5b2-4af7-836d-846167a15535",
-      "name": "Grok: AI-assistent",
-      "number": 12
     },
     {
       "id": "e97f87d9-f5af-472b-bf5c-142df5def828",
       "name": "Chai: Chat AI Platform",
+      "number": 11
+    },
+    {
+      "id": "01fce28f-f4d2-4422-8ac2-27fbd3c339ca",
+      "name": "CHAI: Social AI Platform- Chat",
+      "number": 12
+    },
+    {
+      "id": "e7d1fa91-f8d9-4c4b-bc5a-5acbdbc0673a",
+      "name": "Character AI",
       "number": 13
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-06T23:26:53.333Z",
+  "generatedAt": "2026-08-07T23:26:01.322Z",
   "locale": "es",
   "nicheSlug": "ai-chat"
 }

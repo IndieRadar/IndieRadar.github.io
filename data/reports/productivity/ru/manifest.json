@@ -16,23 +16,23 @@
       "number": 3
     },
     {
-      "id": "afdf942b-7f96-4568-8f58-8dec79c4f888",
+      "id": "c5764e78-8411-4b2e-b532-c3b145ab5893",
       "name": "Trello",
       "number": 4
     },
     {
-      "id": "2e705fec-25bb-4cdf-82c0-c91e28166e9d",
-      "name": "Notion",
-      "number": 5
-    },
-    {
       "id": "260a6071-6db1-4ef4-8f54-72f70369dbf5",
       "name": "Notebook",
-      "number": 6
+      "number": 5
     },
     {
       "id": "2c6aee23-fec2-46ad-a66c-b6a01dd5ce45",
       "name": "Notion: Notes, Tasks, AI",
+      "number": 6
+    },
+    {
+      "id": "2e705fec-25bb-4cdf-82c0-c91e28166e9d",
+      "name": "Notion",
       "number": 7
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-06T23:25:00.582Z",
+  "generatedAt": "2026-08-07T23:24:15.540Z",
   "locale": "ru",
   "nicheSlug": "productivity"
 }

@@ -1,10 +1,10 @@
 {
   "appId": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
-  "appIndex": 2,
+  "appIndex": 1,
   "appName": "Claude by Anthropic",
-  "generatedAt": "2026-08-06T23:26:53.333Z",
+  "generatedAt": "2026-08-07T23:26:01.322Z",
   "locale": "es",
-  "markdown": "# Claude by Anthropic · Chat IA\n\nGenerado: 7 ago 2026, 4:27\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      14 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 27 feb 2026 - 6 ago 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _Allen Branum_, 6 ago 2026, 1/5: \"Intenté todo, incluida la reinstalación, pero se congela después de unos segundos y nunca se recupera. No recomendado.\"\n            2. _Joel Sidorov_, 6 ago 2026, 1/5: \"Se bloquea cada vez que lo abro. No hay forma de informar un error desde dentro de la aplicación. No recomendado.\"\n            3. _Barrett Laducer_, 6 ago 2026, 1/5: \"Se bloquea cada vez que lo abro. No hay respuesta del soporte.\"\n<!--/ir-theme-->",
+  "markdown": "# Claude by Anthropic · Chat IA\n\nGenerado: 8 ago 2026, 4:26\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      15 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 12 jul 2026 - 7 ago 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _Kadem Ak_, 7 ago 2026, 1/5: \"Intenté todo, incluida la reinstalación, pero se congela después de unos segundos y nunca se recupera.\"\n            2. _Gerry Niimi_, 7 ago 2026, 1/5: \"Me desconectó y ahora no me deja volver a iniciarla. No hay forma de informar un error desde dentro de la aplicación. No pierdas el tiempo.\"\n            3. _Adolph Trecroci_, 7 ago 2026, 1/5: \"Se bloquea cada vez que lo abro. No recomendado.\"\n<!--/ir-theme-->",
   "nicheSlug": "ai-chat",
   "type": "app"
 }
