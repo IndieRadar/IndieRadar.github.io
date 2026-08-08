@@ -1,10 +1,10 @@
 {
   "appId": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
-  "appIndex": 1,
+  "appIndex": 2,
   "appName": "Claude by Anthropic",
-  "generatedAt": "2026-08-07T23:26:00.103Z",
+  "generatedAt": "2026-08-08T23:24:52.572Z",
   "locale": "en",
-  "markdown": "# Claude by Anthropic · AI Chat\n\nGenerated: Aug 8, 2026, 4:26 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      15 recent review(s) mention bugs and stability.\n      Review window: Jul 12, 2026 - Aug 7, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Kadem Ak_, Aug 7, 2026, 1/5: \"Tried everything, reinstall included, but it freezes after a few seconds and never recovers.\"\n            2. _Gerry Niimi_, Aug 7, 2026, 1/5: \"It logged me out and now it will not let me back in. There is no way to report a bug from inside the app. Do not waste your time.\"\n            3. _Adolph Trecroci_, Aug 7, 2026, 1/5: \"It crashes every time I open it. Not recommended.\"\n<!--/ir-theme-->",
+  "markdown": "# Claude by Anthropic · AI Chat\n\nGenerated: Aug 9, 2026, 4:24 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      12 recent review(s) mention bugs and stability.\n      Review window: Jul 12, 2026 - Aug 8, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Tory Altomonte_, Aug 8, 2026, 1/5: \"Tried everything, reinstall included, but it crashes every time I open it. Fix it please.\"\n            2. _Jared Motten_, Aug 8, 2026, 1/5: \"Tried it on two different phones, it does not do the one thing it promises. The same bug has been there for months.\"\n            3. _Dominic Crown_, Aug 8, 2026, 1/5: \"It freezes after a few seconds and never recovers. Do not waste your time.\"\n<!--/ir-theme-->",
   "nicheSlug": "ai-chat",
   "type": "app"
 }

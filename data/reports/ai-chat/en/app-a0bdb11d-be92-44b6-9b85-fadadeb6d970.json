@@ -1,10 +1,10 @@
 {
   "appId": "a0bdb11d-be92-44b6-9b85-fadadeb6d970",
-  "appIndex": 2,
+  "appIndex": 1,
   "appName": "ChatGPT",
-  "generatedAt": "2026-08-07T23:26:00.103Z",
+  "generatedAt": "2026-08-08T23:24:52.572Z",
   "locale": "en",
-  "markdown": "# ChatGPT · AI Chat\n\nGenerated: Aug 8, 2026, 4:26 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      11 recent review(s) mention bugs and stability.\n      Review window: Aug 7, 2026 - Aug 7, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Taj Orr_, Aug 7, 2026, 1/5: \"Had it installed for a week, it freezes after a few seconds and never recovers. Not recommended.\"\n            2. _Quintin Kawa_, Aug 7, 2026, 1/5: \"It freezes after a few seconds and never recovers. Will change the rating once it is fixed.\"\n            3. _George Baccarini_, Aug 7, 2026, 1/5: \"Not sure what the good reviews are about, it just hangs on the loading screen. The same bug has been there for months.\"\n<!--/ir-theme-->",
+  "markdown": "# ChatGPT · AI Chat\n\nGenerated: Aug 9, 2026, 4:24 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      16 recent review(s) mention bugs and stability.\n      Review window: Aug 8, 2026 - Aug 8, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Nahit Koç_, Aug 8, 2026, 1/5: \"It freezes after a few seconds and never recovers. Uninstalled.\"\n            2. _Christina Pressnell_, Aug 8, 2026, 1/5: \"Gave it another chance after the update, it crashes every time I open it. It eats the battery like crazy. Uninstalled.\"\n            3. _Dante Birdow_, Aug 8, 2026, 1/5: \"Gave it another chance after the update, it is slower than doing the same thing by hand. The same bug has been there for months. Fix it please.\"\n<!--/ir-theme-->",
   "nicheSlug": "ai-chat",
   "type": "app"
 }

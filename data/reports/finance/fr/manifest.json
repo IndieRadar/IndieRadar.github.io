@@ -1,23 +1,23 @@
 {
   "apps": [
     {
-      "id": "3584e712-1cf9-4898-878e-d8f54102209e",
-      "name": "slice: UPI credit card & bank",
+      "id": "279b5984-f2a8-487d-b5d5-7005f76a672e",
+      "name": "Yahoo Finance",
       "number": 1
     },
     {
-      "id": "da738621-bc61-420c-9828-6ef218fa03f7",
-      "name": "Správa",
+      "id": "834d3030-1ba7-4739-ac33-e1f5d7817be0",
+      "name": "Trading 212",
       "number": 2
+    },
+    {
+      "id": "7818828a-9eaf-4109-9ef5-d8dcc748ee1d",
+      "name": "Fidelity Investments",
+      "number": 3
     },
     {
       "id": "f06ca6d2-ce14-444e-8000-e02861a155da",
       "name": "Yahoo Finance - Stock Market",
-      "number": 3
-    },
-    {
-      "id": "d48d8a91-eaea-4187-b39d-b5ea8468edb5",
-      "name": "Kraken: Buy Bitcoin & Crypto",
       "number": 4
     },
     {
@@ -26,8 +26,8 @@
       "number": 5
     },
     {
-      "id": "867a810d-d213-4730-8429-c6522778367c",
-      "name": "Copilot: Track & Budget Money",
+      "id": "40d28b66-782b-4944-8828-a47664b266a9",
+      "name": "Kraken",
       "number": 6
     },
     {
@@ -36,47 +36,47 @@
       "number": 7
     },
     {
-      "id": "6fc49cbe-d7ea-44a9-aa6e-b53a548a5b12",
+      "id": "a3215d9a-27ba-4931-901b-4ffcb4fb778a",
       "name": "Money Lover",
       "number": 8
     },
     {
-      "id": "63dc8392-131f-43e7-ba30-cc1417e65945",
-      "name": "Revolut",
+      "id": "867a810d-d213-4730-8429-c6522778367c",
+      "name": "Copilot: Track & Budget Money",
       "number": 9
-    },
-    {
-      "id": "46150ea2-595f-47ae-93d9-12741aa834e7",
-      "name": "HDFC Bank App",
-      "number": 10
     },
     {
       "id": "b1c80ce3-92da-4d8b-b6ed-93c5f9e3925c",
       "name": "Google Finance",
-      "number": 11
+      "number": 10
     },
     {
-      "id": "7818828a-9eaf-4109-9ef5-d8dcc748ee1d",
-      "name": "Fidelity Investments",
-      "number": 12
+      "id": "03b766df-cea0-4513-adca-3fb36723b3a3",
+      "name": "Revolut",
+      "number": 11
     },
     {
       "id": "84ea6f2f-e2b1-48dd-b9d0-89e277b5a7be",
       "name": "Creation Finance",
-      "number": 13
-    },
-    {
-      "id": "09b8dc4a-759e-4dfa-91f2-aea2c0a600db",
-      "name": "Yahoo",
-      "number": 14
+      "number": 12
     },
     {
       "id": "58673aab-3ef4-49fd-a7d1-2b08275a4bed",
       "name": "XTB Online Investing",
+      "number": 13
+    },
+    {
+      "id": "1fc429d2-b4f3-4c45-81a3-d0e1d6ac25fa",
+      "name": "Bluecoins",
+      "number": 14
+    },
+    {
+      "id": "c59009c8-5b26-475a-99e1-8151c3342634",
+      "name": "Coinbase: Bitcoin & Ether",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-07T23:25:37.834Z",
+  "generatedAt": "2026-08-08T23:24:30.921Z",
   "locale": "fr",
   "nicheSlug": "finance"
 }

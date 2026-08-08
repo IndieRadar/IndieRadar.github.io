@@ -1,10 +1,10 @@
 {
   "appId": "84ea6f2f-e2b1-48dd-b9d0-89e277b5a7be",
-  "appIndex": 13,
+  "appIndex": 12,
   "appName": "Creation Finance",
-  "generatedAt": "2026-08-07T23:25:12.837Z",
+  "generatedAt": "2026-08-08T23:24:07.952Z",
   "locale": "en",
-  "markdown": "# Creation Finance · Finance\n\nGenerated: Aug 8, 2026, 4:25 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      3 recent review(s) mention bugs and stability.\n      Review window: Jul 13, 2026 - Aug 5, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Christopher james bracken_, Jul 13, 2026, 1/5: \"Theres a bug where I open the creation app and have to reset my password every single time I open it, absolute rubbish\"\n<!--/ir-theme-->",
+  "markdown": "# Creation Finance · Finance\n\nGenerated: Aug 9, 2026, 4:24 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      3 recent review(s) mention bugs and stability.\n      Review window: Jul 13, 2026 - Aug 5, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Christopher james bracken_, Jul 13, 2026, 1/5: \"Theres a bug where I open the creation app and have to reset my password every single time I open it, absolute rubbish\"\n<!--/ir-theme-->",
   "nicheSlug": "finance",
   "type": "app"
 }

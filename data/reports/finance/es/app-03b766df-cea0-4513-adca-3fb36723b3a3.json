@@ -1,0 +1,10 @@
+{
+  "appId": "03b766df-cea0-4513-adca-3fb36723b3a3",
+  "appIndex": 11,
+  "appName": "Revolut",
+  "generatedAt": "2026-08-08T23:24:28.964Z",
+  "locale": "es",
+  "markdown": "# Revolut · Finanzas\n\nGenerado: 9 ago 2026, 4:24\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      3 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 4 ago 2026 - 7 ago 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _Janosch Morf_, 7 ago 2026, 1/5: \"La aplicación era buena, lamentablemente ya no puedo usarla porque no puedo verificar mi rostro. Es porque mi cámara frontal está rota y no puedo usar la cámara trasera (no hay opción para cambiar).\"\n            2. _Silvia Siefert_, 4 ago 2026, 1/5: \"A pesar de que tengo un Samsung A13 y dice que mi versión de Android debería ser compatible con esta aplicación, me siguen echando y no puedo hacer nada. El problema radica en iniciar sesión; Muchas personas con un Samsung Galaxy A13 se sienten así. Sugeriría planificar una nueva actualización para corregir estos errores, es mi problema de RAM y almacenamiento general, no es también mi software y su versión. Verifique si su aplicación tiene algún error, gracias.\"\n            3. _Raza Hossain_, 1/5: \"Uno de los peores servicios de atención al cliente jamás experimentados, cada vez que llega un nuevo agente con el mismo discurso repetido pero no tiene el potencial de resolver mi problema. Tres problemas continúan sin resultados, un problema importante con la aplicación.\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

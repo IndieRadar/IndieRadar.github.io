@@ -1,0 +1,10 @@
+{
+  "appId": "86475b88-e94f-4cf7-825d-e8ecb9264cd8",
+  "appIndex": 13,
+  "appName": "ChatGPT",
+  "generatedAt": "2026-08-08T23:25:00.742Z",
+  "locale": "de",
+  "markdown": "# ChatGPT · KI-Chat\n\nErstellt: 09.08.2026, 04:25\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      3 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 19.07.2026 - 07.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Ecsaner_, 07.08.2026, 1/5: \"ChatGPT hat sich mit dem First-Mover-Vorteil schnell entwickelt, wird aber mittlerweile von anderen Plattformen völlig überholt. Gemini zeichnet sich durch die kostenlose Nutzung für die Bilderzeugung (und Notizbücher für Audio/Podcast) aus, Claude ist hervorragend im Codieren und schnellen Prototyping für eine Vielzahl von Ausgaben und fast alle Plattformen sind bei weitem nicht so argumentativ. Es scheint, dass die Kontrollen rund um diese Plattform zu einem weinerlichen Kind geworden sind, das Token mit der Angabe von Einschränkungen in die Luft jagt, anstatt die Arbeit tatsächlich zu erledigen. Gehen Sie jetzt an die Öffentlichkeit, ich werde es lieben, Sie zusammenbrechen und brennen zu sehen.\"\n            2. _Weather_girl_, 19.07.2026, 1/5: \"Ich kann nicht mehr auf die App zugreifen, da ich völlig eingefroren bin. Ich habe alle Dinge getan, die von mir verlangt wurden, ich habe gelöscht/neu installiert und neu gestartet und komme immer noch nicht über den eingefrorenen Bildschirm hinaus. Wirklich enttäuscht.\"\n            3. _IU7&_, 07.08.2026, 3/5: \"Als ich die App herunterlud, sah ich zunächst, dass sie sehr gut funktionierte. Jetzt hat es Störungen und funktioniert nicht richtig. Es stürzt häufig ab und versteht Anweisungen nicht ...\"\n<!--/ir-theme-->",
+  "nicheSlug": "ai-chat",
+  "type": "app"
+}

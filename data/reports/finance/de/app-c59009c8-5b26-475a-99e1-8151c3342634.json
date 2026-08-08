@@ -1,0 +1,10 @@
+{
+  "appId": "c59009c8-5b26-475a-99e1-8151c3342634",
+  "appIndex": 15,
+  "appName": "Coinbase: Bitcoin & Ether",
+  "generatedAt": "2026-08-08T23:24:30.874Z",
+  "locale": "de",
+  "markdown": "# Coinbase: Bitcoin & Ether · Finanzen\n\nErstellt: 09.08.2026, 04:24\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      3 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 18.07.2026 - 19.07.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Ruben Valenzuela_, 19.07.2026, 1/5: \"Schreckliche App ... Zahlen Sie nicht für das Abonnement, sie können die Vermögenswerte einfrieren, was manchmal zu Geldverlusten führt, wenn sie am dringendsten benötigt werden. Außerdem lassen sie Sie nichts in der App tun, aber am Ende verlieren Sie Geld und Zeit. In den nächsten Jahren werden noch andere gute Apps und mehr folgen.\"\n            2. _J_, 18.07.2026, 1/5: \"Dumme App. Ich kann nicht einmal Ihre Postleitzahl eingeben. Wenn Sie Ihre Postleitzahl löschen, wird sie zweimal eingefügt. Wenn Sie es erneut löschen, wird es dreimal eingefügt. Und so weiter und so weiter. Endloser Glitch-Zyklus. So etwas Dummes habe ich noch nie gesehen\"\n            3. _Danish Aftab_, 18.07.2026, 1/5: \"Diagramme werden im erweiterten Modus nicht mehr geladen. App friert ständig ein. Sie müssen jedes Mal das Schließen erzwingen, um es zu verwenden.\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

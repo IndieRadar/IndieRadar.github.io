@@ -1,13 +1,13 @@
 {
   "apps": [
     {
-      "id": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
-      "name": "Claude by Anthropic",
+      "id": "a0bdb11d-be92-44b6-9b85-fadadeb6d970",
+      "name": "ChatGPT",
       "number": 1
     },
     {
-      "id": "a0bdb11d-be92-44b6-9b85-fadadeb6d970",
-      "name": "ChatGPT",
+      "id": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
+      "name": "Claude by Anthropic",
       "number": 2
     },
     {
@@ -21,8 +21,8 @@
       "number": 4
     },
     {
-      "id": "6542adaf-1e9f-424e-9f0e-a951fe8b52c9",
-      "name": "Janitor AI - Official App",
+      "id": "180311c4-57cb-4760-ab3d-ba43d1ac4f6c",
+      "name": "Janitor - Official App",
       "number": 5
     },
     {
@@ -36,18 +36,18 @@
       "number": 7
     },
     {
-      "id": "b15f960e-a5c6-43f6-9f5b-ef5ac3626693",
-      "name": "zeta: AI Chat, Story, Play",
+      "id": "edf546df-efbe-4608-bae1-fe67ba98ae06",
+      "name": "Microsoft Copilot",
       "number": 8
     },
     {
-      "id": "edf546df-efbe-4608-bae1-fe67ba98ae06",
-      "name": "Microsoft Copilot",
+      "id": "09af4b20-a3b8-4a84-82da-547211c04bd0",
+      "name": "Grok",
       "number": 9
     },
     {
-      "id": "b2d502a0-7142-49c8-a480-9ac04411e735",
-      "name": "Grok AI",
+      "id": "07135f90-623e-4d01-ba5f-04354f47d993",
+      "name": "Dola",
       "number": 10
     },
     {
@@ -56,27 +56,27 @@
       "number": 11
     },
     {
-      "id": "01fce28f-f4d2-4422-8ac2-27fbd3c339ca",
-      "name": "CHAI: Social AI Platform- Chat",
+      "id": "e7d1fa91-f8d9-4c4b-bc5a-5acbdbc0673a",
+      "name": "Character AI",
       "number": 12
     },
     {
-      "id": "e7d1fa91-f8d9-4c4b-bc5a-5acbdbc0673a",
-      "name": "Character AI",
+      "id": "86475b88-e94f-4cf7-825d-e8ecb9264cd8",
+      "name": "ChatGPT",
       "number": 13
+    },
+    {
+      "id": "01fce28f-f4d2-4422-8ac2-27fbd3c339ca",
+      "name": "CHAI: Social AI Platform- Chat",
+      "number": 14
     },
     {
       "id": "38892494-507e-4f20-9cc4-cf995d9d673a",
       "name": "Google Gemini",
-      "number": 14
-    },
-    {
-      "id": "e78dad0d-2d7b-482e-b487-ceb3d1c71a9a",
-      "name": "Dokichat",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-07T23:26:01.648Z",
+  "generatedAt": "2026-08-08T23:25:00.742Z",
   "locale": "de",
   "nicheSlug": "ai-chat"
 }

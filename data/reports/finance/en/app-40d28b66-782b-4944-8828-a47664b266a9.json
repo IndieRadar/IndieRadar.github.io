@@ -1,0 +1,10 @@
+{
+  "appId": "40d28b66-782b-4944-8828-a47664b266a9",
+  "appIndex": 6,
+  "appName": "Kraken",
+  "generatedAt": "2026-08-08T23:24:07.952Z",
+  "locale": "en",
+  "markdown": "# Kraken · Finance\n\nGenerated: Aug 9, 2026, 4:24 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      4 recent review(s) mention bugs and stability.\n      Review window: Jun 2, 2026 - Aug 6, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Brad Smith_, Aug 4, 2026, 1/5: \"very poorly made and i already have a issue with them first week. wouldnt bother they will make you lose all your money that you put in the account if you arent careful.\"\n            2. _Leandro Santos_, Jul 7, 2026, 1/5: \"really bad app, slow, it re starts solo and also super slow when purchasing any crypto, app lags and restarts all the time, please get new programmers for this app\"\n            3. _kaim_, Jun 2, 2026, 1/5: \"Kraken app crashes on Samsung s23 please update it still the same\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}
