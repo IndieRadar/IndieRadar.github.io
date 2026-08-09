@@ -1,0 +1,10 @@
+{
+  "appId": "66fd3630-81a1-45cd-bd85-9e4a60a1240d",
+  "appIndex": 10,
+  "appName": "Liftoff: Weightlifting Tracker",
+  "generatedAt": "2026-08-09T23:25:12.123Z",
+  "locale": "es",
+  "markdown": "# Liftoff: Weightlifting Tracker · Fitness\n\nGenerado: 10 ago 2026, 4:25\n\n## **Contenido** {#toc}\n\n- [Precio y paywall](#theme-pricing_paywall)\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Precio y paywall** {#theme-pricing_paywall}\n\n<!--ir-theme:pricing_paywall-->\n   **Precio y paywall.**\n      1 reseña reciente menciona precio y paywall.\n      Ventana de reseñas: 8 ago 2026 - 8 ago 2026\n      **Por qué importa:** Mencionan precio, suscripciones o paywalls. Puede señalar sensibilidad al pricing en el nicho.\n\n         **Ejemplos de reseñas:**\n            1. _Umar Umar_, 8 ago 2026, 4/5: \"La aplicación es realmente genial, pero cara.\"\n<!--/ir-theme-->\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      2 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 22 jul 2026 - 3 ago 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _Nicolas Radu Dumitru_, 22 jul 2026, 1/5: \"Ni siquiera puedo abrir la aplicación, se bloquea sin parar en un s25 ultra\"\n            2. _24k_, 1 ago 2026, 3/5: \"Buena aplicación, pero tiene toneladas de errores y fallos.\"\n            3. _Samuel Alarie_, 3 ago 2026, 4/5: \"En general, es excelente para el seguimiento, pero a veces puede tener muchos errores.\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

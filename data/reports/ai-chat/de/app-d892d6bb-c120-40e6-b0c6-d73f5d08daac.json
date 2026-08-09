@@ -2,9 +2,9 @@
   "appId": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
   "appIndex": 2,
   "appName": "Claude by Anthropic",
-  "generatedAt": "2026-08-08T23:25:00.742Z",
+  "generatedAt": "2026-08-09T23:24:48.227Z",
   "locale": "de",
-  "markdown": "# Claude by Anthropic · KI-Chat\n\nErstellt: 09.08.2026, 04:25\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      12 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 12.07.2026 - 08.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Tory Altomonte_, 08.08.2026, 1/5: \"Habe alles versucht, Neuinstallation inklusive, aber es stürzt jedes Mal ab, wenn ich es öffne. Repariere es bitte.\"\n            2. _Jared Motten_, 08.08.2026, 1/5: \"Habe es auf zwei verschiedenen Telefonen ausprobiert, aber es hält nicht das, was es verspricht. Der gleiche Fehler besteht seit Monaten.\"\n            3. _Dominic Crown_, 08.08.2026, 1/5: \"Es friert nach ein paar Sekunden ein und erholt sich nie wieder. Verschwenden Sie nicht Ihre Zeit.\"\n<!--/ir-theme-->",
+  "markdown": "# Claude by Anthropic · KI-Chat\n\nErstellt: 10.08.2026, 04:24\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      10 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 12.07.2026 - 09.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Marcus Tolson_, 09.08.2026, 1/5: \"Es stürzt jedes Mal ab, wenn ich es öffne. Keine Antwort vom Support.\"\n            2. _Zekai Erdem_, 09.08.2026, 1/5: \"Es stürzt jedes Mal ab, wenn ich es öffne. Der gleiche Fehler besteht seit Monaten.\"\n            3. _Molly Rowley_, 09.08.2026, 1/5: \"Es stürzt jedes Mal ab, wenn ich es öffne. Nichts als Frustration.\"\n<!--/ir-theme-->",
   "nicheSlug": "ai-chat",
   "type": "app"
 }

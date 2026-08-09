@@ -1,10 +1,10 @@
 {
   "appId": "07135f90-623e-4d01-ba5f-04354f47d993",
-  "appIndex": 10,
+  "appIndex": 14,
   "appName": "Dola",
-  "generatedAt": "2026-08-08T23:25:00.742Z",
+  "generatedAt": "2026-08-09T23:24:48.227Z",
   "locale": "de",
-  "markdown": "# Dola · KI-Chat\n\nErstellt: 09.08.2026, 04:25\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      3 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 05.07.2026 - 08.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Manisha Raman_, 07.08.2026, 1/5: \"Es sind immer technische Probleme\"\n            2. _WILFREDO SAN JUAN_, 20.07.2026, 1/5: \"Die App hat Fehler und ich hasse sie\"\n            3. _Unknwon Dylan_, 05.07.2026, 4/5: \"Zunächst habe ich mich beim Entwickler bedankt. Die App ist 100 % kostenlos. Das ist eine sehr gute Sache, die wir nicht überall sehen, aber wie nichts. Perfekt. Sie hat einen Fehler, beim Öffnen treten häufig Fehler auf. Verbessern Sie, dass die Anwendung die beste von allen ist\"\n<!--/ir-theme-->",
+  "markdown": "# Dola · KI-Chat\n\nErstellt: 10.08.2026, 04:25\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      3 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 05.07.2026 - 08.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Manisha Raman_, 07.08.2026, 1/5: \"Es sind immer technische Probleme\"\n            2. _WILFREDO SAN JUAN_, 20.07.2026, 1/5: \"Die App hat Fehler und ich hasse sie\"\n            3. _Unknwon Dylan_, 05.07.2026, 4/5: \"Zunächst habe ich mich beim Entwickler bedankt. Die App ist 100 % kostenlos. Das ist eine sehr gute Sache, die wir nicht überall sehen, aber wie nichts. Perfekt. Sie hat einen Fehler, beim Öffnen treten häufig Fehler auf. Verbessern Sie, dass die Anwendung die beste von allen ist\"\n<!--/ir-theme-->",
   "nicheSlug": "ai-chat",
   "type": "app"
 }

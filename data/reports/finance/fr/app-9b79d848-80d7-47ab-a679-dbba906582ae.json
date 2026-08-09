@@ -1,0 +1,10 @@
+{
+  "appId": "9b79d848-80d7-47ab-a679-dbba906582ae",
+  "appIndex": 11,
+  "appName": "Grey",
+  "generatedAt": "2026-08-09T23:24:22.825Z",
+  "locale": "fr",
+  "markdown": "# Grey · Finance\n\nGénéré : 10 août 2026, 04:24\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      3 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 15 juin 2026 - 8 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Abdo Ali_, 27 juil. 2026, 1/5: \"Application et service épouvantables. Ils ont secrètement supprimé l'option de retrait de crypto, c'est la raison pour laquelle j'utilise cette application pour commencer, et leur terrible soutien ne m'a pas du tout aidé. mis en attente pendant 2 heures. des milliers de dollars sont bloqués parce qu'ils ont décidé de supprimer quelque chose d'important de l'application sans préavis. support épouvantable, très lent, très stupide et pas du tout proactif. Je ne recommande pas du tout cette application !!!\"\n            2. _Wasil Grissi_, 15 juin 2026, 1/5: \"J'ai fait le premier dépôt de plus de 18 000 $ après cela, j'ai un problème avec KYC, aucune aide, aucune solution, c'est une grosse arnaque !\"\n            3. _iddir ahcene_, 21 juil. 2026, 2/5: \"l'application semble fluide, jolie, la vérification KYC n'a pris que quelques heures pour être acceptée et activée. mais chaque fois que j'essaie de terminer la configuration, l'application plante instantanément\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

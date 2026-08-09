@@ -2,9 +2,9 @@
   "appId": "d892d6bb-c120-40e6-b0c6-d73f5d08daac",
   "appIndex": 2,
   "appName": "Claude by Anthropic",
-  "generatedAt": "2026-08-08T23:24:52.572Z",
+  "generatedAt": "2026-08-09T23:24:43.764Z",
   "locale": "en",
-  "markdown": "# Claude by Anthropic · AI Chat\n\nGenerated: Aug 9, 2026, 4:24 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      12 recent review(s) mention bugs and stability.\n      Review window: Jul 12, 2026 - Aug 8, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Tory Altomonte_, Aug 8, 2026, 1/5: \"Tried everything, reinstall included, but it crashes every time I open it. Fix it please.\"\n            2. _Jared Motten_, Aug 8, 2026, 1/5: \"Tried it on two different phones, it does not do the one thing it promises. The same bug has been there for months.\"\n            3. _Dominic Crown_, Aug 8, 2026, 1/5: \"It freezes after a few seconds and never recovers. Do not waste your time.\"\n<!--/ir-theme-->",
+  "markdown": "# Claude by Anthropic · AI Chat\n\nGenerated: Aug 10, 2026, 4:24 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      10 recent review(s) mention bugs and stability.\n      Review window: Jul 12, 2026 - Aug 9, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Marcus Tolson_, Aug 9, 2026, 1/5: \"It crashes every time I open it. No reply from support.\"\n            2. _Zekai Erdem_, Aug 9, 2026, 1/5: \"It crashes every time I open it. The same bug has been there for months.\"\n            3. _Molly Rowley_, Aug 9, 2026, 1/5: \"It crashes every time I open it. Nothing but frustration.\"\n<!--/ir-theme-->",
   "nicheSlug": "ai-chat",
   "type": "app"
 }

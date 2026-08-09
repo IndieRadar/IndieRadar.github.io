@@ -1,0 +1,10 @@
+{
+  "appId": "ddf56bd5-3edc-47f8-9585-e807a94ac0c9",
+  "appIndex": 12,
+  "appName": "Xe Money Transfer & Currency",
+  "generatedAt": "2026-08-09T23:24:22.087Z",
+  "locale": "de",
+  "markdown": "# Xe Money Transfer & Currency · Finanzen\n\nErstellt: 10.08.2026, 04:24\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      3 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 13.03.2026 - 08.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Tesha Teshanovic_, 08.08.2026, 1/5: \"Das letzte Update machte die App unbrauchbar, es gab keine Währungstafel auf der Startseite\"\n            2. _Ismail Marsh_, 08.08.2026, 1/5: \"Sie haben es aus einem Widget auf dem Bildschirm entfernt, was es noch schlimmer gemacht hat. Wenn es nicht kaputt ist, versuchen Sie nicht, es zu reparieren. 🤦\"\n            3. _Pedro Rodrigues_, 13.03.2026, 1/5: \"Widgets sind auf dem Samsung S26u komplett kaputt. Nur ein 3x2-Widget, und wenn es auf dem Hauptbildschirm platziert wird, wechselt es zur Registerkarte „Startseite“ in der App und führt keine Aktion aus. Es bleibt nicht als Widget auf dem Bildschirm.\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

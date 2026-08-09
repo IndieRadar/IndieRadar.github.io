@@ -1,0 +1,10 @@
+{
+  "appId": "9b79d848-80d7-47ab-a679-dbba906582ae",
+  "appIndex": 11,
+  "appName": "Grey",
+  "generatedAt": "2026-08-09T23:24:22.087Z",
+  "locale": "de",
+  "markdown": "# Grey · Finanzen\n\nErstellt: 10.08.2026, 04:24\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      3 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 15.06.2026 - 08.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Abdo Ali_, 27.07.2026, 1/5: \"Schreckliche App und Service. Sie haben heimlich die Option zum Abheben von Krypto entfernt, was der einzige Grund ist, warum ich überhaupt diese App nutze, und ihre schreckliche Unterstützung hat mir überhaupt nicht geholfen. für 2 Stunden in die Warteschleife legen. Tausende von Dollar blieben hängen, weil sie beschlossen hatten, ohne Vorankündigung etwas Wichtiges aus der App zu entfernen. schrecklicher Support, sehr langsam, sehr dumm und überhaupt nicht proaktiv. Ich kann diese App überhaupt nicht empfehlen!!!\"\n            2. _Wasil Grissi_, 15.06.2026, 1/5: \"Ich habe die erste Einzahlung über 18.000 $ getätigt. Danach habe ich ein Problem mit KYC, keine Hilfe, keine Lösung, es ist ein großer Betrug!\"\n            3. _iddir ahcene_, 21.07.2026, 2/5: \"Die App scheint flüssig zu sein, sieht gut aus, die KYC-Verifizierung dauerte nur ein paar Stunden, bis sie akzeptiert und aktiviert wurde. Aber jedes Mal, wenn ich versuche, die Einrichtung abzuschließen, stürzt die App sofort ab\"\n<!--/ir-theme-->",
+  "nicheSlug": "finance",
+  "type": "app"
+}

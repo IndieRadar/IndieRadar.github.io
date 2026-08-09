@@ -36,47 +36,47 @@
       "number": 7
     },
     {
-      "id": "edf546df-efbe-4608-bae1-fe67ba98ae06",
-      "name": "Microsoft Copilot",
+      "id": "01fce28f-f4d2-4422-8ac2-27fbd3c339ca",
+      "name": "CHAI: Social AI Platform- Chat",
       "number": 8
     },
     {
-      "id": "09af4b20-a3b8-4a84-82da-547211c04bd0",
-      "name": "Grok",
+      "id": "edf546df-efbe-4608-bae1-fe67ba98ae06",
+      "name": "Microsoft Copilot",
       "number": 9
     },
     {
-      "id": "07135f90-623e-4d01-ba5f-04354f47d993",
-      "name": "Dola",
+      "id": "b2d502a0-7142-49c8-a480-9ac04411e735",
+      "name": "Grok AI",
       "number": 10
-    },
-    {
-      "id": "e97f87d9-f5af-472b-bf5c-142df5def828",
-      "name": "Chai: Chat AI Platform",
-      "number": 11
     },
     {
       "id": "e7d1fa91-f8d9-4c4b-bc5a-5acbdbc0673a",
       "name": "Character AI",
+      "number": 11
+    },
+    {
+      "id": "e97f87d9-f5af-472b-bf5c-142df5def828",
+      "name": "Chai: Chat AI Platform",
       "number": 12
+    },
+    {
+      "id": "e78dad0d-2d7b-482e-b487-ceb3d1c71a9a",
+      "name": "Dokichat",
+      "number": 13
+    },
+    {
+      "id": "07135f90-623e-4d01-ba5f-04354f47d993",
+      "name": "Dola",
+      "number": 14
     },
     {
       "id": "86475b88-e94f-4cf7-825d-e8ecb9264cd8",
       "name": "ChatGPT",
-      "number": 13
-    },
-    {
-      "id": "01fce28f-f4d2-4422-8ac2-27fbd3c339ca",
-      "name": "CHAI: Social AI Platform- Chat",
-      "number": 14
-    },
-    {
-      "id": "38892494-507e-4f20-9cc4-cf995d9d673a",
-      "name": "Google Gemini",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-08T23:24:52.572Z",
+  "generatedAt": "2026-08-09T23:24:43.764Z",
   "locale": "en",
   "nicheSlug": "ai-chat"
 }
