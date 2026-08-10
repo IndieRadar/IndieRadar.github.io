@@ -1,10 +1,9 @@
 (function () {
   // Keep labels in sync with services/analyzer/src/nicheLabels.ts
+  // Soft-drop finance/ai-chat until paid plan (egress).
   const NICHES = [
     { slug: "productivity", label: { ru: "Продуктивность", en: "Productivity", es: "Productividad", de: "Produktivität", fr: "Productivité" } },
     { slug: "habit-tracker", label: { ru: "Трекер привычек", en: "Habit Tracker", es: "Hábitos", de: "Gewohnheiten", fr: "Habitudes" } },
-    { slug: "finance", label: { ru: "Финансы", en: "Finance", es: "Finanzas", de: "Finanzen", fr: "Finance" } },
-    { slug: "ai-chat", label: { ru: "AI-чат", en: "AI Chat", es: "Chat IA", de: "KI-Chat", fr: "Chat IA" } },
     { slug: "fitness", label: { ru: "Фитнес", en: "Fitness", es: "Fitness", de: "Fitness", fr: "Fitness" } }
   ];
   const SUPPORTED_LANGS = ["ru", "en", "es", "de", "fr"];
