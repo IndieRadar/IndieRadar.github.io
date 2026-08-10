@@ -11,63 +11,63 @@
       "number": 2
     },
     {
-      "id": "43edeeaf-3ccb-44c7-a8e6-3007168c0fc5",
-      "name": "Goodnotes: AI Notes, Docs, PDF",
+      "id": "7e03bb69-b97c-4ae8-85d7-a740bf7090bf",
+      "name": "Organizza",
       "number": 3
-    },
-    {
-      "id": "c5764e78-8411-4b2e-b532-c3b145ab5893",
-      "name": "Trello",
-      "number": 4
     },
     {
       "id": "260a6071-6db1-4ef4-8f54-72f70369dbf5",
       "name": "Notebook",
-      "number": 5
-    },
-    {
-      "id": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
-      "name": "Microsoft To Do",
-      "number": 6
-    },
-    {
-      "id": "f848c3aa-7ac4-4fd5-95f3-4d80f9782235",
-      "name": "Forest: Focus for Productivity",
-      "number": 7
+      "number": 4
     },
     {
       "id": "24d01c9a-2660-410f-9219-7cc462e83735",
       "name": "Save Notes",
-      "number": 8
+      "number": 5
     },
     {
       "id": "2c6aee23-fec2-46ad-a66c-b6a01dd5ce45",
       "name": "Notion: Notes, Tasks, AI",
-      "number": 9
+      "number": 6
+    },
+    {
+      "id": "b6d9c50d-f8e6-4601-9949-0ecb4aa0c1a1",
+      "name": "Microsoft To Do",
+      "number": 7
+    },
+    {
+      "id": "f848c3aa-7ac4-4fd5-95f3-4d80f9782235",
+      "name": "Forest: Focus for Productivity",
+      "number": 8
     },
     {
       "id": "2e705fec-25bb-4cdf-82c0-c91e28166e9d",
       "name": "Notion",
-      "number": 10
+      "number": 9
     },
     {
       "id": "65d1c29c-1b0d-43b4-bd20-79a8a951596f",
       "name": "Microsoft To Do",
-      "number": 11
+      "number": 10
     },
     {
       "id": "f40ac530-47f9-480c-bee5-14095f8cffba",
       "name": "Google",
-      "number": 12
+      "number": 11
     },
     {
       "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
       "name": "Tiimo: Daily To Do List",
-      "number": 13
+      "number": 12
     },
     {
       "id": "5df2eb8c-a19c-428a-a12d-432daaf1e232",
       "name": "Toggl Track - Time Tracking",
+      "number": 13
+    },
+    {
+      "id": "666aee72-0c4d-4339-af46-d72777727639",
+      "name": "Todoist",
       "number": 14
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-09T23:23:00.252Z",
+  "generatedAt": "2026-08-10T22:55:03.213Z",
   "locale": "de",
   "nicheSlug": "productivity"
 }

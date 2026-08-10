@@ -1,0 +1,10 @@
+{
+  "appId": "666aee72-0c4d-4339-af46-d72777727639",
+  "appIndex": 14,
+  "appName": "Todoist",
+  "generatedAt": "2026-08-10T22:55:03.537Z",
+  "locale": "en",
+  "markdown": "# Todoist · Productivity\n\nGenerated: Aug 11, 2026, 3:55 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      3 recent review(s) mention bugs and stability.\n      Review window: Jun 25, 2026 - Aug 6, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _elizareid_, Jul 31, 2026, 1/5: \"Always freezes and no in-app support\"\n            2. _Mavis417_, Aug 6, 2026, 3/5: \"I have been using Todoist and really like the product, but I ran into a critical bug that locked me out of my account. My original account was created via Sign in with Apple. When I tried to update my account email address, I accidentally typed in an incorrect email address that belongs to someone else. Todoist sent the verification email to that wrong third‑party address. Now I cannot log in with my original Apple account anymore. I also cannot log in using that wrong email since it is not mine. I have no way to complete the verification step and regain access to my Todoist data.\"\n            3. _EstePerk_, Jul 3, 2026, 4/5: \"I've enjoyed using Todoist. However, I think the recent update to the app has completely broken my widget? It wasn't updating to show my updated project, so I deleted the widget and put it back, and after putting it back the widget is entirely black. I'm on iOS 18.7.8, if it helps.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

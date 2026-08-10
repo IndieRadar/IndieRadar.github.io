@@ -1,82 +1,107 @@
 {
   "apps": [
     {
-      "id": "c2491911-307e-4ce6-9a62-83e7436fde3f",
-      "name": "Mashreq Pakistan",
+      "id": "09b8dc4a-759e-4dfa-91f2-aea2c0a600db",
+      "name": "Yahoo",
       "number": 1
     },
     {
-      "id": "f06ca6d2-ce14-444e-8000-e02861a155da",
-      "name": "Yahoo Finance - Stock Market",
+      "id": "f76e2b72-ce8e-40ae-940e-51ebed136aef",
+      "name": "Rocket Money - Bills & Budgets",
       "number": 2
     },
     {
-      "id": "7818828a-9eaf-4109-9ef5-d8dcc748ee1d",
-      "name": "Fidelity Investments",
+      "id": "90e3483f-ff64-4f88-a4bd-94d8ea047c0e",
+      "name": "Monese - A banking alternative",
       "number": 3
     },
     {
-      "id": "b4ff19ca-91fe-424b-8c54-d98f0ebb7df9",
-      "name": "IBKR Mobile - Invest Worldwide",
+      "id": "9ac3bb92-ddc4-49ba-95f8-7bca241d1769",
+      "name": "Robinhood: Trading & Investing",
       "number": 4
     },
     {
-      "id": "46150ea2-595f-47ae-93d9-12741aa834e7",
-      "name": "HDFC Bank App",
+      "id": "3584e712-1cf9-4898-878e-d8f54102209e",
+      "name": "slice: UPI credit card & bank",
       "number": 5
     },
     {
-      "id": "1fc429d2-b4f3-4c45-81a3-d0e1d6ac25fa",
-      "name": "Bluecoins",
+      "id": "d391f361-eed6-433c-95aa-337b0def3884",
+      "name": "Google Wallet",
       "number": 6
     },
     {
-      "id": "40d28b66-782b-4944-8828-a47664b266a9",
-      "name": "Kraken",
+      "id": "4975163e-f591-4371-a8ba-bf5a2b46b73c",
+      "name": "TradingView",
       "number": 7
     },
     {
-      "id": "150ac319-f7e5-429d-aabf-d5cc5db1fda8",
-      "name": "Zindigi - All in One Finance",
+      "id": "410585a9-1914-4b1b-a60f-2b6830a4a486",
+      "name": "Klarna",
       "number": 8
     },
     {
-      "id": "a3215d9a-27ba-4931-901b-4ffcb4fb778a",
-      "name": "Money Lover",
+      "id": "c1e28435-4ab1-4517-a348-dec4fea08719",
+      "name": "Acorns: Save & Invest Money",
       "number": 9
-    },
-    {
-      "id": "867a810d-d213-4730-8429-c6522778367c",
-      "name": "Copilot: Track & Budget Money",
-      "number": 10
-    },
-    {
-      "id": "9b79d848-80d7-47ab-a679-dbba906582ae",
-      "name": "Grey",
-      "number": 11
-    },
-    {
-      "id": "ddf56bd5-3edc-47f8-9585-e807a94ac0c9",
-      "name": "Xe Money Transfer & Currency",
-      "number": 12
-    },
-    {
-      "id": "8d540b49-b4cd-4195-8c02-441d9a062519",
-      "name": "Trade Republic",
-      "number": 13
     },
     {
       "id": "b1c80ce3-92da-4d8b-b6ed-93c5f9e3925c",
       "name": "Google Finance",
+      "number": 10
+    },
+    {
+      "id": "b4ff19ca-91fe-424b-8c54-d98f0ebb7df9",
+      "name": "IBKR Mobile - Invest Worldwide",
+      "number": 11
+    },
+    {
+      "id": "150ac319-f7e5-429d-aabf-d5cc5db1fda8",
+      "name": "Zindigi - All in One Finance",
+      "number": 12
+    },
+    {
+      "id": "a3215d9a-27ba-4931-901b-4ffcb4fb778a",
+      "name": "Money Lover",
+      "number": 13
+    },
+    {
+      "id": "d646ef55-f000-4857-9d90-552e0ae9b8eb",
+      "name": "Revolut",
       "number": 14
     },
     {
-      "id": "03b766df-cea0-4513-adca-3fb36723b3a3",
-      "name": "Revolut",
+      "id": "7818828a-9eaf-4109-9ef5-d8dcc748ee1d",
+      "name": "Fidelity Investments",
       "number": 15
+    },
+    {
+      "id": "834d3030-1ba7-4739-ac33-e1f5d7817be0",
+      "name": "Trading 212",
+      "number": 16
+    },
+    {
+      "id": "40d28b66-782b-4944-8828-a47664b266a9",
+      "name": "Kraken",
+      "number": 17
+    },
+    {
+      "id": "2e59806e-c934-437b-9a8d-af862bf8e1cd",
+      "name": "GoMining",
+      "number": 18
+    },
+    {
+      "id": "58673aab-3ef4-49fd-a7d1-2b08275a4bed",
+      "name": "XTB Online Investing",
+      "number": 19
+    },
+    {
+      "id": "e6b2ee06-965a-4be0-b1a7-917257506e1d",
+      "name": "Trade Republic: Broker & Bank",
+      "number": 20
     }
   ],
-  "generatedAt": "2026-08-09T23:24:22.825Z",
+  "generatedAt": "2026-07-27T17:00:47.480Z",
   "locale": "fr",
   "nicheSlug": "finance"
 }

@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>BALA AI · Chat IA · IndieRadar</title>
-  <link rel="stylesheet" href="../../../../../site.css?v=5">
-  <link rel="stylesheet" href="../../../../../report/report.css?v=2">
+  <title>BALA AI: Create, Chat, Talk · Chat IA · IndieRadar</title>
+  <link rel="stylesheet" href="../../../../../site.css?v=3">
+  <link rel="stylesheet" href="../../../../../report/report.css">
   <script>
     (function () {
-      var match = location.pathname.match(/\/(ru|en|es|de|fr)(?:\/(?:week|focus|app(?:\/[^/]+)?)?)?\/?$/);
+      var match = location.pathname.match(/\/(ru|en|es|de|fr)(?:\/(?:week|app(?:\/[^/]+)?)?)?\/?$/);
       if (!match) return;
       try { localStorage.setItem("indieradar.lang", match[1]); } catch (e) {}
       document.documentElement.lang = match[1];
@@ -26,30 +26,29 @@
     </div>
   </header>
   <div class="site-nav-wrap"><nav class="niche-tabs" aria-label="Todos los nichos"><a class="niche-tab niche-tab-home" href="/?lang=es">Todos los nichos</a><a class="niche-tab" href="/report/productivity/es/">Productividad</a><a class="niche-tab" href="/report/habit-tracker/es/">Hábitos</a><a class="niche-tab" href="/report/finance/es/">Finanzas</a><a class="niche-tab is-active" href="/report/ai-chat/es/">Chat IA</a><a class="niche-tab" href="/report/fitness/es/">Fitness</a></nav></div>
-  <div class="site-nav-wrap site-nav-wrap-secondary"><nav class="period-nav" aria-label="Diaria"><a class="period-link is-active" href="/report/ai-chat/es/">Diaria</a><a class="period-link" href="/report/ai-chat/es/week/">Semanal</a><a class="period-link" href="/report/ai-chat/es/focus/">Focus</a></nav></div>
-  
+  <div class="site-nav-wrap site-nav-wrap-secondary"><nav class="period-nav" aria-label="Diaria"><a class="period-link is-active" href="/report/ai-chat/es/">Diaria</a><a class="period-link" href="/report/ai-chat/es/week/">Semanal</a></nav></div>
   <div class="report-layout">
     <main class="report-main">
       <article class="report-card">
-        <div class="meta">Chat IA · es · 10 ago 2026, 4:24</div>
-        <div id="content"><h1 id="bala-ai-chat-ia">BALA AI · Chat IA</h1>
-<p>Generado: 10 ago 2026, 4:25</p>
+        <div class="meta">Chat IA · es · 27 jul 2026, 21:42</div>
+        <div id="content"><h1 id="bala-ai-create-chat-talk-chat-ia">BALA AI: Create, Chat, Talk · Chat IA</h1>
+<p>Generado: 27 jul 2026, 21:42</p>
 <h2 id="toc"><strong>Contenido</strong></h2>
 <ul><li class="indent-0"><a href="#theme-bugs_stability">Errores y estabilidad</a></li></ul>
 <h2 id="theme-bugs_stability"><strong>Errores y estabilidad</strong></h2>
-<div class="theme-block" data-theme-block data-theme-id="bugs_stability"><p class="indent-1"><strong>Errores y estabilidad.</strong></p>
+<p class="indent-1"><strong>Errores y estabilidad.</strong></p>
 <p class="indent-2">6 reseñas recientes mencionan errores y estabilidad.</p>
 <p class="indent-2">Ventana de reseñas: 10 jul 2026 - 14 jul 2026</p>
-<p class="indent-2"><strong>Por qué importa:</strong> Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.</p>
+<p class="indent-2"><strong>Por qué importa:</strong> Los usuarios reportan problemas de fiabilidad. Apunta a gaps de calidad que un competidor puede explotar.</p>
 <p class="note-label indent-3"><strong>Ejemplos de reseñas:</strong></p>
-<ol><li class="indent-4"><em>DrewH166</em>, 11 jul 2026, 1/5: &quot;Fue genial hasta que se solucionó un error hace 2 días. Ahora sigue fallando. No permanece abierto el tiempo suficiente ni siquiera para una simple conversación.&quot;</li><li class="indent-4"><em>Y gh bhb</em>, 11 jul 2026, 2/5: &quot;Sigue fallando y cuando quiero entrar, la aplicación no se carga y luego me echa, solucione este problema.&quot;</li><li class="indent-4"><em>svduwgx uhh e no bd in</em>, 12 jul 2026, 3/5: &quot;La aplicación no me abre, simplemente falla&quot;</li></ol></div></div>
+<ol><li class="indent-4"><em>DrewH166</em>, 11 jul 2026, 1/5: &quot;Fue genial hasta que se solucionó un error hace 2 días. Ahora sigue fallando. No permanece abierto el tiempo suficiente ni siquiera para una simple conversación.&quot;</li><li class="indent-4"><em>Y gh bhb</em>, 11 jul 2026, 2/5: &quot;Sigue fallando y cuando quiero entrar, la aplicación no se carga y luego me echa, solucione este problema.&quot;</li><li class="indent-4"><em>svduwgx uhh e no bd in</em>, 12 jul 2026, 3/5: &quot;La aplicación no me abre, simplemente falla&quot;</li></ol></div>
       </article>
     </main>
   </div>
   <footer class="site-footer">
     <p>Datos públicos de las stores · sin registro · <a href="https://t.me/IndieRadarBot">Bot de Telegram</a></p>
   </footer>
-  <script src="../../../../../site.js?v=6"></script>
+  <script src="../../../../../site.js?v=5"></script>
   <script>
     (function () {
       var site = window.IndieRadarSite;
@@ -60,7 +59,6 @@
       var route = site.mountReportChrome ? site.mountReportChrome() : null;
       site.mountBackToTop({ lang: route ? route.locale : "es" });
       site.bindInPageAnchors(content);
-      if (site.mountThemeFilter) site.mountThemeFilter();
       if (location.hash) {
         requestAnimationFrame(function () {
           site.scrollToAnchor(location.hash.slice(1), "instant");
