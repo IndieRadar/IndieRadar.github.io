@@ -1,0 +1,10 @@
+{
+  "appId": "74d2cdd3-e2ff-40fd-9107-9d061a2aa4aa",
+  "appIndex": 15,
+  "appName": "Todoist",
+  "generatedAt": "2026-08-11T22:54:17.867Z",
+  "locale": "es",
+  "markdown": "# Todoist · Productividad\n\nGenerado: 12 ago 2026, 3:54\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      3 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 25 jun 2026 - 6 ago 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _elizareid_, 31 jul 2026, 1/5: \"Siempre se congela y no hay soporte en la aplicación\"\n            2. _Mavis417_, 6 ago 2026, 3/5: \"He estado usando Todoist y realmente me gusta el producto, pero encontré un error crítico que me bloqueó el acceso a mi cuenta. Mi cuenta original se creó mediante Iniciar sesión con Apple. Cuando intenté actualizar la dirección de correo electrónico de mi cuenta, accidentalmente escribí una dirección de correo electrónico incorrecta que pertenece a otra persona. Todoist envió el correo electrónico de verificación a esa dirección de tercero incorrecta. Ahora ya no puedo iniciar sesión con mi cuenta original de Apple. Tampoco puedo iniciar sesión con ese correo electrónico incorrecto ya que no es mío. No tengo forma de completar el paso de verificación y recuperar el acceso a mis datos Todoist.\"\n            3. _EstePerk_, 3 jul 2026, 4/5: \"Disfruté usando Todoist. Sin embargo, creo que la reciente actualización de la aplicación ha roto completamente mi widget. No se estaba actualizando para mostrar mi proyecto actualizado, así que eliminé el widget y lo volví a colocar, y después de volver a colocarlo, el widget está completamente negro. Estoy en iOS 18.7.8, si me ayuda.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
