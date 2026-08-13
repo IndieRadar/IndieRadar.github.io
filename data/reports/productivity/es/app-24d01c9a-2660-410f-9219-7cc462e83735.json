@@ -1,10 +1,10 @@
 {
   "appId": "24d01c9a-2660-410f-9219-7cc462e83735",
-  "appIndex": 7,
+  "appIndex": 5,
   "appName": "Save Notes",
-  "generatedAt": "2026-08-12T22:54:18.060Z",
+  "generatedAt": "2026-08-13T22:54:48.577Z",
   "locale": "es",
-  "markdown": "# Save Notes · Productividad\n\nGenerado: 13 ago 2026, 3:54\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      5 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 31 may 2026 - 11 ago 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _A Google user_, 9 ago 2026, 1/5: \"Problemas de sincronización, las notas no se eliminan. Microslop\"\n            2. _Armandas Piečia_, 9 ago 2026, 1/5: \"todas mis notas ahora están bloqueadas en modo de solo lectura, la aplicación no se puede utilizar\"\n            3. _Daniel Loew_, 9 ago 2026, 1/5: \"Fallo al iniciar sesión\"\n<!--/ir-theme-->",
+  "markdown": "# Save Notes · Productividad\n\nGenerado: 14 ago 2026, 3:55\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      6 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 31 may 2026 - 12 ago 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _A Google user_, 9 ago 2026, 1/5: \"Problemas de sincronización, las notas no se eliminan. Microslop\"\n            2. _Daniel Loew_, 9 ago 2026, 1/5: \"Fallo al iniciar sesión\"\n            3. _Kris Bronz_, 15 jul 2026, 1/5: \"la aplicación encuentra un error y no permanece abierta\"\n<!--/ir-theme-->",
   "nicheSlug": "productivity",
   "type": "app"
 }
