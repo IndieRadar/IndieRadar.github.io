@@ -16,38 +16,38 @@
       "number": 3
     },
     {
+      "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
+      "name": "ClassPass: Fitness, Spa, Salon",
+      "number": 4
+    },
+    {
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
+      "number": 5
+    },
+    {
       "id": "8c96733f-429a-4412-8617-dfce9931e307",
       "name": "MyFitnessPal: Calorie Counter",
-      "number": 4
+      "number": 6
     },
     {
       "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
       "name": "Fitbod Workout & Gym Planner",
-      "number": 5
-    },
-    {
-      "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
-      "name": "ClassPass: Fitness, Spa, Salon",
-      "number": 6
+      "number": 7
     },
     {
       "id": "b9aa7d2b-ba0b-422f-a043-8a8667076448",
       "name": "Lasta Fit",
-      "number": 7
+      "number": 8
     },
     {
       "id": "03886733-55d9-4e8e-a18f-014123d0563d",
       "name": "Liftoff",
-      "number": 8
+      "number": 9
     },
     {
       "id": "91421b78-cc0d-4fe9-bbf6-98135cb02b89",
       "name": "Treino de Academia",
-      "number": 9
-    },
-    {
-      "id": "5a5cb5ab-9d02-402d-9cbf-499a655dad77",
-      "name": "Fitify",
       "number": 10
     },
     {
@@ -66,17 +66,17 @@
       "number": 13
     },
     {
-      "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
-      "name": "Mi Fitness (Xiaomi Wear Lite)",
+      "id": "54b79b3b-c2e9-4b01-bce5-794f8968563f",
+      "name": "Strava",
       "number": 14
     },
     {
-      "id": "54b79b3b-c2e9-4b01-bce5-794f8968563f",
-      "name": "Strava",
+      "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
+      "name": "Mi Fitness (Xiaomi Wear Lite)",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-13T22:56:11.464Z",
+  "generatedAt": "2026-08-14T22:55:29.111Z",
   "locale": "fr",
   "nicheSlug": "fitness"
 }

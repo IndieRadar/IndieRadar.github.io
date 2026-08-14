@@ -21,28 +21,28 @@
       "number": 4
     },
     {
+      "id": "f848c3aa-7ac4-4fd5-95f3-4d80f9782235",
+      "name": "Forest: Focus for Productivity",
+      "number": 5
+    },
+    {
       "id": "24d01c9a-2660-410f-9219-7cc462e83735",
       "name": "Save Notes",
-      "number": 5
+      "number": 6
     },
     {
       "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
       "name": "Notion: notes, tasks, AI",
-      "number": 6
+      "number": 7
     },
     {
       "id": "260a6071-6db1-4ef4-8f54-72f70369dbf5",
       "name": "Notebook",
-      "number": 7
+      "number": 8
     },
     {
       "id": "2c6aee23-fec2-46ad-a66c-b6a01dd5ce45",
       "name": "Notion: Notes, Tasks, AI",
-      "number": 8
-    },
-    {
-      "id": "f848c3aa-7ac4-4fd5-95f3-4d80f9782235",
-      "name": "Forest: Focus for Productivity",
       "number": 9
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-13T22:55:16.156Z",
+  "generatedAt": "2026-08-14T22:54:35.023Z",
   "locale": "fr",
   "nicheSlug": "productivity"
 }

@@ -1,10 +1,10 @@
 {
   "appId": "24d01c9a-2660-410f-9219-7cc462e83735",
-  "appIndex": 5,
+  "appIndex": 6,
   "appName": "Save Notes",
-  "generatedAt": "2026-08-13T22:55:16.156Z",
+  "generatedAt": "2026-08-14T22:54:35.023Z",
   "locale": "fr",
-  "markdown": "# Save Notes · Productivité\n\nGénéré : 14 août 2026, 03:55\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      6 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 31 mai 2026 - 12 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _A Google user_, 9 août 2026, 1/5: \"Problèmes de synchronisation, les notes ne sont pas supprimées. Micropente\"\n            2. _Daniel Loew_, 9 août 2026, 1/5: \"Crash lors de la connexion\"\n            3. _Kris Bronz_, 15 juil. 2026, 1/5: \"l'application rencontre un bug et ne reste pas ouverte\"\n<!--/ir-theme-->",
+  "markdown": "# Save Notes · Productivité\n\nGénéré : 15 août 2026, 03:54\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      6 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 31 mai 2026 - 13 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Daniel Loew_, 9 août 2026, 1/5: \"Crash lors de la connexion\"\n            2. _Kris Bronz_, 15 juil. 2026, 1/5: \"l'application rencontre un bug et ne reste pas ouverte\"\n            3. _muhidin zacaria_, 12 août 2026, 2/5: \"Cela n'arrêtait pas de me tomber dessus. Bien que ce soit l’une des meilleures applications de notes que j’ai rencontrées sur des appareils mobiles de type Android. J'espère qu'ils pourront travailler sur ces misérables problèmes.\"\n<!--/ir-theme-->",
   "nicheSlug": "productivity",
   "type": "app"
 }
