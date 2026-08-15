@@ -11,43 +11,43 @@
       "number": 2
     },
     {
-      "id": "2167752e-b197-4dfd-94cd-6ee73317cf56",
-      "name": "BetterMe: Health Coaching",
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
       "number": 3
     },
     {
-      "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
-      "name": "ClassPass: Fitness, Spa, Salon",
+      "id": "2167752e-b197-4dfd-94cd-6ee73317cf56",
+      "name": "BetterMe: Health Coaching",
       "number": 4
-    },
-    {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
-      "number": 5
     },
     {
       "id": "8c96733f-429a-4412-8617-dfce9931e307",
       "name": "MyFitnessPal: Calorie Counter",
-      "number": 6
+      "number": 5
     },
     {
       "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
       "name": "Fitbod Workout & Gym Planner",
-      "number": 7
+      "number": 6
     },
     {
       "id": "b9aa7d2b-ba0b-422f-a043-8a8667076448",
       "name": "Lasta Fit",
-      "number": 8
+      "number": 7
     },
     {
       "id": "03886733-55d9-4e8e-a18f-014123d0563d",
       "name": "Liftoff",
-      "number": 9
+      "number": 8
     },
     {
       "id": "91421b78-cc0d-4fe9-bbf6-98135cb02b89",
       "name": "Treino de Academia",
+      "number": 9
+    },
+    {
+      "id": "5a5cb5ab-9d02-402d-9cbf-499a655dad77",
+      "name": "Fitify",
       "number": 10
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-14T22:55:28.826Z",
+  "generatedAt": "2026-08-15T22:55:37.625Z",
   "locale": "de",
   "nicheSlug": "fitness"
 }

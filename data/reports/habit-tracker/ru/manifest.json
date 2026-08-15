@@ -11,18 +11,18 @@
       "number": 2
     },
     {
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch",
+      "number": 3
+    },
+    {
       "id": "aa7680a1-b563-4bc6-b174-e189a7eb830c",
       "name": "Habit Tracker - Habit Diary",
-      "number": 3
+      "number": 4
     },
     {
       "id": "ed7b90ce-7a42-48d6-b7d5-b8d6b5ae83b5",
       "name": "Habit Tracker, Routine Planner",
-      "number": 4
-    },
-    {
-      "id": "9d802231-58eb-4a45-aa89-3ced7bb76b9e",
-      "name": "Habit Rabbit",
       "number": 5
     },
     {
@@ -41,42 +41,42 @@
       "number": 8
     },
     {
-      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
-      "name": "Finch",
-      "number": 9
-    },
-    {
       "id": "a871684c-de17-4231-b571-53c71c488fa0",
       "name": "Atoms - from Atomic Habits",
-      "number": 10
+      "number": 9
     },
     {
       "id": "451af485-4e57-456a-b0bc-61d948f71749",
       "name": "Habit Tracker - HabitKit",
-      "number": 11
+      "number": 10
     },
     {
       "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
       "name": "HabitTick",
-      "number": 12
+      "number": 11
     },
     {
       "id": "8abfc268-acfd-41b8-a937-0c315f34a8db",
       "name": "(Not Boring) Habits",
-      "number": 13
+      "number": 12
     },
     {
       "id": "ef6da155-414e-4acf-9688-dabb0ae37bc1",
       "name": "Habitify",
-      "number": 14
+      "number": 13
     },
     {
       "id": "1d5d7a64-dbfa-441b-a010-4baea72aaa94",
       "name": "Mood Tracker",
+      "number": 14
+    },
+    {
+      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
+      "name": "Habit Tracker",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-14T22:54:37.029Z",
+  "generatedAt": "2026-08-15T22:54:44.206Z",
   "locale": "ru",
   "nicheSlug": "habit-tracker"
 }
