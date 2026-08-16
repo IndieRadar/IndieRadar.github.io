@@ -21,8 +21,8 @@
       "number": 4
     },
     {
-      "id": "2e705fec-25bb-4cdf-82c0-c91e28166e9d",
-      "name": "Notion",
+      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
+      "name": "Notion: notes, tasks, AI",
       "number": 5
     },
     {
@@ -46,37 +46,37 @@
       "number": 9
     },
     {
-      "id": "24d01c9a-2660-410f-9219-7cc462e83735",
-      "name": "Save Notes",
+      "id": "f40ac530-47f9-480c-bee5-14095f8cffba",
+      "name": "Google",
       "number": 10
     },
     {
-      "id": "f40ac530-47f9-480c-bee5-14095f8cffba",
-      "name": "Google",
+      "id": "fea5607b-c6d1-41a2-8052-e96264e44e60",
+      "name": "Tiimo - To Do List Planner",
       "number": 11
-    },
-    {
-      "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
-      "name": "Tiimo: Daily To Do List",
-      "number": 12
     },
     {
       "id": "5df2eb8c-a19c-428a-a12d-432daaf1e232",
       "name": "Toggl Track - Time Tracking",
-      "number": 13
+      "number": 12
     },
     {
       "id": "11bde948-055b-4fa2-a2c6-72ad56640d26",
       "name": "Pencil Planner & Calendar Pro",
-      "number": 14
+      "number": 13
     },
     {
       "id": "5d01d46f-1645-42d4-9c21-4f7e747a663b",
       "name": "Structured - Daily Planner",
+      "number": 14
+    },
+    {
+      "id": "24d01c9a-2660-410f-9219-7cc462e83735",
+      "name": "Save Notes",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-15T22:54:43.897Z",
+  "generatedAt": "2026-08-16T22:54:52.956Z",
   "locale": "fr",
   "nicheSlug": "productivity"
 }
