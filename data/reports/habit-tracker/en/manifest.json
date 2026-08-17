@@ -6,13 +6,13 @@
       "number": 1
     },
     {
-      "id": "5ee51211-f93a-432b-b2c2-2e050746c7d7",
-      "name": "Habitica",
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch",
       "number": 2
     },
     {
-      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
-      "name": "Finch",
+      "id": "5ee51211-f93a-432b-b2c2-2e050746c7d7",
+      "name": "Habitica",
       "number": 3
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-16T22:54:54.433Z",
+  "generatedAt": "2026-08-17T22:55:14.171Z",
   "locale": "en",
   "nicheSlug": "habit-tracker"
 }
