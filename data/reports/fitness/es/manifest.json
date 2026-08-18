@@ -6,53 +6,53 @@
       "number": 1
     },
     {
-      "id": "7ea5e767-595b-4e20-8544-40dcd5a8dada",
-      "name": "Yazio",
-      "number": 2
-    },
-    {
       "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
       "name": "Samsung Health",
-      "number": 3
+      "number": 2
     },
     {
       "id": "2167752e-b197-4dfd-94cd-6ee73317cf56",
       "name": "BetterMe: Health Coaching",
-      "number": 4
+      "number": 3
     },
     {
       "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
       "name": "ClassPass: Fitness, Spa, Salon",
-      "number": 5
+      "number": 4
     },
     {
       "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
       "name": "Planet Fitness",
+      "number": 5
+    },
+    {
+      "id": "8c96733f-429a-4412-8617-dfce9931e307",
+      "name": "MyFitnessPal: Calorie Counter",
       "number": 6
     },
     {
-      "id": "03886733-55d9-4e8e-a18f-014123d0563d",
-      "name": "Liftoff",
+      "id": "7ea5e767-595b-4e20-8544-40dcd5a8dada",
+      "name": "Yazio",
       "number": 7
-    },
-    {
-      "id": "a888cbe7-05f6-41a0-9386-a3662b485667",
-      "name": "Mi Fitness (Xiaomi Wear)",
-      "number": 8
-    },
-    {
-      "id": "5a5cb5ab-9d02-402d-9cbf-499a655dad77",
-      "name": "Fitify",
-      "number": 9
     },
     {
       "id": "b9aa7d2b-ba0b-422f-a043-8a8667076448",
       "name": "Lasta Fit",
+      "number": 8
+    },
+    {
+      "id": "03886733-55d9-4e8e-a18f-014123d0563d",
+      "name": "Liftoff",
+      "number": 9
+    },
+    {
+      "id": "a888cbe7-05f6-41a0-9386-a3662b485667",
+      "name": "Mi Fitness (Xiaomi Wear)",
       "number": 10
     },
     {
-      "id": "b2dd02be-185c-4672-8e39-ef1e7df86286",
-      "name": "Freeletics: Fitness Workouts",
+      "id": "5a5cb5ab-9d02-402d-9cbf-499a655dad77",
+      "name": "Fitify",
       "number": 11
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-17T22:56:02.953Z",
+  "generatedAt": "2026-08-18T22:55:25.219Z",
   "locale": "es",
   "nicheSlug": "fitness"
 }
