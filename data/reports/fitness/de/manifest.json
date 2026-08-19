@@ -11,18 +11,18 @@
       "number": 2
     },
     {
-      "id": "2167752e-b197-4dfd-94cd-6ee73317cf56",
-      "name": "BetterMe: Health Coaching",
-      "number": 3
-    },
-    {
       "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
       "name": "ClassPass: Fitness, Spa, Salon",
-      "number": 4
+      "number": 3
     },
     {
       "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
       "name": "Planet Fitness",
+      "number": 4
+    },
+    {
+      "id": "03886733-55d9-4e8e-a18f-014123d0563d",
+      "name": "Liftoff",
       "number": 5
     },
     {
@@ -31,38 +31,38 @@
       "number": 6
     },
     {
-      "id": "7ea5e767-595b-4e20-8544-40dcd5a8dada",
-      "name": "Yazio",
+      "id": "a888cbe7-05f6-41a0-9386-a3662b485667",
+      "name": "Mi Fitness (Xiaomi Wear)",
       "number": 7
+    },
+    {
+      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
+      "name": "Fitbod Workout & Gym Planner",
+      "number": 8
+    },
+    {
+      "id": "4e4143c1-c040-474b-a1f1-c661d6dbf7fa",
+      "name": "Fitify",
+      "number": 9
     },
     {
       "id": "b9aa7d2b-ba0b-422f-a043-8a8667076448",
       "name": "Lasta Fit",
-      "number": 8
-    },
-    {
-      "id": "03886733-55d9-4e8e-a18f-014123d0563d",
-      "name": "Liftoff",
-      "number": 9
-    },
-    {
-      "id": "a888cbe7-05f6-41a0-9386-a3662b485667",
-      "name": "Mi Fitness (Xiaomi Wear)",
       "number": 10
-    },
-    {
-      "id": "5a5cb5ab-9d02-402d-9cbf-499a655dad77",
-      "name": "Fitify",
-      "number": 11
     },
     {
       "id": "4f1dabc5-33df-4817-bf86-4058354f815c",
       "name": "Strong Workout Tracker",
-      "number": 12
+      "number": 11
     },
     {
       "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
       "name": "Google Health (Fitbit)",
+      "number": 12
+    },
+    {
+      "id": "2167752e-b197-4dfd-94cd-6ee73317cf56",
+      "name": "BetterMe: Health Coaching",
       "number": 13
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-18T22:55:27.368Z",
+  "generatedAt": "2026-08-19T22:55:48.027Z",
   "locale": "de",
   "nicheSlug": "fitness"
 }
