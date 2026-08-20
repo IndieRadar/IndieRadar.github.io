@@ -6,13 +6,13 @@
       "number": 1
     },
     {
-      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
-      "name": "Finch",
+      "id": "5ee51211-f93a-432b-b2c2-2e050746c7d7",
+      "name": "Habitica",
       "number": 2
     },
     {
-      "id": "5ee51211-f93a-432b-b2c2-2e050746c7d7",
-      "name": "Habitica",
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch",
       "number": 3
     },
     {
@@ -31,8 +31,8 @@
       "number": 6
     },
     {
-      "id": "fea5607b-c6d1-41a2-8052-e96264e44e60",
-      "name": "Tiimo - To Do List Planner",
+      "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
+      "name": "Tiimo: Daily To Do List",
       "number": 7
     },
     {
@@ -66,17 +66,17 @@
       "number": 13
     },
     {
-      "id": "1d5d7a64-dbfa-441b-a010-4baea72aaa94",
-      "name": "Mood Tracker",
+      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
+      "name": "Habit Tracker",
       "number": 14
     },
     {
-      "id": "160bf2cd-6ea1-4986-94f2-c42873ba35ae",
-      "name": "HabitNow Daily Routine Planner",
+      "id": "1d5d7a64-dbfa-441b-a010-4baea72aaa94",
+      "name": "Mood Tracker",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-19T22:55:21.086Z",
+  "generatedAt": "2026-08-20T22:56:26.639Z",
   "locale": "de",
   "nicheSlug": "habit-tracker"
 }
