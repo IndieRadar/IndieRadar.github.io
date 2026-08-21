@@ -1,10 +1,10 @@
 {
   "appId": "2167752e-b197-4dfd-94cd-6ee73317cf56",
-  "appIndex": 10,
+  "appIndex": 11,
   "appName": "BetterMe: Health Coaching",
-  "generatedAt": "2026-08-20T22:56:32.608Z",
+  "generatedAt": "2026-08-21T22:56:59.170Z",
   "locale": "en",
-  "markdown": "# BetterMe: Health Coaching · Fitness\n\nGenerated: Aug 21, 2026, 3:56 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      6 recent review(s) mention bugs and stability.\n      Review window: May 23, 2026 - Aug 7, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Sabina Kotiranta_, May 23, 2026, 1/5: \"would be nice if it stops crashing.... Reinstalled it twice now.\"\n            2. _Raik Henke_, Aug 7, 2026, 2/5: \"endlessly keeps crashing\"\n            3. _Bartholomew Lunt_, Jul 23, 2026, 2/5: \"daily work out is good but it keeps crashing and I can't track anything except the daily workout once it actually loads.\"\n<!--/ir-theme-->",
+  "markdown": "# BetterMe: Health Coaching · Fitness\n\nGenerated: Aug 22, 2026, 3:57 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      6 recent review(s) mention bugs and stability.\n      Review window: May 23, 2026 - Aug 7, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Sabina Kotiranta_, May 23, 2026, 1/5: \"would be nice if it stops crashing.... Reinstalled it twice now.\"\n            2. _Raik Henke_, Aug 7, 2026, 2/5: \"endlessly keeps crashing\"\n            3. _Bartholomew Lunt_, Jul 23, 2026, 2/5: \"daily work out is good but it keeps crashing and I can't track anything except the daily workout once it actually loads.\"\n<!--/ir-theme-->",
   "nicheSlug": "fitness",
   "type": "app"
 }

@@ -1,10 +1,10 @@
 {
   "appId": "2167752e-b197-4dfd-94cd-6ee73317cf56",
-  "appIndex": 10,
+  "appIndex": 11,
   "appName": "BetterMe: Health Coaching",
-  "generatedAt": "2026-08-20T22:56:54.146Z",
+  "generatedAt": "2026-08-21T22:57:25.296Z",
   "locale": "de",
-  "markdown": "# BetterMe: Health Coaching · Fitness\n\nErstellt: 21.08.2026, 03:57\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      6 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 23.05.2026 - 07.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Sabina Kotiranta_, 23.05.2026, 1/5: \"Es wäre schön, wenn es nicht mehr abstürzt. Habe es jetzt zweimal neu installiert.\"\n            2. _Raik Henke_, 07.08.2026, 2/5: \"stürzt ständig ab\"\n            3. _Bartholomew Lunt_, 23.07.2026, 2/5: \"Das tägliche Training ist gut, aber es stürzt ständig ab und ich kann nichts außer dem täglichen Training verfolgen, sobald es tatsächlich geladen wird.\"\n<!--/ir-theme-->",
+  "markdown": "# BetterMe: Health Coaching · Fitness\n\nErstellt: 22.08.2026, 03:57\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      6 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 23.05.2026 - 07.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Sabina Kotiranta_, 23.05.2026, 1/5: \"Es wäre schön, wenn es nicht mehr abstürzt. Habe es jetzt zweimal neu installiert.\"\n            2. _Raik Henke_, 07.08.2026, 2/5: \"stürzt ständig ab\"\n            3. _Bartholomew Lunt_, 23.07.2026, 2/5: \"Das tägliche Training ist gut, aber es stürzt ständig ab und ich kann nichts außer dem täglichen Training verfolgen, sobald es tatsächlich geladen wird.\"\n<!--/ir-theme-->",
   "nicheSlug": "fitness",
   "type": "app"
 }

@@ -1,0 +1,10 @@
+{
+  "appId": "94743654-9313-4e78-8832-7be8c1395617",
+  "appIndex": 15,
+  "appName": "TickTick",
+  "generatedAt": "2026-08-21T22:56:28.369Z",
+  "locale": "fr",
+  "markdown": "# TickTick · Productivité\n\nGénéré : 22 août 2026, 03:56\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      3 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 16 août 2026 - 21 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Asa Whitley (AW)_, 18 août 2026, 3/5: \"Un peu maladroit et buggé. À l'heure actuelle, il existe un problème où le piégeage des notifications ou l'option de répétition des notifications ne fait rien. De plus, c'est assez cher pour une application de liste de tâches.\"\n            2. _Vijay Gala_, 21 août 2026, 4/5: \"bonne application à faire. Le langage naturel présente parfois des problèmes, mais dans l'ensemble, il est riche en fonctionnalités. ma fonctionnalité préférée, créer des tâches via un message Telegram\"\n            3. _Rob Weir_, 16 août 2026, 4/5: \"Problème : Le widget Ajouter une tâche a cessé de fonctionner après la dernière mise à jour. Rien ne se passe lorsque vous appuyez dessus. Sinon, j'adore le programme.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

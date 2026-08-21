@@ -1,0 +1,10 @@
+{
+  "appId": "94743654-9313-4e78-8832-7be8c1395617",
+  "appIndex": 15,
+  "appName": "TickTick",
+  "generatedAt": "2026-08-21T22:56:01.122Z",
+  "locale": "es",
+  "markdown": "# TickTick · Productividad\n\nGenerado: 22 ago 2026, 3:56\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      3 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 16 ago 2026 - 21 ago 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _Asa Whitley (AW)_, 18 ago 2026, 3/5: \"Un poco torpe y con errores. En este momento existe un problema por el cual bloquear las notificaciones o la opción de repetición de notificaciones no hace nada. Además, es bastante caro para una aplicación de lista de tareas pendientes.\"\n            2. _Vijay Gala_, 21 ago 2026, 4/5: \"buena aplicación de tareas pendientes. El lenguaje natural falla a veces, pero en general tiene muchas funciones. Mi característica favorita, crear tareas a través de mensajes de Telegram.\"\n            3. _Rob Weir_, 16 ago 2026, 4/5: \"Problema: El widget Agregar tarea dejó de funcionar después de la última actualización. No pasa nada cuando lo tocas. Por lo demás, me encanta el programa.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
