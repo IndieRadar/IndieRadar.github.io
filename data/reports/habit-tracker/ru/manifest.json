@@ -11,18 +11,18 @@
       "number": 2
     },
     {
-      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
-      "name": "Finch",
+      "id": "6f723cc0-62f3-4cc5-94a3-6ea645acae2c",
+      "name": "Gewohnheiten Tracker",
       "number": 3
-    },
-    {
-      "id": "aa7680a1-b563-4bc6-b174-e189a7eb830c",
-      "name": "Habit Tracker - Habit Diary",
-      "number": 4
     },
     {
       "id": "ed7b90ce-7a42-48d6-b7d5-b8d6b5ae83b5",
       "name": "Habit Tracker, Routine Planner",
+      "number": 4
+    },
+    {
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch",
       "number": 5
     },
     {
@@ -41,8 +41,8 @@
       "number": 8
     },
     {
-      "id": "a871684c-de17-4231-b571-53c71c488fa0",
-      "name": "Atoms - from Atomic Habits",
+      "id": "63977758-3637-4bd1-8a9b-49c154cfdb99",
+      "name": "HabitTick-Habit Tracker & Todo",
       "number": 9
     },
     {
@@ -51,8 +51,8 @@
       "number": 10
     },
     {
-      "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
-      "name": "HabitTick",
+      "id": "a871684c-de17-4231-b571-53c71c488fa0",
+      "name": "Atoms - from Atomic Habits",
       "number": 11
     },
     {
@@ -61,7 +61,7 @@
       "number": 12
     },
     {
-      "id": "ef6da155-414e-4acf-9688-dabb0ae37bc1",
+      "id": "5715926d-bf7f-4855-9fd9-cd8ce019916d",
       "name": "Habitify",
       "number": 13
     },
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-21T22:56:30.235Z",
+  "generatedAt": "2026-08-24T11:50:32.660Z",
   "locale": "ru",
   "nicheSlug": "habit-tracker"
 }

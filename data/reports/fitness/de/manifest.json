@@ -1,23 +1,23 @@
 {
   "apps": [
     {
-      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
       "name": "MyFitnessPal",
       "number": 1
     },
     {
-      "id": "8c96733f-429a-4412-8617-dfce9931e307",
-      "name": "MyFitnessPal: Calorie Counter",
+      "id": "098c4f69-ad1b-4689-b30d-1894cee3661c",
+      "name": "Lasta",
       "number": 2
+    },
+    {
+      "id": "a69edb20-54f9-4768-88b4-32def12393e1",
+      "name": "Exercícios",
+      "number": 3
     },
     {
       "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
       "name": "ClassPass: Fitness, Spa, Salon",
-      "number": 3
-    },
-    {
-      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
-      "name": "Planet Fitness",
       "number": 4
     },
     {
@@ -26,18 +26,18 @@
       "number": 5
     },
     {
-      "id": "b9aa7d2b-ba0b-422f-a043-8a8667076448",
-      "name": "Lasta Fit",
+      "id": "1a7f9a3a-1579-46ec-a929-6c9f944c50d9",
+      "name": "Fit",
       "number": 6
     },
     {
-      "id": "b2dd02be-185c-4672-8e39-ef1e7df86286",
-      "name": "Freeletics: Fitness Workouts",
+      "id": "1be8af53-53c7-4065-96f6-7c71ad9ce67f",
+      "name": "Sweat",
       "number": 7
     },
     {
-      "id": "e3f45335-8879-42af-a546-ecd78820856f",
-      "name": "Workouts",
+      "id": "5a5cb5ab-9d02-402d-9cbf-499a655dad77",
+      "name": "Fitify",
       "number": 8
     },
     {
@@ -66,17 +66,17 @@
       "number": 13
     },
     {
-      "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
-      "name": "Mi Fitness (Xiaomi Wear Lite)",
+      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
+      "name": "Planet Fitness",
       "number": 14
     },
     {
-      "id": "a792a64d-bca9-4a96-8e5d-ace97f0e77e6",
-      "name": "Fitness App",
+      "id": "74a0a93b-b0b6-4176-83ea-d986aa377594",
+      "name": "ASICS",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-21T22:57:25.296Z",
+  "generatedAt": "2026-08-24T11:51:01.829Z",
   "locale": "de",
   "nicheSlug": "fitness"
 }

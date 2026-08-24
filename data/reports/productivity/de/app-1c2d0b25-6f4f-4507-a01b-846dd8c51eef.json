@@ -1,10 +1,10 @@
 {
   "appId": "1c2d0b25-6f4f-4507-a01b-846dd8c51eef",
-  "appIndex": 1,
+  "appIndex": 3,
   "appName": "Google Keep",
-  "generatedAt": "2026-08-21T22:56:01.343Z",
+  "generatedAt": "2026-08-24T11:50:17.116Z",
   "locale": "de",
-  "markdown": "# Google Keep · Produktivität\n\nErstellt: 22.08.2026, 03:56\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      12 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 28.05.2026 - 31.07.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Wilber2K_, 31.07.2026, 1/5: \"Auf einem mobilen Apple-Produkt kann ich nicht einmal Text formatieren. Außerdem ist die App regelmäßig fehlerhaft und spart keine Arbeit.\"\n            2. _Laouch_, 18.07.2026, 1/5: \"Wir befinden uns im Jahr 2026. Wie kommt es, dass diese App immer noch so langsam und schwer ist? Wenn ich 2 GB Notizen auf meinem Telefon haben wollte, würde ich keinen Cloud-Dienst nutzen.\"\n            3. _NuggetofWisdom_, 28.06.2026, 1/5: \"Die Tastatur wird zufällig geschlossen, unabhängig davon, ob ich gerade tippe oder nicht, während ich diese App verwende. Diese App ist so fehlerhaft. Bitte beheben. Es ist schwierig, dieses Problem zu lösen.\"\n<!--/ir-theme-->",
+  "markdown": "# Google Keep · Produktivität\n\nErstellt: 24.08.2026, 16:50\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      12 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 28.05.2026 - 31.07.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Wilber2K_, 31.07.2026, 1/5: \"On a mobile Apple product, I can’t even format text. The app is also regularly buggy and does not save work.\"\n            2. _Laouch_, 18.07.2026, 1/5: \"We are in 2026 how come this app is still so slow and heavy ? If I wanted to have 2gb of notes in my phone I wouldn’t use a cloud service.\"\n            3. _NuggetofWisdom_, 28.06.2026, 1/5: \"Keyboard randomly closes whether I’m mid-typing or not while using this app. This app is so buggy. Please fix. It’s difficult to get anything done with this issue.\"\n<!--/ir-theme-->",
   "nicheSlug": "productivity",
   "type": "app"
 }

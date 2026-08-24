@@ -1,0 +1,10 @@
+{
+  "appId": "32a379c1-4381-4f2b-8f45-b25826d980a2",
+  "appIndex": 1,
+  "appName": "Opal",
+  "generatedAt": "2026-08-24T11:50:17.696Z",
+  "locale": "en",
+  "markdown": "# Opal · Productivity\n\nGenerated: Aug 24, 2026, 4:50 PM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      18 recent review(s) mention bugs and stability.\n      Review window: Jun 8, 2026 - Aug 21, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _C0NN0RAD0_, Aug 21, 2026, 1/5: \"I used to really love opal but the last few months it’s went really down hill and very buggy, I often find it not locking apps at the end of breaks, certain rules not staying paused or reset despite asking them to be reset or paused for xyz time, the app frequently freezing. I can no longer rely on it to reliably enforce screen time and habits.\"\n            2. _f_hooper_, Aug 16, 2026, 1/5: \"So disappointed by the new update, used to use this app all the time and it was so helpful; now it's unusable and cash-grabby. Will be deleting and trying something else.\"\n            3. _S.ley1'_, Aug 4, 2026, 1/5: \"The app glitches. Sometimes it blocks outside block moments and then doesn't unblock or the app completely malfunctions.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

@@ -1,6 +1,6 @@
 // Public anon key is OK here (RLS + email RPCs only).
-// Copy values from Supabase → Settings → API, then redeploy Pages.
+// API: VPS PostgREST via sslip mirror (local Postgres after Supabase migration).
 window.IndieRadarEmailConfig = {
-  supabaseUrl: "https://iwlhszxnsyxkcntqnvwg.supabase.co",
-  supabaseAnonKey: "sb_publishable_jKNCBBfKvVHKieVc26PGjw_QwTz-Sd8"
+  supabaseUrl: "https://128-140-50-104.sslip.io",
+  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJpbmRpZXJhZGFyLWxvY2FsIiwiaWF0IjoxNzg3NDA0MjQ0LCJleHAiOjIxMDI3NjQyNDQsInJvbGUiOiJhbm9uIn0.DipjLCMZRvQqPPZmDfDAM-Ys4LUxHfdM6UthTYZpNlc"
 };
