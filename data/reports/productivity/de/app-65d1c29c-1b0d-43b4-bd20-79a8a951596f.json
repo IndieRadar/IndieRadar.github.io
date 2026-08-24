@@ -1,10 +1,10 @@
 {
   "appId": "65d1c29c-1b0d-43b4-bd20-79a8a951596f",
-  "appIndex": 10,
+  "appIndex": 11,
   "appName": "Microsoft To Do",
-  "generatedAt": "2026-08-24T11:50:17.116Z",
+  "generatedAt": "2026-08-24T22:08:22.722Z",
   "locale": "de",
-  "markdown": "# Microsoft To Do · Produktivität\n\nErstellt: 24.08.2026, 16:50\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      5 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 29.05.2026 - 12.07.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Isemran_, 09.07.2026, 1/5: \"Keeps crashing on both my iPhone and iPad. Tried many time contacting Microsoft but there was no response. Too bad\"\n            2. _JLSW623_, 10.06.2026, 3/5: \"It crashes on me when I try to start a new list. And I have lost tasks when moving to a new list. Poof. Just gone. So now I have to screenshot before moving just in case. Otherwise it’s great!\"\n<!--/ir-theme-->",
+  "markdown": "# Microsoft To Do · Produktivität\n\nErstellt: 25.08.2026, 03:08\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      5 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 29.05.2026 - 12.07.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Isemran_, 09.07.2026, 1/5: \"Keeps crashing on both my iPhone and iPad. Tried many time contacting Microsoft but there was no response. Too bad\"\n            2. _JLSW623_, 10.06.2026, 3/5: \"It crashes on me when I try to start a new list. And I have lost tasks when moving to a new list. Poof. Just gone. So now I have to screenshot before moving just in case. Otherwise it’s great!\"\n<!--/ir-theme-->",
   "nicheSlug": "productivity",
   "type": "app"
 }

@@ -16,67 +16,67 @@
       "number": 3
     },
     {
+      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+      "name": "MyFitnessPal",
+      "number": 4
+    },
+    {
       "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
       "name": "ClassPass: Fitness, Spa, Salon",
-      "number": 4
+      "number": 5
     },
     {
       "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
       "name": "Samsung Health",
-      "number": 5
+      "number": 6
     },
     {
       "id": "1a7f9a3a-1579-46ec-a929-6c9f944c50d9",
       "name": "Fit",
-      "number": 6
+      "number": 7
     },
     {
       "id": "1be8af53-53c7-4065-96f6-7c71ad9ce67f",
       "name": "Sweat",
-      "number": 7
+      "number": 8
     },
     {
       "id": "5a5cb5ab-9d02-402d-9cbf-499a655dad77",
       "name": "Fitify",
-      "number": 8
+      "number": 9
     },
     {
       "id": "4f1dabc5-33df-4817-bf86-4058354f815c",
       "name": "Strong Workout Tracker",
-      "number": 9
+      "number": 10
     },
     {
       "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
       "name": "Google Health (Fitbit)",
-      "number": 10
+      "number": 11
     },
     {
       "id": "2167752e-b197-4dfd-94cd-6ee73317cf56",
       "name": "BetterMe: Health Coaching",
-      "number": 11
+      "number": 12
     },
     {
       "id": "54b79b3b-c2e9-4b01-bce5-794f8968563f",
       "name": "Strava",
-      "number": 12
+      "number": 13
     },
     {
       "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
       "name": "Fitness App",
-      "number": 13
+      "number": 14
     },
     {
       "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
       "name": "Planet Fitness",
-      "number": 14
-    },
-    {
-      "id": "74a0a93b-b0b6-4176-83ea-d986aa377594",
-      "name": "ASICS",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-24T11:50:59.099Z",
+  "generatedAt": "2026-08-24T22:09:02.645Z",
   "locale": "es",
   "nicheSlug": "fitness"
 }
