@@ -1,0 +1,10 @@
+{
+  "appId": "24d01c9a-2660-410f-9219-7cc462e83735",
+  "appIndex": 12,
+  "appName": "Save Notes",
+  "generatedAt": "2026-08-25T22:09:53.955Z",
+  "locale": "en",
+  "markdown": "# Save Notes · Productivity\n\nGenerated: Aug 26, 2026, 3:10 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      4 recent review(s) mention bugs and stability.\n      Review window: Jun 26, 2026 - Aug 24, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Syrus54_, Aug 24, 2026, 1/5: \"Unusable. You must create a Microsoft account in order to use the stupid thing. don't waste your data downloading this garbage.\"\n            2. _Daniel Loew_, Aug 9, 2026, 1/5: \"Crash beim Login\"\n            3. _Kris Bronz_, Jul 15, 2026, 1/5: \"l'app riscontra un bug e non rimane aperta\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

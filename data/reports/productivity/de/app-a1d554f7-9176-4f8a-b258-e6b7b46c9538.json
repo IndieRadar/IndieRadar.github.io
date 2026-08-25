@@ -1,0 +1,10 @@
+{
+  "appId": "a1d554f7-9176-4f8a-b258-e6b7b46c9538",
+  "appIndex": 13,
+  "appName": "TickTick:To Do List & Calendar",
+  "generatedAt": "2026-08-25T22:09:53.806Z",
+  "locale": "de",
+  "markdown": "# TickTick:To Do List & Calendar · Produktivität\n\nErstellt: 26.08.2026, 03:10\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      4 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 18.08.2026 - 24.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _monkeydoodledonkey_, 24.08.2026, 4/5: \"Hello! The app is flexible, and overall it's really good for beginners who'd like to try To-Do apps.. However, there's a problem I've encountered. I recently accidentally deleted TickTick and when I redownloaded it, the version reverted to the old version where the calendar view, and the pomodoro timer is gone. I've tried to uninstall, and clear the cache inside of play store, thinking it may be a bug--- but it still hasn't worked. Please help me fix this 😓😥\"\n            2. _Hamid Tabatabaei_, 21.08.2026, 4/5: \"It has some issues: 1- It has problems with persian, persian is a right to left language. 2- I think it should be more flexible on documents.\"\n            3. _Vijay Gala_, 21.08.2026, 4/5: \"good to-do app. natural language glitches at times but overall feature rich. my favourite feature, creating tasks through Telegram message\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

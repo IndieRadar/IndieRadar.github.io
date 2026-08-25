@@ -1,0 +1,10 @@
+{
+  "appId": "24d01c9a-2660-410f-9219-7cc462e83735",
+  "appIndex": 12,
+  "appName": "Save Notes",
+  "generatedAt": "2026-08-25T22:10:07.820Z",
+  "locale": "fr",
+  "markdown": "# Save Notes · Productivité\n\nGénéré : 26 août 2026, 03:10\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      4 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 26 juin 2026 - 24 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Syrus54_, 24 août 2026, 1/5: \"Unusable. You must create a Microsoft account in order to use the stupid thing. don't waste your data downloading this garbage.\"\n            2. _Daniel Loew_, 9 août 2026, 1/5: \"Crash beim Login\"\n            3. _Kris Bronz_, 15 juil. 2026, 1/5: \"l'app riscontra un bug e non rimane aperta\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

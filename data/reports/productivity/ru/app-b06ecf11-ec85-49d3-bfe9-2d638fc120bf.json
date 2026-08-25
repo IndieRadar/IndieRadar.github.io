@@ -1,0 +1,10 @@
+{
+  "appId": "b06ecf11-ec85-49d3-bfe9-2d638fc120bf",
+  "appIndex": 1,
+  "appName": "Opal",
+  "generatedAt": "2026-08-25T22:09:54.348Z",
+  "locale": "ru",
+  "markdown": "# Opal · Продуктивность\n\nСформировано: 26 авг. 2026 г., 03:09\n\n## **Содержание** {#toc}\n\n- [Баги и стабильность](#theme-bugs_stability)\n\n\n## **Баги и стабильность** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Баги и стабильность.**\n      18 свежих отзыв(ов) упоминают: баги и стабильность.\n      Период отзывов: 8 июн. 2026 г. - 23 авг. 2026 г.\n      **Что это значит:** Пользователи упоминают краши или нестабильность. Это actionable только при всплеске или после обновления; иначе часто baseline-шум.\n\n         **Примеры отзывов:**\n            1. _Tee00077_, 23 авг. 2026 г., 1/5: \"Genuinely use to be a game changing app but now it’s incredibly buggy to the point where I reset my 15 min limit EIGHT TIMES in a row to access an app. Absolutely tragic and given this only happened post major update I can’t imagine it isn’t intentional. Shame on them.\"\n            2. _Bill_The_Window_Man_, 21 авг. 2026 г., 1/5: \"This app is borderline unusable now it get worse every update, the UI becomes worse to use, core features harder to access, whole app is slower.\"\n            3. _C0NN0RAD0_, 21 авг. 2026 г., 1/5: \"I used to really love opal but the last few months it’s went really down hill and very buggy, I often find it not locking apps at the end of breaks, certain rules not staying paused or reset despite asking them to be reset or paused for xyz time, the app frequently freezing. I can no longer rely on it to reliably enforce screen time and habits.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
