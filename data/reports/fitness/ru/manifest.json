@@ -1,33 +1,33 @@
 {
   "apps": [
     {
-      "id": "098c4f69-ad1b-4689-b30d-1894cee3661c",
-      "name": "Lasta",
-      "number": 1
-    },
-    {
       "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
       "name": "MyFitnessPal",
-      "number": 2
+      "number": 1
     },
     {
       "id": "a69edb20-54f9-4768-88b4-32def12393e1",
       "name": "Exercícios",
-      "number": 3
+      "number": 2
     },
     {
       "id": "5a5cb5ab-9d02-402d-9cbf-499a655dad77",
       "name": "Fitify",
-      "number": 4
+      "number": 3
     },
     {
       "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
       "name": "MyFitnessPal",
+      "number": 4
+    },
+    {
+      "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
+      "name": "BetterMe",
       "number": 5
     },
     {
-      "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
-      "name": "ClassPass: Fitness, Spa, Salon",
+      "id": "098c4f69-ad1b-4689-b30d-1894cee3661c",
+      "name": "Lasta",
       "number": 6
     },
     {
@@ -36,28 +36,28 @@
       "number": 7
     },
     {
-      "id": "1a7f9a3a-1579-46ec-a929-6c9f944c50d9",
-      "name": "Fit",
+      "id": "66fd3630-81a1-45cd-bd85-9e4a60a1240d",
+      "name": "Liftoff: Weightlifting Tracker",
       "number": 8
     },
     {
-      "id": "1be8af53-53c7-4065-96f6-7c71ad9ce67f",
-      "name": "Sweat",
+      "id": "9cb541e2-4fc8-4d49-a0b2-14129ab96903",
+      "name": "Lyfta",
       "number": 9
+    },
+    {
+      "id": "1a7f9a3a-1579-46ec-a929-6c9f944c50d9",
+      "name": "Fit",
+      "number": 10
     },
     {
       "id": "4f1dabc5-33df-4817-bf86-4058354f815c",
       "name": "Strong Workout Tracker",
-      "number": 10
+      "number": 11
     },
     {
       "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
       "name": "Google Health (Fitbit)",
-      "number": 11
-    },
-    {
-      "id": "2167752e-b197-4dfd-94cd-6ee73317cf56",
-      "name": "BetterMe: Health Coaching",
       "number": 12
     },
     {
@@ -66,17 +66,17 @@
       "number": 13
     },
     {
-      "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
-      "name": "Fitness App",
+      "id": "74a0a93b-b0b6-4176-83ea-d986aa377594",
+      "name": "ASICS",
       "number": 14
     },
     {
-      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
-      "name": "Planet Fitness",
+      "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
+      "name": "Fitness App",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-25T22:10:24.258Z",
+  "generatedAt": "2026-08-27T22:10:28.983Z",
   "locale": "ru",
   "nicheSlug": "fitness"
 }

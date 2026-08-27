@@ -1,0 +1,10 @@
+{
+  "appId": "9cb541e2-4fc8-4d49-a0b2-14129ab96903",
+  "appIndex": 9,
+  "appName": "Lyfta",
+  "generatedAt": "2026-08-27T22:10:39.846Z",
+  "locale": "es",
+  "markdown": "# Lyfta · Fitness\n\nGenerado: 28 ago 2026, 3:10\n\n## **Contenido** {#toc}\n\n- [Precio y paywall](#theme-pricing_paywall)\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Precio y paywall** {#theme-pricing_paywall}\n\n<!--ir-theme:pricing_paywall-->\n   **Precio y paywall.**\n      1 reseña reciente menciona precio y paywall.\n      Ventana de reseñas: 26 ago 2026 - 26 ago 2026\n      **Por qué importa:** Mencionan precio, suscripciones o paywalls. Puede señalar sensibilidad al pricing en el nicho.\n\n         **Ejemplos de reseñas:**\n            1. _Ivan Ivanoff_, 26 ago 2026, 1/5: \"Hit by a paywall as soon as I install despite claiming it's free ...\"\n<!--/ir-theme-->\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      1 reseña reciente menciona errores y estabilidad.\n      Ventana de reseñas: 13 mar 2026 - 25 ago 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _Kate B_, 25 ago 2026, 2/5: \"doesn't show my previous lifts on any custom exercises.... not sure if this is a bug or what? :(\"\n            2. _Dean Galli_, 17 jul 2026, 2/5: \"is not possible to save workout (add) freezing app\"\n            3. _Renato Neves_, 13 mar 2026, 2/5: \"bom app, uso a 2 anos, mas essas ultimas semanas ele \"apagou\" meus dados e agora não consigo fazer login nem criar uma nova conta. espero que seja um apenas um bug e que consertem logo, gosto muito desse app e realmente não queria parar de usá-lo\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

@@ -11,18 +11,18 @@
       "number": 2
     },
     {
-      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
-      "name": "Finch",
-      "number": 3
-    },
-    {
       "id": "aa7680a1-b563-4bc6-b174-e189a7eb830c",
       "name": "Habit Tracker - Habit Diary",
-      "number": 4
+      "number": 3
     },
     {
       "id": "ed7b90ce-7a42-48d6-b7d5-b8d6b5ae83b5",
       "name": "Habit Tracker, Routine Planner",
+      "number": 4
+    },
+    {
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch",
       "number": 5
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-25T22:10:21.525Z",
+  "generatedAt": "2026-08-27T22:10:26.229Z",
   "locale": "de",
   "nicheSlug": "habit-tracker"
 }

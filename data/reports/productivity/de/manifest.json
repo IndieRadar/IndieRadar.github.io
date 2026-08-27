@@ -26,8 +26,8 @@
       "number": 5
     },
     {
-      "id": "2e705fec-25bb-4cdf-82c0-c91e28166e9d",
-      "name": "Notion",
+      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
+      "name": "Notion: notes, tasks, AI",
       "number": 6
     },
     {
@@ -36,13 +36,13 @@
       "number": 7
     },
     {
-      "id": "260a6071-6db1-4ef4-8f54-72f70369dbf5",
-      "name": "Notebook",
+      "id": "24d01c9a-2660-410f-9219-7cc462e83735",
+      "name": "Save Notes",
       "number": 8
     },
     {
-      "id": "2b82702e-5f81-4570-894a-bba00a55324a",
-      "name": "Focustown",
+      "id": "260a6071-6db1-4ef4-8f54-72f70369dbf5",
+      "name": "Notebook",
       "number": 9
     },
     {
@@ -51,13 +51,13 @@
       "number": 10
     },
     {
-      "id": "65d1c29c-1b0d-43b4-bd20-79a8a951596f",
-      "name": "Microsoft To Do",
+      "id": "2b82702e-5f81-4570-894a-bba00a55324a",
+      "name": "Focustown",
       "number": 11
     },
     {
-      "id": "24d01c9a-2660-410f-9219-7cc462e83735",
-      "name": "Save Notes",
+      "id": "65d1c29c-1b0d-43b4-bd20-79a8a951596f",
+      "name": "Microsoft To Do",
       "number": 12
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-25T22:09:53.806Z",
+  "generatedAt": "2026-08-27T22:09:58.794Z",
   "locale": "de",
   "nicheSlug": "productivity"
 }
