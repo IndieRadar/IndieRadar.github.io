@@ -1,0 +1,10 @@
+{
+  "appId": "e412b722-5421-4175-9f13-ac1c247f90ec",
+  "appIndex": 7,
+  "appName": "Trello: Daily Task Tracker",
+  "generatedAt": "2026-08-28T22:09:38.140Z",
+  "locale": "de",
+  "markdown": "# Trello: Daily Task Tracker · Produktivität\n\nErstellt: 29.08.2026, 03:09\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      8 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 12.05.2026 - 03.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _njbrandon_, 03.08.2026, 2/5: \"Interactions 😔 for notes do not work. Reached out to fix but no response. When the little face icon is selected to bring up intersections for a note, shows “No results found” so need to reply instead. Also when notification is selected, doesn’t always open the task card. Few months back this was totally broken but eventually was fixed but now it’s sometimes broken. Progress\"\n            2. _JadedMind_, 23.07.2026, 2/5: \"I can no longer log into this app on my phone, which makes it useless. No matter what I click, including contacting support, I get a message saying it can’t connect to the server. I don’t have this issue with any other app on my phone.\"\n            3. _guymanstuff_, 09.07.2026, 3/5: \"Can you please list in the release notes what you are actually fixing instead of just “we are making the app awesome for you” or “bye bye bugs”?\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

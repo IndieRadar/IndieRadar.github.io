@@ -1,10 +1,10 @@
 {
   "appId": "24d01c9a-2660-410f-9219-7cc462e83735",
-  "appIndex": 8,
+  "appIndex": 10,
   "appName": "Save Notes",
-  "generatedAt": "2026-08-27T22:09:58.794Z",
+  "generatedAt": "2026-08-28T22:09:38.140Z",
   "locale": "de",
-  "markdown": "# Save Notes · Produktivität\n\nErstellt: 28.08.2026, 03:10\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      6 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 26.06.2026 - 26.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _John Kevin Yao_, 26.08.2026, 1/5: \"one note sync issue, i should not use this app, there is no way to retrieve all my data :( i wish i should have not trusted you guys from the start its my biggest regret :(\"\n            2. _Syrus54_, 24.08.2026, 1/5: \"Unusable. You must create a Microsoft account in order to use the stupid thing. don't waste your data downloading this garbage.\"\n            3. _Daniel Loew_, 09.08.2026, 1/5: \"Crash beim Login\"\n<!--/ir-theme-->",
+  "markdown": "# Save Notes · Produktivität\n\nErstellt: 29.08.2026, 03:09\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      5 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 26.06.2026 - 26.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _John Kevin Yao_, 26.08.2026, 1/5: \"one note sync issue, i should not use this app, there is no way to retrieve all my data :( i wish i should have not trusted you guys from the start its my biggest regret :(\"\n            2. _Syrus54_, 24.08.2026, 1/5: \"Unusable. You must create a Microsoft account in order to use the stupid thing. don't waste your data downloading this garbage.\"\n            3. _Daniel Loew_, 09.08.2026, 1/5: \"Crash beim Login\"\n<!--/ir-theme-->",
   "nicheSlug": "productivity",
   "type": "app"
 }

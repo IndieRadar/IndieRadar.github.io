@@ -6,33 +6,33 @@
       "number": 1
     },
     {
-      "id": "a69edb20-54f9-4768-88b4-32def12393e1",
-      "name": "Exercícios",
-      "number": 2
-    },
-    {
       "id": "5a5cb5ab-9d02-402d-9cbf-499a655dad77",
       "name": "Fitify",
-      "number": 3
+      "number": 2
     },
     {
       "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
       "name": "MyFitnessPal",
-      "number": 4
+      "number": 3
     },
     {
       "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
       "name": "BetterMe",
-      "number": 5
+      "number": 4
     },
     {
-      "id": "098c4f69-ad1b-4689-b30d-1894cee3661c",
-      "name": "Lasta",
-      "number": 6
+      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
+      "name": "Fitbod Workout & Gym Planner",
+      "number": 5
     },
     {
       "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
       "name": "Samsung Health",
+      "number": 6
+    },
+    {
+      "id": "098c4f69-ad1b-4689-b30d-1894cee3661c",
+      "name": "Lasta",
       "number": 7
     },
     {
@@ -41,13 +41,13 @@
       "number": 8
     },
     {
-      "id": "9cb541e2-4fc8-4d49-a0b2-14129ab96903",
-      "name": "Lyfta",
+      "id": "a69edb20-54f9-4768-88b4-32def12393e1",
+      "name": "Exercícios",
       "number": 9
     },
     {
-      "id": "1a7f9a3a-1579-46ec-a929-6c9f944c50d9",
-      "name": "Fit",
+      "id": "9cb541e2-4fc8-4d49-a0b2-14129ab96903",
+      "name": "Lyfta",
       "number": 10
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-27T22:10:39.846Z",
+  "generatedAt": "2026-08-28T22:10:19.225Z",
   "locale": "es",
   "nicheSlug": "fitness"
 }
