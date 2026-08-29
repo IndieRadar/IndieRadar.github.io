@@ -26,18 +26,18 @@
       "number": 5
     },
     {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
-      "number": 6
-    },
-    {
       "id": "098c4f69-ad1b-4689-b30d-1894cee3661c",
       "name": "Lasta",
-      "number": 7
+      "number": 6
     },
     {
       "id": "66fd3630-81a1-45cd-bd85-9e4a60a1240d",
       "name": "Liftoff: Weightlifting Tracker",
+      "number": 7
+    },
+    {
+      "id": "1be8af53-53c7-4065-96f6-7c71ad9ce67f",
+      "name": "Sweat",
       "number": 8
     },
     {
@@ -46,37 +46,37 @@
       "number": 9
     },
     {
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
+      "number": 10
+    },
+    {
       "id": "9cb541e2-4fc8-4d49-a0b2-14129ab96903",
       "name": "Lyfta",
-      "number": 10
+      "number": 11
     },
     {
       "id": "4f1dabc5-33df-4817-bf86-4058354f815c",
       "name": "Strong Workout Tracker",
-      "number": 11
+      "number": 12
     },
     {
       "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
       "name": "Google Health (Fitbit)",
-      "number": 12
+      "number": 13
     },
     {
       "id": "54b79b3b-c2e9-4b01-bce5-794f8968563f",
       "name": "Strava",
-      "number": 13
+      "number": 14
     },
     {
       "id": "74a0a93b-b0b6-4176-83ea-d986aa377594",
       "name": "ASICS",
-      "number": 14
-    },
-    {
-      "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
-      "name": "Fitness App",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-28T22:10:19.225Z",
+  "generatedAt": "2026-08-29T22:10:32.482Z",
   "locale": "es",
   "nicheSlug": "fitness"
 }

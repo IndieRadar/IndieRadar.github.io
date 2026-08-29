@@ -2,9 +2,9 @@
   "appId": "65d1c29c-1b0d-43b4-bd20-79a8a951596f",
   "appIndex": 12,
   "appName": "Microsoft To Do",
-  "generatedAt": "2026-08-28T22:09:37.487Z",
+  "generatedAt": "2026-08-29T22:10:06.795Z",
   "locale": "ru",
-  "markdown": "# Microsoft To Do · Продуктивность\n\nСформировано: 29 авг. 2026 г., 03:09\n\n## **Содержание** {#toc}\n\n- [Баги и стабильность](#theme-bugs_stability)\n\n\n## **Баги и стабильность** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Баги и стабильность.**\n      5 свежих отзыв(ов) упоминают: баги и стабильность.\n      Период отзывов: 29 мая 2026 г. - 12 июл. 2026 г.\n      **Что это значит:** Пользователи упоминают краши или нестабильность. Это actionable только при всплеске или после обновления; иначе часто baseline-шум.\n\n         **Примеры отзывов:**\n            1. _Isemran_, 9 июл. 2026 г., 1/5: \"Keeps crashing on both my iPhone and iPad. Tried many time contacting Microsoft but there was no response. Too bad\"\n            2. _JLSW623_, 10 июн. 2026 г., 3/5: \"It crashes on me when I try to start a new list. And I have lost tasks when moving to a new list. Poof. Just gone. So now I have to screenshot before moving just in case. Otherwise it’s great!\"\n<!--/ir-theme-->",
+  "markdown": "# Microsoft To Do · Продуктивность\n\nСформировано: 30 авг. 2026 г., 03:10\n\n## **Содержание** {#toc}\n\n- [Баги и стабильность](#theme-bugs_stability)\n\n\n## **Баги и стабильность** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Баги и стабильность.**\n      5 свежих отзыв(ов) упоминают: баги и стабильность.\n      Период отзывов: 29 мая 2026 г. - 12 июл. 2026 г.\n      **Что это значит:** Пользователи упоминают краши или нестабильность. Это actionable только при всплеске или после обновления; иначе часто baseline-шум.\n\n         **Примеры отзывов:**\n            1. _Isemran_, 9 июл. 2026 г., 1/5: \"Постоянно вылетает как на iPhone, так и на iPad. Много раз пытался связаться с Microsoft, но ответа не было. Очень жаль\"\n            2. _JLSW623_, 10 июн. 2026 г., 3/5: \"У меня вылетает, когда я пытаюсь начать новый список. А у меня пропали задачи при переходе в новый список. Пуф. Просто ушел. Так что теперь мне нужно на всякий случай сделать снимок экрана перед перемещением. В противном случае это здорово!\"\n<!--/ir-theme-->",
   "nicheSlug": "productivity",
   "type": "app"
 }
