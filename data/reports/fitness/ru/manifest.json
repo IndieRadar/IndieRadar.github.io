@@ -21,13 +21,13 @@
       "number": 4
     },
     {
-      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
-      "name": "Fitbod Workout & Gym Planner",
+      "id": "74a0a93b-b0b6-4176-83ea-d986aa377594",
+      "name": "ASICS",
       "number": 5
     },
     {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
+      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
+      "name": "Fitbod Workout & Gym Planner",
       "number": 6
     },
     {
@@ -56,27 +56,27 @@
       "number": 11
     },
     {
-      "id": "5a5cb5ab-9d02-402d-9cbf-499a655dad77",
-      "name": "Fitify",
-      "number": 12
-    },
-    {
       "id": "4f1dabc5-33df-4817-bf86-4058354f815c",
       "name": "Strong Workout Tracker",
-      "number": 13
+      "number": 12
     },
     {
       "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
       "name": "Google Health (Fitbit)",
-      "number": 14
+      "number": 13
     },
     {
       "id": "54b79b3b-c2e9-4b01-bce5-794f8968563f",
       "name": "Strava",
+      "number": 14
+    },
+    {
+      "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
+      "name": "Fitness App",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-30T22:09:48.014Z",
+  "generatedAt": "2026-08-31T22:09:34.370Z",
   "locale": "ru",
   "nicheSlug": "fitness"
 }

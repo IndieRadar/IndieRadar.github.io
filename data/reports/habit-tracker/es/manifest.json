@@ -26,57 +26,57 @@
       "number": 5
     },
     {
-      "id": "80dc7194-e1fb-484e-8e65-c49d40df7be5",
-      "name": "TickTick",
-      "number": 6
-    },
-    {
       "id": "830db64a-7f9e-4fc5-b294-c754641ad955",
       "name": "Fabulous: Daily Habit Tracker",
-      "number": 7
+      "number": 6
     },
     {
       "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
       "name": "Tiimo: Daily To Do List",
-      "number": 8
+      "number": 7
     },
     {
       "id": "661356d0-48a9-4d04-a931-ac2e9e6d3cb0",
       "name": "Habitify: Habit Tracker",
-      "number": 9
+      "number": 8
     },
     {
       "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
       "name": "HabitTick",
-      "number": 10
+      "number": 9
     },
     {
       "id": "451af485-4e57-456a-b0bc-61d948f71749",
       "name": "Habit Tracker - HabitKit",
-      "number": 11
+      "number": 10
     },
     {
       "id": "a871684c-de17-4231-b571-53c71c488fa0",
       "name": "Atoms - from Atomic Habits",
-      "number": 12
+      "number": 11
     },
     {
       "id": "8abfc268-acfd-41b8-a937-0c315f34a8db",
       "name": "(Not Boring) Habits",
-      "number": 13
+      "number": 12
     },
     {
       "id": "ef6da155-414e-4acf-9688-dabb0ae37bc1",
       "name": "Habitify",
+      "number": 13
+    },
+    {
+      "id": "03787cfb-7721-4edf-a4a4-69d16dd31297",
+      "name": "Daily Planner routine",
       "number": 14
     },
     {
-      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
-      "name": "Habit Tracker",
+      "id": "1d5d7a64-dbfa-441b-a010-4baea72aaa94",
+      "name": "Mood Tracker",
       "number": 15
     }
   ],
-  "generatedAt": "2026-08-30T22:09:38.441Z",
+  "generatedAt": "2026-08-31T22:09:25.766Z",
   "locale": "es",
   "nicheSlug": "habit-tracker"
 }
