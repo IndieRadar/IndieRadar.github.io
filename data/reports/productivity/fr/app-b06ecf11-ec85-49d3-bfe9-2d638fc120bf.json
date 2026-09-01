@@ -1,0 +1,10 @@
+{
+  "appId": "b06ecf11-ec85-49d3-bfe9-2d638fc120bf",
+  "appIndex": 1,
+  "appName": "Opal",
+  "generatedAt": "2026-09-01T22:09:35.231Z",
+  "locale": "fr",
+  "markdown": "# Opal · Productivité\n\nGénéré : 2 sept. 2026, 03:09\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      21 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 8 juin 2026 - 31 août 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Rehder-_, 28 août 2026, 1/5: \"Bloque constamment l'application juste après avoir réinitialisé les règles. J'ai eu une séquence de plus d'un an et j'ai remarqué ce bug tout au long de mon utilisation, mais cela ne s'est jamais produit plus d'une fois par jour. Aujourd'hui, j'ai finalement décidé de supprimer cette application, après avoir réinitialisé la règle de blocage plus de 8x en 5 minutes. Si vous envisagez d'avoir une application qui bloque une application, faites-la bien. Ne recommande pas.\"\n            2. _areid01_, 28 août 2026, 1/5: \"Il traîne, plante et les verrous ne fonctionnent plus aussi souvent. C'est dommage car c'était une super application\"\n            3. _Mugensai_, 27 août 2026, 1/5: \"J’ai fait le questionnaire puis une fois les limites de temps d’écran choisis l’appli crash et ne peut être ouverte. Donc apr avoir installé l’app je n’ai pas pu l’utiliser.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
