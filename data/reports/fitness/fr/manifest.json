@@ -1,8 +1,8 @@
 {
   "apps": [
     {
-      "id": "a69edb20-54f9-4768-88b4-32def12393e1",
-      "name": "Exercícios",
+      "id": "3e17e1cb-1fa1-4a5d-b57b-8f086e20a7e8",
+      "name": "Domácí cvičení",
       "number": 1
     },
     {
@@ -26,57 +26,57 @@
       "number": 5
     },
     {
-      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
-      "name": "Fitbod Workout & Gym Planner",
+      "id": "a792a64d-bca9-4a96-8e5d-ace97f0e77e6",
+      "name": "Fitness App",
       "number": 6
     },
     {
-      "id": "74a0a93b-b0b6-4176-83ea-d986aa377594",
-      "name": "ASICS",
+      "id": "b2dd02be-185c-4672-8e39-ef1e7df86286",
+      "name": "Freeletics: Fitness Workouts",
       "number": 7
     },
     {
-      "id": "66fd3630-81a1-45cd-bd85-9e4a60a1240d",
-      "name": "Liftoff: Weightlifting Tracker",
+      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
+      "name": "Fitbod Workout & Gym Planner",
       "number": 8
+    },
+    {
+      "id": "313ac44d-59d1-44ff-81dd-18d71f74a6c9",
+      "name": "Google Fit",
+      "number": 9
+    },
+    {
+      "id": "634a6723-07ea-4e23-85fc-311f0ba43862",
+      "name": "Lasta",
+      "number": 10
     },
     {
       "id": "1be8af53-53c7-4065-96f6-7c71ad9ce67f",
       "name": "Sweat",
-      "number": 9
-    },
-    {
-      "id": "9cb541e2-4fc8-4d49-a0b2-14129ab96903",
-      "name": "Lyfta",
-      "number": 10
+      "number": 11
     },
     {
       "id": "4f1dabc5-33df-4817-bf86-4058354f815c",
       "name": "Strong Workout Tracker",
-      "number": 11
+      "number": 12
     },
     {
       "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
       "name": "Google Health (Fitbit)",
-      "number": 12
+      "number": 13
     },
     {
       "id": "54b79b3b-c2e9-4b01-bce5-794f8968563f",
       "name": "Strava",
-      "number": 13
+      "number": 14
     },
     {
       "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
       "name": "Mi Fitness (Xiaomi Wear Lite)",
-      "number": 14
-    },
-    {
-      "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
-      "name": "Fitness App",
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-01T22:09:58.400Z",
+  "generatedAt": "2026-09-02T22:10:14.241Z",
   "locale": "fr",
   "nicheSlug": "fitness"
 }

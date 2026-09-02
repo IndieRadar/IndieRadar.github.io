@@ -21,33 +21,33 @@
       "number": 4
     },
     {
-      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
-      "name": "Finch",
-      "number": 5
-    },
-    {
       "id": "80dc7194-e1fb-484e-8e65-c49d40df7be5",
       "name": "TickTick",
-      "number": 6
+      "number": 5
     },
     {
       "id": "830db64a-7f9e-4fc5-b294-c754641ad955",
       "name": "Fabulous: Daily Habit Tracker",
-      "number": 7
+      "number": 6
     },
     {
       "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
       "name": "Tiimo: Daily To Do List",
-      "number": 8
+      "number": 7
     },
     {
       "id": "661356d0-48a9-4d04-a931-ac2e9e6d3cb0",
       "name": "Habitify: Habit Tracker",
+      "number": 8
+    },
+    {
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch",
       "number": 9
     },
     {
-      "id": "63977758-3637-4bd1-8a9b-49c154cfdb99",
-      "name": "HabitTick-Habit Tracker & Todo",
+      "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
+      "name": "HabitTick",
       "number": 10
     },
     {
@@ -66,7 +66,7 @@
       "number": 13
     },
     {
-      "id": "50ad1dbd-0cdb-4e82-90e8-184d81e31bce",
+      "id": "ef6da155-414e-4acf-9688-dabb0ae37bc1",
       "name": "Habitify",
       "number": 14
     },
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-01T22:09:37.890Z",
+  "generatedAt": "2026-09-02T22:09:50.245Z",
   "locale": "es",
   "nicheSlug": "habit-tracker"
 }
