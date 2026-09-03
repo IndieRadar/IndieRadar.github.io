@@ -1,0 +1,10 @@
+{
+  "appId": "1a7f9a3a-1579-46ec-a929-6c9f944c50d9",
+  "appIndex": 11,
+  "appName": "Fit",
+  "generatedAt": "2026-09-03T22:10:21.741Z",
+  "locale": "de",
+  "markdown": "# Fit · Fitness\n\nErstellt: 04.09.2026, 03:10\n\n## **Inhalt** {#toc}\n\n- [Werbedruck](#theme-ads)\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Werbedruck** {#theme-ads}\n\n<!--ir-theme:ads-->\n   **Werbedruck.**\n      1 aktuelle Review(s) erwähnen werbedruck.\n      Review-Fenster: 01.09.2026 - 01.09.2026\n      **Warum das zählt:** Nutzer spüren Werbedruck. Das signalisiert Monetarisierungsreibung und eine Öffnung für einen saubereren Wettbewerber.\n\n         **Review-Beispiele:**\n            1. _Marion Elliott_, 01.09.2026, 1/5: \"Die Fitbit-App war absolut in Ordnung. Das, was Sie mir als Fitbit-Benutzer aufgezwungen haben, ist nicht intuitiv, nicht attraktiv, meine Informationen sind nicht leicht zugänglich und es schaltet zu viele Anzeigen für sich. Überhaupt nicht gut.\"\n<!--/ir-theme-->\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      1 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 05.08.2026 - 27.08.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Simon_, 05.08.2026, 1/5: \"gebrochenes Af. Der gesamte Bildschirm wird ewig geladen, wenn die App keine Internetverbindung hat, obwohl ich genau weiß, was sie mir anzeigen soll, aber sie ist einfach UNBENUTZBAR, wenn sie nicht rund um die Uhr über einen Internetzugang verfügt\"\n            2. _Rahul Varma_, 27.08.2026, 4/5: \"Die App zeigt nicht die genauen Daten an, da ich sie mit Schritten zwischen Herzpunkten verglichen habe. Die Screenshots liegen bei. Bitte machen Sie es genauer und präziser, um diesen Fehler zu beheben. Vielen Dank an Google für die Erstellung der integrierten Anwendung.\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

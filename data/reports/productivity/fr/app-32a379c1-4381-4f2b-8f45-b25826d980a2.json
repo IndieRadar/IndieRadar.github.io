@@ -1,0 +1,10 @@
+{
+  "appId": "32a379c1-4381-4f2b-8f45-b25826d980a2",
+  "appIndex": 1,
+  "appName": "Opal",
+  "generatedAt": "2026-09-03T22:09:59.180Z",
+  "locale": "fr",
+  "markdown": "# Opal · Productivité\n\nGénéré : 4 sept. 2026, 03:10\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      21 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 8 juin 2026 - 1 sept. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _zacdasnack_, 1 sept. 2026, 1/5: \"Cette application fonctionnait parfaitement jusqu'à cette récente mise à jour. Une interface utilisateur non optimisée et juste des bugs après bugs. Les applications sont constamment bloquées même après avoir actualisé ou réinitialisé les règles. La nouvelle interface utilisateur semble lente et maladroite et n’est plus conviviale. Ne me lancez pas dans une transition évidente vers une tentative de collecte de plus de données également. J'aurais recommandé cette application il y a un an et dirai maintenant le contraire aux gens.\"\n            2. _areid01_, 28 août 2026, 1/5: \"Il traîne, plante et les verrous ne fonctionnent plus aussi souvent. C'est dommage car c'était une super application\"\n            3. _Mugensai_, 27 août 2026, 1/5: \"J’ai fait le questionnaire puis une fois les limites de temps d’écran choisis l’appli crash et ne peut être ouverte. Donc apr avoir installé l’app je n’ai pas pu l’utiliser.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
