@@ -1,10 +1,10 @@
 {
   "appId": "2c6aee23-fec2-46ad-a66c-b6a01dd5ce45",
-  "appIndex": 10,
+  "appIndex": 9,
   "appName": "Notion: Notes, Tasks, AI",
-  "generatedAt": "2026-09-04T22:08:48.430Z",
+  "generatedAt": "2026-09-05T22:08:56.541Z",
   "locale": "de",
-  "markdown": "# Notion: Notes, Tasks, AI · Produktivität\n\nErstellt: 05.09.2026, 03:08\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      5 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 15.07.2026 - 03.09.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Mr Knox_, 03.09.2026, 1/5: \"Die App ist wahnsinnig fehlerhaft und langsam\"\n            2. _Ray de Guzman_, 01.09.2026, 1/5: \"Es war großartig, bis es wieder stark abstürzte. Kann es aufgrund eines Absturzes nicht verwenden\"\n            3. _chrismathewsjr_, 31.08.2026, 1/5: \"Ich bin schockiert, wie langsam diese App und das Webinterface nach all den Jahren sind. Sie können eine lokal gespeicherte Notes-App immer noch nicht schlagen\"\n<!--/ir-theme-->",
+  "markdown": "# Notion: Notes, Tasks, AI · Produktivität\n\nErstellt: 06.09.2026, 03:09\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      5 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 15.07.2026 - 03.09.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Mr Knox_, 03.09.2026, 1/5: \"the app is glitchy and slow as hell\"\n            2. _Ray de Guzman_, 01.09.2026, 1/5: \"it's was great until it started crashing again a lot. can't use it due to crashing\"\n            3. _chrismathewsjr_, 31.08.2026, 1/5: \"shocked how slow this app and web interface is after all these years. they still can't beat a locally stored Notes app\"\n<!--/ir-theme-->",
   "nicheSlug": "productivity",
   "type": "app"
 }
