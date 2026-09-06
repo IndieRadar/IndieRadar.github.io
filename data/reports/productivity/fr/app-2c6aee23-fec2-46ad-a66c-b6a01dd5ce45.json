@@ -1,10 +1,10 @@
 {
   "appId": "2c6aee23-fec2-46ad-a66c-b6a01dd5ce45",
-  "appIndex": 9,
+  "appIndex": 10,
   "appName": "Notion: Notes, Tasks, AI",
-  "generatedAt": "2026-09-05T22:09:09.601Z",
+  "generatedAt": "2026-09-06T22:09:18.423Z",
   "locale": "fr",
-  "markdown": "# Notion: Notes, Tasks, AI · Productivité\n\nGénéré : 6 sept. 2026, 03:09\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      5 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 15 juil. 2026 - 3 sept. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Mr Knox_, 3 sept. 2026, 1/5: \"the app is glitchy and slow as hell\"\n            2. _Ray de Guzman_, 1 sept. 2026, 1/5: \"it's was great until it started crashing again a lot. can't use it due to crashing\"\n            3. _chrismathewsjr_, 31 août 2026, 1/5: \"shocked how slow this app and web interface is after all these years. they still can't beat a locally stored Notes app\"\n<!--/ir-theme-->",
+  "markdown": "# Notion: Notes, Tasks, AI · Productivité\n\nGénéré : 7 sept. 2026, 03:09\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      5 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 15 juil. 2026 - 3 sept. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Mr Knox_, 3 sept. 2026, 1/5: \"the app is glitchy and slow as hell\"\n            2. _Lilyrose Rousseau_, 17 août 2026, 1/5: \"worst app ever, all it does is lag or just not function at all, I'm only using it ’cause it’s the only app that does what it does, but as soon as I find another one, I'm deleting it\"\n            3. _J A_, 18 juil. 2026, 1/5: \"Unsuable. Copying note from Windows app to Word 1) loses all formatting, inserting weird symbols instead 2) inserts all text as list items. Also bugs 1. if there are no pages inside, expand icon should not be shown 2. removing text from beginning of the page should not switch to page header and remove that text as well. And a bunch of bugs in Windows app\"\n<!--/ir-theme-->",
   "nicheSlug": "productivity",
   "type": "app"
 }

@@ -1,0 +1,10 @@
+{
+  "appId": "b06ecf11-ec85-49d3-bfe9-2d638fc120bf",
+  "appIndex": 1,
+  "appName": "Opal",
+  "generatedAt": "2026-09-06T22:09:04.169Z",
+  "locale": "ru",
+  "markdown": "# Opal · Продуктивность\n\nСформировано: 7 сент. 2026 г., 03:09\n\n## **Содержание** {#toc}\n\n- [Баги и стабильность](#theme-bugs_stability)\n\n\n## **Баги и стабильность** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Баги и стабильность.**\n      24 свежих отзыв(ов) упоминают: баги и стабильность.\n      Период отзывов: 8 июн. 2026 г. - 5 сент. 2026 г.\n      **Что это значит:** Пользователи упоминают краши или нестабильность. Это actionable только при всплеске или после обновления; иначе часто baseline-шум.\n\n         **Примеры отзывов:**\n            1. _lupercaia_, 25 авг. 2026 г., 1/5: \"i really loved it first, but then the app started working worse and worse. first, some blocks that i set up started duplicating - meaning you had to unblock it twice. then some blocks started showing up on wrong times - like block that’s scheduled for weekdays on Saturday. Then unblocking the blocks became very easy and short for whatever reason?? My final straw was just now when I received the very same push notification frim them TEN TIMES IN A ROW. It used to be a great app, but it’s broken now.\"\n            2. _S.ley1'_, 4 авг. 2026 г., 1/5: \"The app glitches. Sometimes it blocks outside block moments and then doesn't unblock or the app completely malfunctions.\"\n            3. _Wvoqfent_, 26 июн. 2026 г., 1/5: \"After the latest update, the app is very slow and does not block the apps even when rules are active. Please fix it!\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

@@ -1,0 +1,10 @@
+{
+  "appId": "b06ecf11-ec85-49d3-bfe9-2d638fc120bf",
+  "appIndex": 1,
+  "appName": "Opal",
+  "generatedAt": "2026-09-06T22:09:04.162Z",
+  "locale": "en",
+  "markdown": "# Opal · Productivity\n\nGenerated: Sep 7, 2026, 3:09 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      24 recent review(s) mention bugs and stability.\n      Review window: Jun 8, 2026 - Sep 5, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _lupercaia_, Aug 25, 2026, 1/5: \"i really loved it first, but then the app started working worse and worse. first, some blocks that i set up started duplicating - meaning you had to unblock it twice. then some blocks started showing up on wrong times - like block that’s scheduled for weekdays on Saturday. Then unblocking the blocks became very easy and short for whatever reason?? My final straw was just now when I received the very same push notification frim them TEN TIMES IN A ROW. It used to be a great app, but it’s broken now.\"\n            2. _S.ley1'_, Aug 4, 2026, 1/5: \"The app glitches. Sometimes it blocks outside block moments and then doesn't unblock or the app completely malfunctions.\"\n            3. _Wvoqfent_, Jun 26, 2026, 1/5: \"After the latest update, the app is very slow and does not block the apps even when rules are active. Please fix it!\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
