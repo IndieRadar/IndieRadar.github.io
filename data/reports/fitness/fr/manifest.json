@@ -21,8 +21,8 @@
       "number": 4
     },
     {
-      "id": "37ff31d2-1a47-4e19-8d89-cd7c4401e46e",
-      "name": "Fitbod: Gym & Fitness Planner",
+      "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
+      "name": "ClassPass: Fitness, Spa, Salon",
       "number": 5
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-07T22:10:15.514Z",
+  "generatedAt": "2026-09-08T22:09:40.470Z",
   "locale": "fr",
   "nicheSlug": "fitness"
 }

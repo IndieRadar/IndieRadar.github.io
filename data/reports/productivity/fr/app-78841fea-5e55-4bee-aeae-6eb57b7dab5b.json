@@ -1,0 +1,10 @@
+{
+  "appId": "78841fea-5e55-4bee-aeae-6eb57b7dab5b",
+  "appIndex": 10,
+  "appName": "Collabora Office",
+  "generatedAt": "2026-09-08T22:09:21.694Z",
+  "locale": "fr",
+  "markdown": "# Collabora Office · Productivité\n\nGénéré : 9 sept. 2026, 03:09\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      5 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 15 juil. 2026 - 6 sept. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Renee V_, 1 sept. 2026, 1/5: \"Problèmes constants de déconnexion du serveur. tellement frustrant. Je voulais vraiment aimer cette application. Et j’en avais vraiment besoin. J'ai perdu une heure à essayer de surmonter ce problème. Lorsque cela se produit, le fichier est verrouillé.\"\n            2. _Jim_, 15 juil. 2026, 2/5: \"Le format PDF ne figure pas parmi les types de documents pris en charge. De plus, l'application rencontre des problèmes majeurs lors de la fermeture des documents ; Soit cela prend un certain temps pour le faire, soit il se fige complètement et plante. Et lors de l’utilisation de l’application, les pages – même si elles sont déjà chargées correctement et sont toujours visibles via leurs vignettes – deviennent souvent inaccessibles au bout de quelques secondes seulement. Même le défilement manuel n’affiche pas la page individuelle.\"\n            3. _Cringe Guy_, 6 sept. 2026, 3/5: \"L'application nécessite une attention et des soins sérieux. Cela devient inutilisable et ennuyeux. Bugs, plantages et blocages rendant difficile le travail sur cette application. Il s’agit de la seule application Android au format .odf et elle est négligée. C'est triste et décevant.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
