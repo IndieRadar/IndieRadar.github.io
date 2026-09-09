@@ -1,68 +1,68 @@
 {
   "apps": [
     {
-      "id": "a69edb20-54f9-4768-88b4-32def12393e1",
-      "name": "Exercícios",
-      "number": 1
-    },
-    {
       "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
       "name": "MyFitnessPal",
-      "number": 2
+      "number": 1
     },
     {
       "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
       "name": "BetterMe",
-      "number": 3
-    },
-    {
-      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
-      "name": "MyFitnessPal",
-      "number": 4
+      "number": 2
     },
     {
       "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
       "name": "ClassPass: Fitness, Spa, Salon",
-      "number": 5
+      "number": 3
     },
     {
       "id": "098c4f69-ad1b-4689-b30d-1894cee3661c",
       "name": "Lasta",
-      "number": 6
+      "number": 4
     },
     {
-      "id": "a888cbe7-05f6-41a0-9386-a3662b485667",
-      "name": "Mi Fitness (Xiaomi Wear)",
-      "number": 7
+      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
+      "name": "Fitbod Workout & Gym Planner",
+      "number": 5
+    },
+    {
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
+      "number": 6
     },
     {
       "id": "ab2f9235-84e6-40e9-8868-d3d2b91cebfb",
       "name": "Planejador de Treino",
-      "number": 8
+      "number": 7
     },
     {
-      "id": "91421b78-cc0d-4fe9-bbf6-98135cb02b89",
-      "name": "Treino de Academia",
-      "number": 9
+      "id": "a69edb20-54f9-4768-88b4-32def12393e1",
+      "name": "Exercícios",
+      "number": 8
     },
     {
       "id": "5a5cb5ab-9d02-402d-9cbf-499a655dad77",
       "name": "Fitify",
-      "number": 10
+      "number": 9
     },
     {
       "id": "4f1dabc5-33df-4817-bf86-4058354f815c",
       "name": "Strong Workout Tracker",
-      "number": 11
+      "number": 10
     },
     {
       "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
       "name": "Google Health (Fitbit)",
-      "number": 12
+      "number": 11
     },
     {
       "id": "54b79b3b-c2e9-4b01-bce5-794f8968563f",
       "name": "Strava",
+      "number": 12
+    },
+    {
+      "id": "1a7f9a3a-1579-46ec-a929-6c9f944c50d9",
+      "name": "Fit",
       "number": 13
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-08T22:09:32.244Z",
+  "generatedAt": "2026-09-09T22:09:27.896Z",
   "locale": "ru",
   "nicheSlug": "fitness"
 }

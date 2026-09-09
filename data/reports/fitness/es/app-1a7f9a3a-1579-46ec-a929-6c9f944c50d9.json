@@ -1,0 +1,10 @@
+{
+  "appId": "1a7f9a3a-1579-46ec-a929-6c9f944c50d9",
+  "appIndex": 13,
+  "appName": "Fit",
+  "generatedAt": "2026-09-09T22:09:35.795Z",
+  "locale": "es",
+  "markdown": "# Fit · Fitness\n\nGenerado: 10 sept 2026, 3:09\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      5 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 5 ago 2026 - 8 sept 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _Janice E Burnett_, 8 sept 2026, 1/5: \"no rastrear ni sincronizar mi actividad de entrenamiento adecuadamente sin contar mi actividad de entrenamiento. Ya no rastrea mi sueño. muy lento. no sincronizar con mis otras aplicaciones\"\n            2. _pogoBlue account_, 6 sept 2026, 1/5: \"completa aplicación rota\"\n            3. _Simon_, 5 ago 2026, 1/5: \"roto af. toda la pantalla sigue cargándose para siempre cuando la aplicación no tiene Internet, aunque sé exactamente lo que debería mostrarme, pero es INUTILIZABLE si no tiene acceso a Internet las 24 horas, los 7 días de la semana.\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

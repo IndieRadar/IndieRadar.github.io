@@ -31,8 +31,8 @@
       "number": 6
     },
     {
-      "id": "2b82702e-5f81-4570-894a-bba00a55324a",
-      "name": "Focustown",
+      "id": "78841fea-5e55-4bee-aeae-6eb57b7dab5b",
+      "name": "Collabora Office",
       "number": 7
     },
     {
@@ -46,8 +46,8 @@
       "number": 9
     },
     {
-      "id": "78841fea-5e55-4bee-aeae-6eb57b7dab5b",
-      "name": "Collabora Office",
+      "id": "2b82702e-5f81-4570-894a-bba00a55324a",
+      "name": "Focustown",
       "number": 10
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-08T22:09:13.021Z",
+  "generatedAt": "2026-09-09T22:09:10.150Z",
   "locale": "ru",
   "nicheSlug": "productivity"
 }
