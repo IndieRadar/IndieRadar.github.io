@@ -1,0 +1,10 @@
+{
+  "appId": "32a379c1-4381-4f2b-8f45-b25826d980a2",
+  "appIndex": 1,
+  "appName": "Opal",
+  "generatedAt": "2026-09-10T22:09:11.034Z",
+  "locale": "es",
+  "markdown": "# Opal · Productividad\n\nGenerado: 11 sept 2026, 3:09\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      21 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 8 jun 2026 - 8 sept 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _alrightyie_, 7 sept 2026, 1/5: \"La nueva actualización en la que rediseñaron visualmente toda la aplicación hizo que la aplicación fuera muy lenta.\"\n            2. _lupercaia_, 25 ago 2026, 1/5: \"Al principio me encantó, pero luego la aplicación empezó a funcionar cada vez peor. Primero, algunos bloques que configuré comenzaron a duplicarse, lo que significa que tenías que desbloquearlos dos veces. luego, algunos bloques comenzaron a aparecer en horarios equivocados, como un bloque programado para los días laborables del sábado. ¿Entonces desbloquear los bloques se volvió muy fácil y corto por alguna razón? Mi gota que colmó el vaso fue justo ahora cuando recibí la misma notificación automática de ellos DIEZ VECES SEGUIDAS. Solía ​​ser una gran aplicación, pero ahora no funciona.\"\n            3. _S.ley1'_, 4 ago 2026, 1/5: \"La aplicación falla. A veces bloquea momentos fuera del bloque y luego no se desbloquea o la aplicación no funciona correctamente.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

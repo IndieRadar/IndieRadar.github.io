@@ -1,10 +1,10 @@
 {
   "appId": "1a7f9a3a-1579-46ec-a929-6c9f944c50d9",
-  "appIndex": 13,
+  "appIndex": 12,
   "appName": "Fit",
-  "generatedAt": "2026-09-09T22:09:36.799Z",
+  "generatedAt": "2026-09-10T22:09:40.872Z",
   "locale": "de",
-  "markdown": "# Fit · Fitness\n\nErstellt: 10.09.2026, 03:09\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      5 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 05.08.2026 - 08.09.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Janice E Burnett_, 08.09.2026, 1/5: \"Ich verfolge oder synchronisiere meine Trainingsaktivitäten nicht ausreichend und zähle sie nicht. Ich verfolge meinen Schlaf nicht mehr. sehr langsam. Keine Synchronisierung mit meinen anderen Apps\"\n            2. _pogoBlue account_, 06.09.2026, 1/5: \"Komplette kaputte App\"\n            3. _Simon_, 05.08.2026, 1/5: \"gebrochenes Af. Der gesamte Bildschirm wird ewig geladen, wenn die App keine Internetverbindung hat, obwohl ich genau weiß, was sie mir anzeigen soll, aber sie ist einfach UNBENUTZBAR, wenn sie nicht rund um die Uhr über einen Internetzugang verfügt\"\n<!--/ir-theme-->",
+  "markdown": "# Fit · Fitness\n\nErstellt: 11.09.2026, 03:09\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      5 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 05.08.2026 - 08.09.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Janice E Burnett_, 08.09.2026, 1/5: \"Ich verfolge oder synchronisiere meine Trainingsaktivitäten nicht ausreichend und zähle sie nicht. Ich verfolge meinen Schlaf nicht mehr. sehr langsam. Keine Synchronisierung mit meinen anderen Apps\"\n            2. _pogoBlue account_, 06.09.2026, 1/5: \"Komplette kaputte App\"\n            3. _Simon_, 05.08.2026, 1/5: \"gebrochenes Af. Der gesamte Bildschirm wird ewig geladen, wenn die App keine Internetverbindung hat, obwohl ich genau weiß, was sie mir anzeigen soll, aber sie ist einfach UNBENUTZBAR, wenn sie nicht rund um die Uhr über einen Internetzugang verfügt\"\n<!--/ir-theme-->",
   "nicheSlug": "fitness",
   "type": "app"
 }

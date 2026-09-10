@@ -1,10 +1,10 @@
 {
   "appId": "1a7f9a3a-1579-46ec-a929-6c9f944c50d9",
-  "appIndex": 13,
+  "appIndex": 12,
   "appName": "Fit",
-  "generatedAt": "2026-09-09T22:09:29.013Z",
+  "generatedAt": "2026-09-10T22:09:31.605Z",
   "locale": "en",
-  "markdown": "# Fit · Fitness\n\nGenerated: Sep 10, 2026, 3:09 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      5 recent review(s) mention bugs and stability.\n      Review window: Aug 5, 2026 - Sep 8, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Janice E Burnett_, Sep 8, 2026, 1/5: \"not tracking or syncing my adequately not counting my workout activity. no longer tracking my sleeping. very slow. not syncing with my other apps\"\n            2. _pogoBlue account_, Sep 6, 2026, 1/5: \"complete Broken app\"\n            3. _Simon_, Aug 5, 2026, 1/5: \"broken af. the entire screen keeps loading forever when the app has no internet even tho i know exactly what it should be showing me but its just UNUSABLE if it doesmt habe internet Access 24/7\"\n<!--/ir-theme-->",
+  "markdown": "# Fit · Fitness\n\nGenerated: Sep 11, 2026, 3:09 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      5 recent review(s) mention bugs and stability.\n      Review window: Aug 5, 2026 - Sep 8, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Janice E Burnett_, Sep 8, 2026, 1/5: \"not tracking or syncing my adequately not counting my workout activity. no longer tracking my sleeping. very slow. not syncing with my other apps\"\n            2. _pogoBlue account_, Sep 6, 2026, 1/5: \"complete Broken app\"\n            3. _Simon_, Aug 5, 2026, 1/5: \"broken af. the entire screen keeps loading forever when the app has no internet even tho i know exactly what it should be showing me but its just UNUSABLE if it doesmt habe internet Access 24/7\"\n<!--/ir-theme-->",
   "nicheSlug": "fitness",
   "type": "app"
 }
