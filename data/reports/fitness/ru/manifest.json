@@ -1,18 +1,18 @@
 {
   "apps": [
     {
+      "id": "654a8dbb-19be-4bf4-8405-68a8b5bcf9eb",
+      "name": "Plánovač",
+      "number": 1
+    },
+    {
       "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
       "name": "MyFitnessPal",
-      "number": 1
+      "number": 2
     },
     {
       "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
       "name": "BetterMe",
-      "number": 2
-    },
-    {
-      "id": "37ff31d2-1a47-4e19-8d89-cd7c4401e46e",
-      "name": "Fitbod: Gym & Fitness Planner",
       "number": 3
     },
     {
@@ -21,62 +21,62 @@
       "number": 4
     },
     {
-      "id": "098c4f69-ad1b-4689-b30d-1894cee3661c",
-      "name": "Lasta",
+      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
+      "name": "Fitbod Workout & Gym Planner",
       "number": 5
     },
     {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
+      "id": "634a6723-07ea-4e23-85fc-311f0ba43862",
+      "name": "Lasta",
       "number": 6
     },
     {
-      "id": "ab2f9235-84e6-40e9-8868-d3d2b91cebfb",
-      "name": "Planejador de Treino",
+      "id": "12b42b9f-b1ab-47cc-9817-97617abfead8",
+      "name": "Thuis",
       "number": 7
     },
     {
-      "id": "5a5cb5ab-9d02-402d-9cbf-499a655dad77",
-      "name": "Fitify",
+      "id": "3e17e1cb-1fa1-4a5d-b57b-8f086e20a7e8",
+      "name": "Domácí cvičení",
       "number": 8
+    },
+    {
+      "id": "4e4143c1-c040-474b-a1f1-c661d6dbf7fa",
+      "name": "Fitify",
+      "number": 9
     },
     {
       "id": "4f1dabc5-33df-4817-bf86-4058354f815c",
       "name": "Strong Workout Tracker",
-      "number": 9
+      "number": 10
     },
     {
       "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
       "name": "Google Health (Fitbit)",
-      "number": 10
-    },
-    {
-      "id": "54b79b3b-c2e9-4b01-bce5-794f8968563f",
-      "name": "Strava",
       "number": 11
-    },
-    {
-      "id": "1a7f9a3a-1579-46ec-a929-6c9f944c50d9",
-      "name": "Fit",
-      "number": 12
     },
     {
       "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
       "name": "Mi Fitness (Xiaomi Wear Lite)",
+      "number": 12
+    },
+    {
+      "id": "54b79b3b-c2e9-4b01-bce5-794f8968563f",
+      "name": "Strava",
       "number": 13
+    },
+    {
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
+      "number": 14
     },
     {
       "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
       "name": "Fitness App",
-      "number": 14
-    },
-    {
-      "id": "8acfa937-07d3-455d-9429-e93cc6d70462",
-      "name": "Fitness App",
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-10T22:09:31.669Z",
+  "generatedAt": "2026-09-11T22:09:25.406Z",
   "locale": "ru",
   "nicheSlug": "fitness"
 }

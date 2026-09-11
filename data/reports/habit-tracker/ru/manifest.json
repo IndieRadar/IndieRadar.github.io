@@ -61,13 +61,13 @@
       "number": 12
     },
     {
-      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
-      "name": "Habit Tracker",
+      "id": "1d5d7a64-dbfa-441b-a010-4baea72aaa94",
+      "name": "Mood Tracker",
       "number": 13
     },
     {
-      "id": "1d5d7a64-dbfa-441b-a010-4baea72aaa94",
-      "name": "Mood Tracker",
+      "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
+      "name": "Habit Tracker",
       "number": 14
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-10T22:09:21.169Z",
+  "generatedAt": "2026-09-11T22:09:14.812Z",
   "locale": "ru",
   "nicheSlug": "habit-tracker"
 }

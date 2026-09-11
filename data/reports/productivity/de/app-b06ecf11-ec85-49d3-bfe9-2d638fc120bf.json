@@ -1,0 +1,10 @@
+{
+  "appId": "b06ecf11-ec85-49d3-bfe9-2d638fc120bf",
+  "appIndex": 1,
+  "appName": "Opal",
+  "generatedAt": "2026-09-11T22:09:04.716Z",
+  "locale": "de",
+  "markdown": "# Opal · Produktivität\n\nErstellt: 12.09.2026, 03:09\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      21 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 08.06.2026 - 09.09.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Messagedeleeyed_, 09.09.2026, 1/5: \"Früher war es großartig, aber sehr fehlerhaft und funktioniert seit dem Update manchmal nicht mehr\"\n            2. _alrightyie_, 07.09.2026, 1/5: \"Das neue Update, bei dem die gesamte App optisch neu gestaltet wurde, machte die App so langsam\"\n            3. _lupercaia_, 25.08.2026, 1/5: \"Zuerst war ich wirklich begeistert, aber dann fing die App an, immer schlechter zu funktionieren. Zuerst begannen sich einige von mir eingerichtete Blöcke zu duplizieren – was bedeutete, dass man sie zweimal entsperren musste. Dann wurden einige Blöcke zu falschen Zeiten angezeigt – beispielsweise ein Block, der für Wochentage am Samstag geplant war. Dann wurde das Entsperren der Blöcke aus irgendeinem Grund sehr einfach und kurz? Der letzte Tropfen, der das Fass zum Überlaufen brachte, war gerade, als ich zehnmal hintereinander dieselbe Push-Benachrichtigung von ihnen erhielt. Früher war es eine tolle App, aber jetzt ist sie kaputt.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

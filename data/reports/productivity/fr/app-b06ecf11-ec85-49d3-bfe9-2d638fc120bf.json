@@ -1,0 +1,10 @@
+{
+  "appId": "b06ecf11-ec85-49d3-bfe9-2d638fc120bf",
+  "appIndex": 1,
+  "appName": "Opal",
+  "generatedAt": "2026-09-11T22:09:13.286Z",
+  "locale": "fr",
+  "markdown": "# Opal · Productivité\n\nGénéré : 12 sept. 2026, 03:09\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      21 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 8 juin 2026 - 9 sept. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Messagedeleeyed_, 9 sept. 2026, 1/5: \"Avant, c'était génial mais tellement bogué et ne fonctionne pas parfois depuis la mise à jour\"\n            2. _alrightyie_, 7 sept. 2026, 1/5: \"Tye nouveau uodate où ils ont repensé visuellement l'ensemble de l'application a rendu l'application si lente\"\n            3. _lupercaia_, 25 août 2026, 1/5: \"Au début, je l'ai vraiment adoré, mais ensuite l'application a commencé à fonctionner de pire en pire. Tout d'abord, certains blocs que j'ai configurés ont commencé à se dupliquer, ce qui signifie que vous avez dû les débloquer deux fois. Ensuite, certains blocs ont commencé à apparaître à de mauvaises heures - comme le bloc prévu pour les jours de semaine le samedi. Ensuite, débloquer les blocs est devenu très facile et court pour une raison quelconque ?? La goutte d'eau qui a fait déborder le vase vient tout juste de recevoir la même notification push de leur part DIX FOIS DE SUITE. C’était autrefois une excellente application, mais elle est en panne maintenant.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
