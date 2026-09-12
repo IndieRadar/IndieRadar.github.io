@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "id": "b06ecf11-ec85-49d3-bfe9-2d638fc120bf",
+      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
       "name": "Opal",
       "number": 1
     },
@@ -56,27 +56,27 @@
       "number": 11
     },
     {
+      "id": "f85ec70d-3d67-4b16-82cb-e814b555a985",
+      "name": "Evernote",
+      "number": 12
+    },
+    {
       "id": "5df2eb8c-a19c-428a-a12d-432daaf1e232",
       "name": "Toggl Track - Time Tracking",
-      "number": 12
+      "number": 13
     },
     {
       "id": "8c4f1b9b-642a-438d-99b0-4b2a85aec7f0",
       "name": "Google Tasks",
-      "number": 13
+      "number": 14
     },
     {
       "id": "f40ac530-47f9-480c-bee5-14095f8cffba",
       "name": "Google",
-      "number": 14
-    },
-    {
-      "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
-      "name": "Tiimo: Daily To Do List",
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-11T22:09:04.598Z",
+  "generatedAt": "2026-09-12T22:09:12.849Z",
   "locale": "en",
   "nicheSlug": "productivity"
 }

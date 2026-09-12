@@ -11,18 +11,18 @@
       "number": 2
     },
     {
-      "id": "aa7680a1-b563-4bc6-b174-e189a7eb830c",
-      "name": "Habit Tracker - Habit Diary",
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch",
       "number": 3
     },
     {
-      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
-      "name": "Finch",
+      "id": "aa7680a1-b563-4bc6-b174-e189a7eb830c",
+      "name": "Habit Tracker - Habit Diary",
       "number": 4
     },
     {
-      "id": "830db64a-7f9e-4fc5-b294-c754641ad955",
-      "name": "Fabulous: Daily Habit Tracker",
+      "id": "3d634d39-1d2f-4275-ba58-f4c11d49f64c",
+      "name": "Fabulous",
       "number": 5
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-11T22:09:22.392Z",
+  "generatedAt": "2026-09-12T22:09:42.014Z",
   "locale": "de",
   "nicheSlug": "habit-tracker"
 }
