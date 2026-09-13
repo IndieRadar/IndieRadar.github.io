@@ -6,18 +6,18 @@
       "number": 1
     },
     {
-      "id": "ab2f9235-84e6-40e9-8868-d3d2b91cebfb",
-      "name": "Planejador de Treino",
+      "id": "d9f33052-a694-460e-b485-d150844f9205",
+      "name": "Planer",
       "number": 2
-    },
-    {
-      "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
-      "name": "BetterMe",
-      "number": 3
     },
     {
       "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
       "name": "MyFitnessPal",
+      "number": 3
+    },
+    {
+      "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
+      "name": "BetterMe",
       "number": 4
     },
     {
@@ -36,17 +36,17 @@
       "number": 7
     },
     {
-      "id": "a69edb20-54f9-4768-88b4-32def12393e1",
-      "name": "Exercícios",
+      "id": "75b95b6b-57ff-4159-a3e8-1670019d64f4",
+      "name": "Ćwiczenia w Domu",
       "number": 8
     },
     {
-      "id": "6cd80727-d684-4d8b-b4c5-67a16b30f30b",
-      "name": "Liftoff: Weightlifting Tracker",
+      "id": "09e2a5c8-1e80-4c65-9cad-dd8837e8502b",
+      "name": "Liftoff",
       "number": 9
     },
     {
-      "id": "5a5cb5ab-9d02-402d-9cbf-499a655dad77",
+      "id": "9b8b1cab-2085-4b08-9b6b-0225a0978180",
       "name": "Fitify",
       "number": 10
     },
@@ -71,12 +71,12 @@
       "number": 14
     },
     {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
+      "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
+      "name": "Fitness App",
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-12T22:09:44.961Z",
+  "generatedAt": "2026-09-13T22:09:22.236Z",
   "locale": "en",
   "nicheSlug": "fitness"
 }

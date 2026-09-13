@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
+      "id": "b06ecf11-ec85-49d3-bfe9-2d638fc120bf",
       "name": "Opal",
       "number": 1
     },
@@ -11,13 +11,13 @@
       "number": 2
     },
     {
-      "id": "047af16f-3dc9-4984-a35f-d15f01312b95",
-      "name": "Google Keep - Notes and lists",
+      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
+      "name": "Notion: notes, tasks, AI",
       "number": 3
     },
     {
-      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
-      "name": "Notion: notes, tasks, AI",
+      "id": "047af16f-3dc9-4984-a35f-d15f01312b95",
+      "name": "Google Keep - Notes and lists",
       "number": 4
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-12T22:09:13.756Z",
+  "generatedAt": "2026-09-13T22:08:49.851Z",
   "locale": "de",
   "nicheSlug": "productivity"
 }
