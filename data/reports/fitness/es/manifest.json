@@ -1,13 +1,13 @@
 {
   "apps": [
     {
-      "id": "8c96733f-429a-4412-8617-dfce9931e307",
-      "name": "MyFitnessPal: Calorie Counter",
+      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
+      "name": "MyFitnessPal",
       "number": 1
     },
     {
-      "id": "d9f33052-a694-460e-b485-d150844f9205",
-      "name": "Planer",
+      "id": "654a8dbb-19be-4bf4-8405-68a8b5bcf9eb",
+      "name": "Plánovač",
       "number": 2
     },
     {
@@ -36,17 +36,17 @@
       "number": 7
     },
     {
-      "id": "75b95b6b-57ff-4159-a3e8-1670019d64f4",
-      "name": "Ćwiczenia w Domu",
+      "id": "3e17e1cb-1fa1-4a5d-b57b-8f086e20a7e8",
+      "name": "Domácí cvičení",
       "number": 8
     },
     {
-      "id": "09e2a5c8-1e80-4c65-9cad-dd8837e8502b",
+      "id": "f0801bca-abc0-46c9-a073-5cabbc07d278",
       "name": "Liftoff",
       "number": 9
     },
     {
-      "id": "9b8b1cab-2085-4b08-9b6b-0225a0978180",
+      "id": "4e4143c1-c040-474b-a1f1-c661d6dbf7fa",
       "name": "Fitify",
       "number": 10
     },
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-13T22:09:32.879Z",
+  "generatedAt": "2026-09-14T22:10:21.363Z",
   "locale": "es",
   "nicheSlug": "fitness"
 }
