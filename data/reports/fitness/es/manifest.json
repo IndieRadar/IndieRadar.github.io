@@ -1,8 +1,8 @@
 {
   "apps": [
     {
-      "id": "8c96733f-429a-4412-8617-dfce9931e307",
-      "name": "MyFitnessPal: Calorie Counter",
+      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
+      "name": "MyFitnessPal",
       "number": 1
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-15T22:09:01.656Z",
+  "generatedAt": "2026-09-16T22:10:11.356Z",
   "locale": "es",
   "nicheSlug": "fitness"
 }
