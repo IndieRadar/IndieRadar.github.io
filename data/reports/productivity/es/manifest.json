@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "id": "b06ecf11-ec85-49d3-bfe9-2d638fc120bf",
+      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
       "name": "Opal",
       "number": 1
     },
@@ -11,8 +11,8 @@
       "number": 2
     },
     {
-      "id": "2e705fec-25bb-4cdf-82c0-c91e28166e9d",
-      "name": "Notion",
+      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
+      "name": "Notion: notes, tasks, AI",
       "number": 3
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-16T22:09:28.760Z",
+  "generatedAt": "2026-09-17T22:08:47.565Z",
   "locale": "es",
   "nicheSlug": "productivity"
 }

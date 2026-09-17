@@ -1,0 +1,10 @@
+{
+  "appId": "32a379c1-4381-4f2b-8f45-b25826d980a2",
+  "appIndex": 1,
+  "appName": "Opal",
+  "generatedAt": "2026-09-17T22:09:01.931Z",
+  "locale": "fr",
+  "markdown": "# Opal · Productivité\n\nGénéré : 18 sept. 2026, 03:09\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      22 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 8 juin 2026 - 15 sept. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _AverageMean_, 13 sept. 2026, 1/5: \"used to love the app but its filled with bugs (apps not blocking or blocking in loops when unblocked, spamming notifications…) since the 4.x update :( is there any way to get the old app back?\"\n            2. _lupercaia_, 25 août 2026, 1/5: \"i really loved it first, but then the app started working worse and worse. first, some blocks that i set up started duplicating - meaning you had to unblock it twice. then some blocks started showing up on wrong times - like block that’s scheduled for weekdays on Saturday. Then unblocking the blocks became very easy and short for whatever reason?? My final straw was just now when I received the very same push notification frim them TEN TIMES IN A ROW. It used to be a great app, but it’s broken now.\"\n            3. _S.ley1'_, 4 août 2026, 1/5: \"The app glitches. Sometimes it blocks outside block moments and then doesn't unblock or the app completely malfunctions.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
