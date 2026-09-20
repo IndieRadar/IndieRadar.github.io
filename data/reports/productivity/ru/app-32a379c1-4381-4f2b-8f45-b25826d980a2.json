@@ -1,0 +1,10 @@
+{
+  "appId": "32a379c1-4381-4f2b-8f45-b25826d980a2",
+  "appIndex": 1,
+  "appName": "Opal",
+  "generatedAt": "2026-09-20T22:08:49.999Z",
+  "locale": "ru",
+  "markdown": "# Opal · Продуктивность\n\nСформировано: 21 сент. 2026 г., 03:08\n\n## **Содержание** {#toc}\n\n- [Баги и стабильность](#theme-bugs_stability)\n\n\n## **Баги и стабильность** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Баги и стабильность.**\n      22 свежих отзыв(ов) упоминают: баги и стабильность.\n      Период отзывов: 8 июн. 2026 г. - 18 сент. 2026 г.\n      **Что это значит:** Пользователи упоминают краши или нестабильность. Это actionable только при всплеске или после обновления; иначе часто baseline-шум.\n\n         **Примеры отзывов:**\n            1. _BGS Jason_, 18 сент. 2026 г., 1/5: \"This app used to be functional. Whenever the major UI update rolled out, it’s been riddled with bugs. Whatever you guys did made this app borderline unusable. I assume the technology was offshored and that’s why it turned into what it is now\"\n            2. _Notcool49_, 17 сент. 2026 г., 1/5: \"Used to be great until they updated the app. Now it’s horrible and just freezes everything and won’t unblock anything. I guess it’s good cause now I can’t look at anything. Never make the mistake of updating!\"\n            3. _AverageMean_, 13 сент. 2026 г., 1/5: \"used to love the app but its filled with bugs (apps not blocking or blocking in loops when unblocked, spamming notifications…) since the 4.x update :( is there any way to get the old app back?\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

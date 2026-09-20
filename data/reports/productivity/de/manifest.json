@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "id": "b06ecf11-ec85-49d3-bfe9-2d638fc120bf",
+      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
       "name": "Opal",
       "number": 1
     },
@@ -36,12 +36,12 @@
       "number": 7
     },
     {
-      "id": "4405c974-fabc-4b2a-a7bd-1b4c23df2f71",
-      "name": "Trello",
+      "id": "e412b722-5421-4175-9f13-ac1c247f90ec",
+      "name": "Trello: Daily Task Tracker",
       "number": 8
     },
     {
-      "id": "b6cd6cf0-0cc1-43ef-837c-79fe9aa08a1a",
+      "id": "f85ec70d-3d67-4b16-82cb-e814b555a985",
       "name": "Evernote",
       "number": 9
     },
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-19T22:08:53.116Z",
+  "generatedAt": "2026-09-20T22:08:49.435Z",
   "locale": "de",
   "nicheSlug": "productivity"
 }
