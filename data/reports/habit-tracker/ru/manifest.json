@@ -36,33 +36,33 @@
       "number": 7
     },
     {
+      "id": "ef6da155-414e-4acf-9688-dabb0ae37bc1",
+      "name": "Habitify",
+      "number": 8
+    },
+    {
       "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
       "name": "HabitTick",
-      "number": 8
+      "number": 9
     },
     {
       "id": "a871684c-de17-4231-b571-53c71c488fa0",
       "name": "Atoms - from Atomic Habits",
-      "number": 9
+      "number": 10
     },
     {
       "id": "ed7b90ce-7a42-48d6-b7d5-b8d6b5ae83b5",
       "name": "Habit Tracker, Routine Planner",
-      "number": 10
+      "number": 11
     },
     {
       "id": "451af485-4e57-456a-b0bc-61d948f71749",
       "name": "Habit Tracker - HabitKit",
-      "number": 11
+      "number": 12
     },
     {
       "id": "51f02bd9-18ae-46a1-a06b-cd89d20c2e80",
       "name": "Habit Tracker - To-Do List",
-      "number": 12
-    },
-    {
-      "id": "ef6da155-414e-4acf-9688-dabb0ae37bc1",
-      "name": "Habitify",
       "number": 13
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-22T22:10:16.889Z",
+  "generatedAt": "2026-09-23T22:09:31.630Z",
   "locale": "ru",
   "nicheSlug": "habit-tracker"
 }

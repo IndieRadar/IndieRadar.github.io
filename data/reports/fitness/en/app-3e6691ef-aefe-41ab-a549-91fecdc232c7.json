@@ -1,0 +1,10 @@
+{
+  "appId": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+  "appIndex": 14,
+  "appName": "Samsung Health",
+  "generatedAt": "2026-09-23T22:09:43.419Z",
+  "locale": "en",
+  "markdown": "# Samsung Health · Fitness\n\nGenerated: Sep 24, 2026, 3:09 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      4 recent review(s) mention bugs and stability.\n      Review window: Jul 24, 2026 - Sep 22, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Myah_, Sep 22, 2026, 1/5: \"forced two factor authentication leaves me completely locked out of my account forever, saying I have a new phone (and they send a code to my broken, unusable phone) or try to send the code to a number I don't have any more. please make it ACTUALLY accessible for everyone ://\"\n            2. _Sam West_, Sep 21, 2026, 1/5: \"Used to be such a good app but is now borderline unusable. Awful cluttered & over complicated layout makes it impossible to quickly use the app. Its overloaded with useless information thats better found on Google anyway, so instead of inputting data on workouts or food you now spend most of the time trying to scroll past information that appears to be written for children. I don't need to read the same 20 paragraphs of basic information about sleep every time I view the sleep tracking section!\"\n            3. _Hicks_, Sep 7, 2026, 1/5: \"The app updated by Samsung requires One UI 9 on the watch - this will only be distributed over time. Until then, you have to expect bugs. In the end, the only thing that helps is reinstalling the app - synchronization is now working again for me. @Samsung: Great IT performance!! First lay the water pipe and then take care of the connections. The stupid user wastes his time skimming.\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}
