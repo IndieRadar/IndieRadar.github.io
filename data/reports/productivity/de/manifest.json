@@ -36,18 +36,18 @@
       "number": 7
     },
     {
-      "id": "4405c974-fabc-4b2a-a7bd-1b4c23df2f71",
-      "name": "Trello",
+      "id": "e412b722-5421-4175-9f13-ac1c247f90ec",
+      "name": "Trello: Daily Task Tracker",
       "number": 8
-    },
-    {
-      "id": "f85ec70d-3d67-4b16-82cb-e814b555a985",
-      "name": "Evernote",
-      "number": 9
     },
     {
       "id": "260a6071-6db1-4ef4-8f54-72f70369dbf5",
       "name": "Notebook",
+      "number": 9
+    },
+    {
+      "id": "b6cd6cf0-0cc1-43ef-837c-79fe9aa08a1a",
+      "name": "Evernote",
       "number": 10
     },
     {
@@ -71,12 +71,12 @@
       "number": 14
     },
     {
-      "id": "f40ac530-47f9-480c-bee5-14095f8cffba",
-      "name": "Google",
+      "id": "7aff8885-ef08-42aa-80c6-ccfb2a186b8b",
+      "name": "Google Calendar",
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-23T22:09:21.823Z",
+  "generatedAt": "2026-09-24T22:08:49.164Z",
   "locale": "de",
   "nicheSlug": "productivity"
 }

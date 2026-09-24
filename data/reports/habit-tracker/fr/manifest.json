@@ -21,8 +21,8 @@
       "number": 4
     },
     {
-      "id": "3d634d39-1d2f-4275-ba58-f4c11d49f64c",
-      "name": "Fabulous",
+      "id": "830db64a-7f9e-4fc5-b294-c754641ad955",
+      "name": "Fabulous: Daily Habit Tracker",
       "number": 5
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-23T22:09:42.462Z",
+  "generatedAt": "2026-09-24T22:09:09.567Z",
   "locale": "fr",
   "nicheSlug": "habit-tracker"
 }
