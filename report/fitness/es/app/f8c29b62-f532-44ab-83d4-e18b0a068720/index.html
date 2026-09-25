@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MyFitnessPal · Fitness · IndieRadar</title>
+  <link rel="stylesheet" href="../../../../../site.css?v=5">
+  <link rel="stylesheet" href="../../../../../report/report.css?v=2">
+  <script>
+    (function () {
+      var match = location.pathname.match(/\/(ru|en|es|de|fr)(?:\/(?:week|focus|app(?:\/[^/]+)?)?)?\/?$/);
+      if (!match) return;
+      try { localStorage.setItem("indieradar.lang", match[1]); } catch (e) {}
+      document.documentElement.lang = match[1];
+    })();
+  </script>
+</head>
+<body class="report-page">
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="logo" href="/">Indie<span>Radar</span></a>
+      <div class="site-header-actions">
+        <span class="site-tagline">Briefings diarios públicos de nichos en App Store y Google Play</span>
+        <div class="lang-switch" role="group" aria-label="Idioma"><a class="lang-switch-link" href="/report/fitness/ru/app/f8c29b62-f532-44ab-83d4-e18b0a068720/" hreflang="ru">RU</a><a class="lang-switch-link" href="/report/fitness/en/app/f8c29b62-f532-44ab-83d4-e18b0a068720/" hreflang="en">EN</a><a class="lang-switch-link" href="/report/fitness/es/app/f8c29b62-f532-44ab-83d4-e18b0a068720/" hreflang="es" aria-current="page">ES</a><a class="lang-switch-link" href="/report/fitness/de/app/f8c29b62-f532-44ab-83d4-e18b0a068720/" hreflang="de">DE</a><a class="lang-switch-link" href="/report/fitness/fr/app/f8c29b62-f532-44ab-83d4-e18b0a068720/" hreflang="fr">FR</a></div>
+      </div>
+    </div>
+  </header>
+  <div class="site-nav-wrap"><nav class="niche-tabs" aria-label="Todos los nichos"><a class="niche-tab niche-tab-home" href="/?lang=es">Todos los nichos</a><a class="niche-tab" href="/report/productivity/es/">Productividad</a><a class="niche-tab" href="/report/habit-tracker/es/">Hábitos</a><a class="niche-tab is-active" href="/report/fitness/es/">Fitness</a></nav></div>
+  <div class="site-nav-wrap site-nav-wrap-secondary"><nav class="period-nav" aria-label="Diaria"><a class="period-link is-active" href="/report/fitness/es/">Diaria</a><a class="period-link" href="/report/fitness/es/week/">Semanal</a><a class="period-link" href="/report/fitness/es/focus/">Focus</a></nav></div>
+  
+  <div class="report-layout">
+    <main class="report-main">
+      <article class="report-card">
+        <div class="meta">Fitness · es · 26 sept 2026, 3:10</div>
+        <div id="content"><h1 id="myfitnesspal-fitness">MyFitnessPal · Fitness</h1>
+<p>Generado: 26 sept 2026, 3:10</p>
+<h2 id="toc"><strong>Contenido</strong></h2>
+<ul><li class="indent-0"><a href="#theme-bugs_stability">Errores y estabilidad</a></li></ul>
+<h2 id="theme-bugs_stability"><strong>Errores y estabilidad</strong></h2>
+<div class="theme-block" data-theme-block data-theme-id="bugs_stability"><p class="indent-1"><strong>Errores y estabilidad.</strong></p>
+<p class="indent-2">5 reseñas recientes mencionan errores y estabilidad.</p>
+<p class="indent-2">Ventana de reseñas: 23 jul 2026 - 24 sept 2026</p>
+<p class="indent-2"><strong>Por qué importa:</strong> Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.</p>
+<p class="note-label indent-3"><strong>Ejemplos de reseñas:</strong></p>
+<ol><li class="indent-4"><em>Kaspar Lee</em>, 24 sept 2026, 1/5: &quot;Literalmente, un millón de configuraciones y ninguna configuración para esto, siempre recibo notificaciones aleatorias en momentos aleatorios para intentar que vuelva a la aplicación, cero configuración para apagar. Además, la aplicación tiene bastantes errores y es demasiado complicada.&quot;</li><li class="indent-4"><em>IXE</em>04_, 24 sept 2026, 1/5: &quot;La aplicación solía ser mucho mejor. La interfaz de usuario es confusa, confusa y, en general, simplemente horrible en comparación con la anterior, sin mencionar que ahora falla y se retrasa mucho más. ¡descúbrelo!&quot;</li><li class="indent-4"><em>RuachOo</em>, 19 sept 2026, 1/5: &quot;La aplicación se ha vuelto tan inflada a lo largo de los años que es extremadamente lenta, y los elogios y ventanas emergentes innecesarios son muy molestos. Menos clics = mejor experiencia. También suele congelarse durante 10 segundos antes de volver a responder cuando abro la aplicación.&quot;</li></ol></div></div>
+      </article>
+    </main>
+  </div>
+  <footer class="site-footer">
+    <p>Datos públicos de las stores · sin registro · <a href="https://t.me/IndieRadarBot">Bot de Telegram</a></p>
+  </footer>
+  <script src="../../../../../site.js?v=6"></script>
+  <script>
+    (function () {
+      var site = window.IndieRadarSite;
+      if (!site) return;
+      if (site.bindReportNavLocaleGuard) site.bindReportNavLocaleGuard();
+      if (site.syncLangFromReportPath) site.syncLangFromReportPath();
+      var content = document.getElementById("content");
+      var route = site.mountReportChrome ? site.mountReportChrome() : null;
+      site.mountBackToTop({ lang: route ? route.locale : "es" });
+      site.bindInPageAnchors(content);
+      if (site.mountThemeFilter) site.mountThemeFilter();
+      if (location.hash) {
+        requestAnimationFrame(function () {
+          site.scrollToAnchor(location.hash.slice(1), "instant");
+        });
+      }
+      window.addEventListener("hashchange", function () {
+        site.scrollToAnchor(location.hash.slice(1), "smooth");
+      });
+    })();
+  </script>
+</body>
+</html>

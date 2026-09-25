@@ -1,0 +1,10 @@
+{
+  "appId": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+  "appIndex": 10,
+  "appName": "MyFitnessPal",
+  "generatedAt": "2026-09-25T22:10:33.611Z",
+  "locale": "es",
+  "markdown": "# MyFitnessPal · Fitness\n\nGenerado: 26 sept 2026, 3:10\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      5 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 23 jul 2026 - 24 sept 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _Kaspar Lee_, 24 sept 2026, 1/5: \"Literalmente, un millón de configuraciones y ninguna configuración para esto, siempre recibo notificaciones aleatorias en momentos aleatorios para intentar que vuelva a la aplicación, cero configuración para apagar. Además, la aplicación tiene bastantes errores y es demasiado complicada.\"\n            2. _IXE_04_, 24 sept 2026, 1/5: \"La aplicación solía ser mucho mejor. La interfaz de usuario es confusa, confusa y, en general, simplemente horrible en comparación con la anterior, sin mencionar que ahora falla y se retrasa mucho más. ¡descúbrelo!\"\n            3. _RuachOo_, 19 sept 2026, 1/5: \"La aplicación se ha vuelto tan inflada a lo largo de los años que es extremadamente lenta, y los elogios y ventanas emergentes innecesarios son muy molestos. Menos clics = mejor experiencia. También suele congelarse durante 10 segundos antes de volver a responder cuando abro la aplicación.\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

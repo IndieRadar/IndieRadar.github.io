@@ -1,13 +1,13 @@
 {
   "apps": [
     {
-      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
-      "name": "Opal",
+      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
+      "name": "Notion: notes, tasks, AI",
       "number": 1
     },
     {
-      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
-      "name": "Notion: notes, tasks, AI",
+      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
+      "name": "Opal",
       "number": 2
     },
     {
@@ -21,18 +21,18 @@
       "number": 4
     },
     {
+      "id": "78841fea-5e55-4bee-aeae-6eb57b7dab5b",
+      "name": "Collabora Office",
+      "number": 5
+    },
+    {
       "id": "f848c3aa-7ac4-4fd5-95f3-4d80f9782235",
       "name": "Forest: Focus for Productivity",
-      "number": 5
+      "number": 6
     },
     {
       "id": "160ae327-eb84-4f38-ad61-2c6f12a9950c",
       "name": "Goodnotes",
-      "number": 6
-    },
-    {
-      "id": "78841fea-5e55-4bee-aeae-6eb57b7dab5b",
-      "name": "Collabora Office",
       "number": 7
     },
     {
@@ -46,37 +46,37 @@
       "number": 9
     },
     {
-      "id": "b6cd6cf0-0cc1-43ef-837c-79fe9aa08a1a",
-      "name": "Evernote",
-      "number": 10
-    },
-    {
       "id": "8596bf2f-9154-492e-b233-80cab536717b",
       "name": "Notion",
-      "number": 11
+      "number": 10
     },
     {
       "id": "65d1c29c-1b0d-43b4-bd20-79a8a951596f",
       "name": "Microsoft To Do",
-      "number": 12
+      "number": 11
     },
     {
       "id": "5df2eb8c-a19c-428a-a12d-432daaf1e232",
       "name": "Toggl Track - Time Tracking",
-      "number": 13
+      "number": 12
     },
     {
       "id": "8c4f1b9b-642a-438d-99b0-4b2a85aec7f0",
       "name": "Google Tasks",
-      "number": 14
+      "number": 13
     },
     {
       "id": "7aff8885-ef08-42aa-80c6-ccfb2a186b8b",
       "name": "Google Calendar",
+      "number": 14
+    },
+    {
+      "id": "fea5607b-c6d1-41a2-8052-e96264e44e60",
+      "name": "Tiimo - To Do List Planner",
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-24T22:08:48.443Z",
+  "generatedAt": "2026-09-25T22:10:04.862Z",
   "locale": "es",
   "nicheSlug": "productivity"
 }

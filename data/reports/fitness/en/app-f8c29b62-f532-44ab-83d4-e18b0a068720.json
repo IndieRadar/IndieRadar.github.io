@@ -1,0 +1,10 @@
+{
+  "appId": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+  "appIndex": 10,
+  "appName": "MyFitnessPal",
+  "generatedAt": "2026-09-25T22:10:27.570Z",
+  "locale": "en",
+  "markdown": "# MyFitnessPal · Fitness\n\nGenerated: Sep 26, 2026, 3:10 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      5 recent review(s) mention bugs and stability.\n      Review window: Jul 23, 2026 - Sep 24, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Kaspar Lee_, Sep 24, 2026, 1/5: \"Literally a million settings and no setting for this, always getting random notifications at random times to try and get me back on the app, zero setting to turn off. Also app is quite buggy and over complicated.\"\n            2. _IXE_04_, Sep 24, 2026, 1/5: \"The app used to be way better. The UI is confusing, jumbled, and overall just horrible compared to the old one not to mention it glitches and lags way more now. figure it out!\"\n            3. _RuachOo_, Sep 19, 2026, 1/5: \"The app has become so bloated over the years its extremely slow, and the unnecessary praising and popups is super annoying. Less clicks = better experience. It also often just freezes for 10seconds before responding again when i open the app\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

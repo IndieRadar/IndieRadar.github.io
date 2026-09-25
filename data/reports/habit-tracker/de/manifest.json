@@ -41,23 +41,23 @@
       "number": 8
     },
     {
+      "id": "451af485-4e57-456a-b0bc-61d948f71749",
+      "name": "Habit Tracker - HabitKit",
+      "number": 9
+    },
+    {
       "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
       "name": "HabitTick",
-      "number": 9
+      "number": 10
     },
     {
       "id": "a871684c-de17-4231-b571-53c71c488fa0",
       "name": "Atoms - from Atomic Habits",
-      "number": 10
+      "number": 11
     },
     {
       "id": "ed7b90ce-7a42-48d6-b7d5-b8d6b5ae83b5",
       "name": "Habit Tracker, Routine Planner",
-      "number": 11
-    },
-    {
-      "id": "451af485-4e57-456a-b0bc-61d948f71749",
-      "name": "Habit Tracker - HabitKit",
       "number": 12
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-24T22:09:09.165Z",
+  "generatedAt": "2026-09-25T22:10:24.566Z",
   "locale": "de",
   "nicheSlug": "habit-tracker"
 }

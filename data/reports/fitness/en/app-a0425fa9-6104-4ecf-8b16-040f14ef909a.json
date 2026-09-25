@@ -1,0 +1,10 @@
+{
+  "appId": "a0425fa9-6104-4ecf-8b16-040f14ef909a",
+  "appIndex": 15,
+  "appName": "Nike",
+  "generatedAt": "2026-09-25T22:10:27.570Z",
+  "locale": "en",
+  "markdown": "# Nike · Fitness\n\nGenerated: Sep 26, 2026, 3:10 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      4 recent review(s) mention bugs and stability.\n      Review window: Mar 29, 2026 - Jun 28, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Daisy McCoy_, May 21, 2026, 1/5: \"I can't even get past the sign in page 😭 the app glitches everytime I sign in just takes me right back to the sign in page...\"\n            2. _Shola Olabode_, Jun 28, 2026, 2/5: \"3 years on, this app still has serious bugs, you will certainly lose part of your activity history at some point, it is a recurring issue. On occasion, the exercises wouldn't load into the app, good exercises, poor usability. (3yrs ago) has some serious bugs, the messages inbox quit working, says \"no messages yet' even when the status says otherwise, the refresh on activity achievements tabs doesn't work properly, achievements do not fully clear from screen until you restart the app.\"\n            3. _Aarushi Tripathi_, May 16, 2026, 2/5: \"New edit-it's 2026 and the problem of losing history and thus broken progress persists.Very disappointing Old-the removal of the plans has really affected my routine.Nike please fix this. The workouts/instructions are amazing but some improvements required in the interface-a slight touch by mistake can skip exercises making it difficult to restart, and an unintentional swipe can remove a workout from history that is impossible to retrieve.I've lost 1-2 this way and couldn't undo it\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

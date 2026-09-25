@@ -1,0 +1,10 @@
+{
+  "appId": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+  "appIndex": 10,
+  "appName": "MyFitnessPal",
+  "generatedAt": "2026-09-25T22:10:35.729Z",
+  "locale": "de",
+  "markdown": "# MyFitnessPal · Fitness\n\nErstellt: 26.09.2026, 03:10\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      5 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 23.07.2026 - 24.09.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Kaspar Lee_, 24.09.2026, 1/5: \"Im wahrsten Sinne des Wortes eine Million Einstellungen und keine Einstellung dafür, ich bekomme immer zufällige Benachrichtigungen zu zufälligen Zeiten, um zu versuchen, mich wieder auf die App zu bringen, null Einstellung zum Ausschalten. Außerdem ist die App ziemlich fehlerhaft und zu kompliziert.\"\n            2. _IXE_04_, 24.09.2026, 1/5: \"Früher war die App viel besser. Die Benutzeroberfläche ist verwirrend, durcheinander und insgesamt im Vergleich zur alten einfach schrecklich, ganz zu schweigen davon, dass es jetzt viel mehr Störungen und Verzögerungen gibt. Finde es heraus!\"\n            3. _RuachOo_, 19.09.2026, 1/5: \"Die App ist im Laufe der Jahre so aufgebläht, dass sie extrem langsam ist und unnötiges Lob und Popups sehr nervig sind. Weniger Klicks = bessere Erfahrung. Außerdem friert es oft nur 10 Sekunden lang ein, bevor es wieder reagiert, wenn ich die App öffne\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

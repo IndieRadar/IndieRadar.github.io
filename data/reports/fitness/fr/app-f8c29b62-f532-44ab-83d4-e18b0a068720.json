@@ -1,0 +1,10 @@
+{
+  "appId": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+  "appIndex": 10,
+  "appName": "MyFitnessPal",
+  "generatedAt": "2026-09-25T22:10:36.411Z",
+  "locale": "fr",
+  "markdown": "# MyFitnessPal · Fitness\n\nGénéré : 26 sept. 2026, 03:10\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      5 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 23 juil. 2026 - 24 sept. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Kaspar Lee_, 24 sept. 2026, 1/5: \"Littéralement un million de paramètres et aucun paramètre pour cela, je reçois toujours des notifications aléatoires à des moments aléatoires pour essayer de me ramener sur l'application, aucun paramètre pour désactiver. De plus, l'application est assez boguée et trop compliquée.\"\n            2. _IXE_04_, 24 sept. 2026, 1/5: \"L’application était bien meilleure. L'interface utilisateur est déroutante, confuse et dans l'ensemble tout simplement horrible par rapport à l'ancienne, sans parler des problèmes et des retards bien plus importants maintenant. découvrez-le !\"\n            3. _RuachOo_, 19 sept. 2026, 1/5: \"L'application est devenue tellement gonflée au fil des années qu'elle est extrêmement lente, et les éloges et les popups inutiles sont très ennuyeux. Moins de clics = meilleure expérience. Il se bloque aussi souvent pendant 10 secondes avant de répondre à nouveau lorsque j'ouvre l'application.\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}
