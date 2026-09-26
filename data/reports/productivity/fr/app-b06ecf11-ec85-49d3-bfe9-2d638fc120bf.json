@@ -1,0 +1,10 @@
+{
+  "appId": "b06ecf11-ec85-49d3-bfe9-2d638fc120bf",
+  "appIndex": 1,
+  "appName": "Opal",
+  "generatedAt": "2026-09-26T22:09:04.778Z",
+  "locale": "fr",
+  "markdown": "# Opal · Productivité\n\nGénéré : 27 sept. 2026, 03:09\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      19 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 8 juin 2026 - 25 sept. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Hollyberry601_, 24 sept. 2026, 1/5: \"La dernière mise à jour provoque le crash de l'application. Impossible de l'ouvrir du tout\"\n            2. _PatronOfSoftwareArts_, 24 sept. 2026, 1/5: \"Crashe au lancement à chaque fois sur iOS 27. J'ai vu une publicité très intelligente, j'ai donc décidé de télécharger cette application. Impossible à utiliser car il plante à chaque fois.\"\n            3. _A136P_, 24 sept. 2026, 1/5: \"J'utilise cette application depuis plus d'un an et je l'ai vraiment appréciée. À un moment donné, il y avait une énorme mise à jour du système et depuis lors, il y avait constamment des problèmes et des retards. Résultat, j'ai fini par le supprimer\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
