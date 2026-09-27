@@ -1,18 +1,18 @@
 {
   "apps": [
     {
-      "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
-      "name": "BetterMe",
+      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+      "name": "MyFitnessPal",
       "number": 1
     },
     {
-      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
-      "name": "MyFitnessPal",
+      "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
+      "name": "BetterMe",
       "number": 2
     },
     {
-      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
-      "name": "Planet Fitness",
+      "id": "a888cbe7-05f6-41a0-9386-a3662b485667",
+      "name": "Mi Fitness (Xiaomi Wear)",
       "number": 3
     },
     {
@@ -21,62 +21,62 @@
       "number": 4
     },
     {
-      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
-      "name": "Fitbod Workout & Gym Planner",
-      "number": 5
-    },
-    {
       "id": "098c4f69-ad1b-4689-b30d-1894cee3661c",
       "name": "Lasta",
-      "number": 6
+      "number": 5
     },
     {
       "id": "4f1dabc5-33df-4817-bf86-4058354f815c",
       "name": "Strong Workout Tracker",
-      "number": 7
+      "number": 6
     },
     {
       "id": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
       "name": "Apple Fitness",
-      "number": 8
+      "number": 7
     },
     {
       "id": "54b79b3b-c2e9-4b01-bce5-794f8968563f",
       "name": "Strava",
-      "number": 9
-    },
-    {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
-      "number": 10
+      "number": 8
     },
     {
       "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
       "name": "Google Health (Fitbit)",
-      "number": 11
+      "number": 9
     },
     {
       "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
       "name": "Fitness App",
-      "number": 12
+      "number": 10
     },
     {
-      "id": "a888cbe7-05f6-41a0-9386-a3662b485667",
-      "name": "Mi Fitness (Xiaomi Wear)",
-      "number": 13
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
+      "number": 11
+    },
+    {
+      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
+      "name": "Planet Fitness",
+      "number": 12
     },
     {
       "id": "8acfa937-07d3-455d-9429-e93cc6d70462",
       "name": "Fitness App",
-      "number": 14
+      "number": 13
     },
     {
       "id": "a0425fa9-6104-4ecf-8b16-040f14ef909a",
       "name": "Nike",
+      "number": 14
+    },
+    {
+      "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
+      "name": "Mi Fitness (Xiaomi Wear Lite)",
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-26T22:09:27.873Z",
+  "generatedAt": "2026-09-27T22:09:39.033Z",
   "locale": "fr",
   "nicheSlug": "fitness"
 }

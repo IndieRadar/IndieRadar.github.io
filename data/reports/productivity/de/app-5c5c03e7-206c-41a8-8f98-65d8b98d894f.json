@@ -1,0 +1,10 @@
+{
+  "appId": "5c5c03e7-206c-41a8-8f98-65d8b98d894f",
+  "appIndex": 12,
+  "appName": "Flow",
+  "generatedAt": "2026-09-27T22:09:05.265Z",
+  "locale": "de",
+  "markdown": "# Flow · Produktivität\n\nErstellt: 28.09.2026, 03:09\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      4 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 19.08.2026 - 13.09.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _wm_, 13.09.2026, 3/5: \"Das Menü „Letzte Aufgaben“ funktioniert auf meinem Honor 400-Telefon nicht richtig. Es gibt Störungen\"\n            2. _HEMANT KUSHWAHA_, 08.09.2026, 3/5: \"Ich habe den Premium-Preis bezahlt, bin aber sicher, dass es voller Fehler ist. Das hat Potenzial, aber der Entwickler hat es sicher übersehen.\"\n            3. _Anirudh Khanna_, 05.09.2026, 3/5: \"Ich würde dieser App gerne 5 Sterne geben, weil ich sie in den letzten Monaten geliebt und verwendet habe. Der Flow Launcher funktioniert jedoch nicht als mein Home-Launcher. Ich habe es in den Systemeinstellungen bereits als meinen Standard-Launcher festgelegt und es wird als Standard angezeigt. Wenn ich jedoch zum Startbildschirm zurückkehre, wird stattdessen mein vorheriger System-Launcher geöffnet. Wenn ich Flow Launcher erneut öffne, werde ich aufgefordert, es als Standard festzulegen. Ich hatte vor, Premium zu kaufen, werde aber warten, bis dieses Problem behoben ist. Bitte beheben Sie das bald!\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
