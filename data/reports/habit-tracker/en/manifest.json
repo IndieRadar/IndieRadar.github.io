@@ -56,27 +56,27 @@
       "number": 11
     },
     {
+      "id": "69ae0246-9ba1-4966-9558-2bbcda4ac1a4",
+      "name": "Habit Hunter",
+      "number": 12
+    },
+    {
       "id": "451af485-4e57-456a-b0bc-61d948f71749",
       "name": "Habit Tracker - HabitKit",
-      "number": 12
+      "number": 13
     },
     {
       "id": "160bf2cd-6ea1-4986-94f2-c42873ba35ae",
       "name": "HabitNow Daily Routine Planner",
-      "number": 13
+      "number": 14
     },
     {
       "id": "51f02bd9-18ae-46a1-a06b-cd89d20c2e80",
       "name": "Habit Tracker - To-Do List",
-      "number": 14
-    },
-    {
-      "id": "1d5d7a64-dbfa-441b-a010-4baea72aaa94",
-      "name": "Mood Tracker",
       "number": 15
     }
   ],
-  "generatedAt": "2026-09-28T22:09:24.790Z",
+  "generatedAt": "2026-09-29T22:08:35.135Z",
   "locale": "en",
   "nicheSlug": "habit-tracker"
 }
