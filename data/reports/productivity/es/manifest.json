@@ -31,13 +31,13 @@
       "number": 6
     },
     {
-      "id": "78841fea-5e55-4bee-aeae-6eb57b7dab5b",
-      "name": "Collabora Office",
+      "id": "4405c974-fabc-4b2a-a7bd-1b4c23df2f71",
+      "name": "Trello",
       "number": 7
     },
     {
-      "id": "e412b722-5421-4175-9f13-ac1c247f90ec",
-      "name": "Trello: Daily Task Tracker",
+      "id": "78841fea-5e55-4bee-aeae-6eb57b7dab5b",
+      "name": "Collabora Office",
       "number": 8
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-01T22:09:21.186Z",
+  "generatedAt": "2026-10-02T22:09:33.107Z",
   "locale": "es",
   "nicheSlug": "productivity"
 }

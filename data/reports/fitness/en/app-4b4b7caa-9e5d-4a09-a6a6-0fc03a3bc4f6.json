@@ -1,0 +1,10 @@
+{
+  "appId": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
+  "appIndex": 13,
+  "appName": "Mi Fitness (Xiaomi Wear Lite)",
+  "generatedAt": "2026-10-02T22:09:54.157Z",
+  "locale": "en",
+  "markdown": "# Mi Fitness (Xiaomi Wear Lite) · Fitness\n\nGenerated: Oct 3, 2026, 3:09 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      4 recent review(s) mention bugs and stability.\n      Review window: Jun 27, 2026 - Oct 1, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Бубазвон_, Sep 30, 2026, 1/5: \"Total freeze after app launch\"\n            2. _LzGer_, Sep 28, 2026, 1/5: \"Worked perfectly until the latest update. Now the app constantly freezes and won’t sync with the fitness band, making it basically useless. This needs to be fixed urgently — please release an update as soon as possible.\"\n            3. _CreativeCatnip_, Sep 26, 2026, 1/5: \"I’ve written at least five reviews and each time I come back to update they’re gone. HR grossly inaccurate. Latest update lost all my data and took 45 minutes to sync phone again. I’ve learned to rely or expect much from the watch. It’s glitchy and hit or miss if it will work.\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}
