@@ -1,0 +1,10 @@
+{
+  "appId": "32a379c1-4381-4f2b-8f45-b25826d980a2",
+  "appIndex": 1,
+  "appName": "Opal",
+  "generatedAt": "2026-10-04T22:09:03.528Z",
+  "locale": "de",
+  "markdown": "# Opal · Produktivität\n\nErstellt: 05.10.2026, 03:09\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      19 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 08.06.2026 - 03.10.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Tomito6_, 02.10.2026, 1/5: \"Ich habe diese App fast ein Jahr lang bezahlt. Es lohnt sich überhaupt nicht! Ich habe eine viel bessere App gefunden, die nicht 20 € pro Monat kostet. Und lassen Sie mich Ihnen sagen, dass diese App auch oft nicht funktioniert hat. Es ist super fehlerhaft!! Aus irgendeinem Grund schien mein Instagram immer zwischen 23 und 24 Uhr freigeschaltet zu werden (auch wenn ich viele zusätzliche Regeln festgelegt oder Dinge geändert habe). Außerdem wurden Zeitlimits oft nicht berücksichtigt, sodass es im wahrsten Sinne des Wortes nicht seinen einzigen Zweck erfüllt und gleichzeitig 20 € verlangt. Hoooorrrribble App. Bin auf ein neues umgestiegen und wünschte, ich könnte die Zeit zurückdrehen, um diesen Betrug zu vermeiden\"\n            2. _A136P_, 24.09.2026, 1/5: \"Ich benutze diese App über ein Jahr lang und sie hat mir sehr gut gefallen. Irgendwann gab es ein riesiges Systemupdate und seitdem kam es ständig zu Störungen und Verzögerungen. Aus diesem Grund habe ich es schließlich gelöscht\"\n            3. _AverageMean_, 13.09.2026, 1/5: \"Früher habe ich die App geliebt, aber seit dem 4.x-Update ist sie voller Fehler (Apps blockieren nicht oder blockieren in Schleifen, wenn sie entsperrt werden, Spam-Benachrichtigungen …) :( Gibt es eine Möglichkeit, die alte App wiederherzustellen?\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
