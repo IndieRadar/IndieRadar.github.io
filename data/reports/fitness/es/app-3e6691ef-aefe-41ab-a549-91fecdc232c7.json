@@ -1,0 +1,10 @@
+{
+  "appId": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+  "appIndex": 15,
+  "appName": "Samsung Health",
+  "generatedAt": "2026-10-05T22:09:13.347Z",
+  "locale": "es",
+  "markdown": "# Samsung Health · Fitness\n\nGenerado: 6 oct 2026, 3:09\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      3 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 24 jul 2026 - 4 oct 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _andrew morrow_, 3 oct 2026, 1/5: \"Samsung Health el conteo de pasos no funciona en su nuevo reloj insignia, el ultra 2. Solo realizará un seguimiento durante un tiempo determinado y si el reloj se reinicia o actualiza el software, el conteo de pasos se congela y no contará con precisión tus pasos sin tu teléfono a mano. Samsung respondió diciéndome que reinicie el reloj cada vez... ¡Esta es la tercera vez desde agosto!\"\n            2. _Mustafa Ramis_, 3 oct 2026, 1/5: \"Prefiero la aplicación anterior, era muy clara para ver todo claramente de un solo vistazo, no tenías que jugar y también comienza a congelarse.\"\n            3. _Daniel Baumbart_, 27 sept 2026, 1/5: \"202609: la aplicación ya no falla mucho, pero no puedo eliminar entradas automáticas incorrectas mientras estoy en suspensión, por lo que los datos son incorrectos y empeorarán con el tiempo :( 202509: falla mucho desde la actualización más reciente\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

@@ -31,18 +31,18 @@
       "number": 6
     },
     {
-      "id": "661356d0-48a9-4d04-a931-ac2e9e6d3cb0",
-      "name": "Habitify: Habit Tracker",
+      "id": "5715926d-bf7f-4855-9fd9-cd8ce019916d",
+      "name": "Habitify",
       "number": 7
     },
     {
-      "id": "ef6da155-414e-4acf-9688-dabb0ae37bc1",
-      "name": "Habitify",
+      "id": "661356d0-48a9-4d04-a931-ac2e9e6d3cb0",
+      "name": "Habitify: Habit Tracker",
       "number": 8
     },
     {
-      "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
-      "name": "HabitTick",
+      "id": "63977758-3637-4bd1-8a9b-49c154cfdb99",
+      "name": "HabitTick-Habit Tracker & Todo",
       "number": 9
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-04T22:09:23.498Z",
+  "generatedAt": "2026-10-05T22:09:04.097Z",
   "locale": "de",
   "nicheSlug": "habit-tracker"
 }

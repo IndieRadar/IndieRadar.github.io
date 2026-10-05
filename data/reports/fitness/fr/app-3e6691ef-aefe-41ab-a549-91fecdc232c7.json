@@ -1,0 +1,10 @@
+{
+  "appId": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+  "appIndex": 15,
+  "appName": "Samsung Health",
+  "generatedAt": "2026-10-05T22:09:16.641Z",
+  "locale": "fr",
+  "markdown": "# Samsung Health · Fitness\n\nGénéré : 6 oct. 2026, 03:09\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      3 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 24 juil. 2026 - 4 oct. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _andrew morrow_, 3 oct. 2026, 1/5: \"Le nombre de pas Samsung Health ne fonctionne pas sur leur nouvelle montre phare, l'ultra 2. Il ne suivra que pendant un certain temps et si la montre redémarre ou met à jour le logiciel, le nombre de pas se fige et ne comptera pas avec précision vos pas sans votre téléphone à portée de main. Samsung a répondu en me disant de réinitialiser la montre à chaque fois....... C'est la troisième fois depuis août !\"\n            2. _Mustafa Ramis_, 3 oct. 2026, 1/5: \"Je préfère l'ancienne application, elle était très claire pour tout voir clairement d'un seul coup d'œil, vous n'aviez pas besoin de jouer, et elle commence aussi à se figer.\"\n            3. _Daniel Baumbart_, 27 sept. 2026, 1/5: \"202609 : l'application ne plante plus beaucoup mais je ne peux pas supprimer les mauvaises entrées automatiques en mode veille, donc les données sont erronées et vont empirer avec le temps :( 202509 : plante beaucoup depuis la dernière mise à jour\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

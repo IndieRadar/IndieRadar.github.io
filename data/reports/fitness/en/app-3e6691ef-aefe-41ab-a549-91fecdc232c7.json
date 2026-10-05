@@ -1,0 +1,10 @@
+{
+  "appId": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+  "appIndex": 15,
+  "appName": "Samsung Health",
+  "generatedAt": "2026-10-05T22:09:07.097Z",
+  "locale": "en",
+  "markdown": "# Samsung Health · Fitness\n\nGenerated: Oct 6, 2026, 3:09 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      3 recent review(s) mention bugs and stability.\n      Review window: Jul 24, 2026 - Oct 4, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _andrew morrow_, Oct 3, 2026, 1/5: \"Samsung Health step count doesn't work on their new flagship watch, the ultra 2. It'll only track for so long and if the watch reboots or updates the software then the step count freezes and won't accurately count your steps without your phone at hand. Samsung have responded by telling me to reset the watch everytime....... This is the third time since August!\"\n            2. _Mustafa Ramis_, Oct 3, 2026, 1/5: \"I prefer the old app it was very clear to see everything clearly in one look, you didn't have to play around, and it starts to freeze as well.\"\n            3. _Daniel Baumbart_, Sep 27, 2026, 1/5: \"202609: app doesn't crash a lot anymore but I can't delete wrong automatic entries in sleep so the data is wrong and will get worse over time :( 202509: crashes a lot since the newest update\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

@@ -1,0 +1,10 @@
+{
+  "appId": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+  "appIndex": 15,
+  "appName": "Samsung Health",
+  "generatedAt": "2026-10-05T22:09:15.712Z",
+  "locale": "de",
+  "markdown": "# Samsung Health · Fitness\n\nErstellt: 06.10.2026, 03:09\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      3 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 24.07.2026 - 04.10.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _andrew morrow_, 03.10.2026, 1/5: \"Samsung Health Die Schrittzählung funktioniert auf ihrer neuen Flaggschiff-Uhr, der Ultra 2, nicht. Sie zeichnet nur eine begrenzte Zeit auf, und wenn die Uhr neu startet oder die Software aktualisiert, friert die Schrittzählung ein und Ihre Schritte werden nicht genau gezählt, wenn Sie Ihr Telefon nicht zur Hand haben. Samsung hat mir daraufhin gesagt, ich solle die Uhr jedes Mal zurücksetzen. Das ist das dritte Mal seit August!\"\n            2. _Mustafa Ramis_, 03.10.2026, 1/5: \"Ich bevorzuge die alte App, sie war sehr klar, man konnte alles auf einen Blick sehen, man musste nicht herumspielen, und sie fängt auch an, einzufrieren.\"\n            3. _Daniel Baumbart_, 27.09.2026, 1/5: \"202609: Die App stürzt nicht mehr häufig ab, aber ich kann im Ruhezustand keine falschen automatischen Einträge löschen, daher sind die Daten falsch und werden mit der Zeit schlechter :( 202509: stürzt seit dem neuesten Update häufig ab\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}
