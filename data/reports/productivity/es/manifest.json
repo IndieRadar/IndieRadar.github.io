@@ -1,13 +1,13 @@
 {
   "apps": [
     {
-      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
-      "name": "Opal",
+      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
+      "name": "Notion: notes, tasks, AI",
       "number": 1
     },
     {
-      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
-      "name": "Notion: notes, tasks, AI",
+      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
+      "name": "Opal",
       "number": 2
     },
     {
@@ -31,18 +31,18 @@
       "number": 6
     },
     {
-      "id": "e412b722-5421-4175-9f13-ac1c247f90ec",
-      "name": "Trello: Daily Task Tracker",
+      "id": "4405c974-fabc-4b2a-a7bd-1b4c23df2f71",
+      "name": "Trello",
       "number": 7
-    },
-    {
-      "id": "78841fea-5e55-4bee-aeae-6eb57b7dab5b",
-      "name": "Collabora Office",
-      "number": 8
     },
     {
       "id": "260a6071-6db1-4ef4-8f54-72f70369dbf5",
       "name": "Notebook",
+      "number": 8
+    },
+    {
+      "id": "78841fea-5e55-4bee-aeae-6eb57b7dab5b",
+      "name": "Collabora Office",
       "number": 9
     },
     {
@@ -56,27 +56,27 @@
       "number": 11
     },
     {
+      "id": "5c5c03e7-206c-41a8-8f98-65d8b98d894f",
+      "name": "Flow",
+      "number": 12
+    },
+    {
       "id": "5df2eb8c-a19c-428a-a12d-432daaf1e232",
       "name": "Toggl Track - Time Tracking",
-      "number": 12
+      "number": 13
     },
     {
       "id": "8c4f1b9b-642a-438d-99b0-4b2a85aec7f0",
       "name": "Google Tasks",
-      "number": 13
+      "number": 14
     },
     {
       "id": "7aff8885-ef08-42aa-80c6-ccfb2a186b8b",
       "name": "Google Calendar",
-      "number": 14
-    },
-    {
-      "id": "fea5607b-c6d1-41a2-8052-e96264e44e60",
-      "name": "Tiimo - To Do List Planner",
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-05T22:08:45.438Z",
+  "generatedAt": "2026-10-06T22:09:18.636Z",
   "locale": "es",
   "nicheSlug": "productivity"
 }

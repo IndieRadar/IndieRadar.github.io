@@ -1,10 +1,10 @@
 {
   "appId": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
-  "appIndex": 7,
+  "appIndex": 6,
   "appName": "BetterMe",
-  "generatedAt": "2026-10-05T22:09:07.808Z",
+  "generatedAt": "2026-10-06T22:09:50.404Z",
   "locale": "ru",
-  "markdown": "# BetterMe · Фитнес\n\nСформировано: 6 окт. 2026 г., 03:09\n\n## **Содержание** {#toc}\n\n- [Баги и стабильность](#theme-bugs_stability)\n\n\n## **Баги и стабильность** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Баги и стабильность.**\n      6 свежих отзыв(ов) упоминают: баги и стабильность.\n      Период отзывов: 23 мая 2026 г. - 29 сент. 2026 г.\n      **Что это значит:** Пользователи упоминают краши или нестабильность. Это actionable только при всплеске или после обновления; иначе часто baseline-шум.\n\n         **Примеры отзывов:**\n            1. _Archie-Val Pangilinan_, 29 сент. 2026 г., 1/5: \"Я подписался и заплатил за это, потому что думал, что будет программа упражнений Кегеля, но ее не было! Приложение оооочень медленное. Пустая трата денег\"\n            2. _Sabina Kotiranta_, 23 мая 2026 г., 1/5: \"было бы неплохо, если бы он перестал вылетать.... Переустанавливал его уже дважды.\"\n            3. _Kendall Buggs_, 28 сент. 2026 г., 2/5: \"До смешного глючное приложение. Приложение слишком часто вылетает, оно вылетает 10 раз, прежде чем начнет загружаться через 5 минут. Очень разочаровывает.\"\n<!--/ir-theme-->",
+  "markdown": "# BetterMe · Фитнес\n\nСформировано: 7 окт. 2026 г., 03:09\n\n## **Содержание** {#toc}\n\n- [Баги и стабильность](#theme-bugs_stability)\n\n\n## **Баги и стабильность** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Баги и стабильность.**\n      6 свежих отзыв(ов) упоминают: баги и стабильность.\n      Период отзывов: 23 мая 2026 г. - 5 окт. 2026 г.\n      **Что это значит:** Пользователи упоминают краши или нестабильность. Это actionable только при всплеске или после обновления; иначе часто baseline-шум.\n\n         **Примеры отзывов:**\n            1. _Nick_, 5 окт. 2026 г., 1/5: \"Misleading sign-up flow with ill-thought out training plan and use cases. If user showed they have certain health issues, they still offered with harmful exercises for their condition, and Support just advising user to consult their doctor. The company refuses to issue an immediate refund. You warned. Stay away.\"\n            2. _Archie-Val Pangilinan_, 29 сент. 2026 г., 1/5: \"I signed up and paid for this because I thought there would be kegel exercises program but there was none! The app is soooo slow. Waste of money\"\n            3. _Sabina Kotiranta_, 23 мая 2026 г., 1/5: \"would be nice if it stops crashing.... Reinstalled it twice now.\"\n<!--/ir-theme-->",
   "nicheSlug": "fitness",
   "type": "app"
 }

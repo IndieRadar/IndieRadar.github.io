@@ -1,8 +1,8 @@
 {
   "apps": [
     {
-      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
-      "name": "MyFitnessPal",
+      "id": "8c96733f-429a-4412-8617-dfce9931e307",
+      "name": "MyFitnessPal: Calorie Counter",
       "number": 1
     },
     {
@@ -11,8 +11,8 @@
       "number": 2
     },
     {
-      "id": "098c4f69-ad1b-4689-b30d-1894cee3661c",
-      "name": "Lasta",
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
       "number": 3
     },
     {
@@ -26,13 +26,13 @@
       "number": 5
     },
     {
-      "id": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
-      "name": "Apple Fitness",
+      "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
+      "name": "BetterMe",
       "number": 6
     },
     {
-      "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
-      "name": "BetterMe",
+      "id": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
+      "name": "Apple Fitness",
       "number": 7
     },
     {
@@ -71,12 +71,12 @@
       "number": 14
     },
     {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
+      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
+      "name": "Fitbod Workout & Gym Planner",
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-05T22:09:15.712Z",
+  "generatedAt": "2026-10-06T22:10:03.607Z",
   "locale": "de",
   "nicheSlug": "fitness"
 }
