@@ -1,58 +1,58 @@
 {
   "apps": [
     {
-      "id": "8c96733f-429a-4412-8617-dfce9931e307",
-      "name": "MyFitnessPal: Calorie Counter",
+      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
+      "name": "MyFitnessPal",
       "number": 1
     },
     {
-      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
-      "name": "MyFitnessPal",
+      "id": "634a6723-07ea-4e23-85fc-311f0ba43862",
+      "name": "Lasta",
       "number": 2
-    },
-    {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
-      "number": 3
     },
     {
       "id": "4f1dabc5-33df-4817-bf86-4058354f815c",
       "name": "Strong Workout Tracker",
-      "number": 4
+      "number": 3
     },
     {
       "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
       "name": "ClassPass: Fitness, Spa, Salon",
-      "number": 5
+      "number": 4
     },
     {
       "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
       "name": "BetterMe",
-      "number": 6
-    },
-    {
-      "id": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
-      "name": "Apple Fitness",
-      "number": 7
+      "number": 5
     },
     {
       "id": "54b79b3b-c2e9-4b01-bce5-794f8968563f",
       "name": "Strava",
-      "number": 8
+      "number": 6
+    },
+    {
+      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+      "name": "MyFitnessPal",
+      "number": 7
     },
     {
       "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
       "name": "Mi Fitness (Xiaomi Wear Lite)",
-      "number": 9
+      "number": 8
     },
     {
       "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
       "name": "Fitness App",
-      "number": 10
+      "number": 9
     },
     {
       "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
       "name": "Google Health (Fitbit)",
+      "number": 10
+    },
+    {
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
       "number": 11
     },
     {
@@ -61,22 +61,22 @@
       "number": 12
     },
     {
+      "id": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
+      "name": "Apple Fitness",
+      "number": 13
+    },
+    {
       "id": "8acfa937-07d3-455d-9429-e93cc6d70462",
       "name": "Fitness App",
-      "number": 13
+      "number": 14
     },
     {
       "id": "a0425fa9-6104-4ecf-8b16-040f14ef909a",
       "name": "Nike",
-      "number": 14
-    },
-    {
-      "id": "add014ae-d385-4bc9-bca7-f84f6acb8bd8",
-      "name": "Fitbod Workout & Gym Planner",
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-06T22:09:50.087Z",
+  "generatedAt": "2026-10-07T22:10:41.216Z",
   "locale": "en",
   "nicheSlug": "fitness"
 }
