@@ -6,13 +6,13 @@
       "number": 1
     },
     {
-      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
-      "name": "Finch",
+      "id": "5ee51211-f93a-432b-b2c2-2e050746c7d7",
+      "name": "Habitica",
       "number": 2
     },
     {
-      "id": "5ee51211-f93a-432b-b2c2-2e050746c7d7",
-      "name": "Habitica",
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch",
       "number": 3
     },
     {
@@ -31,13 +31,13 @@
       "number": 6
     },
     {
-      "id": "661356d0-48a9-4d04-a931-ac2e9e6d3cb0",
-      "name": "Habitify: Habit Tracker",
+      "id": "ef6da155-414e-4acf-9688-dabb0ae37bc1",
+      "name": "Habitify",
       "number": 7
     },
     {
-      "id": "63977758-3637-4bd1-8a9b-49c154cfdb99",
-      "name": "HabitTick-Habit Tracker & Todo",
+      "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
+      "name": "HabitTick",
       "number": 8
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-07T22:10:40.634Z",
+  "generatedAt": "2026-10-08T22:10:17.903Z",
   "locale": "fr",
   "nicheSlug": "habit-tracker"
 }

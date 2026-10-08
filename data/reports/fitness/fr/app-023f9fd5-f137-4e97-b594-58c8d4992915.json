@@ -1,0 +1,10 @@
+{
+  "appId": "023f9fd5-f137-4e97-b594-58c8d4992915",
+  "appIndex": 10,
+  "appName": "Peloton - Fitness & Workouts",
+  "generatedAt": "2026-10-08T22:10:28.288Z",
+  "locale": "fr",
+  "markdown": "# Peloton - Fitness & Workouts · Fitness\n\nGénéré : 9 oct. 2026, 03:10\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      4 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 18 févr. 2026 - 7 oct. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Kaitlyn V_, 7 oct. 2026, 2/5: \"J'adorais ça, super glitch maintenant. Le contenu est excellent mais le support technique est inutile, même pour les abonnements payants. Peut-être à cause de tous leurs licenciements ? Peloton ne se soucie évidemment pas de ses clients.\"\n            2. _Janki Bhatt_, 16 sept. 2026, 2/5: \"Le score Strive ne se synchronise pas sur la Pixel Watch 3 en raison d'un problème de chargement et de synchronisation de la fréquence cardiaque\"\n            3. _Ashley M_, 14 sept. 2026, 2/5: \"Crashe en arrière-plan lorsque vous faites \"juste soulever/marcher/courir\", etc. Si mon téléphone s'éteint de l'écran Peloton (par exemple pour vérifier un message ou vérifier une carte), il se fige et ferme mon entraînement en cours. Je n'avais jamais l'habitude de faire ça. Vraiment frustrant !\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}
