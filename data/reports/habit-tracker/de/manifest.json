@@ -61,22 +61,22 @@
       "number": 12
     },
     {
-      "id": "160bf2cd-6ea1-4986-94f2-c42873ba35ae",
-      "name": "HabitNow Daily Routine Planner",
-      "number": 13
-    },
-    {
       "id": "51f02bd9-18ae-46a1-a06b-cd89d20c2e80",
       "name": "Habit Tracker - To-Do List",
-      "number": 14
+      "number": 13
     },
     {
       "id": "1d5d7a64-dbfa-441b-a010-4baea72aaa94",
       "name": "Mood Tracker",
+      "number": 14
+    },
+    {
+      "id": "78f1a1a5-598d-45ac-ae17-76eb63103b71",
+      "name": "Loop - Habit Tracker",
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-11T22:09:17.134Z",
+  "generatedAt": "2026-10-12T22:09:27.042Z",
   "locale": "de",
   "nicheSlug": "habit-tracker"
 }
