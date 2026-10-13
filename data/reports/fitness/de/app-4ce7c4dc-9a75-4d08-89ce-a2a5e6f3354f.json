@@ -1,0 +1,10 @@
+{
+  "appId": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
+  "appIndex": 8,
+  "appName": "MyFitnessPal",
+  "generatedAt": "2026-10-13T22:10:12.652Z",
+  "locale": "de",
+  "markdown": "# MyFitnessPal · Fitness\n\nErstellt: 14.10.2026, 03:10\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      4 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 06.05.2026 - 11.10.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Kai Raphael_, 11.10.2026, 1/5: \"app is suddenly really slow\"\n            2. _Thorsten Mootz_, 30.08.2026, 1/5: \"Neues Update ist ganz schlimm und benutzerunfreundlich. If it's not broken, don't fix it...\"\n            3. _Harun_, 04.08.2026, 1/5: \"I have been using this app for more than 10 years now. In the beginning it was the perfect app. But it is too laggy/buggy now. And also there is too much downtime lately. Other than that still an ok app to track macro's. UPDATE: THE LATEST UPDATE ON ANDROID SUCKS UNFORTUNATELY. I CAN'T DELETE A WHOLE MEAL AT ONCE ANYMORY, ALSO DON'T HAVE AN OVERVIEW OF MY MEALS LIKE ON THE WEB VERSION. I'M A PREMIUM USER AND I SERIOUSLY CONSIDER CANCELING MY SUBSCRIPTION! HOPE THIS WILL BE FIXED ASAP!\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

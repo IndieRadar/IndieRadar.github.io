@@ -11,13 +11,13 @@
       "number": 2
     },
     {
-      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
-      "name": "Finch",
+      "id": "aa7680a1-b563-4bc6-b174-e189a7eb830c",
+      "name": "Habit Tracker - Habit Diary",
       "number": 3
     },
     {
-      "id": "aa7680a1-b563-4bc6-b174-e189a7eb830c",
-      "name": "Habit Tracker - Habit Diary",
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch",
       "number": 4
     },
     {
@@ -36,13 +36,13 @@
       "number": 7
     },
     {
-      "id": "451af485-4e57-456a-b0bc-61d948f71749",
-      "name": "Habit Tracker - HabitKit",
+      "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
+      "name": "HabitTick",
       "number": 8
     },
     {
-      "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
-      "name": "HabitTick",
+      "id": "451af485-4e57-456a-b0bc-61d948f71749",
+      "name": "Habit Tracker - HabitKit",
       "number": 9
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-12T22:09:28.373Z",
+  "generatedAt": "2026-10-13T22:09:58.375Z",
   "locale": "fr",
   "nicheSlug": "habit-tracker"
 }
