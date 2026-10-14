@@ -31,13 +31,13 @@
       "number": 6
     },
     {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
+      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
+      "name": "MyFitnessPal",
       "number": 7
     },
     {
-      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
-      "name": "MyFitnessPal",
+      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
+      "name": "Planet Fitness",
       "number": 8
     },
     {
@@ -56,27 +56,27 @@
       "number": 11
     },
     {
-      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
-      "name": "Planet Fitness",
-      "number": 12
-    },
-    {
       "id": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
       "name": "Apple Fitness",
-      "number": 13
+      "number": 12
     },
     {
       "id": "8acfa937-07d3-455d-9429-e93cc6d70462",
       "name": "Fitness App",
-      "number": 14
+      "number": 13
     },
     {
       "id": "a0425fa9-6104-4ecf-8b16-040f14ef909a",
       "name": "Nike",
+      "number": 14
+    },
+    {
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-13T22:10:13.060Z",
+  "generatedAt": "2026-10-14T22:09:30.796Z",
   "locale": "fr",
   "nicheSlug": "fitness"
 }
