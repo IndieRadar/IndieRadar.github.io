@@ -31,52 +31,52 @@
       "number": 6
     },
     {
-      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
-      "name": "MyFitnessPal",
+      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
+      "name": "Planet Fitness",
       "number": 7
     },
     {
-      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
-      "name": "Planet Fitness",
-      "number": 8
-    },
-    {
-      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
       "name": "MyFitnessPal",
-      "number": 9
-    },
-    {
-      "id": "023f9fd5-f137-4e97-b594-58c8d4992915",
-      "name": "Peloton - Fitness & Workouts",
-      "number": 10
+      "number": 8
     },
     {
       "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
       "name": "Mi Fitness (Xiaomi Wear Lite)",
-      "number": 11
+      "number": 9
     },
     {
-      "id": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
-      "name": "Apple Fitness",
-      "number": 12
+      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+      "name": "MyFitnessPal",
+      "number": 10
+    },
+    {
+      "id": "023f9fd5-f137-4e97-b594-58c8d4992915",
+      "name": "Peloton - Fitness & Workouts",
+      "number": 11
     },
     {
       "id": "8acfa937-07d3-455d-9429-e93cc6d70462",
       "name": "Fitness App",
-      "number": 13
+      "number": 12
     },
     {
       "id": "a0425fa9-6104-4ecf-8b16-040f14ef909a",
       "name": "Nike",
+      "number": 13
+    },
+    {
+      "id": "cf519abd-3771-4837-aaa8-a43d92cc4534",
+      "name": "Hevy",
       "number": 14
     },
     {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
+      "id": "7ea5e767-595b-4e20-8544-40dcd5a8dada",
+      "name": "Yazio",
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-14T22:09:30.796Z",
+  "generatedAt": "2026-10-15T22:10:19.513Z",
   "locale": "fr",
   "nicheSlug": "fitness"
 }
