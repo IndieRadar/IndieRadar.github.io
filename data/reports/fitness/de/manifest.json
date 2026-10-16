@@ -31,13 +31,13 @@
       "number": 6
     },
     {
-      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
-      "name": "Planet Fitness",
+      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
+      "name": "MyFitnessPal",
       "number": 7
     },
     {
-      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
-      "name": "MyFitnessPal",
+      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
+      "name": "Planet Fitness",
       "number": 8
     },
     {
@@ -66,17 +66,17 @@
       "number": 13
     },
     {
-      "id": "cf519abd-3771-4837-aaa8-a43d92cc4534",
-      "name": "Hevy",
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
       "number": 14
     },
     {
-      "id": "7ea5e767-595b-4e20-8544-40dcd5a8dada",
-      "name": "Yazio",
+      "id": "cf519abd-3771-4837-aaa8-a43d92cc4534",
+      "name": "Hevy",
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-15T22:10:18.808Z",
+  "generatedAt": "2026-10-16T22:09:49.299Z",
   "locale": "de",
   "nicheSlug": "fitness"
 }
