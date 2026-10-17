@@ -1,0 +1,10 @@
+{
+  "appId": "5c5c03e7-206c-41a8-8f98-65d8b98d894f",
+  "appIndex": 12,
+  "appName": "Flow",
+  "generatedAt": "2026-10-17T22:09:15.846Z",
+  "locale": "fr",
+  "markdown": "# Flow · Productivité\n\nGénéré : 18 oct. 2026, 03:09\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      4 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 13 sept. 2026 - 15 oct. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _Jitendra Pradhan_, 13 oct. 2026, 1/5: \"Le pire, plein de bugs et pas de mises à jour en temps opportun. L'application reste la même pendant des années, sans modification ni inclusion de quoi que ce soit.\"\n            2. _Harsha Acharya_, 15 oct. 2026, 3/5: \"Cette application est incroyable et je viens de passer au premium. J'avais trop d'applications et tout était encombré, cela m'aide vraiment à me concentrer sur ce que j'utilise réellement. L'inconvénient est qu'il plante à chaque fois que j'essaie d'ajouter des widgets système pour la météo, la messagerie et le calendrier. De plus, le flux est beaucoup trop sensible, l'option de personnalisation apparaît à chaque fois que j'essaie de faire défiler. Cela demande certainement du travail, mais sinon, c'est un sacré bon lanceur !\"\n            3. _gaurav bansode_, 4 oct. 2026, 3/5: \"s'il vous plaît, essayez de le mettre à jour et de corriger le bug de modification des widgets chaque fois que j'essaie de le faire défiler plusieurs fois, c'est tellement frustrant, l'application est si bonne mais cela rend cette application 3 étoiles seulement, veuillez essayer de la réparer 👍\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

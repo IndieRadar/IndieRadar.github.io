@@ -11,72 +11,72 @@
       "number": 2
     },
     {
-      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
-      "name": "Finch",
+      "id": "aa7680a1-b563-4bc6-b174-e189a7eb830c",
+      "name": "Habit Tracker - Habit Diary",
       "number": 3
     },
     {
-      "id": "aa7680a1-b563-4bc6-b174-e189a7eb830c",
-      "name": "Habit Tracker - Habit Diary",
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch",
       "number": 4
+    },
+    {
+      "id": "80dc7194-e1fb-484e-8e65-c49d40df7be5",
+      "name": "TickTick",
+      "number": 5
     },
     {
       "id": "3d634d39-1d2f-4275-ba58-f4c11d49f64c",
       "name": "Fabulous",
-      "number": 5
+      "number": 6
     },
     {
       "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
       "name": "Tiimo: Daily To Do List",
-      "number": 6
+      "number": 7
     },
     {
       "id": "ef6da155-414e-4acf-9688-dabb0ae37bc1",
       "name": "Habitify",
-      "number": 7
+      "number": 8
     },
     {
       "id": "451af485-4e57-456a-b0bc-61d948f71749",
       "name": "Habit Tracker - HabitKit",
-      "number": 8
+      "number": 9
     },
     {
       "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
       "name": "HabitTick",
-      "number": 9
+      "number": 10
     },
     {
       "id": "a871684c-de17-4231-b571-53c71c488fa0",
       "name": "Atoms - from Atomic Habits",
-      "number": 10
+      "number": 11
     },
     {
       "id": "ed7b90ce-7a42-48d6-b7d5-b8d6b5ae83b5",
       "name": "Habit Tracker, Routine Planner",
-      "number": 11
+      "number": 12
     },
     {
       "id": "69ae0246-9ba1-4966-9558-2bbcda4ac1a4",
       "name": "Habit Hunter",
-      "number": 12
+      "number": 13
     },
     {
       "id": "51f02bd9-18ae-46a1-a06b-cd89d20c2e80",
       "name": "Habit Tracker - To-Do List",
-      "number": 13
+      "number": 14
     },
     {
       "id": "1d5d7a64-dbfa-441b-a010-4baea72aaa94",
       "name": "Mood Tracker",
-      "number": 14
-    },
-    {
-      "id": "78f1a1a5-598d-45ac-ae17-76eb63103b71",
-      "name": "Loop - Habit Tracker",
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-16T22:09:26.820Z",
+  "generatedAt": "2026-10-17T22:09:16.682Z",
   "locale": "ru",
   "nicheSlug": "habit-tracker"
 }

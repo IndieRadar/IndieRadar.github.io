@@ -1,0 +1,10 @@
+{
+  "appId": "5c5c03e7-206c-41a8-8f98-65d8b98d894f",
+  "appIndex": 12,
+  "appName": "Flow",
+  "generatedAt": "2026-10-17T22:09:07.259Z",
+  "locale": "de",
+  "markdown": "# Flow · Produktivität\n\nErstellt: 18.10.2026, 03:09\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      4 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 13.09.2026 - 15.10.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Jitendra Pradhan_, 13.10.2026, 1/5: \"Das Schlimmste: voller Fehler und keine zeitnahen Updates. Die App bleibt über Jahre hinweg dieselbe, es werden keine Änderungen vorgenommen oder irgendetwas darin integriert.\"\n            2. _Harsha Acharya_, 15.10.2026, 3/5: \"Diese App ist großartig und ich habe mich einfach für die Premium-App entschieden. Ich hatte zu viele Apps und alles war unübersichtlich. Das hilft mir wirklich, mich auf das zu konzentrieren, was ich tatsächlich verwende. Der Nachteil ist, dass es jedes Mal abstürzt, wenn ich versuche, meine System-Widgets für Wetter, E-Mail und Kalender hinzuzufügen. Außerdem ist der Feed viel zu empfindlich, die Anpassungsoption erscheint jedes Mal, wenn ich versuche zu scrollen. Das erfordert definitiv etwas Arbeit, aber ansonsten ist es ein verdammt guter Launcher!\"\n            3. _gaurav bansode_, 04.10.2026, 3/5: \"Versuchen Sie bitte, es zu aktualisieren und den Fehler bei der Widget-Bearbeitung zu beheben. Immer wenn ich versuche, einen Bildlauf durchzuführen, erscheint mehrmals ein Popup, das sehr frustrierend ist. Ansonsten ist die App so gut, aber dadurch erhält diese App nur 3 Sterne. Bitte versuchen Sie, den Fehler zu beheben 👍\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

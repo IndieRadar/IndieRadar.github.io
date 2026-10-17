@@ -16,38 +16,38 @@
       "number": 3
     },
     {
+      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
+      "name": "Planet Fitness",
+      "number": 4
+    },
+    {
       "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
       "name": "ClassPass: Fitness, Spa, Salon",
-      "number": 4
+      "number": 5
     },
     {
       "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
       "name": "Fitness App",
-      "number": 5
+      "number": 6
     },
     {
       "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
       "name": "Google Health (Fitbit)",
-      "number": 6
+      "number": 7
     },
     {
       "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
       "name": "MyFitnessPal",
-      "number": 7
-    },
-    {
-      "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
-      "name": "Planet Fitness",
       "number": 8
-    },
-    {
-      "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
-      "name": "Mi Fitness (Xiaomi Wear Lite)",
-      "number": 9
     },
     {
       "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
       "name": "MyFitnessPal",
+      "number": 9
+    },
+    {
+      "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
+      "name": "Mi Fitness (Xiaomi Wear Lite)",
       "number": 10
     },
     {
@@ -71,12 +71,12 @@
       "number": 14
     },
     {
-      "id": "cf519abd-3771-4837-aaa8-a43d92cc4534",
-      "name": "Hevy",
+      "id": "bf75d4b3-8d0c-4001-9f0a-1599d0bc3118",
+      "name": "Planet Fitness",
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-16T22:09:49.299Z",
+  "generatedAt": "2026-10-17T22:09:38.834Z",
   "locale": "de",
   "nicheSlug": "fitness"
 }
