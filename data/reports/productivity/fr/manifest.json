@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "id": "b06ecf11-ec85-49d3-bfe9-2d638fc120bf",
+      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
       "name": "Opal",
       "number": 1
     },
@@ -41,8 +41,8 @@
       "number": 8
     },
     {
-      "id": "2b82702e-5f81-4570-894a-bba00a55324a",
-      "name": "Focustown",
+      "id": "0a9dd509-872e-487e-85a6-60c4de50bee2",
+      "name": "Evernote - Note Organizer",
       "number": 9
     },
     {
@@ -61,8 +61,8 @@
       "number": 12
     },
     {
-      "id": "f85ec70d-3d67-4b16-82cb-e814b555a985",
-      "name": "Evernote",
+      "id": "2b82702e-5f81-4570-894a-bba00a55324a",
+      "name": "Focustown",
       "number": 13
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-17T22:09:15.846Z",
+  "generatedAt": "2026-10-18T22:10:44.713Z",
   "locale": "fr",
   "nicheSlug": "productivity"
 }

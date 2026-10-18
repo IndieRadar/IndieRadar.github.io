@@ -21,8 +21,8 @@
       "number": 4
     },
     {
-      "id": "80dc7194-e1fb-484e-8e65-c49d40df7be5",
-      "name": "TickTick",
+      "id": "9fcea1af-cf45-460a-9e8d-c622bdec965f",
+      "name": "TickTick:To-Do List & Calendar",
       "number": 5
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-17T22:09:17.679Z",
+  "generatedAt": "2026-10-18T22:10:46.367Z",
   "locale": "en",
   "nicheSlug": "habit-tracker"
 }
