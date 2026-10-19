@@ -46,37 +46,37 @@
       "number": 9
     },
     {
+      "id": "bf75d4b3-8d0c-4001-9f0a-1599d0bc3118",
+      "name": "Planet Fitness",
+      "number": 10
+    },
+    {
       "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
       "name": "MyFitnessPal",
-      "number": 10
+      "number": 11
     },
     {
       "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
       "name": "Mi Fitness (Xiaomi Wear Lite)",
-      "number": 11
+      "number": 12
     },
     {
       "id": "023f9fd5-f137-4e97-b594-58c8d4992915",
       "name": "Peloton - Fitness & Workouts",
-      "number": 12
+      "number": 13
     },
     {
       "id": "8acfa937-07d3-455d-9429-e93cc6d70462",
       "name": "Fitness App",
-      "number": 13
+      "number": 14
     },
     {
       "id": "a0425fa9-6104-4ecf-8b16-040f14ef909a",
       "name": "Nike",
-      "number": 14
-    },
-    {
-      "id": "bf75d4b3-8d0c-4001-9f0a-1599d0bc3118",
-      "name": "Planet Fitness",
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-18T22:11:06.288Z",
+  "generatedAt": "2026-10-19T22:10:00.859Z",
   "locale": "de",
   "nicheSlug": "fitness"
 }

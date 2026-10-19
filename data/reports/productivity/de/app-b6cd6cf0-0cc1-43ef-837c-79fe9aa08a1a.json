@@ -1,0 +1,10 @@
+{
+  "appId": "b6cd6cf0-0cc1-43ef-837c-79fe9aa08a1a",
+  "appIndex": 9,
+  "appName": "Evernote",
+  "generatedAt": "2026-10-19T22:09:31.857Z",
+  "locale": "de",
+  "markdown": "# Evernote · Produktivität\n\nErstellt: 20.10.2026, 03:09\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      5 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 02.08.2026 - 17.10.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Cat Top_, 17.10.2026, 1/5: \"voller Fehler stürzt ständig ab\"\n            2. _Michael Nevradakis_, 14.10.2026, 1/5: \"Update 2026: Mein Android-Telefon friert häufig ein/funktioniert nicht mehr, was häufig einen erzwungenen Stopp oder in einigen Fällen eine Neuinstallation erfordert. Notizen werden nicht immer oder nicht schnell von anderen Geräten synchronisiert. Selbst wenn die App „funktioniert“, ist sie oft langsam. Ich bin ein Zweitkunde und der Preis ist nicht gerade günstig. Mach es besser.\"\n            3. _Kay Coughlin_, 13.10.2026, 1/5: \"Bearbeitet am 13.10.26: Mit der neuesten Version der App kann ich nur auf die Tastatur zugreifen. Ich kann nicht auf die Kamera zugreifen oder Dateien importieren. Ich kann nicht einmal Text fett formatieren oder eine Liste mit Aufzählungszeichen einfügen. Evernote ist ein erstaunlicher Service. Es ist zum externen Gedächtnis meines Gehirns geworden. Ich bin seit vielen, vielen Jahren ein Premium-Benutzer und erst seit kurzem sind die Fehler so schwerwiegend. Ich benutze die App jeden Tag den ganzen Tag. Was ist los, Evernote?!\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
