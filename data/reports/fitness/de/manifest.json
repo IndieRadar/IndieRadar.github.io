@@ -6,38 +6,38 @@
       "number": 1
     },
     {
+      "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
+      "name": "Google Health (Fitbit)",
+      "number": 2
+    },
+    {
       "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
       "name": "BetterMe",
-      "number": 2
+      "number": 3
     },
     {
       "id": "54b79b3b-c2e9-4b01-bce5-794f8968563f",
       "name": "Strava",
-      "number": 3
+      "number": 4
+    },
+    {
+      "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
+      "name": "Mi Fitness (Xiaomi Wear Lite)",
+      "number": 5
     },
     {
       "id": "a2725937-a3c5-4911-9c9c-d1b18164b6d0",
       "name": "Planet Fitness",
-      "number": 4
+      "number": 6
     },
     {
       "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
       "name": "ClassPass: Fitness, Spa, Salon",
-      "number": 5
+      "number": 7
     },
     {
       "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
       "name": "Fitness App",
-      "number": 6
-    },
-    {
-      "id": "7f9c5dc6-8d9f-4a03-b79b-069e8e410b0f",
-      "name": "Google Health (Fitbit)",
-      "number": 7
-    },
-    {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
       "number": 8
     },
     {
@@ -46,18 +46,18 @@
       "number": 9
     },
     {
-      "id": "bf75d4b3-8d0c-4001-9f0a-1599d0bc3118",
-      "name": "Planet Fitness",
+      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+      "name": "MyFitnessPal",
       "number": 10
     },
     {
-      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
-      "name": "MyFitnessPal",
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
       "number": 11
     },
     {
-      "id": "4b4b7caa-9e5d-4a09-a6a6-0fc03a3bc4f6",
-      "name": "Mi Fitness (Xiaomi Wear Lite)",
+      "id": "bf75d4b3-8d0c-4001-9f0a-1599d0bc3118",
+      "name": "Planet Fitness",
       "number": 12
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-19T22:10:00.859Z",
+  "generatedAt": "2026-10-20T22:09:28.755Z",
   "locale": "de",
   "nicheSlug": "fitness"
 }
