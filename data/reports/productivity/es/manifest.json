@@ -6,18 +6,18 @@
       "number": 1
     },
     {
-      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
-      "name": "Notion: notes, tasks, AI",
-      "number": 2
-    },
-    {
       "id": "9057fbf2-bd9d-47b0-8248-24123e49f911",
       "name": "Forest",
-      "number": 3
+      "number": 2
     },
     {
       "id": "047af16f-3dc9-4984-a35f-d15f01312b95",
       "name": "Google Keep - Notes and lists",
+      "number": 3
+    },
+    {
+      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
+      "name": "Notion: notes, tasks, AI",
       "number": 4
     },
     {
@@ -41,8 +41,8 @@
       "number": 8
     },
     {
-      "id": "f85ec70d-3d67-4b16-82cb-e814b555a985",
-      "name": "Evernote",
+      "id": "79d34f9b-89c4-455d-8305-7c1899f559fa",
+      "name": "Evernote - Organizer notatek",
       "number": 9
     },
     {
@@ -61,8 +61,8 @@
       "number": 12
     },
     {
-      "id": "6677d158-de1b-4bdf-b392-7eea220f98ba",
-      "name": "AnkiMobile Flashcards",
+      "id": "50c8d759-dc65-46d5-bf50-9b4d13411c7e",
+      "name": "Any.do",
       "number": 13
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-10-20T22:08:58.702Z",
+  "generatedAt": "2026-11-04T22:10:51.512Z",
   "locale": "es",
   "nicheSlug": "productivity"
 }

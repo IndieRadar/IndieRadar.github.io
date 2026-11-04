@@ -1,0 +1,10 @@
+{
+  "appId": "1a7f9a3a-1579-46ec-a929-6c9f944c50d9",
+  "appIndex": 8,
+  "appName": "Fit",
+  "generatedAt": "2026-11-04T22:11:24.890Z",
+  "locale": "de",
+  "markdown": "# Fit · Fitness\n\nErstellt: 05.11.2026, 03:11\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      4 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 05.08.2026 - 31.10.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _RAJESH KUMAR DAYA_, 31.10.2026, 1/5: \"Dies ist die schlechteste Schrittzähler-App, die ich je gesehen habe, um meinen Schritt abzuschließen. Dieser App-Fehler war immer langsam und mein Schritt war beim Deinstallieren dieser App nicht mehr möglich\"\n            2. _Bastien Coutable_, 29.10.2026, 1/5: \"Das Gehen scheint in Ordnung zu sein, aber Radtouren wurden seit mindestens 3 Wochen nicht aufgezeichnet. Könnten Sie es reparieren? Bearbeiten – Distanzverfolgung ist überhaupt nicht gut, scheint sich unregelmäßig zu ändern, dann habe ich viele Kilometer pro Tag verloren. Heute noch ein Problem, war besser, aber seit 2/3 Wochen ist es wieder kaputt\"\n            3. _Simon_, 05.08.2026, 1/5: \"gebrochenes Af. Der gesamte Bildschirm wird ewig geladen, wenn die App keine Internetverbindung hat, obwohl ich genau weiß, was sie mir anzeigen soll, aber sie ist einfach UNBENUTZBAR, wenn sie nicht rund um die Uhr über einen Internetzugang verfügt\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}
