@@ -11,13 +11,13 @@
       "number": 2
     },
     {
-      "id": "047af16f-3dc9-4984-a35f-d15f01312b95",
-      "name": "Google Keep - Notes and lists",
+      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
+      "name": "Notion: notes, tasks, AI",
       "number": 3
     },
     {
-      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
-      "name": "Notion: notes, tasks, AI",
+      "id": "047af16f-3dc9-4984-a35f-d15f01312b95",
+      "name": "Google Keep - Notes and lists",
       "number": 4
     },
     {
@@ -41,8 +41,8 @@
       "number": 8
     },
     {
-      "id": "79d34f9b-89c4-455d-8305-7c1899f559fa",
-      "name": "Evernote - Organizer notatek",
+      "id": "b6cd6cf0-0cc1-43ef-837c-79fe9aa08a1a",
+      "name": "Evernote",
       "number": 9
     },
     {
@@ -61,22 +61,22 @@
       "number": 12
     },
     {
-      "id": "50c8d759-dc65-46d5-bf50-9b4d13411c7e",
-      "name": "Any.do",
-      "number": 13
-    },
-    {
       "id": "5df2eb8c-a19c-428a-a12d-432daaf1e232",
       "name": "Toggl Track - Time Tracking",
-      "number": 14
+      "number": 13
     },
     {
       "id": "48168aaa-307a-430e-a191-1379be9f0c9f",
       "name": "Google Calendar",
+      "number": 14
+    },
+    {
+      "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
+      "name": "Tiimo: Daily To Do List",
       "number": 15
     }
   ],
-  "generatedAt": "2026-11-04T22:10:51.613Z",
+  "generatedAt": "2026-11-05T22:09:27.611Z",
   "locale": "en",
   "nicheSlug": "productivity"
 }

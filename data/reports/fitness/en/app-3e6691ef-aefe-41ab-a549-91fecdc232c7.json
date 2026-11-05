@@ -1,0 +1,10 @@
+{
+  "appId": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+  "appIndex": 15,
+  "appName": "Samsung Health",
+  "generatedAt": "2026-11-05T22:09:53.005Z",
+  "locale": "en",
+  "markdown": "# Samsung Health · Fitness\n\nGenerated: Nov 6, 2026, 3:09 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      3 recent review(s) mention bugs and stability.\n      Review window: Jul 24, 2026 - Nov 4, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _manasa preethi gudipalli_, Nov 4, 2026, 1/5: \"this app is getting slow after update\"\n            2. _Claire C._, Nov 3, 2026, 1/5: \"Yesterday all my data has been erased and couldn't retrieve it. Tried to log a recent measurement but It won't respond. App is glitchy\"\n            3. _JWM B_, Jul 24, 2026, 1/5: \"Terrible update, completely ruined the app. Since the latest Samsung Health update, this app has gone downhill fast. The new UI is cluttered and confusing, and honestly feels like a step backward instead of an improvement. Worse, the app crashes constantly, which makes my Samsung Watch practically useless for sports and training. I rely on this thing for tracking workouts, and now I can't trust it to even stay open. This is three steps back, not progress. Really disappointing!\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

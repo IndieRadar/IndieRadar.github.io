@@ -1,0 +1,10 @@
+{
+  "appId": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+  "appIndex": 15,
+  "appName": "Samsung Health",
+  "generatedAt": "2026-11-05T22:10:01.044Z",
+  "locale": "fr",
+  "markdown": "# Samsung Health · Fitness\n\nGénéré : 6 nov. 2026, 03:10\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      3 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 24 juil. 2026 - 4 nov. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _manasa preethi gudipalli_, 4 nov. 2026, 1/5: \"cette application devient lente après la mise à jour\"\n            2. _Claire C._, 3 nov. 2026, 1/5: \"Hier, toutes mes données ont été effacées et je n'ai pas pu les récupérer. J'ai essayé d'enregistrer une mesure récente, mais elle ne répond pas. L'application est problématique\"\n            3. _JWM B_, 24 juil. 2026, 1/5: \"Terrible mise à jour, complètement ruiné l'application. Depuis la dernière mise à jour Samsung Health, cette application s'est rapidement dégradée. La nouvelle interface utilisateur est encombrée et déroutante et ressemble honnêtement à un pas en arrière plutôt qu’à une amélioration. Pire encore, l'application plante constamment, ce qui rend ma Samsung Watch pratiquement inutile pour le sport et l'entraînement. Je compte sur cette chose pour suivre les entraînements, et maintenant je ne peux même plus lui faire confiance pour rester ouvert. Il s’agit de trois pas en arrière, pas de progrès. Vraiment décevant !\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}
