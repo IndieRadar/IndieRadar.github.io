@@ -31,23 +31,23 @@
       "number": 6
     },
     {
-      "id": "5715926d-bf7f-4855-9fd9-cd8ce019916d",
+      "id": "ef6da155-414e-4acf-9688-dabb0ae37bc1",
       "name": "Habitify",
       "number": 7
     },
     {
-      "id": "451af485-4e57-456a-b0bc-61d948f71749",
-      "name": "Habit Tracker - HabitKit",
+      "id": "69ae0246-9ba1-4966-9558-2bbcda4ac1a4",
+      "name": "Habit Hunter",
       "number": 8
     },
     {
-      "id": "69ae0246-9ba1-4966-9558-2bbcda4ac1a4",
-      "name": "Habit Hunter",
+      "id": "e171c386-be10-4ba9-8c91-474f9a0c1ef2",
+      "name": "HabitTick",
       "number": 9
     },
     {
-      "id": "63977758-3637-4bd1-8a9b-49c154cfdb99",
-      "name": "HabitTick-Habit Tracker & Todo",
+      "id": "451af485-4e57-456a-b0bc-61d948f71749",
+      "name": "Habit Tracker - HabitKit",
       "number": 10
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-11-05T22:09:40.981Z",
+  "generatedAt": "2026-11-06T22:08:57.972Z",
   "locale": "es",
   "nicheSlug": "habit-tracker"
 }

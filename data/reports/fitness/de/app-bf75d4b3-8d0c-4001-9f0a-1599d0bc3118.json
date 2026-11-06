@@ -1,0 +1,10 @@
+{
+  "appId": "bf75d4b3-8d0c-4001-9f0a-1599d0bc3118",
+  "appIndex": 15,
+  "appName": "Planet Fitness",
+  "generatedAt": "2026-11-06T22:09:18.829Z",
+  "locale": "de",
+  "markdown": "# Planet Fitness · Fitness\n\nErstellt: 07.11.2026, 03:09\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      3 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 20.10.2026 - 04.11.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _angymutt_, 04.11.2026, 1/5: \"Ich werde wirklich nicht mit jemandem telefonieren, weil deine App nicht funktioniert. 6 Mal habe ich meine Daten eingegeben, um diese Rechnung zu bezahlen, und mir wurde gesagt, es gäbe einen „Fehler im System“. Wir beheben den Fehler, wenn Sie Ihr Geld wollen!\"\n            2. _NoCrapApps_, 04.11.2026, 1/5: \"Update: Nein. Immer noch kaputt. Verrückt, es ist schon einen Monat her und immer noch kaputt. Die Leute an der Rezeption meines Fitnessstudios erschrecken darüber, wie schlecht die neue App ist, da es sich um ein so weit verbreitetes Problem handelt. Das neueste Update meldet Sie jedes Mal sofort ab. Ernsthaft dumm. Was auch immer getan werden muss, um dieses Problem zu beheben, es muss sofort erledigt werden. Keine Ausreden, reparieren Sie es.\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}
