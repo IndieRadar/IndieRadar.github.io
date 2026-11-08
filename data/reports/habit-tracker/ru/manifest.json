@@ -6,18 +6,18 @@
       "number": 1
     },
     {
-      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
-      "name": "Finch",
-      "number": 2
-    },
-    {
       "id": "aa7680a1-b563-4bc6-b174-e189a7eb830c",
       "name": "Habit Tracker - Habit Diary",
-      "number": 3
+      "number": 2
     },
     {
       "id": "5ee51211-f93a-432b-b2c2-2e050746c7d7",
       "name": "Habitica",
+      "number": 3
+    },
+    {
+      "id": "860d47e3-91fb-41a2-a762-b6785b207899",
+      "name": "Finch",
       "number": 4
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-11-07T22:10:01.586Z",
+  "generatedAt": "2026-11-08T22:09:31.741Z",
   "locale": "ru",
   "nicheSlug": "habit-tracker"
 }
