@@ -1,0 +1,10 @@
+{
+  "appId": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
+  "appIndex": 15,
+  "appName": "Apple Fitness",
+  "generatedAt": "2026-11-09T22:08:46.879Z",
+  "locale": "en",
+  "markdown": "# Apple Fitness · Fitness\n\nGenerated: Nov 10, 2026, 3:08 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      3 recent review(s) mention bugs and stability.\n      Review window: Sep 2, 2026 - Nov 7, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Lechef 123_, Oct 2, 2026, 1/5: \"Why is this app so slow to update.It’s 2026 not 1990 when are you going to fix it\"\n            2. _pfalzblick_, Oct 1, 2026, 1/5: \"Are you kidding me? It’s been buggy with the OS 26 versions. Now with OS 27 it’s close to unusable. Trainings won’t play or close in mid flight. This is ridiculous for a paid service. My devices involved are Apple TV HD, iPhone 16, polar grit x2 watch\"\n            3. _SarahCelebrian_, Sep 2, 2026, 2/5: \"I got a Fastest 5k award for a 3.5km run and according to the award I ran the 5k in 20 minutes which doesn’t match the workout so no idea where it’s coming from. This is annoying because now I can’t see my actual fastest time or when it was. Very disappointing that there’s no easy way to report bugs like this. I’d expected better from Apple\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}
