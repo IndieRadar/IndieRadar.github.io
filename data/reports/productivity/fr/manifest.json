@@ -11,13 +11,13 @@
       "number": 2
     },
     {
-      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
-      "name": "Notion: notes, tasks, AI",
+      "id": "047af16f-3dc9-4984-a35f-d15f01312b95",
+      "name": "Google Keep - Notes and lists",
       "number": 3
     },
     {
-      "id": "047af16f-3dc9-4984-a35f-d15f01312b95",
-      "name": "Google Keep - Notes and lists",
+      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
+      "name": "Notion: notes, tasks, AI",
       "number": 4
     },
     {
@@ -66,7 +66,7 @@
       "number": 13
     },
     {
-      "id": "48168aaa-307a-430e-a191-1379be9f0c9f",
+      "id": "7aff8885-ef08-42aa-80c6-ccfb2a186b8b",
       "name": "Google Calendar",
       "number": 14
     },
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-11-09T22:08:34.901Z",
+  "generatedAt": "2026-11-10T22:09:34.128Z",
   "locale": "fr",
   "nicheSlug": "productivity"
 }
