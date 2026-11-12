@@ -1,18 +1,18 @@
 {
   "apps": [
     {
-      "id": "8c96733f-429a-4412-8617-dfce9931e307",
-      "name": "MyFitnessPal: Calorie Counter",
-      "number": 1
-    },
-    {
-      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
       "name": "MyFitnessPal",
-      "number": 2
+      "number": 1
     },
     {
       "id": "4f1dabc5-33df-4817-bf86-4058354f815c",
       "name": "Strong Workout Tracker",
+      "number": 2
+    },
+    {
+      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+      "name": "MyFitnessPal",
       "number": 3
     },
     {
@@ -71,12 +71,12 @@
       "number": 14
     },
     {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
+      "id": "9bbc1edc-a595-44ba-b9d3-1bb2503c6d00",
+      "name": "Timer Plus",
       "number": 15
     }
   ],
-  "generatedAt": "2026-11-11T22:10:02.548Z",
+  "generatedAt": "2026-11-12T22:10:32.205Z",
   "locale": "es",
   "nicheSlug": "fitness"
 }

@@ -1,0 +1,10 @@
+{
+  "appId": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
+  "appIndex": 1,
+  "appName": "MyFitnessPal",
+  "generatedAt": "2026-11-12T22:10:21.495Z",
+  "locale": "en",
+  "markdown": "# MyFitnessPal · Fitness\n\nGenerated: Nov 13, 2026, 3:10 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      9 recent review(s) mention bugs and stability.\n      Review window: Aug 4, 2026 - Nov 11, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Lora B_, Nov 11, 2026, 1/5: \"Something is going on with the app, it is extremely slow to load, if it even loads. I've used it for 10+ years, but now it's almost unusable.\"\n            2. _Agnes Caruso_, Nov 9, 2026, 1/5: \"Just stopped working. Suddenly MFP stopped opening, it just crashes when you try to log food. It literally worked yesterday morning and yesterday evening just crashes constantly. I used MFP for over 10 years and it was always great. I have other options but I like having data continuity.\"\n            3. _Thorsten Mootz_, Aug 30, 2026, 1/5: \"New update is really bad and user unfriendly. If it's not broken, don't fix it...\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}
