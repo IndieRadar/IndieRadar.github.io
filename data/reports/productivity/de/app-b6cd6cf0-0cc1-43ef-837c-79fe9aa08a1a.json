@@ -1,0 +1,10 @@
+{
+  "appId": "b6cd6cf0-0cc1-43ef-837c-79fe9aa08a1a",
+  "appIndex": 12,
+  "appName": "Evernote",
+  "generatedAt": "2026-11-13T22:08:50.994Z",
+  "locale": "de",
+  "markdown": "# Evernote · Produktivität\n\nErstellt: 14.11.2026, 03:08\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      4 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 02.08.2026 - 09.11.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Will Robbins_, 05.11.2026, 1/5: \"Leider stürzt die Android-App seit dem letzten Update immer wieder direkt nach dem Öffnen ab. Daran ändert auch die Neuinstallation oder das Löschen des Caches nichts. Können Sie mir bitte helfen?\"\n            2. _Theodore B_, 02.11.2026, 1/5: \"Früher war es eine gute App, aber angesichts der ständigen Fehler, Abstürze und des jetzt erzwungenen KI-/Abonnement-Unsinns ist sie nutzlos.\"\n            3. _Michi S_, 21.10.2026, 1/5: \"Nutze die App seit 2015. Aber die Bugs häufen sich und UX gehen nur noch steil bergab. Nur noch Rotz. Letztes Jahr wieder neue Abos (konnte noch mein altes behalten) Der starter Plan scheint genau die \"zwischenlösung\" zu sein die ich seit bending spoons' Abos wollte aber nicht für 80€ sondern vielleicht 30€. Jetzt hat man 1000 Notizen statt 150k, 20 notebooks statt 2k. KI brauch ich nich. Ist nicht mal 1% vom alten und dafür 80€ statt 100€. Grandios. 😑 Werde zu Obsidian oder Upnote wechseln.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
