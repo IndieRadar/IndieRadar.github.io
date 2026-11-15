@@ -11,8 +11,8 @@
       "number": 2
     },
     {
-      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
-      "name": "MyFitnessPal",
+      "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
+      "name": "ClassPass: Fitness, Spa, Salon",
       "number": 3
     },
     {
@@ -26,8 +26,8 @@
       "number": 5
     },
     {
-      "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
-      "name": "ClassPass: Fitness, Spa, Salon",
+      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+      "name": "MyFitnessPal",
       "number": 6
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-11-14T22:10:00.205Z",
+  "generatedAt": "2026-11-15T22:12:59.306Z",
   "locale": "en",
   "nicheSlug": "fitness"
 }
