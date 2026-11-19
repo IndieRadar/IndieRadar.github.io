@@ -6,13 +6,13 @@
       "number": 1
     },
     {
-      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
-      "name": "Opal",
+      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
+      "name": "Notion: notes, tasks, AI",
       "number": 2
     },
     {
-      "id": "92cd5e1a-c78f-43c8-9f08-de608c1abca5",
-      "name": "Notion: notes, tasks, AI",
+      "id": "32a379c1-4381-4f2b-8f45-b25826d980a2",
+      "name": "Opal",
       "number": 3
     },
     {
@@ -56,27 +56,27 @@
       "number": 11
     },
     {
-      "id": "6677d158-de1b-4bdf-b392-7eea220f98ba",
-      "name": "AnkiMobile Flashcards",
-      "number": 12
-    },
-    {
       "id": "7aff8885-ef08-42aa-80c6-ccfb2a186b8b",
       "name": "Google Calendar",
-      "number": 13
+      "number": 12
     },
     {
       "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
       "name": "Tiimo: Daily To Do List",
+      "number": 13
+    },
+    {
+      "id": "f85ec70d-3d67-4b16-82cb-e814b555a985",
+      "name": "Evernote",
       "number": 14
     },
     {
-      "id": "b6cd6cf0-0cc1-43ef-837c-79fe9aa08a1a",
-      "name": "Evernote",
+      "id": "6677d158-de1b-4bdf-b392-7eea220f98ba",
+      "name": "AnkiMobile Flashcards",
       "number": 15
     }
   ],
-  "generatedAt": "2026-11-18T22:10:42.942Z",
+  "generatedAt": "2026-11-19T22:11:16.355Z",
   "locale": "en",
   "nicheSlug": "productivity"
 }

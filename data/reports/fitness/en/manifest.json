@@ -26,13 +26,13 @@
       "number": 5
     },
     {
-      "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
-      "name": "ClassPass: Fitness, Spa, Salon",
+      "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
+      "name": "Fitness App",
       "number": 6
     },
     {
-      "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
-      "name": "Fitness App",
+      "id": "8519c9ee-1ad4-439d-a5a2-e9199cad2f6d",
+      "name": "ClassPass: Fitness, Spa, Salon",
       "number": 7
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-11-18T22:11:08.069Z",
+  "generatedAt": "2026-11-19T22:11:43.496Z",
   "locale": "en",
   "nicheSlug": "fitness"
 }
