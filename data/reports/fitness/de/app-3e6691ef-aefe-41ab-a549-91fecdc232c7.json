@@ -1,0 +1,10 @@
+{
+  "appId": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+  "appIndex": 9,
+  "appName": "Samsung Health",
+  "generatedAt": "2026-11-20T22:11:51.379Z",
+  "locale": "de",
+  "markdown": "# Samsung Health · Fitness\n\nErstellt: 21.11.2026, 03:11\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      4 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 24.07.2026 - 19.11.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _Ciara Gusby_, 19.11.2026, 1/5: \"In letzter Zeit hat die App meine Schritte nicht richtig verfolgt, wenn ich mehr gelaufen bin, als gezählt wurde, wenn ich die App nicht nutzte. Es bleibt bei den Schritten zurück und aus irgendeinem Grund wurde es zwei Tage hintereinander mitten in der Verfolgung neu gestartet, und jetzt lässt es mich die App nicht mehr öffnen, sondern stürzt nur dann ab, wenn ich es versuche.\"\n            2. _Mpho_, 19.11.2026, 1/5: \"App kann nicht eingerichtet werden, Serverfehler. Plötzlich habe ich dieses Problem\"\n            3. _JWM B_, 24.07.2026, 1/5: \"Schreckliches Update, hat die App komplett ruiniert. Seit dem letzten Samsung Health-Update ist es mit dieser App schnell bergab gegangen. Die neue Benutzeroberfläche ist unübersichtlich und verwirrend und fühlt sich ehrlich gesagt eher wie ein Rückschritt als wie eine Verbesserung an. Schlimmer noch, die App stürzt ständig ab, was meine Samsung Watch für Sport und Training praktisch unbrauchbar macht. Ich verlasse mich auf dieses Ding, um Trainingseinheiten zu verfolgen, und jetzt kann ich nicht mehr darauf vertrauen, dass es überhaupt geöffnet bleibt. Das sind drei Schritte zurück, kein Fortschritt. Wirklich enttäuschend!\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

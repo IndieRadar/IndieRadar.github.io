@@ -56,27 +56,27 @@
       "number": 11
     },
     {
+      "id": "6677d158-de1b-4bdf-b392-7eea220f98ba",
+      "name": "AnkiMobile Flashcards",
+      "number": 12
+    },
+    {
       "id": "7aff8885-ef08-42aa-80c6-ccfb2a186b8b",
       "name": "Google Calendar",
-      "number": 12
+      "number": 13
     },
     {
       "id": "a484a319-8242-4db0-8e8d-58daa5c4c289",
       "name": "Tiimo: Daily To Do List",
-      "number": 13
+      "number": 14
     },
     {
       "id": "f85ec70d-3d67-4b16-82cb-e814b555a985",
       "name": "Evernote",
-      "number": 14
-    },
-    {
-      "id": "6677d158-de1b-4bdf-b392-7eea220f98ba",
-      "name": "AnkiMobile Flashcards",
       "number": 15
     }
   ],
-  "generatedAt": "2026-11-19T22:11:15.273Z",
+  "generatedAt": "2026-11-20T22:11:11.378Z",
   "locale": "de",
   "nicheSlug": "productivity"
 }
