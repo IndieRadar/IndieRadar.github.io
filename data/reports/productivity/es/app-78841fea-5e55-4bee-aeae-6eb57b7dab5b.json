@@ -1,0 +1,10 @@
+{
+  "appId": "78841fea-5e55-4bee-aeae-6eb57b7dab5b",
+  "appIndex": 12,
+  "appName": "Collabora Office",
+  "generatedAt": "2026-11-22T22:09:47.093Z",
+  "locale": "es",
+  "markdown": "# Collabora Office · Productividad\n\nGenerado: 23 nov 2026, 3:09\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      4 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 3 oct 2026 - 21 nov 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _dawnlightdusts_, 21 nov 2026, 1/5: \"La navegación del cursor no es buena y también tiene errores, no guarda los colores con el texto en los documentos y los botones de navegación de Android se superponen en el administrador de archivos abiertos y cambian los botones de vista en el menú de archivos recientes en modo horizontal.\"\n            2. _David Kettle_, 13 nov 2026, 1/5: \"Flaco como el infierno. Sigue fallando si intento editar un archivo cifrado.\"\n            3. _Mein Name_, 3 oct 2026, 1/5: \"completamente inútil si en las hojas de cálculo las líneas no se pegan al ordenar. También tiene muchos errores. Cuando toco \"congelar fila\", no pasa nada. Y por alguna razón sigue sobrescribiendo mientras escribo. Un completo desastre, pero aún así lo habría usado si pudiera ordenar mis datos correctamente.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
