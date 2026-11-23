@@ -1,0 +1,10 @@
+{
+  "appId": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+  "appIndex": 6,
+  "appName": "MyFitnessPal",
+  "generatedAt": "2026-11-23T22:10:57.822Z",
+  "locale": "en",
+  "markdown": "# MyFitnessPal · Fitness\n\nGenerated: Nov 24, 2026, 3:11 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      5 recent review(s) mention bugs and stability.\n      Review window: Aug 16, 2026 - Nov 19, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Eazy Triple OG_, Nov 19, 2026, 1/5: \"You’re getting 1-starred for this ongoing glitch. Have 30 seconds to enter snack calories before a break ends? Sorry; time to log in again because the app has decided to randomly log you out again for no apparent reason whatsoever! Soo tired of this issue. These are not CIA secrets; they are OREO calories!!😡\"\n            2. _Pramey96_, Nov 12, 2026, 1/5: \"New update has ruined the app. Interface is both more complicated and provides less functionality at the same time. It is also very buggy, for example not allowing you to press controls at the bottom of the iPhone which makes some features unusable. The old app used to work so well. Bring it back!\"\n            3. _Marjoleinloes_, Sep 20, 2026, 1/5: \"This used to be my most used app, I switched from paid to free several times. The last update however made this app completely unusable. Hopefully it changes back very soon, otherwise I have to find a new app that works. Sorry, but never had an update on any app which really made an app grom great to terrible. Who decided on this???\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

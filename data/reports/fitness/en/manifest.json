@@ -26,13 +26,13 @@
       "number": 5
     },
     {
-      "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
-      "name": "Fitness App",
+      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+      "name": "MyFitnessPal",
       "number": 6
     },
     {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
+      "id": "1fccbb2a-b7fe-485d-ac5e-1afb8eeffc6d",
+      "name": "Fitness App",
       "number": 7
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-11-22T22:10:12.864Z",
+  "generatedAt": "2026-11-23T22:10:57.822Z",
   "locale": "en",
   "nicheSlug": "fitness"
 }
