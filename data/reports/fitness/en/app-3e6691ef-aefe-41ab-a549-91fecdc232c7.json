@@ -1,0 +1,10 @@
+{
+  "appId": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+  "appIndex": 15,
+  "appName": "Samsung Health",
+  "generatedAt": "2026-11-24T22:11:22.549Z",
+  "locale": "en",
+  "markdown": "# Samsung Health · Fitness\n\nGenerated: Nov 25, 2026, 3:11 AM\n\n## **Contents** {#toc}\n\n- [Bugs and stability](#theme-bugs_stability)\n\n\n## **Bugs and stability** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs and stability.**\n      3 recent review(s) mention bugs and stability.\n      Review window: Jul 24, 2026 - Nov 24, 2026\n      **Why it matters:** Users mention crashes or instability. Treat as actionable only when volume spikes or follows an update; otherwise it is often baseline noise.\n\n         **Review examples:**\n            1. _Alex EW_, Nov 23, 2026, 1/5: \"This used to be so good until they updated it earlier this year. Now none of the features I use work properly, the UI is absolutely HIDEOUS, it completely ignores my settings and is full of useless popups and bugs. Whoever decided to \"fix\" an app that wasn't broken should be fired and banned for life from ever making an app again.\"\n            2. _JWM B_, Jul 24, 2026, 1/5: \"Terrible update, completely ruined the app. Since the latest Samsung Health update, this app has gone downhill fast. The new UI is cluttered and confusing, and honestly feels like a step backward instead of an improvement. Worse, the app crashes constantly, which makes my Samsung Watch practically useless for sports and training. I rely on this thing for tracking workouts, and now I can't trust it to even stay open. This is three steps back, not progress. Really disappointing!\"\n            3. _Antje Skora_, Oct 30, 2026, 2/5: \"I think new features like naming the exercise during the workout or copying the repetitions from the first set to the next ones are great. But somehow something is wrong.. DURING TODAY'S WORKOUT I BURNED OVER 33,000 KCAL.. 😱🙈 I hope that was a one-time bug.. Update 10/30/26: My workouts still \"produce\" calorie counts that are way too high. This needs to be fixed! Please.\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

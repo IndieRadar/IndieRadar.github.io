@@ -16,18 +16,18 @@
       "number": 3
     },
     {
+      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+      "name": "MyFitnessPal",
+      "number": 4
+    },
+    {
       "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
       "name": "BetterMe",
-      "number": 4
+      "number": 5
     },
     {
       "id": "54b79b3b-c2e9-4b01-bce5-794f8968563f",
       "name": "Strava",
-      "number": 5
-    },
-    {
-      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
-      "name": "MyFitnessPal",
       "number": 6
     },
     {
@@ -71,12 +71,12 @@
       "number": 14
     },
     {
-      "id": "ca75a299-5e09-454f-8d85-71d4fe5e6752",
-      "name": "Run Tracker",
+      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
+      "name": "Samsung Health",
       "number": 15
     }
   ],
-  "generatedAt": "2026-11-23T22:11:09.283Z",
+  "generatedAt": "2026-11-24T22:11:33.589Z",
   "locale": "fr",
   "nicheSlug": "fitness"
 }
