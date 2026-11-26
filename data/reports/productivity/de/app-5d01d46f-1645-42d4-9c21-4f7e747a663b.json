@@ -1,0 +1,10 @@
+{
+  "appId": "5d01d46f-1645-42d4-9c21-4f7e747a663b",
+  "appIndex": 15,
+  "appName": "Structured - Daily Planner",
+  "generatedAt": "2026-11-26T22:10:41.903Z",
+  "locale": "de",
+  "markdown": "# Structured - Daily Planner · Produktivität\n\nErstellt: 27.11.2026, 03:10\n\n## **Inhalt** {#toc}\n\n- [Bugs und Stabilität](#theme-bugs_stability)\n\n\n## **Bugs und Stabilität** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs und Stabilität.**\n      4 aktuelle Review(s) erwähnen bugs und stabilität.\n      Review-Fenster: 23.04.2026 - 24.11.2026\n      **Warum das zählt:** Nutzer erwähnen Crashes oder Instabilität. Nur bei Volume-Spike oder nach einem Update als actionable werten; sonst oft Baseline-Rauschen.\n\n         **Review-Beispiele:**\n            1. _315-OTS_, 21.11.2026, 1/5: \"Aber es behindert mehr als es hilft. Die Langsamkeit und Fehler müssen so schnell wie möglich behoben werden. Mir gefiel der Aufbau, nicht die (frustrierenden) Abläufe.\"\n            2. _jenniferagainn_, 23.04.2026, 3/5: \"Es ist sehr schwierig, es auf dem Computer zu verwenden, da es ständig abstürzt. Ich muss jedes Mal nach 20 Minuten das Beenden erzwingen\"\n            3. _frostypond_, 24.11.2026, 4/5: \"Diese App ist super hilfreich für Leute, die alles vergessen. Ich finde es toll, dass es Dinge aus Ihren Kalendern aufnehmen und automatisch hinzufügen kann. Meine einzige Beschwerde ist, dass die Zeitauswahl durchweg keinen Sinn ergibt. Ich verstehe nicht, warum ich die Zeit nicht einfach eingeben kann. Manchmal habe ich Ereignisse, die nicht genau zu den voreingestellten Zeiten stattfinden, aber die detaillierte Zeitauswahl ist sehr fehlerhaft. Ich möchte zum Beispiel ein Ereignis von 8.00 bis 12.00 Uhr festlegen, aber es interpretiert es aus irgendeinem Grund weiterhin als 23 Stunden statt als 4 Stunden, sodass es am nächsten Tag von 12.00 Uhr auf 12.00 Uhr wechselt. Ich bin oft mit diesem Problem konfrontiert und es ist meine einzige wiederkehrende Frustration.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}

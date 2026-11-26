@@ -1,0 +1,10 @@
+{
+  "appId": "5d01d46f-1645-42d4-9c21-4f7e747a663b",
+  "appIndex": 15,
+  "appName": "Structured - Daily Planner",
+  "generatedAt": "2026-11-26T22:10:52.591Z",
+  "locale": "fr",
+  "markdown": "# Structured - Daily Planner · Productivité\n\nGénéré : 27 nov. 2026, 03:11\n\n## **Sommaire** {#toc}\n\n- [Bugs et stabilité](#theme-bugs_stability)\n\n\n## **Bugs et stabilité** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Bugs et stabilité.**\n      4 avis récents mentionnent bugs et stabilité.\n      Fenêtre d'avis : 23 avr. 2026 - 24 nov. 2026\n      **Pourquoi c'est important:** Les utilisateurs mentionnent des crashes ou de l'instabilité. À traiter comme actionnable seulement en cas de pic ou après une mise à jour ; sinon souvent du bruit de baseline.\n\n         **Exemples d'avis:**\n            1. _315-OTS_, 21 nov. 2026, 1/5: \"Mais cela gêne plus qu’il n’aide. La lenteur et les bugs doivent être corrigés dès que possible. J'ai aimé la configuration, pas les opérations (frustrantes).\"\n            2. _jenniferagainn_, 23 avr. 2026, 3/5: \"Il est très difficile à utiliser sur ordinateur car il plante constamment. Je dois forcer l'arrêt après 20 minutes à chaque fois\"\n            3. _frostypond_, 24 nov. 2026, 4/5: \"Cette application est très utile pour les personnes qui oublient tout. J'aime le fait qu'il puisse récupérer des éléments de vos calendriers et les ajouter automatiquement. Mon seul reproche est que le sélecteur de temps n'a systématiquement aucun sens. Je ne comprends pas pourquoi je ne peux pas simplement taper l'heure. Parfois, j'ai des événements qui ne se déroulent pas aux heures prédéfinies précises souhaitées, mais le sélecteur d'heure détaillé est très bogué. Par exemple, je souhaite définir un événement de 8h00 à 12h00, mais il continue de l'interpréter comme 23 heures au lieu de 4 heures pour une raison quelconque, donc il change de 12h00 à 00h00 le lendemain. Je suis souvent confronté à ce problème et c'est ma seule frustration récurrente.\"\n<!--/ir-theme-->",
+  "nicheSlug": "productivity",
+  "type": "app"
+}
