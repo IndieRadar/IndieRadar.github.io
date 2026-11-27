@@ -1,0 +1,10 @@
+{
+  "appId": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
+  "appIndex": 8,
+  "appName": "Apple Fitness",
+  "generatedAt": "2026-11-27T22:11:00.309Z",
+  "locale": "es",
+  "markdown": "# Apple Fitness · Fitness\n\nGenerado: 28 nov 2026, 3:11\n\n## **Contenido** {#toc}\n\n- [Errores y estabilidad](#theme-bugs_stability)\n\n\n## **Errores y estabilidad** {#theme-bugs_stability}\n\n<!--ir-theme:bugs_stability-->\n   **Errores y estabilidad.**\n      4 reseñas recientes mencionan errores y estabilidad.\n      Ventana de reseñas: 2 sept 2026 - 25 nov 2026\n      **Por qué importa:** Los usuarios mencionan crashes o inestabilidad. Trátalo como accionable solo si el volumen sube o sigue a una update; si no, suele ser ruido baseline.\n\n         **Ejemplos de reseñas:**\n            1. _xxixxoxxoxo_, 14 nov 2026, 1/5: \"Conectividad terrible al intentar conectarse y competir con un amigo. Totalmente decepcionante, algo tan fácil tiene pocas o ninguna forma de solucionar el problema.\"\n            2. _Lechef 123_, 2 oct 2026, 1/5: \"¿Por qué esta aplicación tarda tanto en actualizarse? Es 2026, no 1990, ¿cuándo lo solucionarás?\"\n            3. _pfalzblick_, 1 oct 2026, 1/5: \"¿Me estás tomando el pelo? Ha habido errores con las versiones OS 26. Ahora con OS 27 está casi inutilizable. Los entrenamientos no se reproducirán ni cerrarán en pleno vuelo. Esto es ridículo para un servicio pago. Mis dispositivos involucrados son Apple TV HD, iPhone 16, reloj polar grit x2\"\n<!--/ir-theme-->",
+  "nicheSlug": "fitness",
+  "type": "app"
+}

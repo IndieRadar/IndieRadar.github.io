@@ -6,8 +6,8 @@
       "number": 1
     },
     {
-      "id": "4ce7c4dc-9a75-4d08-89ce-a2a5e6f3354f",
-      "name": "MyFitnessPal",
+      "id": "8c96733f-429a-4412-8617-dfce9931e307",
+      "name": "MyFitnessPal: Calorie Counter",
       "number": 2
     },
     {
@@ -16,13 +16,13 @@
       "number": 3
     },
     {
-      "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
-      "name": "BetterMe",
+      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
+      "name": "MyFitnessPal",
       "number": 4
     },
     {
-      "id": "f8c29b62-f532-44ab-83d4-e18b0a068720",
-      "name": "MyFitnessPal",
+      "id": "1cefd6c1-e54a-4970-b56f-5e56b5e90ddd",
+      "name": "BetterMe",
       "number": 5
     },
     {
@@ -36,8 +36,8 @@
       "number": 7
     },
     {
-      "id": "3e6691ef-aefe-41ab-a549-91fecdc232c7",
-      "name": "Samsung Health",
+      "id": "2e528026-bdf2-4d3e-afec-52db78d70ce3",
+      "name": "Apple Fitness",
       "number": 8
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-11-26T22:11:20.319Z",
+  "generatedAt": "2026-11-27T22:11:08.726Z",
   "locale": "fr",
   "nicheSlug": "fitness"
 }

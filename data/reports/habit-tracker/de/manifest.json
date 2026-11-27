@@ -36,18 +36,18 @@
       "number": 7
     },
     {
+      "id": "69ae0246-9ba1-4966-9558-2bbcda4ac1a4",
+      "name": "Habit Hunter",
+      "number": 8
+    },
+    {
       "id": "96cca22d-6ab9-4467-8d06-e5aa9c09af1d",
       "name": "Habit Tracker",
-      "number": 8
+      "number": 9
     },
     {
       "id": "451af485-4e57-456a-b0bc-61d948f71749",
       "name": "Habit Tracker - HabitKit",
-      "number": 9
-    },
-    {
-      "id": "69ae0246-9ba1-4966-9558-2bbcda4ac1a4",
-      "name": "Habit Hunter",
       "number": 10
     },
     {
@@ -76,7 +76,7 @@
       "number": 15
     }
   ],
-  "generatedAt": "2026-11-26T22:11:03.618Z",
+  "generatedAt": "2026-11-27T22:10:49.698Z",
   "locale": "de",
   "nicheSlug": "habit-tracker"
 }
